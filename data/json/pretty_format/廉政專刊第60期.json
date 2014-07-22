@@ -1,0 +1,5071 @@
+[
+    {
+        "building": [], 
+        "land": [
+            {
+                "area": "4,845", 
+                "name": "嘉義縣義竹鄉六桂段0517-0000地號", 
+                "owner": "翁啟惠", 
+                "register_date": "102年10月03日", 
+                "share_portion": "50分之1", 
+                "trust": "玉山商業銀行"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.中央研究院", 
+            "name": "翁啟惠", 
+            "report_at": "2013-10-21", 
+            "report_type": "定期申報", 
+            "spouse": "劉映理", 
+            "title": "1.院長"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [], 
+        "land": [], 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.行政院經濟建設委員會", 
+            "name": "陳建良", 
+            "report_at": "2013-09-03", 
+            "report_type": "就(到)職申報", 
+            "spouse": "張修齊", 
+            "title": "1.副主任委員"
+        }, 
+        "stock": [
+            {
+                "currency": "新臺幣", 
+                "face_value": "10", 
+                "name": "遠東新世紀股份有限公司", 
+                "owner": "陳建良", 
+                "quantity": "9,392", 
+                "total": "93,920"
+            }, 
+            {
+                "currency": "新臺幣", 
+                "face_value": "10", 
+                "name": "中國鋼鐵股份有限公司", 
+                "owner": "陳建良", 
+                "quantity": "4,689", 
+                "total": "46,890"
+            }, 
+            {
+                "currency": "新臺幣", 
+                "face_value": "10", 
+                "name": "燁輝企業股份有限公司", 
+                "owner": "陳建良", 
+                "quantity": "765", 
+                "total": "7,650"
+            }, 
+            {
+                "currency": "新臺幣", 
+                "face_value": "10", 
+                "name": "中國合成橡膠股份有限公司", 
+                "owner": "陳建良", 
+                "quantity": "3,519", 
+                "total": "35,190"
+            }, 
+            {
+                "currency": "新臺幣", 
+                "face_value": "10", 
+                "name": "聯華電子股份有限公司", 
+                "owner": "陳建良", 
+                "quantity": "4,339", 
+                "total": "43,390"
+            }, 
+            {
+                "currency": "新臺幣", 
+                "face_value": "10", 
+                "name": "國巨股份有限公司", 
+                "owner": "陳建良", 
+                "quantity": "3,582", 
+                "total": "35,820"
+            }, 
+            {
+                "currency": "新臺幣", 
+                "face_value": "10", 
+                "name": "華宇光能股份有限公司", 
+                "owner": "陳建良", 
+                "quantity": "1,869", 
+                "total": "18,690"
+            }, 
+            {
+                "currency": "新臺幣", 
+                "face_value": "10", 
+                "name": "大榮股份有限公司", 
+                "owner": "陳建良", 
+                "quantity": "10,000", 
+                "total": "100,000"
+            }, 
+            {
+                "currency": "新臺幣", 
+                "face_value": "10", 
+                "name": "晶華國際酒店股份有限公司", 
+                "owner": "陳建良", 
+                "quantity": "2,239", 
+                "total": "22,390"
+            }, 
+            {
+                "currency": "新臺幣", 
+                "face_value": "10", 
+                "name": "台灣人壽保險股份有限公司保", 
+                "owner": "陳建良", 
+                "quantity": "5,244", 
+                "total": "52,440"
+            }, 
+            {
+                "currency": "新臺幣", 
+                "face_value": "10", 
+                "name": "台灣人壽保險股份有限公司甲", 
+                "owner": "陳建良", 
+                "quantity": "312", 
+                "total": "3,120"
+            }, 
+            {
+                "currency": "新臺幣", 
+                "face_value": "10", 
+                "name": "華南金融控股股份有限公司", 
+                "owner": "陳建良", 
+                "quantity": "1,938", 
+                "total": "19,380"
+            }, 
+            {
+                "currency": "新臺幣", 
+                "face_value": "10", 
+                "name": "富邦金融控股股份有限公司", 
+                "owner": "陳建良", 
+                "quantity": "5,786", 
+                "total": "57,860"
+            }, 
+            {
+                "currency": "新臺幣", 
+                "face_value": "10", 
+                "name": "國泰金融控股股份有限公司", 
+                "owner": "陳建良", 
+                "quantity": "2,361", 
+                "total": "23,610"
+            }, 
+            {
+                "currency": "新臺幣", 
+                "face_value": "10", 
+                "name": "中華開發金融控股股份有限公司", 
+                "owner": "陳建良", 
+                "quantity": "11,748", 
+                "total": "117,480"
+            }, 
+            {
+                "currency": "新臺幣", 
+                "face_value": "10", 
+                "name": "第一金融控股公司", 
+                "owner": "陳建良", 
+                "quantity": "1,510", 
+                "total": "15,100"
+            }, 
+            {
+                "currency": "新臺幣", 
+                "face_value": "10", 
+                "name": "松普科技股份有限公司", 
+                "owner": "陳建良", 
+                "quantity": "244", 
+                "total": "2,440"
+            }
+        ]
+    }, 
+    {
+        "building": [
+            {
+                "area": "33.90", 
+                "name": "嘉義縣番路鄉內甕段00180-000建號", 
+                "owner": "陳建良", 
+                "register_date": "102年09月23日", 
+                "share_portion": "全部", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "51.58", 
+                "name": "嘉義縣番路鄉內甕段00181-000建號", 
+                "owner": "陳建良", 
+                "register_date": "102年09月23日", 
+                "share_portion": "全部", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "125.43", 
+                "name": "臺中市西區麻園頭段17336-000建號", 
+                "owner": "陳建良", 
+                "register_date": "102年09月09日", 
+                "share_portion": "2分之1", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "125.43", 
+                "name": "臺中市西區麻園頭段17336-000建號", 
+                "owner": "張修齊", 
+                "register_date": "102年09月09日", 
+                "share_portion": "2分之1", 
+                "trust": "臺灣銀行"
+            }
+        ], 
+        "land": [
+            {
+                "area": "75.82", 
+                "name": "臺南市東區大同段1095-0000地號", 
+                "owner": "陳建良", 
+                "register_date": "102年09月18日", 
+                "share_portion": "5分之1", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "174.40", 
+                "name": "臺南市安平區金城段0049-0011地號", 
+                "owner": "陳建良", 
+                "register_date": "102年09月23日", 
+                "share_portion": "5分之1", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "155", 
+                "name": "臺南市白河區永安段0016-0000地號", 
+                "owner": "陳建良", 
+                "register_date": "102年09月23日", 
+                "share_portion": "全部", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "435", 
+                "name": "臺南市白河區新興段0801-0001地號", 
+                "owner": "陳建良", 
+                "register_date": "102年09月23日", 
+                "share_portion": "5分之1", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "2,997", 
+                "name": "臺中市西區麻園頭段0022-0000地號", 
+                "owner": "陳建良", 
+                "register_date": "102年09月09日", 
+                "share_portion": "20000分之55", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "5,650", 
+                "name": "嘉義縣番路鄉內甕段0097-0009地號", 
+                "owner": "陳建良", 
+                "register_date": "102年09月23日", 
+                "share_portion": "10000分之21", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "269", 
+                "name": "嘉義縣番路鄉內甕段0097-0043地號", 
+                "owner": "陳建良", 
+                "register_date": "102年09月23日", 
+                "share_portion": "10000分之21", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "2,997", 
+                "name": "臺中市西區麻園頭段0022-0000地號", 
+                "owner": "張修齊", 
+                "register_date": "102年09月09日", 
+                "share_portion": "20000分之55", 
+                "trust": "臺灣銀行"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.行政院經濟建設委員會", 
+            "name": "陳建良", 
+            "report_at": "2013-09-03", 
+            "report_type": "就(到)職申報", 
+            "spouse": "張修齊", 
+            "title": "1.副主任委員"
+        }, 
+        "stock": [
+            {
+                "face_value": "10", 
+                "name": "遠東新世紀股份有限公司", 
+                "owner": "陳建良", 
+                "quantity": "9,392", 
+                "total": "93,920", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102年09月11日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "中國鋼鐵股份有限公司", 
+                "owner": "陳建良", 
+                "quantity": "4,689", 
+                "total": "46,890", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102年09月11日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "燁輝企業股份有限公司", 
+                "owner": "陳建良", 
+                "quantity": "765", 
+                "total": "7,650", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102年09月11日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "中國合成橡膠股份有限公司", 
+                "owner": "陳建良", 
+                "quantity": "3,519", 
+                "total": "35,190", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102年09月11日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "聯華電子股份有限公司", 
+                "owner": "陳建良", 
+                "quantity": "4,339", 
+                "total": "43,390", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102年09月11日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "國巨股份有限公司", 
+                "owner": "陳建良", 
+                "quantity": "2,507", 
+                "total": "25,070", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102年09月25日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "華宇光能股份有限公司", 
+                "owner": "陳建良", 
+                "quantity": "1,869", 
+                "total": "18,690", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102年09月11日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "大榮股份有限公司", 
+                "owner": "陳建良", 
+                "quantity": "10,000", 
+                "total": "100,000", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102年09月11日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "晶華國際酒店股份有限公司", 
+                "owner": "陳建良", 
+                "quantity": "2,239", 
+                "total": "22,390", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102年09月11日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "台灣人壽保險股份有限公司保", 
+                "owner": "陳建良", 
+                "quantity": "5,244", 
+                "total": "52,440", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102年09月11日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "台灣人壽保險股份有限公司甲", 
+                "owner": "陳建良", 
+                "quantity": "312", 
+                "total": "3,120", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102年09月11日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "華南金融控股股份有限公司", 
+                "owner": "陳建良", 
+                "quantity": "1,938", 
+                "total": "19,380", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102年09月11日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "富邦金融控股股份有限公司", 
+                "owner": "陳建良", 
+                "quantity": "5,786", 
+                "total": "57,860", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102年09月11日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "國泰金融控股股份有限公司", 
+                "owner": "陳建良", 
+                "quantity": "2,361", 
+                "total": "23,610", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102年09月11日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "中華開發金融控股股份有限公司", 
+                "owner": "陳建良", 
+                "quantity": "11,748", 
+                "total": "117,480", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102年09月11日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "第一金融控股公司", 
+                "owner": "陳建良", 
+                "quantity": "1,608", 
+                "total": "16,080", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102年09月11日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "松普科技股份有限公司", 
+                "owner": "陳建良", 
+                "quantity": "244", 
+                "total": "2,440", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102年09月11日"
+            }
+        ]
+    }, 
+    {
+        "building": [], 
+        "land": [
+            {
+                "acquire_value": "2,741,186(超過五年)", 
+                "area": "3,915.98", 
+                "name": "臺東縣卑南鄉下賓朗段1233-0000地號(耕地(特定區域農牧用地))", 
+                "owner": "孫○", 
+                "register_date": "94年03月21日", 
+                "register_reason": "受贈", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "3,342,166(超過五年)", 
+                "area": "3,931.96", 
+                "name": "臺東縣卑南鄉下賓朗段1235-0000地號(耕地(特定區域農牧用地))", 
+                "owner": "孫○", 
+                "register_date": "94年03月21日", 
+                "register_reason": "受贈", 
+                "share_portion": "全部"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.行政院原住民族委員會", 
+            "name": "孫大川", 
+            "report_at": "2013-08-01", 
+            "report_type": "卸(離)職申報", 
+            "spouse": "陳淑屏", 
+            "title": "1.主任委員"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [
+            {
+                "area": "86.48", 
+                "name": "臺北市中山區北安段三小段04098-000建號", 
+                "owner": "孫大川", 
+                "register_date": "100年11月11日", 
+                "share_portion": "全部", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "195.26", 
+                "name": "新北市汐止區叭嗹港段車坪寮小段00332-000建號", 
+                "owner": "陳淑屏", 
+                "register_date": "100年11月11日", 
+                "share_portion": "全部", 
+                "trust": "臺灣銀行"
+            }
+        ], 
+        "land": [
+            {
+                "area": "3,248.87", 
+                "name": "臺北市中山區北安段三小段0472-0000地號", 
+                "owner": "孫大川", 
+                "register_date": "100年11月11日", 
+                "share_portion": "10000分之62", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "659.29", 
+                "name": "臺東縣卑南鄉下賓朗段0905-0001地號", 
+                "owner": "孫大川", 
+                "register_date": "98年11月27日", 
+                "share_portion": "全部", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "195", 
+                "name": "新北市汐止區叭嗹港段車坪寮小段0166-0414地號", 
+                "owner": "陳淑屏", 
+                "register_date": "100年11月11日", 
+                "share_portion": "全部", 
+                "trust": "臺灣銀行"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.行政院原住民族委員會", 
+            "name": "孫大川", 
+            "report_at": "2013-08-01", 
+            "report_type": "卸(離)職申報", 
+            "spouse": "陳淑屏", 
+            "title": "1.主任委員"
+        }, 
+        "stock": [
+            {
+                "face_value": "10", 
+                "name": "仁寶電腦工業股份有限公司", 
+                "owner": "陳淑屏", 
+                "quantity": "5,000", 
+                "total": "50,000", 
+                "trust": "臺灣銀行", 
+                "trust_at": ""
+            }, 
+            {
+                "face_value": "10", 
+                "name": "群光電子股份有限公司", 
+                "owner": "陳淑屏", 
+                "quantity": "1,000", 
+                "total": "10,000", 
+                "trust": "臺灣銀行", 
+                "trust_at": ""
+            }, 
+            {
+                "face_value": "10", 
+                "name": "亞洲聚合股份有限公司", 
+                "owner": "陳淑屏", 
+                "quantity": "1,000", 
+                "total": "10,000", 
+                "trust": "臺灣銀行", 
+                "trust_at": ""
+            }
+        ]
+    }, 
+    {
+        "building": [], 
+        "land": [
+            {
+                "acquire_value": "120,000(林地,原住民保留地,詳備註)", 
+                "area": "1,500", 
+                "name": "南投縣仁愛鄉平靜段0779-0000地號", 
+                "owner": "洪良全", 
+                "register_date": "95年09月18日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "170,000(建地,原住民保留地,詳備註)", 
+                "area": "230", 
+                "name": "南投縣仁愛鄉平靜段0772-0000地號", 
+                "owner": "蔡淑芬", 
+                "register_date": "95年12月21日", 
+                "register_reason": "(法拍)", 
+                "share_portion": "全部"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.行政院原住民族委員會", 
+            "name": "洪良全", 
+            "report_at": "2013-08-01", 
+            "report_type": "卸(離)職申報", 
+            "spouse": "蔡淑芬", 
+            "title": "1.副主任委員"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [
+            {
+                "area": "110.32", 
+                "name": "南投縣埔里鎮新生段00072-000建號", 
+                "owner": "蔡淑芬", 
+                "register_date": "101年09月05日", 
+                "share_portion": "全部", 
+                "trust": "臺灣銀行"
+            }
+        ], 
+        "land": [
+            {
+                "area": "67.32", 
+                "name": "南投縣埔里鎮新生段0405-0000地號", 
+                "owner": "蔡淑芬", 
+                "register_date": "101年09月05日", 
+                "share_portion": "全部", 
+                "trust": "臺灣銀行"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.行政院原住民族委員會", 
+            "name": "洪良全", 
+            "report_at": "2013-08-01", 
+            "report_type": "卸(離)職申報", 
+            "spouse": "蔡淑芬", 
+            "title": "1.副主任委員"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "83.23", 
+                "name": "臺北市大安區仁愛段二小段05345-000建號", 
+                "owner": "林世嘉", 
+                "register_date": "93年01月02日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "337.90", 
+                "name": "臺北市大安區仁愛段二小段03854-000建號", 
+                "owner": "林世嘉", 
+                "register_date": "93年01月02日", 
+                "register_reason": "買賣", 
+                "share_portion": "12分之1"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "26.56", 
+                "name": "臺北市中山區長安段四小段01678-000建號", 
+                "owner": "蔡篤堅", 
+                "register_date": "92年01月17日", 
+                "register_reason": "買賣", 
+                "share_portion": "3分之1"
+            }, 
+            {
+                "acquire_value": "14,000,000(房地總價額)", 
+                "area": "211.47", 
+                "name": "桃園縣平鎮市忠貞段01899-000建號", 
+                "owner": "蔡篤堅", 
+                "register_date": "102年02月20日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }
+        ], 
+        "land": [
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "509", 
+                "name": "臺北市大安區仁愛段二小段0601-0000地號", 
+                "owner": "林世嘉", 
+                "register_date": "93年01月02日", 
+                "register_reason": "買賣", 
+                "share_portion": "30000分之1703"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "1,069", 
+                "name": "臺北市中山區長安段四小段0298-0000地號", 
+                "owner": "蔡篤堅", 
+                "register_date": "92年01月17日", 
+                "register_reason": "買賣", 
+                "share_portion": "10000分之211"
+            }, 
+            {
+                "acquire_value": "14,000,000(房地總價額)", 
+                "area": "4,549.41", 
+                "name": "桃園縣平鎮市忠貞段0001-0003地號", 
+                "owner": "蔡篤堅", 
+                "register_date": "102年02月20日", 
+                "register_reason": "買賣", 
+                "share_portion": "10000分之173"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.立法院", 
+            "name": "林世嘉", 
+            "report_at": "2013-07-15", 
+            "report_type": "卸(離)職申報", 
+            "spouse": "蔡篤堅", 
+            "title": "1.立法委員"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [
+            {
+                "acquire_value": "4,000,000", 
+                "area": "152.26", 
+                "name": "臺東縣池上鄉萬福段00026-000建號", 
+                "owner": "林正二", 
+                "register_date": "92年12月29日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "6,000,000", 
+                "area": "208.23", 
+                "name": "花蓮縣花蓮市裕民段02186-000建號", 
+                "owner": "林正二", 
+                "register_date": "88年02月06日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "4,900,000", 
+                "area": "149.83", 
+                "name": "花蓮縣花蓮市裕民段02187-000建號", 
+                "owner": "林正二", 
+                "register_date": "88年02月06日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "200,000", 
+                "area": "56.67", 
+                "name": "花蓮縣花蓮市裕民段02188-000建號", 
+                "owner": "林正二", 
+                "register_date": "88年02月06日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "900,000", 
+                "area": "119.14", 
+                "name": "臺東縣台東市新田段00060-000建號", 
+                "owner": "林正二", 
+                "register_date": "99年07月22日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }
+        ], 
+        "land": [
+            {
+                "acquire_value": "40,000", 
+                "area": "11.22", 
+                "name": "臺東縣池上鄉萬福段1037-0000地號", 
+                "owner": "林正二", 
+                "register_date": "92年12月29日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "250,000", 
+                "area": "88.56", 
+                "name": "臺東縣池上鄉萬福段1036-0000地號", 
+                "owner": "林正二", 
+                "register_date": "92年12月29日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "1,035,000", 
+                "area": "690", 
+                "name": "花蓮縣花蓮市裕民段0466-0000地號", 
+                "owner": "林正二", 
+                "register_date": "88年02月06日", 
+                "register_reason": "買賣", 
+                "share_portion": "100000分之10019"
+            }, 
+            {
+                "acquire_value": "1,500,000", 
+                "area": "5,503.57", 
+                "name": "臺東縣台東市新田段0644-0000地號", 
+                "owner": "林正二", 
+                "register_date": "98年05月12日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "500,000", 
+                "area": "1,517.68", 
+                "name": "臺東縣台東市新田段0642-0000地號", 
+                "owner": "林正二", 
+                "register_date": "98年05月12日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "500,000", 
+                "area": "260.41", 
+                "name": "臺東縣台東市新田段0643-0000地號", 
+                "owner": "林正二", 
+                "register_date": "98年05月12日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.立法院", 
+            "name": "林正二", 
+            "report_at": "2013-07-11", 
+            "report_type": "卸(離)職申報", 
+            "spouse": "胡朱錦", 
+            "title": "1.立法委員"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [
+            {
+                "acquire_value": "3,953,000", 
+                "area": "436", 
+                "name": "高雄市前鎮區光華段04473-000建號", 
+                "owner": "葉津鈴", 
+                "register_date": "94年04月26日", 
+                "register_reason": "拍賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "282,000", 
+                "area": "122", 
+                "name": "高雄市鳥松區圓山段00031-000建號", 
+                "owner": "葉津鈴", 
+                "register_date": "96年03月28日", 
+                "register_reason": "拍賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "17,500", 
+                "area": "151", 
+                "name": "高雄市前鎮區愛群段01335-000建號", 
+                "owner": "葉津鈴", 
+                "register_date": "102年04月15日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "151", 
+                "name": "高雄市前鎮區愛群段01671-000建號", 
+                "owner": "廖瑞聞", 
+                "register_date": "76年03月09日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "600,000", 
+                "area": "161", 
+                "name": "高雄市前鎮區愛群段01344-000建號", 
+                "owner": "廖瑞聞", 
+                "register_date": "89年07月15日", 
+                "register_reason": "拍賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "569,000", 
+                "area": "698", 
+                "name": "高雄市苓雅區過田仔段08646-000建號", 
+                "owner": "廖瑞聞", 
+                "register_date": "93年06月30日", 
+                "register_reason": "拍賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "436,000", 
+                "area": "123", 
+                "name": "高雄市大樹區無水寮段00784-000建號", 
+                "owner": "廖瑞聞", 
+                "register_date": "98年11月03日", 
+                "register_reason": "拍賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "26,000", 
+                "area": "25", 
+                "name": "高雄市前鎮區新生段01415-000建號", 
+                "owner": "廖瑞聞", 
+                "register_date": "民國100年12月", 
+                "register_reason": "拍賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "550,000", 
+                "area": "132", 
+                "name": "高雄市前鎮區愛群段10573-000建號", 
+                "owner": "廖瑞聞", 
+                "register_date": "96年10月23日", 
+                "register_reason": "拍賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "750,000", 
+                "area": "191", 
+                "name": "高雄市前鎮區愛群段10572-000建號", 
+                "owner": "廖瑞聞", 
+                "register_date": "96年10月23日", 
+                "register_reason": "拍賣", 
+                "share_portion": "全部"
+            }
+        ], 
+        "land": [
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "139", 
+                "name": "高雄市鳥松區圓山段0353-0000地號", 
+                "owner": "葉津鈴", 
+                "register_date": "民國75年5月", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "59", 
+                "name": "高雄市鳥松區圓山段0393-0000地號", 
+                "owner": "葉津鈴", 
+                "register_date": "民國75年5月", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "805,000", 
+                "area": "182", 
+                "name": "高雄市小港區丹山段0315-0000地號", 
+                "owner": "葉津鈴", 
+                "register_date": "88年07月30日", 
+                "register_reason": "拍賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "4,141,000", 
+                "area": "657", 
+                "name": "高雄市前鎮區光華段1629-0000地號", 
+                "owner": "葉津鈴", 
+                "register_date": "94年04月26日", 
+                "register_reason": "拍賣", 
+                "share_portion": "10000分之1250"
+            }, 
+            {
+                "acquire_value": "2,993,000", 
+                "area": "216", 
+                "name": "高雄市鳥松區圓山段0352-0000地號", 
+                "owner": "葉津鈴", 
+                "register_date": "96年03月28日", 
+                "register_reason": "拍賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "9,042,000", 
+                "area": "137", 
+                "name": "高雄市前鎮區愛群段3033-0000地號", 
+                "owner": "葉津鈴", 
+                "register_date": "102年04月15日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "68", 
+                "name": "高雄市前鎮區愛群段2773-0000地號", 
+                "owner": "廖瑞聞", 
+                "register_date": "76年03月09日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "355", 
+                "name": "高雄市小港區坪頂段0022-0015地號", 
+                "owner": "廖瑞聞", 
+                "register_date": "87年07月15日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "9,883,800", 
+                "area": "91", 
+                "name": "高雄市前鎮區愛群段3048-0000地號", 
+                "owner": "廖瑞聞", 
+                "register_date": "89年07月15日", 
+                "register_reason": "拍賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "689,400", 
+                "area": "11", 
+                "name": "高雄市前鎮區愛群段2746-0001地號", 
+                "owner": "廖瑞聞", 
+                "register_date": "96年10月23日", 
+                "register_reason": "拍賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "3,400,000", 
+                "area": "33", 
+                "name": "高雄市前鎮區愛群段2749-0000地號", 
+                "owner": "廖瑞聞", 
+                "register_date": "96年10月23日", 
+                "register_reason": "拍賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "2,150,000", 
+                "area": "19", 
+                "name": "高雄市前鎮區愛群段2758-0000地號", 
+                "owner": "廖瑞聞", 
+                "register_date": "96年10月23日", 
+                "register_reason": "拍賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "4,250,000", 
+                "area": "37", 
+                "name": "高雄市前鎮區愛群段2759-0000地號", 
+                "owner": "廖瑞聞", 
+                "register_date": "96年10月23日", 
+                "register_reason": "拍賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "3,023,970", 
+                "area": "3,928", 
+                "name": "高雄市大樹區新水安段0230-0000地號", 
+                "owner": "廖瑞聞", 
+                "register_date": "98年11月03日", 
+                "register_reason": "拍賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "3,104,000", 
+                "area": "32", 
+                "name": "高雄市前鎮區愛群段2756-0000", 
+                "owner": "廖瑞聞", 
+                "register_date": "101年06", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "area": "月11日", 
+                "name": "地號"
+            }, 
+            {
+                "acquire_value": "1,649,000", 
+                "area": "17", 
+                "name": "高雄市前鎮區愛群段2758-0001地號", 
+                "owner": "廖瑞聞", 
+                "register_date": "101年06月11日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "5,440,000", 
+                "area": "1,125", 
+                "name": "高雄市苓雅區過田仔段0636-0000地號", 
+                "owner": "廖瑞聞", 
+                "register_date": "93年06月30日", 
+                "register_reason": "拍賣", 
+                "share_portion": "10000分之690"
+            }, 
+            {
+                "acquire_value": "175,000", 
+                "area": "40", 
+                "name": "高雄市苓雅區過田仔段0636-0018地號", 
+                "owner": "廖瑞聞", 
+                "register_date": "93年06月30日", 
+                "register_reason": "拍賣", 
+                "share_portion": "10000分之690"
+            }, 
+            {
+                "acquire_value": "461,000", 
+                "area": "105", 
+                "name": "高雄市苓雅區過田仔段0636-0019地號", 
+                "owner": "廖瑞聞", 
+                "register_date": "93年06月30日", 
+                "register_reason": "拍賣", 
+                "share_portion": "10000分之690"
+            }, 
+            {
+                "acquire_value": "360,000", 
+                "area": "29", 
+                "name": "高雄市前鎮區新生段1564-0002地號", 
+                "owner": "廖瑞聞", 
+                "register_date": "民國100年2月", 
+                "register_reason": "拍賣", 
+                "share_portion": "全部"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.立法院", 
+            "name": "葉津鈴", 
+            "report_at": "2013-09-15", 
+            "report_type": "就(到)職申報", 
+            "spouse": "廖瑞聞", 
+            "title": "1.立法委員"
+        }, 
+        "stock": [
+            {
+                "currency": "新臺幣", 
+                "face_value": "10", 
+                "name": "神達電腦公司", 
+                "owner": "葉津鈴", 
+                "quantity": "15,941", 
+                "total": "159,410"
+            }, 
+            {
+                "currency": "新臺幣", 
+                "face_value": "10", 
+                "name": "華南金控公司", 
+                "owner": "廖瑞聞", 
+                "quantity": "15,888", 
+                "total": "158,880"
+            }
+        ]
+    }, 
+    {
+        "building": [
+            {
+                "acquire_value": "673,100(建物標示)", 
+                "area": "103.01", 
+                "name": "臺北市中正區永昌段二小段01125-000建號", 
+                "owner": "丁育群", 
+                "register_date": "97年03月28日", 
+                "register_reason": "(贈與移轉)", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(併於上項,共有部分)", 
+                "area": "253.10", 
+                "name": "臺北市中正區永昌段二小段01130-000建號", 
+                "owner": "丁育群", 
+                "register_date": "97年03月28日", 
+                "register_reason": "(贈與移轉)", 
+                "share_portion": "10000分之1015"
+            }
+        ], 
+        "land": [
+            {
+                "acquire_value": "6,998,718", 
+                "area": "318", 
+                "name": "臺北市中正區永昌段二小段0405-0000地號", 
+                "owner": "丁育群", 
+                "register_date": "97年03月28日", 
+                "register_reason": "(贈與移轉)", 
+                "share_portion": "10000分之1015"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.臺北市政府都市發展局", 
+            "name": "丁育群", 
+            "report_at": "2013-04-01", 
+            "report_type": "卸(離)職申報", 
+            "spouse": "", 
+            "title": "1.局長"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [
+            {
+                "area": "1,096.74", 
+                "name": "新北市金山區中角段西勢湖小段00048-000建號", 
+                "owner": "丁育群", 
+                "register_date": "102年02月21日", 
+                "share_portion": "8000分之2", 
+                "trust": "臺灣土地銀行"
+            }
+        ], 
+        "land": [
+            {
+                "area": "4,340", 
+                "name": "新北市金山區中角段西勢湖小段0210-0060地號", 
+                "owner": "丁育群", 
+                "register_date": "102年02月21日", 
+                "share_portion": "100000分之8", 
+                "trust": "臺灣土地銀行"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.臺北市政府都市發展局", 
+            "name": "丁育群", 
+            "report_at": "2013-04-01", 
+            "report_type": "卸(離)職申報", 
+            "spouse": "", 
+            "title": "1.局長"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [
+            {
+                "acquire_value": "1,800,000(含停車位)", 
+                "area": "76.87", 
+                "name": "臺北市大安區大安段三小段02538-000建號", 
+                "owner": "邊泰明", 
+                "register_date": "77年03月16日", 
+                "register_reason": "(購買)", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "1,800,000", 
+                "area": "14,809.83", 
+                "name": "臺北市大安區大安段三小段04459-000建號 (停車位)", 
+                "owner": "邊泰明", 
+                "register_date": "77年03月16日", 
+                "register_reason": "(購買)", 
+                "share_portion": "20376分之7"
+            }
+        ], 
+        "land": [
+            {
+                "acquire_value": "200,000", 
+                "area": "50,318", 
+                "name": "臺北市大安區大安段三小段0298-0000地號", 
+                "owner": "邊泰明", 
+                "register_date": "77年03月04日", 
+                "register_reason": "(購買)", 
+                "share_portion": "90827分之35"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.臺北市政府都市發展局", 
+            "name": "邊泰明", 
+            "report_at": "2013-07-30", 
+            "report_type": "就(到)職申報", 
+            "spouse": "詹琇珠", 
+            "title": "1.局長"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [
+            {
+                "area": "221.52", 
+                "name": "臺中市太平區新福十街 (00787-000建號)", 
+                "owner": "詹琇珠", 
+                "register_date": "102年08月13日", 
+                "share_portion": "全部", 
+                "trust": "第一商業銀行"
+            }, 
+            {
+                "area": "(09478-000建號)", 
+                "name": "臺中市北屯區東光路", 
+                "owner": "全部", 
+                "register_date": "第一商業銀行", 
+                "share_portion": "94.11", 
+                "trust": "詹琇珠"
+            }, 
+            {
+                "area": "(09479-000建號)(共有部份)", 
+                "name": "臺中市北屯區東光路", 
+                "owner": "10000分之61", 
+                "register_date": "第一商業銀行", 
+                "share_portion": "6,990.29", 
+                "trust": "詹琇珠"
+            }
+        ], 
+        "land": [
+            {
+                "area": "3.52", 
+                "name": "臺中市太平區新光段0869-0000地號", 
+                "owner": "詹琇珠", 
+                "register_date": "102年08月13日", 
+                "share_portion": "全部", 
+                "trust": "第一商業銀行"
+            }, 
+            {
+                "area": "145.13", 
+                "name": "臺中市太平區新光段0870-0000地號", 
+                "owner": "詹琇珠", 
+                "register_date": "102年08月13日", 
+                "share_portion": "全部", 
+                "trust": "第一商業銀行"
+            }, 
+            {
+                "area": "1,926", 
+                "name": "臺中市北屯區北屯段0133-0000地號", 
+                "owner": "詹琇珠", 
+                "register_date": "102年08月13日", 
+                "share_portion": "10000分之57", 
+                "trust": "第一商業銀行"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.臺北市政府都市發展局", 
+            "name": "邊泰明", 
+            "report_at": "2013-08-26", 
+            "report_type": "就(到)職申報", 
+            "spouse": "詹琇珠", 
+            "title": "1.局長"
+        }, 
+        "stock": [
+            {
+                "face_value": "10", 
+                "name": "中國石化", 
+                "owner": "詹琇珠", 
+                "quantity": "15,080", 
+                "total": "150,800", 
+                "trust": "第一商業銀行", 
+                "trust_at": "102年07月30日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "光寶科", 
+                "owner": "詹琇珠", 
+                "quantity": "4,466", 
+                "total": "44,660", 
+                "trust": "第一商業銀行", 
+                "trust_at": "102年07月30日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "大同", 
+                "owner": "詹琇珠", 
+                "quantity": "7,126", 
+                "total": "71,260", 
+                "trust": "第一商業銀行", 
+                "trust_at": "102年07月30日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "根基", 
+                "owner": "詹琇珠", 
+                "quantity": "73,398", 
+                "total": "733,980", 
+                "trust": "第一商業銀行", 
+                "trust_at": "102年07月30日"
+            }
+        ]
+    }, 
+    {
+        "building": [], 
+        "land": [], 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.新北市政府交通局", 
+            "name": "趙紹廉", 
+            "report_at": "2013-08-29", 
+            "report_type": "定期申報", 
+            "spouse": "蘇美慧", 
+            "title": "1.局長"
+        }, 
+        "stock": [
+            {
+                "face_value": "10", 
+                "name": "穩懋", 
+                "owner": "蘇美慧", 
+                "quantity": "20,000", 
+                "total": "200,000", 
+                "trust": "兆豐國際商業銀行", 
+                "trust_at": "102年08月29日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "廣穎", 
+                "owner": "蘇美慧", 
+                "quantity": "20,000", 
+                "total": "200,000", 
+                "trust": "兆豐國際商業銀行", 
+                "trust_at": "102年08月29日"
+            }
+        ]
+    }, 
+    {
+        "building": [
+            {
+                "acquire_value": "(超過五年,自住,附屬建物11.63)", 
+                "area": "76.01", 
+                "name": "臺北市內湖區碧湖段三小段01846-000建號", 
+                "owner": "林寬裕", 
+                "register_date": "80年06月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年,與1846一併購入,自住)", 
+                "area": "741.61", 
+                "name": "臺北市內湖區碧湖段三小段03401-000建號", 
+                "owner": "林寬裕", 
+                "register_date": "80年06月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "255分之1"
+            }
+        ], 
+        "land": [
+            {
+                "acquire_value": "(超過五年,自住)", 
+                "area": "6,618", 
+                "name": "臺北市內湖區碧湖段三小段0154-0000地號", 
+                "owner": "林寬裕", 
+                "register_date": "80年06月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "10000分之23"
+            }, 
+            {
+                "acquire_value": "(超過五年,自住)", 
+                "area": "3", 
+                "name": "臺北市內湖區碧湖段三小段0154-0006地號", 
+                "owner": "林寬裕", 
+                "register_date": "80年06月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "10000分之23"
+            }, 
+            {
+                "acquire_value": "(超過五年,耕地)", 
+                "area": "700", 
+                "name": "新北市樹林區溪墘厝段西墘厝小段0149-0002地號", 
+                "owner": "林寬裕", 
+                "register_date": "91年06月14日", 
+                "register_reason": "買賣", 
+                "share_portion": "10641分之1453"
+            }, 
+            {
+                "acquire_value": "(超過五年,耕地)", 
+                "area": "543", 
+                "name": "新北市樹林區溪墘厝段西墘厝小段0149-0003地號", 
+                "owner": "林寬裕", 
+                "register_date": "92年11月14日", 
+                "register_reason": "買賣", 
+                "share_portion": "96分之6"
+            }, 
+            {
+                "acquire_value": "2,820,197(耕地)", 
+                "area": "660", 
+                "name": "新北市樹林區溪墘厝段西墘厝小段0150-0000地號", 
+                "owner": "林寬裕", 
+                "register_date": "100年05月09日", 
+                "register_reason": "買賣", 
+                "share_portion": "10641分之2431"
+            }, 
+            {
+                "acquire_value": "(與0150一併購入,耕地)", 
+                "area": "155", 
+                "name": "新北市樹林區溪墘厝段西墘厝小段0151-0000地號", 
+                "owner": "林寬裕", 
+                "register_date": "100年05月09日", 
+                "register_reason": "買賣", 
+                "share_portion": "10641分之2431"
+            }, 
+            {
+                "acquire_value": "(超過五年,耕地)", 
+                "area": "2,498", 
+                "name": "新北市樹林區溪墘厝段西墘厝小段0153-0000地號", 
+                "owner": "林寬裕", 
+                "register_date": "91年06月14日", 
+                "register_reason": "買賣", 
+                "share_portion": "10641分之1453"
+            }, 
+            {
+                "acquire_value": "(與0150一併購入,耕地)", 
+                "area": "267", 
+                "name": "新北市樹林區溪墘厝段西墘厝小段0282-0000地號", 
+                "owner": "林寬裕", 
+                "register_date": "100年05月09日", 
+                "register_reason": "買賣", 
+                "share_portion": "10641分之2431"
+            }, 
+            {
+                "acquire_value": "(與0150一併購入,耕地)", 
+                "area": "540", 
+                "name": "新北市樹林區溪墘厝段西墘厝小段0283-0000地號", 
+                "owner": "林寬裕", 
+                "register_date": "100年05月09日", 
+                "register_reason": "買賣", 
+                "share_portion": "10641分之2431"
+            }, 
+            {
+                "acquire_value": "(與0150一併購入,耕地)", 
+                "area": "2,000", 
+                "name": "新北市樹林區溪墘厝段西墘厝小段0284-0000地號", 
+                "owner": "林寬裕", 
+                "register_date": "100年05月09日", 
+                "register_reason": "買賣", 
+                "share_portion": "10641分之2431"
+            }, 
+            {
+                "acquire_value": "(與0150一併購入,耕地)", 
+                "area": "689", 
+                "name": "新北市樹林區溪墘厝段西墘厝小段0285-0000地號", 
+                "owner": "林寬裕", 
+                "register_date": "100年05月09日", 
+                "register_reason": "買賣", 
+                "share_portion": "10641分之2431"
+            }, 
+            {
+                "acquire_value": "(與0150一併購入,耕地)", 
+                "area": "1,275", 
+                "name": "新北市樹林區樟樹窟段0082-0000地號", 
+                "owner": "林寬裕", 
+                "register_date": "100年05月09日", 
+                "register_reason": "買賣", 
+                "share_portion": "36分之1"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.新北市政府文化局", 
+            "name": "林寬裕", 
+            "report_at": "2013-09-27", 
+            "report_type": "就(到)職申報", 
+            "spouse": "朱寬梅", 
+            "title": "1.局長"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [
+            {
+                "area": "12.89", 
+                "name": "新北市新店區寶強段02973-000建號", 
+                "owner": "朱寬梅", 
+                "register_date": "102年09月12日", 
+                "share_portion": "全部", 
+                "trust": "臺灣銀行"
+            }
+        ], 
+        "land": [
+            {
+                "area": "790", 
+                "name": "新北市樹林區溪墘厝段西墘厝小段0149-0000地號", 
+                "owner": "林寬裕", 
+                "register_date": "102年09月12日", 
+                "share_portion": "72分之17", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "92", 
+                "name": "新北市樹林區溪墘厝段西墘厝小段0149-0005地號", 
+                "owner": "林寬裕", 
+                "register_date": "102年09月12日", 
+                "share_portion": "36分之1", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "81", 
+                "name": "新北市樹林區溪墘厝段西墘厝小段0149-0006地號", 
+                "owner": "林寬裕", 
+                "register_date": "102年09月12日", 
+                "share_portion": "72分之5", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "57", 
+                "name": "新北市樹林區溪墘厝段西墘厝小段0149-0007地號", 
+                "owner": "林寬裕", 
+                "register_date": "102年09月12日", 
+                "share_portion": "36分之7", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "68", 
+                "name": "新北市樹林區溪墘厝段西墘厝小段0149-0008地號", 
+                "owner": "林寬裕", 
+                "register_date": "102年09月12日", 
+                "share_portion": "24分之1", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "30", 
+                "name": "新北市樹林區溪墘厝段西墘厝小段0149-0009地號", 
+                "owner": "林寬裕", 
+                "register_date": "102年09月12日", 
+                "share_portion": "10641分之1453", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "63", 
+                "name": "新北市樹林區溪墘厝段西墘厝小段0149-0010地號", 
+                "owner": "林寬裕", 
+                "register_date": "102年09月12日", 
+                "share_portion": "10641分之1453", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "26", 
+                "name": "新北市樹林區溪墘厝段西墘厝小段0149-0011地號", 
+                "owner": "林寬裕", 
+                "register_date": "102年09月12日", 
+                "share_portion": "72分之11", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "60", 
+                "name": "新北市樹林區溪墘厝段西墘厝小段0149-0013地號", 
+                "owner": "林寬裕", 
+                "register_date": "102年09月12日", 
+                "share_portion": "10641分之1453", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "67", 
+                "name": "新北市樹林區溪墘厝段西墘厝小段0283-0001地號", 
+                "owner": "林寬裕", 
+                "register_date": "102年09月12日", 
+                "share_portion": "72分之5", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "55", 
+                "name": "新北市樹林區溪墘厝段西墘厝小段0283-0002地號", 
+                "owner": "林寬裕", 
+                "register_date": "102年09月12日", 
+                "share_portion": "10641分之1453", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "31", 
+                "name": "新北市樹林區溪墘厝段西墘厝小段0283-0003地號", 
+                "owner": "林寬裕", 
+                "register_date": "102年09月12日", 
+                "share_portion": "10641分之1453", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "320", 
+                "name": "新北市樹林區溪墘厝段西墘厝小段0284-0001地號", 
+                "owner": "林寬裕", 
+                "register_date": "102年09月12日", 
+                "share_portion": "72分之5", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "216", 
+                "name": "新北市樹林區溪墘厝段西墘厝小段", 
+                "owner": "林寬裕", 
+                "register_date": "102年09月12", 
+                "share_portion": "10641分之", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "1453", 
+                "name": "0284-0002地號", 
+                "share_portion": "日"
+            }, 
+            {
+                "area": "156", 
+                "name": "新北市樹林區溪墘厝段西墘厝小段0284-0003地號", 
+                "owner": "林寬裕", 
+                "register_date": "102年09月12日", 
+                "share_portion": "10641分之1453", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "1,025.99", 
+                "name": "新北市新店區寶強段1321-0000地號", 
+                "owner": "朱寬梅", 
+                "register_date": "102年09月12日", 
+                "share_portion": "10000分之29", 
+                "trust": "臺灣銀行"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.新北市政府文化局", 
+            "name": "林寬裕", 
+            "report_at": "2013-09-27", 
+            "report_type": "就(到)職申報", 
+            "spouse": "朱寬梅", 
+            "title": "1.局長"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "128.71", 
+                "name": "臺北市大安區仁愛段一小段02340-000建號", 
+                "owner": "林惠雪", 
+                "register_date": "93年01月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "503.77", 
+                "name": "臺北市大安區仁愛段一小段02426-000建號", 
+                "owner": "林惠雪", 
+                "register_date": "93年01月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "10000分之331"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "463.69", 
+                "name": "臺北市大安區仁愛段一小段02427-000建號", 
+                "owner": "林惠雪", 
+                "register_date": "93年01月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "10000分之362"
+            }
+        ], 
+        "land": [
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "77", 
+                "name": "臺北市大安區仁愛段一小段0271-0000地號(自用房屋之坐落基地)", 
+                "owner": "林惠雪", 
+                "register_date": "93年01月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "1000分之29"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "78", 
+                "name": "臺北市大安區仁愛段一小段0272-0000地號(自用房屋之坐落基地)", 
+                "owner": "林惠雪", 
+                "register_date": "93年01月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "1000分之36"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "77", 
+                "name": "臺北市大安區仁愛段一小段0273-0000地號(自用房屋之坐落基地)", 
+                "owner": "林惠雪", 
+                "register_date": "93年01月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "1000分之36"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "77", 
+                "name": "臺北市大安區仁愛段一小段0274-0000地號(自用房屋之坐落基地)", 
+                "owner": "林惠雪", 
+                "register_date": "93年01月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "1000分之36"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "91", 
+                "name": "臺北市大安區仁愛段一小段0275-0000地號(自用房屋之坐落基地)", 
+                "owner": "林惠雪", 
+                "register_date": "93年01月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "1000分之36"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "68", 
+                "name": "臺北市大安區仁愛段一小段0296-0000地號(自用房屋之坐落基地)", 
+                "owner": "林惠雪", 
+                "register_date": "93年01月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "1000分之36"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "10", 
+                "name": "臺北市大安區仁愛段一小段0296-0001地號(自用房屋之坐落基地)", 
+                "owner": "林惠雪", 
+                "register_date": "93年01月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "1000分之36"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "67", 
+                "name": "臺北市大安區仁愛段一小段0297-0000地號(自用房屋之坐落基地)", 
+                "owner": "林惠雪", 
+                "register_date": "93年01月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "1000分之36"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "10", 
+                "name": "臺北市大安區仁愛段一小段0297-0001地號(自用房屋之坐落基地)", 
+                "owner": "林惠雪", 
+                "register_date": "93年01月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "1000分之36"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "66", 
+                "name": "臺北市大安區仁愛段一小段0298-0000地號(自用房屋之坐落基地)", 
+                "owner": "林惠雪", 
+                "register_date": "93年01月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "1000分之36"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "10", 
+                "name": "臺北市大安區仁愛段一小段0298-0001地號(自用房屋之坐落基地)", 
+                "owner": "林惠雪", 
+                "register_date": "93年01月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "1000分之36"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "66", 
+                "name": "臺北市大安區仁愛段一小段0299-0000地號(自用房屋之坐落基地)", 
+                "owner": "林惠雪", 
+                "register_date": "93年01月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "1000分之36"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "10", 
+                "name": "臺北市大安區仁愛段一小段0300-0000地號(自用房屋之坐落基地)", 
+                "owner": "林惠雪", 
+                "register_date": "93年01月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "1000分之36"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "66", 
+                "name": "臺北市大安區仁愛段一小段0301-0000地號(自用房屋之坐落基地)", 
+                "owner": "林惠雪", 
+                "register_date": "93年01月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "1000分之36"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "10", 
+                "name": "臺北市大安區仁愛段一小段0301-0001地號(自用房屋之坐落基地)", 
+                "owner": "林惠雪", 
+                "register_date": "93年01月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "1000分之36"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "66", 
+                "name": "臺北市大安區仁愛段一小段0302-0000地號(自用房屋之坐落基地)", 
+                "owner": "林惠雪", 
+                "register_date": "93年01月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "1000分之36"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "10", 
+                "name": "臺北市大安區仁愛段一小段0302-0001地號(自用房屋之坐落基地)", 
+                "owner": "林惠雪", 
+                "register_date": "93年01月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "1000分之36"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "76", 
+                "name": "臺北市大安區仁愛段一小段0303-0000地號(自用房屋之坐落基地)", 
+                "owner": "林惠雪", 
+                "register_date": "93年01月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "1000分之11"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.臺南市政府", 
+            "name": "許和鈞", 
+            "report_at": "2013-09-28", 
+            "report_type": "就(到)職申報", 
+            "spouse": "林惠雪", 
+            "title": "1.副市長"
+        }, 
+        "stock": [
+            {
+                "currency": "新臺幣", 
+                "face_value": "10", 
+                "name": "忠正股份有限公司", 
+                "owner": "林惠雪", 
+                "quantity": "700,000", 
+                "total": "7,000,000"
+            }
+        ]
+    }, 
+    {
+        "building": [
+            {
+                "area": "82.25", 
+                "name": "新北市永和區保平段02589-000建號", 
+                "owner": "許和鈞", 
+                "register_date": "102年04月29日", 
+                "share_portion": "全部", 
+                "trust": "臺灣銀行"
+            }
+        ], 
+        "land": [
+            {
+                "area": "95", 
+                "name": "宜蘭縣三星鄉大德段1103-0003地號", 
+                "owner": "林惠雪", 
+                "register_date": "102年04月30日", 
+                "share_portion": "全部", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "273.66", 
+                "name": "新北市永和區保平段1157-0000地號", 
+                "owner": "許和鈞", 
+                "register_date": "102年04月29日", 
+                "share_portion": "10分之1", 
+                "trust": "臺灣銀行"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.臺南市政府", 
+            "name": "許和鈞", 
+            "report_at": "2013-09-28", 
+            "report_type": "就(到)職申報", 
+            "spouse": "林惠雪", 
+            "title": "1.副市長"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [
+            {
+                "acquire_value": "131,700", 
+                "area": "45.78", 
+                "name": "花蓮縣玉里鎮泰林段00035-000建號", 
+                "owner": "馬躍.比吼", 
+                "register_date": "97年11月24日", 
+                "register_reason": "繼承", 
+                "share_portion": "全部"
+            }
+        ], 
+        "land": [
+            {
+                "acquire_value": "106,928", 
+                "area": "142.57", 
+                "name": "花蓮縣玉里鎮泰林段1082-0000地號(自用房屋之坐落基地)", 
+                "owner": "馬躍.比吼", 
+                "register_date": "97年11月24日", 
+                "register_reason": "繼承", 
+                "share_portion": "全部"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.臺南市政府", 
+            "name": "馬躍.比吼", 
+            "report_at": "2013-09-01", 
+            "report_type": "卸(離)職申報", 
+            "spouse": "", 
+            "title": "1.主任委員"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [
+            {
+                "area": "84.78", 
+                "name": "新北市淡水區水頭段山子邊小段00231-000建號", 
+                "owner": "馬躍.比吼", 
+                "register_date": "", 
+                "share_portion": "全部", 
+                "trust": "臺灣銀行"
+            }
+        ], 
+        "land": [
+            {
+                "area": "3,567", 
+                "name": "新北市淡水區水頭段山子邊小段0028-0000地號", 
+                "owner": "馬躍.比吼", 
+                "register_date": "101年06月06日", 
+                "share_portion": "10000分之141", 
+                "trust": "臺灣銀行"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.臺南市政府", 
+            "name": "馬躍.比吼", 
+            "report_at": "2013-09-01", 
+            "report_type": "卸(離)職申報", 
+            "spouse": "", 
+            "title": "1.主任委員"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "230.16", 
+                "name": "花蓮縣花蓮市國風段01112-000建號", 
+                "owner": "黃憲東", 
+                "register_date": "69年08月07日", 
+                "register_reason": "(所有權第一次登記)", 
+                "share_portion": "全部"
+            }
+        ], 
+        "land": [
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "115", 
+                "name": "花蓮縣花蓮市國風段0768-0000地號", 
+                "owner": "黃憲東", 
+                "register_date": "67年10月31日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.高雄市政府兵役局", 
+            "name": "黃憲東", 
+            "report_at": "2013-10-16", 
+            "report_type": "就(到)職申報", 
+            "spouse": "陳聰慧", 
+            "title": "1.局長"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [], 
+        "land": [], 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.高雄市政府兵役局", 
+            "name": "趙文男", 
+            "report_at": "2013-07-26", 
+            "report_type": "卸(離)職申報", 
+            "spouse": "趙○宜", 
+            "title": "1.局長"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [
+            {
+                "area": "81.07", 
+                "name": "高雄市三民區河濱段00052-000建號", 
+                "owner": "陳存永", 
+                "register_date": "102年09月24日", 
+                "share_portion": "全部", 
+                "trust": "高雄銀行"
+            }
+        ], 
+        "land": [
+            {
+                "area": "2,127", 
+                "name": "高雄市三民區河濱段0541-0000地號", 
+                "owner": "陳存永", 
+                "register_date": "102年09月24日", 
+                "share_portion": "10000分之49", 
+                "trust": "高雄銀行"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.高雄市政府捷運工程局", 
+            "name": "陳存永", 
+            "report_at": "2013-09-27", 
+            "report_type": "定期申報", 
+            "spouse": "孫金蕊", 
+            "title": "1.局長"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "112.926", 
+                "name": "宜蘭縣羅東鎮公正里鍾山新村", 
+                "owner": "賴錫祿", 
+                "register_date": "75年08月30日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }
+        ], 
+        "land": [
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "1,791", 
+                "name": "宜蘭縣羅東鎮公正段0126-0000地號", 
+                "owner": "賴錫祿", 
+                "register_date": "75年08月30日", 
+                "register_reason": "買賣", 
+                "share_portion": "100000分之1852"
+            }, 
+            {
+                "acquire_value": "2,328,000(取得年度之土地公告現值,耕地)", 
+                "area": "1,455", 
+                "name": "宜蘭縣五結鄉百松段0816-0000地號", 
+                "owner": "賴錫祿", 
+                "register_date": "102年03月12日", 
+                "register_reason": "繼承", 
+                "share_portion": "5分之1"
+            }, 
+            {
+                "acquire_value": "6,750,000(取得年度之土地公告現值,耕地)", 
+                "area": "2,700", 
+                "name": "宜蘭縣五結鄉百松段0803-0000地號", 
+                "owner": "賴錫祿", 
+                "register_date": "102年03月12日", 
+                "register_reason": "繼承", 
+                "share_portion": "5分之1"
+            }, 
+            {
+                "acquire_value": "5,780,000(取得年度之土地公告現值,耕地)", 
+                "area": "2,312", 
+                "name": "宜蘭縣五結鄉百松段0721-0000地號", 
+                "owner": "賴錫祿", 
+                "register_date": "102年03月12日", 
+                "register_reason": "繼承", 
+                "share_portion": "5分之1"
+            }, 
+            {
+                "acquire_value": "4,145,000(取得年度之土地公告現值,耕地)", 
+                "area": "1,658", 
+                "name": "宜蘭縣五結鄉百松段0707-0002地號", 
+                "owner": "賴錫祿", 
+                "register_date": "102年03月12日", 
+                "register_reason": "繼承", 
+                "share_portion": "5分之1"
+            }, 
+            {
+                "acquire_value": "95,000(取得年度之土地公告現值,耕地)", 
+                "area": "38", 
+                "name": "宜蘭縣五結鄉百松段0707-0001地號", 
+                "owner": "賴錫祿", 
+                "register_date": "102年03月12日", 
+                "register_reason": "繼承", 
+                "share_portion": "5分之1"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.宜蘭縣政府", 
+            "name": "賴錫祿", 
+            "report_at": "2013-10-24", 
+            "report_type": "就(到)職申報", 
+            "spouse": "陳玉雲", 
+            "title": "1.處長"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [
+            {
+                "acquire_value": "1,000,000(屋頂突出物6.14)", 
+                "area": "105.83", 
+                "name": "宜蘭縣三星鄉尚義段00083-000建號", 
+                "owner": "余玉女", 
+                "register_date": "95年07月11日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "836,643", 
+                "area": "1,171.77", 
+                "name": "宜蘭縣礁溪鄉玉石段00807-000建號", 
+                "owner": "余玉女", 
+                "register_date": "92年12月31日", 
+                "register_reason": "買賣", 
+                "share_portion": "10000分之714"
+            }, 
+            {
+                "acquire_value": "137,323", 
+                "area": "192.33", 
+                "name": "宜蘭縣礁溪鄉玉石段00895-000建號", 
+                "owner": "余玉女", 
+                "register_date": "92年12月31日", 
+                "register_reason": "買賣", 
+                "share_portion": "10000分之714"
+            }, 
+            {
+                "acquire_value": "(超過五年,平台10.83平方公尺)", 
+                "area": "178.05", 
+                "name": "新北市三重區重新段一小段05047-000建號", 
+                "owner": "余玉女", 
+                "register_date": "78年08月10日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }
+        ], 
+        "land": [
+            {
+                "acquire_value": "3,421,600", 
+                "area": "658", 
+                "name": "宜蘭縣三星鄉尚義段1306-0000地號", 
+                "owner": "余玉女", 
+                "register_date": "95年07月11日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "2,288,000", 
+                "area": "440", 
+                "name": "宜蘭縣三星鄉尚義段1307-0000地號", 
+                "owner": "余玉女", 
+                "register_date": "95年07月11日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "4,318,953", 
+                "area": "2,034.63", 
+                "name": "宜蘭縣礁溪鄉玉石段1091-0000地號", 
+                "owner": "余玉女", 
+                "register_date": "92年12月31日", 
+                "register_reason": "買賣", 
+                "share_portion": "10000分之714"
+            }, 
+            {
+                "acquire_value": "627,883", 
+                "area": "373.89", 
+                "name": "宜蘭縣礁溪鄉玉石段1095-0001地號", 
+                "owner": "余玉女", 
+                "register_date": "92年12月31日", 
+                "register_reason": "買賣", 
+                "share_portion": "10000分之714"
+            }, 
+            {
+                "acquire_value": "524,571", 
+                "area": "255", 
+                "name": "宜蘭縣礁溪鄉協天段0004-0000地號", 
+                "owner": "余玉女", 
+                "register_date": "97年07月10日", 
+                "register_reason": "買賣", 
+                "share_portion": "140分之10"
+            }, 
+            {
+                "acquire_value": "822,980", 
+                "area": "241", 
+                "name": "宜蘭縣礁溪鄉協天段0005-0000地號", 
+                "owner": "余玉女", 
+                "register_date": "97年07月10日", 
+                "register_reason": "買賣", 
+                "share_portion": "140分之10"
+            }, 
+            {
+                "acquire_value": "699,519", 
+                "area": "198", 
+                "name": "宜蘭縣礁溪鄉協天段0006-0000地號", 
+                "owner": "余玉女", 
+                "register_date": "97年07月10日", 
+                "register_reason": "買賣", 
+                "share_portion": "140分之10"
+            }, 
+            {
+                "acquire_value": "641,828", 
+                "area": "312", 
+                "name": "宜蘭縣礁溪鄉協天段0007-0000地號", 
+                "owner": "余玉女", 
+                "register_date": "97年07月10日", 
+                "register_reason": "買賣", 
+                "share_portion": "140分之10"
+            }, 
+            {
+                "acquire_value": "3,621", 
+                "area": "17", 
+                "name": "宜蘭縣礁溪鄉協天段0009-0000地號", 
+                "owner": "余玉女", 
+                "register_date": "97年07月10日", 
+                "register_reason": "買賣", 
+                "share_portion": "140分之10"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "756", 
+                "name": "新北市三重區重新段一小段0011-0004地號", 
+                "owner": "余玉女", 
+                "register_date": "78年08月14日", 
+                "register_reason": "買賣", 
+                "share_portion": "1620分之94"
+            }, 
+            {
+                "acquire_value": "(超過五年,農牧用地)", 
+                "area": "2,532", 
+                "name": "宜蘭縣冬山鄉福德段0045-0000地號", 
+                "owner": "余玉女", 
+                "register_date": "83年04月15日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "105,450", 
+                "area": "648", 
+                "name": "宜蘭縣冬山鄉香城段0605-0005地號", 
+                "owner": "余玉女", 
+                "register_date": "99年08月12日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "2,000,000(農牧用地)", 
+                "area": "920", 
+                "name": "宜蘭縣大同鄉牛門段0300-0000地號", 
+                "owner": "余玉女", 
+                "register_date": "101年08月23日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "3,000,000", 
+                "area": "370", 
+                "name": "宜蘭縣大同鄉牛門段0301-0000地號", 
+                "owner": "余玉女", 
+                "register_date": "101年08月23日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.宜蘭縣政府", 
+            "name": "陳文昌", 
+            "report_at": "2013-06-15", 
+            "report_type": "卸(離)職申報", 
+            "spouse": "余玉女", 
+            "title": "1.處長"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [
+            {
+                "area": "1,171.77", 
+                "name": "宜蘭縣礁溪鄉玉石段00807-000建號", 
+                "owner": "余玉女", 
+                "register_date": "100年05月31日", 
+                "share_portion": "10000分之714", 
+                "trust": "台灣中小企業銀行"
+            }, 
+            {
+                "area": "192.33", 
+                "name": "宜蘭縣礁溪鄉玉石段00895-000建號", 
+                "owner": "余玉女", 
+                "register_date": "100年05月31日", 
+                "share_portion": "10000分之714", 
+                "trust": "台灣中小企業銀行"
+            }, 
+            {
+                "area": "178.05", 
+                "name": "新北市三重區重新段一小段05047-000建號", 
+                "owner": "余玉女", 
+                "register_date": "100年05月31日", 
+                "share_portion": "全部", 
+                "trust": "台灣中小企業銀行"
+            }
+        ], 
+        "land": [
+            {
+                "area": "658", 
+                "name": "宜蘭縣三星鄉尚義段1306-0000地號", 
+                "owner": "余玉女", 
+                "register_date": "100年05月31日", 
+                "share_portion": "全部", 
+                "trust": "台灣中小企業銀行"
+            }, 
+            {
+                "area": "2,034.63", 
+                "name": "宜蘭縣礁溪鄉玉石段1091-0000地號", 
+                "owner": "余玉女", 
+                "register_date": "100年05月31日", 
+                "share_portion": "10000分之714", 
+                "trust": "台灣中小企業銀行"
+            }, 
+            {
+                "area": "373.89", 
+                "name": "宜蘭縣礁溪鄉玉石段1095-0001地號", 
+                "owner": "余玉女", 
+                "register_date": "100年05月31日", 
+                "share_portion": "10000分之714", 
+                "trust": "台灣中小企業銀行"
+            }, 
+            {
+                "area": "255", 
+                "name": "宜蘭縣礁溪鄉協天段0004-0000地號", 
+                "owner": "余玉女", 
+                "register_date": "100年05月31日", 
+                "share_portion": "140分之10", 
+                "trust": "台灣中小企業銀行"
+            }, 
+            {
+                "area": "241", 
+                "name": "宜蘭縣礁溪鄉協天段0005-0000地號", 
+                "owner": "余玉女", 
+                "register_date": "100年05月31日", 
+                "share_portion": "140分之10", 
+                "trust": "台灣中小企業銀行"
+            }, 
+            {
+                "area": "198", 
+                "name": "宜蘭縣礁溪鄉協天段0006-0000地號", 
+                "owner": "余玉女", 
+                "register_date": "100年05月31日", 
+                "share_portion": "140分之10", 
+                "trust": "台灣中小企業銀行"
+            }, 
+            {
+                "area": "312", 
+                "name": "宜蘭縣礁溪鄉協天段0007-0000地號", 
+                "owner": "余玉女", 
+                "register_date": "100年05月31日", 
+                "share_portion": "140分之10", 
+                "trust": "台灣中小企業銀行"
+            }, 
+            {
+                "area": "17", 
+                "name": "宜蘭縣礁溪鄉協天段0009-0000地號", 
+                "owner": "余玉女", 
+                "register_date": "100年05月31日", 
+                "share_portion": "140分之10", 
+                "trust": "台灣中小企業銀行"
+            }, 
+            {
+                "area": "756", 
+                "name": "新北市三重區重新段一小段0011-0004地號", 
+                "owner": "余玉女", 
+                "register_date": "100年05月31日", 
+                "share_portion": "1620分之94", 
+                "trust": "台灣中小企業銀行"
+            }, 
+            {
+                "area": "648", 
+                "name": "宜蘭縣冬山鄉香城段0605-0005地號", 
+                "owner": "余玉女", 
+                "register_date": "100年05月31日", 
+                "share_portion": "全部", 
+                "trust": "台灣中小企業銀行"
+            }, 
+            {
+                "area": "370", 
+                "name": "宜蘭縣大同鄉牛門段0301-0000地號", 
+                "owner": "余玉女", 
+                "register_date": "101年12月26日", 
+                "share_portion": "全部", 
+                "trust": "台灣中小企業銀行"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.宜蘭縣政府", 
+            "name": "陳文昌", 
+            "report_at": "2013-06-15", 
+            "report_type": "卸(離)職申報", 
+            "spouse": "余玉女", 
+            "title": "1.處長"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "384.40", 
+                "name": "南投縣南投市光興段00502-000建號", 
+                "owner": "李秀華", 
+                "register_date": "78年07月20日", 
+                "register_reason": "新建", 
+                "share_portion": "全部"
+            }
+        ], 
+        "land": [
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "317", 
+                "name": "南投縣南投市光興段0175-0000地號(自用房屋之坐落基地)", 
+                "owner": "葉世文", 
+                "register_date": "77年06月05日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "1.75", 
+                "name": "南投縣南投市光興段0176-0001地號(自用房屋之坐落基地)", 
+                "owner": "葉世文", 
+                "register_date": "78年10月20日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.桃園縣政府", 
+            "name": "葉世文", 
+            "report_at": "2013-10-09", 
+            "report_type": "就(到)職申報", 
+            "spouse": "李秀華", 
+            "title": "1.副縣長"
+        }, 
+        "stock": [
+            {
+                "currency": "新臺幣", 
+                "face_value": "10", 
+                "name": "太電", 
+                "owner": "李秀華", 
+                "quantity": "5,695", 
+                "total": "56,950"
+            }, 
+            {
+                "currency": "新臺幣", 
+                "face_value": "10", 
+                "name": "和立", 
+                "owner": "李秀華", 
+                "quantity": "1,027", 
+                "total": "10,270"
+            }, 
+            {
+                "currency": "新臺幣", 
+                "face_value": "10", 
+                "name": "太電", 
+                "owner": "李秀華", 
+                "quantity": "200", 
+                "total": "2,000"
+            }, 
+            {
+                "currency": "新臺幣", 
+                "face_value": "10", 
+                "name": "太電", 
+                "owner": "葉世文", 
+                "quantity": "1,486", 
+                "total": "14,860"
+            }
+        ]
+    }, 
+    {
+        "building": [
+            {
+                "area": "122.31", 
+                "name": "臺北市士林區三玉段二小段22687-000建號", 
+                "owner": "李秀華", 
+                "register_date": "102年10月04日", 
+                "share_portion": "全部", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "838.58", 
+                "name": "臺北市士林區三玉段二小段22704-000建號", 
+                "owner": "李秀華", 
+                "register_date": "102年10月04日", 
+                "share_portion": "3024分之252", 
+                "trust": "臺灣銀行"
+            }
+        ], 
+        "land": [
+            {
+                "area": "72.90", 
+                "name": "南投縣南投市光榮段0089-0000地號", 
+                "owner": "李秀華", 
+                "register_date": "102年10月07日", 
+                "share_portion": "全部", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "1,352", 
+                "name": "臺北市士林區三玉段二小段0106-0000地號", 
+                "owner": "李秀華", 
+                "register_date": "102年10月04日", 
+                "share_portion": "9240分之323", 
+                "trust": "臺灣銀行"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.桃園縣政府", 
+            "name": "葉世文", 
+            "report_at": "2013-10-09", 
+            "report_type": "就(到)職申報", 
+            "spouse": "李秀華", 
+            "title": "1.副縣長"
+        }, 
+        "stock": [
+            {
+                "face_value": "10", 
+                "name": "穩懋半導體股份有限公司", 
+                "owner": "李秀華", 
+                "quantity": "448,000", 
+                "total": "4,480,000", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102年10月02日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "兆豐金融控股股份有限公司", 
+                "owner": "李秀華", 
+                "quantity": "10", 
+                "total": "100", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102年10月02日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "穩懋半導體股份有限公司", 
+                "owner": "葉世文", 
+                "quantity": "189,000", 
+                "total": "1,890,000", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102年10月02日"
+            }
+        ]
+    }, 
+    {
+        "building": [], 
+        "land": [], 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.桃園縣政府地政局", 
+            "name": "林學堅", 
+            "report_at": "2013-09-05", 
+            "report_type": "定期申報", 
+            "spouse": "陳鳳如", 
+            "title": "1.局長"
+        }, 
+        "stock": [
+            {
+                "face_value": "10", 
+                "name": "中橡", 
+                "owner": "陳鳳如", 
+                "quantity": "5,000", 
+                "total": "50,000", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102年09月05日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "日月光", 
+                "owner": "陳鳳如", 
+                "quantity": "5,000", 
+                "total": "50,000", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102年09月05日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "鴻海", 
+                "owner": "陳鳳如", 
+                "quantity": "2,000", 
+                "total": "20,000", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102年09月05日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "瑞昱", 
+                "owner": "陳鳳如", 
+                "quantity": "2,000", 
+                "total": "20,000", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102年09月05日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "聯發科", 
+                "owner": "陳鳳如", 
+                "quantity": "2,000", 
+                "total": "20,000", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102年09月05日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "長榮", 
+                "owner": "陳鳳如", 
+                "quantity": "10,000", 
+                "total": "100,000", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102年09月05日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "中壽", 
+                "owner": "陳鳳如", 
+                "quantity": "5,000", 
+                "total": "50,000", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102年09月05日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "富邦金", 
+                "owner": "陳鳳如", 
+                "quantity": "10,000", 
+                "total": "100,000", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102年09月05日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "國泰金", 
+                "owner": "陳鳳如", 
+                "quantity": "5,000", 
+                "total": "50,000", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102年09月05日"
+            }
+        ]
+    }, 
+    {
+        "building": [
+            {
+                "area": "135.20", 
+                "name": "高雄市前鎮區憲德段二小段01549-000建號", 
+                "owner": "葉新足", 
+                "register_date": "102年08月30日", 
+                "share_portion": "全部", 
+                "trust": "臺灣土地銀行"
+            }
+        ], 
+        "land": [
+            {
+                "area": "3,069.91", 
+                "name": "高雄市前鎮區憲德段二小段0020-0000地號", 
+                "owner": "葉新足", 
+                "register_date": "102年08月30日", 
+                "share_portion": "100000分之623", 
+                "trust": "臺灣土地銀行"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.新竹市政府", 
+            "name": "翁義芳", 
+            "report_at": "2013-09-13", 
+            "report_type": "定期申報", 
+            "spouse": "葉新足", 
+            "title": "1.處長"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [], 
+        "land": [], 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.新竹縣政府", 
+            "name": "羅昌傑", 
+            "report_at": "2013-09-03", 
+            "report_type": "就(到)職申報", 
+            "spouse": "萬瑞珠", 
+            "title": "1.處長"
+        }, 
+        "stock": [
+            {
+                "face_value": "10", 
+                "name": "中國人造纖維", 
+                "owner": "羅昌傑", 
+                "quantity": "2,151", 
+                "total": "21,510", 
+                "trust": "第一商業銀行", 
+                "trust_at": "102年08月28日"
+            }
+        ]
+    }, 
+    {
+        "building": [
+            {
+                "acquire_value": "7,000,000", 
+                "area": "110.85", 
+                "name": "高雄市鼓山區龍華段八小段04277-000建號", 
+                "owner": "李建廷", 
+                "register_date": "93年07月15日", 
+                "register_reason": "(買賣(含土地))", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "7,000,000(附屬共同部份)", 
+                "area": "4,873.54", 
+                "name": "高雄市鼓山區龍華段八小段04378-000建號", 
+                "owner": "李建廷", 
+                "register_date": "93年07月15日", 
+                "register_reason": "(買賣(含土地))", 
+                "share_portion": "10000分之64"
+            }
+        ], 
+        "land": [
+            {
+                "acquire_value": "7,000,000", 
+                "area": "1,300", 
+                "name": "高雄市鼓山區龍華段八小段2233-0000地號", 
+                "owner": "李建廷", 
+                "register_date": "93年07月15日", 
+                "register_reason": "買賣", 
+                "share_portion": "10000分之87"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.屏東縣政府", 
+            "name": "李建廷", 
+            "report_at": "2013-10-14", 
+            "report_type": "就(到)職申報", 
+            "spouse": "", 
+            "title": "1.局長"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [
+            {
+                "area": "79.06", 
+                "name": "高雄市左營區新光段03151-000建號(74.32〈陽台4.74平方公尺〉)", 
+                "owner": "李建廷", 
+                "register_date": "102年10月18日", 
+                "share_portion": "全部", 
+                "trust": "玉山商業銀行"
+            }, 
+            {
+                "area": "4,058.38", 
+                "name": "高雄市左營區新光段03205-000建號(附屬共同部份)", 
+                "owner": "李建廷", 
+                "register_date": "102年10月18日", 
+                "share_portion": "10000分之121", 
+                "trust": "玉山商業銀行"
+            }, 
+            {
+                "area": "106.25", 
+                "name": "高雄市左營區新光段03150-000建號(94.74〈陽台11.51平方公尺〉)", 
+                "owner": "李建廷", 
+                "register_date": "102年10月18日", 
+                "share_portion": "全部", 
+                "trust": "玉山商業銀行"
+            }, 
+            {
+                "area": "4,058.38", 
+                "name": "高雄市左營區新光段03205-000建號(附屬共同部份)", 
+                "owner": "李建廷", 
+                "register_date": "102年10月18日", 
+                "share_portion": "10000分之143", 
+                "trust": "玉山商業銀行"
+            }, 
+            {
+                "area": "143.02", 
+                "name": "高雄市左營區新光段03186-000建號(124.58〈陽台18.44平方公尺〉)", 
+                "owner": "李建廷", 
+                "register_date": "102年10月18日", 
+                "share_portion": "全部", 
+                "trust": "玉山商業銀行"
+            }, 
+            {
+                "area": "4,058.38", 
+                "name": "高雄市左營區新光段03205-000建號(附屬共同部份)", 
+                "owner": "李建廷", 
+                "register_date": "102年10月18日", 
+                "share_portion": "10000分之217", 
+                "trust": "玉山商業銀行"
+            }, 
+            {
+                "area": "143.02", 
+                "name": "高雄市左營區新光段03193-000建號(124.58〈陽台18.44平方公尺〉)", 
+                "owner": "李建廷", 
+                "register_date": "102年10月18日", 
+                "share_portion": "全部", 
+                "trust": "玉山商業銀行"
+            }, 
+            {
+                "area": "4,058.38", 
+                "name": "高雄市左營區新光段03205-000建號(附屬共同部份)", 
+                "owner": "李建廷", 
+                "register_date": "102年10月18日", 
+                "share_portion": "10000分之291", 
+                "trust": "玉山商業銀行"
+            }
+        ], 
+        "land": [
+            {
+                "area": "1,025.08", 
+                "name": "高雄市左營區新光段0307-0000地號", 
+                "owner": "李建廷", 
+                "register_date": "102年10月18日", 
+                "share_portion": "10000分之488", 
+                "trust": "玉山商業銀行"
+            }, 
+            {
+                "area": "1,025.08", 
+                "name": "高雄市左營區新光段0307-0000地號", 
+                "owner": "李建廷", 
+                "register_date": "102年10月18日", 
+                "share_portion": "10000分之211", 
+                "trust": "玉山商業銀行"
+            }, 
+            {
+                "area": "2,058.98", 
+                "name": "高雄市岡山區新本洲段0197-0000地號(田賦)", 
+                "owner": "李建廷", 
+                "register_date": "102年10月22日", 
+                "share_portion": "2分之1", 
+                "trust": "玉山商業銀行"
+            }, 
+            {
+                "area": "661.51", 
+                "name": "高雄市左營區新福段五小段0021-0000地號", 
+                "owner": "李建廷", 
+                "register_date": "102年10月18日", 
+                "share_portion": "14分之1", 
+                "trust": "玉山商業銀行"
+            }, 
+            {
+                "area": "955", 
+                "name": "高雄市小港區龍鳳段0517-0000地號", 
+                "owner": "李建廷", 
+                "register_date": "102年10月18日", 
+                "share_portion": "8分之1", 
+                "trust": "玉山商業銀行"
+            }, 
+            {
+                "area": "301", 
+                "name": "高雄市小港區龍鳳段0525-0000地號", 
+                "owner": "李建廷", 
+                "register_date": "102年10月18日", 
+                "share_portion": "8分之1", 
+                "trust": "玉山商業銀行"
+            }, 
+            {
+                "area": "139", 
+                "name": "高雄市苓雅區林德官段三小段3727-0000地號", 
+                "owner": "李建廷", 
+                "register_date": "102年10月17日", 
+                "share_portion": "8分之1", 
+                "trust": "玉山商業銀行"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.屏東縣政府", 
+            "name": "李建廷", 
+            "report_at": "2013-10-14", 
+            "report_type": "就(到)職申報", 
+            "spouse": "", 
+            "title": "1.局長"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [
+            {
+                "acquire_value": "5,200,000(含地)", 
+                "area": "108.60", 
+                "name": "花蓮縣花蓮市國興里建德街", 
+                "owner": "周傑民", 
+                "register_date": "97年04月17日", 
+                "register_reason": "(購買)", 
+                "share_portion": "全部"
+            }
+        ], 
+        "land": [
+            {
+                "acquire_value": "5,200,000(含屋(貸400萬))", 
+                "area": "90", 
+                "name": "花蓮縣花蓮市碧雲段0579-0003地號", 
+                "owner": "周傑民", 
+                "register_date": "97年04月17日", 
+                "register_reason": "(購買)", 
+                "share_portion": "全部"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.花蓮縣政府", 
+            "name": "周傑民", 
+            "report_at": "2013-07-05", 
+            "report_type": "卸(離)職申報", 
+            "spouse": "汪黛茵", 
+            "title": "1.處長"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [], 
+        "land": [], 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.連江縣政府", 
+            "name": "陳敬忠", 
+            "report_at": "2013-08-28", 
+            "report_type": "就(到)職申報", 
+            "spouse": "王于嘉", 
+            "title": "1.副縣長"
+        }, 
+        "stock": [
+            {
+                "face_value": "10", 
+                "name": "南亞", 
+                "owner": "王于嘉", 
+                "quantity": "594", 
+                "total": "5,940", 
+                "trust": "第一商業銀行", 
+                "trust_at": "102年08月27日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "東聯化學", 
+                "owner": "王于嘉", 
+                "quantity": "228", 
+                "total": "2,280", 
+                "trust": "第一商業銀行", 
+                "trust_at": "102年08月27日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "聲寶", 
+                "owner": "王于嘉", 
+                "quantity": "257", 
+                "total": "2,570", 
+                "trust": "第一商業銀行", 
+                "trust_at": "102年08月27日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "春源鋼鐵", 
+                "owner": "王于嘉", 
+                "quantity": "142", 
+                "total": "1,420", 
+                "trust": "第一商業銀行", 
+                "trust_at": "102年08月27日"
+            }
+        ]
+    }, 
+    {
+        "building": [
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "132.73", 
+                "name": "新北市新店區香坡段02322-000建號", 
+                "owner": "黃榮峰", 
+                "register_date": "91年11月29日", 
+                "register_reason": "分割繼承", 
+                "share_portion": "全部"
+            }
+        ], 
+        "land": [
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "600.69", 
+                "name": "新北市新店區香坡段0181-0000地號(自用房屋之建築基地)", 
+                "owner": "黃榮峰", 
+                "register_date": "91年11月29日", 
+                "register_reason": "分割繼承", 
+                "share_portion": "100000分之114"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "9,061.56", 
+                "name": "新北市新店區香坡段0197-0000地號(自用房屋之坐落基地)", 
+                "owner": "黃榮峰", 
+                "register_date": "91年11月29日", 
+                "register_reason": "分割繼承", 
+                "share_portion": "100000分之1345"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "2,580.57", 
+                "name": "新北市新店區香坡段0198-0000地號(自用房屋之建築基地)", 
+                "owner": "黃榮峰", 
+                "register_date": "91年11月29日", 
+                "register_reason": "分割繼承", 
+                "share_portion": "100000分之114"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "1,209.69", 
+                "name": "新北市新店區香坡段0213-0000地號(自用房屋之建築基地)", 
+                "owner": "黃榮峰", 
+                "register_date": "91年11月29日", 
+                "register_reason": "分割繼承", 
+                "share_portion": "100000分之114"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "2,938.29", 
+                "name": "新北市新店區香坡段0214-0000地號(自用房屋之建築基地)", 
+                "owner": "黃榮峰", 
+                "register_date": "91年11月29日", 
+                "register_reason": "分割繼承", 
+                "share_portion": "100000分之114"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.臺北市政府地政局", 
+            "name": "黃榮峰", 
+            "report_at": "2013-08-13", 
+            "report_type": "代理申報", 
+            "spouse": "", 
+            "title": "1.局長"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [
+            {
+                "area": "73.42", 
+                "name": "新北市新店區香坡段05272-000建號", 
+                "owner": "黃榮峰", 
+                "register_date": "102年08月01日", 
+                "share_portion": "全部", 
+                "trust": "兆豐國際商業銀行"
+            }, 
+            {
+                "area": "1,549.86", 
+                "name": "新北市新店區香坡段05421-000建號(新北市新店區香坡段5272建號建物之共用部分)", 
+                "owner": "黃榮峰", 
+                "register_date": "102年08月01日", 
+                "share_portion": "10000分之37", 
+                "trust": "兆豐國際商業銀行"
+            }, 
+            {
+                "area": "1,955.89", 
+                "name": "新北市新店區香坡段05422-000建號", 
+                "owner": "黃榮峰", 
+                "register_date": "102年08月01日", 
+                "share_portion": "52分之1", 
+                "trust": "兆豐國際商業銀行"
+            }, 
+            {
+                "area": "1,549.86", 
+                "name": "新北市新店區香坡段05421-000建號(新北市新店區香坡段5422建號建物之共用部分)", 
+                "owner": "黃榮峰", 
+                "register_date": "102年08月01日", 
+                "share_portion": "10000分之993", 
+                "trust": "兆豐國際商業銀行"
+            }, 
+            {
+                "area": "47.78", 
+                "name": "宜蘭縣礁溪鄉五峰段00530-000建號", 
+                "owner": "黃榮峰", 
+                "register_date": "102年08月01日", 
+                "share_portion": "全部", 
+                "trust": "兆豐國際商業銀行"
+            }, 
+            {
+                "area": "1,785.97", 
+                "name": "宜蘭縣礁溪鄉五峰段00567-000建號(宜蘭縣礁溪鄉五峰段530建號建物之共用部分)", 
+                "owner": "黃榮峰", 
+                "register_date": "102年08月01日", 
+                "share_portion": "10000分之108", 
+                "trust": "兆豐國際商業銀行"
+            }
+        ], 
+        "land": [
+            {
+                "area": "10,091.40", 
+                "name": "新北市新店區香坡段0580-0000地號", 
+                "owner": "黃榮峰", 
+                "register_date": "102年08月01日", 
+                "share_portion": "10000分之45", 
+                "trust": "兆豐國際商業銀行"
+            }, 
+            {
+                "area": "1,563.11", 
+                "name": "宜蘭縣礁溪鄉五峰段1186-0000地號", 
+                "owner": "黃榮峰", 
+                "register_date": "102年08月01日", 
+                "share_portion": "10000分之91", 
+                "trust": "兆豐國際商業銀行"
+            }, 
+            {
+                "area": "239", 
+                "name": "嘉義縣朴子市內厝段0858-0000地號", 
+                "owner": "黃榮峰", 
+                "register_date": "102年08月02日", 
+                "share_portion": "3分之2", 
+                "trust": "兆豐國際商業銀行"
+            }, 
+            {
+                "area": "818.44", 
+                "name": "高雄市六龜區龍興段1310-0000地號", 
+                "owner": "黃榮峰", 
+                "register_date": "102年08月01日", 
+                "share_portion": "3分之1", 
+                "trust": "兆豐國際商業銀行"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.臺北市政府地政局", 
+            "name": "黃榮峰", 
+            "report_at": "2013-08-13", 
+            "report_type": "代理申報", 
+            "spouse": "", 
+            "title": "1.局長"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [], 
+        "land": [], 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.行政院", 
+            "name": "鄭麗文", 
+            "report_at": "2013-09-05", 
+            "report_type": "就(到)職申報", 
+            "spouse": "駱武昌", 
+            "title": "1.發言人"
+        }, 
+        "stock": [
+            {
+                "face_value": "10", 
+                "name": "元太", 
+                "owner": "駱武昌", 
+                "quantity": "60,000", 
+                "total": "600,000", 
+                "trust": "兆豐國際商業銀行", 
+                "trust_at": "102年09月05日"
+            }
+        ]
+    }, 
+    {
+        "building": [
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "115.23", 
+                "name": "臺北市中正區南海段五小段03055-000建號", 
+                "owner": "高華柱", 
+                "register_date": "84年03月01日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }
+        ], 
+        "land": [
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "830", 
+                "name": "臺北市中正區南海段五小段0517-0002地號", 
+                "owner": "高華柱", 
+                "register_date": "87年08月12日", 
+                "register_reason": "買賣", 
+                "share_portion": "10000分之625"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.國防部", 
+            "name": "高華柱", 
+            "report_at": "2013-08-01", 
+            "report_type": "卸(離)職申報", 
+            "spouse": "謝又園", 
+            "title": "1.部長"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [
+            {
+                "area": "99.55", 
+                "name": "新北市永和區長堤段01044-000建號", 
+                "owner": "謝又園", 
+                "register_date": "97年12月24日", 
+                "share_portion": "全部", 
+                "trust": "兆豐國際商業銀行"
+            }
+        ], 
+        "land": [
+            {
+                "area": "178.84", 
+                "name": "新北市永和區長堤段0245-0000地號", 
+                "owner": "謝又園", 
+                "register_date": "97年12月24日", 
+                "share_portion": "4分之1", 
+                "trust": "兆豐國際商業銀行"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.國防部", 
+            "name": "高華柱", 
+            "report_at": "2013-08-01", 
+            "report_type": "卸(離)職申報", 
+            "spouse": "謝又園", 
+            "title": "1.部長"
+        }, 
+        "stock": [
+            {
+                "face_value": "10", 
+                "name": "台塑", 
+                "owner": "謝又園", 
+                "quantity": "23,520", 
+                "total": "235,200", 
+                "trust": "兆豐國際商業銀行", 
+                "trust_at": "97年12月22日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "南亞", 
+                "owner": "謝又園", 
+                "quantity": "3,264", 
+                "total": "32,640", 
+                "trust": "兆豐國際商業銀行", 
+                "trust_at": "97年12月22日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "台苯", 
+                "owner": "謝又園", 
+                "quantity": "20,055", 
+                "total": "200,550", 
+                "trust": "兆豐國際商業銀行", 
+                "trust_at": "97年12月22日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "中華航空", 
+                "owner": "謝又園", 
+                "quantity": "36,812", 
+                "total": "368,120", 
+                "trust": "兆豐國際商業銀行", 
+                "trust_at": "97年12月22日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "永豐金", 
+                "owner": "謝又園", 
+                "quantity": "83,034", 
+                "total": "830,340", 
+                "trust": "兆豐國際商業銀行", 
+                "trust_at": "97年12月22日"
+            }
+        ]
+    }, 
+    {
+        "building": [], 
+        "land": [], 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.國防部", 
+            "name": "楊念祖", 
+            "report_at": "2013-08-08", 
+            "report_type": "卸(離)職申報", 
+            "spouse": "嚴以恕", 
+            "title": "1.部長"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "113.82", 
+                "name": "臺北市大安區復興段三小段04279-000建號", 
+                "owner": "嚴明", 
+                "register_date": "86年12月26日", 
+                "register_reason": "(購買)", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "622.78", 
+                "name": "臺北市大安區復興段三小段04351-000建號", 
+                "owner": "嚴明", 
+                "register_date": "86年12月26日", 
+                "register_reason": "(購買)", 
+                "share_portion": "28分之1"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "8,086.44", 
+                "name": "臺北市大安區復興段三小段04354-000建號", 
+                "owner": "嚴明", 
+                "register_date": "86年12月26日", 
+                "register_reason": "(購買)", 
+                "share_portion": "10000分之71"
+            }
+        ], 
+        "land": [
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "4,405", 
+                "name": "臺北市大安區復興段三小段0421-0002地號", 
+                "owner": "嚴明", 
+                "register_date": "90年06月12日", 
+                "register_reason": "(購買)", 
+                "share_portion": "10000分之71"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.國防部", 
+            "name": "嚴明", 
+            "report_at": "2013-11-04", 
+            "report_type": "就(到)職申報", 
+            "spouse": "鄭齊家", 
+            "title": "1.部長"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [
+            {
+                "area": "154.44", 
+                "name": "新北市三重區富貴段06210-000建號", 
+                "owner": "鄭齊家", 
+                "register_date": "102年10月17日", 
+                "share_portion": "全部", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "253.61", 
+                "name": "新北市三重區富貴段06229-000建號", 
+                "owner": "鄭齊家", 
+                "register_date": "102年10月17日", 
+                "share_portion": "17分之1", 
+                "trust": "臺灣銀行"
+            }
+        ], 
+        "land": [
+            {
+                "area": "1,892.76", 
+                "name": "新北市三重區富貴段0209-0000地號", 
+                "owner": "鄭齊家", 
+                "register_date": "102年10月17日", 
+                "share_portion": "10000分之206", 
+                "trust": "臺灣銀行"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.國防部", 
+            "name": "嚴明", 
+            "report_at": "2013-11-04", 
+            "report_type": "就(到)職申報", 
+            "spouse": "鄭齊家", 
+            "title": "1.部長"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [
+            {
+                "acquire_value": "(超過五年,陽台7.06,雨遮7.44)", 
+                "area": "610.44", 
+                "name": "臺中市南區樹子腳段09796-000建號", 
+                "owner": "歐暖", 
+                "register_date": "93年06月15日", 
+                "register_reason": "(購買)", 
+                "share_portion": "全部"
+            }
+        ], 
+        "land": [
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "211", 
+                "name": "臺中市南區樹子腳段1318-0000地號", 
+                "owner": "歐暖", 
+                "register_date": "93年06月15日", 
+                "register_reason": "(購買)", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "189", 
+                "name": "臺中市南區樹子腳段1318-0069地號", 
+                "owner": "歐暖", 
+                "register_date": "93年06月15日", 
+                "register_reason": "(購買)", 
+                "share_portion": "10分之1"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "24", 
+                "name": "臺中市南區樹子腳段1318-0066地號", 
+                "owner": "歐暖", 
+                "register_date": "93年06月15日", 
+                "register_reason": "(購買)", 
+                "share_portion": "12分之2"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.法務部", 
+            "name": "曾勇夫", 
+            "report_at": "2013-09-11", 
+            "report_type": "卸(離)職申報", 
+            "spouse": "歐暖", 
+            "title": "1.部長"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [
+            {
+                "area": "151.30", 
+                "name": "臺北市大安區青田街", 
+                "owner": "曾勇夫", 
+                "register_date": "99年05月27日", 
+                "share_portion": "全部", 
+                "trust": "第一商業銀行"
+            }
+        ], 
+        "land": [
+            {
+                "area": "86", 
+                "name": "臺中市沙鹿區北勢坑段北勢坑小段0137-0003地號", 
+                "owner": "曾勇夫", 
+                "register_date": "99年06月08日", 
+                "share_portion": "36分之1", 
+                "trust": "第一商業銀行"
+            }, 
+            {
+                "area": "125", 
+                "name": "臺北市大安區金華段二小段0054-0000地號", 
+                "owner": "曾勇夫", 
+                "register_date": "99年05月27日", 
+                "share_portion": "5分之1", 
+                "trust": "第一商業銀行"
+            }, 
+            {
+                "area": "53", 
+                "name": "臺北市大安區金華段二小段0055-0001地號", 
+                "owner": "曾勇夫", 
+                "register_date": "99年05月27日", 
+                "share_portion": "15分之3", 
+                "trust": "第一商業銀行"
+            }, 
+            {
+                "area": "38", 
+                "name": "臺北市大安區金華段二小段0076-0000地號", 
+                "owner": "曾勇夫", 
+                "register_date": "99年05月27日", 
+                "share_portion": "15分之3", 
+                "trust": "第一商業銀行"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.法務部", 
+            "name": "曾勇夫", 
+            "report_at": "2013-09-11", 
+            "report_type": "卸(離)職申報", 
+            "spouse": "歐暖", 
+            "title": "1.部長"
+        }, 
+        "stock": [
+            {
+                "face_value": "10", 
+                "name": "東元電機", 
+                "owner": "歐暖", 
+                "quantity": "16,562", 
+                "total": "165,620", 
+                "trust": "第一商業銀行", 
+                "trust_at": "99年05月24日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "華南金", 
+                "owner": "歐暖", 
+                "quantity": "16,076", 
+                "total": "160,760", 
+                "trust": "第一商業銀行", 
+                "trust_at": "99年05月24日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "開發金", 
+                "owner": "歐暖", 
+                "quantity": "17,331", 
+                "total": "173,310", 
+                "trust": "第一商業銀行", 
+                "trust_at": "99年05月24日"
+            }
+        ]
+    }, 
+    {
+        "building": [
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "1,195.99", 
+                "name": "臺北市北投區行義段二小段20709-000建號", 
+                "owner": "楊昇儒", 
+                "register_date": "82年06月01日", 
+                "register_reason": "買賣", 
+                "share_portion": "10000分之95"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "99.55", 
+                "name": "臺北市北投區行義段二小段20728-000建號", 
+                "owner": "楊昇儒", 
+                "register_date": "82年06月01日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }
+        ], 
+        "land": [
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "1,578.73", 
+                "name": "臺北市北投區行義段二小段0203-0000地號(1戶自用)", 
+                "owner": "楊昇儒", 
+                "register_date": "82年06月01日", 
+                "register_reason": "買賣", 
+                "share_portion": "10000分之162"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.文化部", 
+            "name": "李應平", 
+            "report_at": "2013-10-31", 
+            "report_type": "就(到)職申報", 
+            "spouse": "楊昇儒", 
+            "title": "1.政務次長"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [
+            {
+                "area": "1,195.99", 
+                "name": "臺北市北投區行義段二小段20709-000建號(超過五年)", 
+                "owner": "楊昇儒", 
+                "register_date": "83年01月01日", 
+                "share_portion": "10000分之95", 
+                "trust": "買賣"
+            }, 
+            {
+                "area": "99.55", 
+                "name": "臺北市北投區行義段二小段20728-000建號(超過五年)", 
+                "owner": "楊昇儒", 
+                "register_date": "83年01月01日", 
+                "share_portion": "全部", 
+                "trust": "買賣"
+            }
+        ], 
+        "land": [
+            {
+                "area": "1,578.73", 
+                "name": "臺北市北投區行義段二小段0203-0000地號(超過五年)", 
+                "owner": "楊昇儒", 
+                "register_date": "83年01月01日", 
+                "share_portion": "10000分之162", 
+                "trust": "買賣"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.文化部", 
+            "name": "李應平", 
+            "report_at": "2013-10-31", 
+            "report_type": "就(到)職申報", 
+            "spouse": "楊昇儒", 
+            "title": "1.政務次長"
+        }, 
+        "stock": [
+            {
+                "face_value": "10", 
+                "name": "中華汽車工業股份有限公司", 
+                "owner": "李應平", 
+                "quantity": "104", 
+                "total": "1,040", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102.11.01"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "台灣積體電路製造股份有限公司", 
+                "owner": "李應平", 
+                "quantity": "1", 
+                "total": "10", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102.11.01"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "宏碁股份有限公司", 
+                "owner": "李應平", 
+                "quantity": "1,000", 
+                "total": "10,000", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102.11.01"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "精元電腦股份有限公司", 
+                "owner": "李應平", 
+                "quantity": "110", 
+                "total": "1,100", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102.11.01"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "立隆電子工業股份有限公司", 
+                "owner": "李應平", 
+                "quantity": "391", 
+                "total": "3,910", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102.11.01"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "彰化商業銀行股份有限公司", 
+                "owner": "李應平", 
+                "quantity": "4,991", 
+                "total": "49,910", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102.11.01"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "欣興電子股份有限公司", 
+                "owner": "李應平", 
+                "quantity": "3,020", 
+                "total": "30,200", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102.11.01"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "東台精機股份有限公司", 
+                "owner": "李應平", 
+                "quantity": "1,103", 
+                "total": "11,030", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102.11.01"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "頎邦科技股份有限公司", 
+                "owner": "李應平", 
+                "quantity": "15", 
+                "total": "150", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102.11.01"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "台灣表面黏著科技股份有限公司", 
+                "owner": "李應平", 
+                "quantity": "1,853", 
+                "total": "18,530", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102.11.01"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "至上電子股份有限公司", 
+                "owner": "李應平", 
+                "quantity": "8,000", 
+                "total": "80,000", 
+                "trust": "臺灣銀行", 
+                "trust_at": "102.11.01"
+            }
+        ]
+    }, 
+    {
+        "building": [
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "92.62", 
+                "name": "臺北市中正區南海段一小段01740-000建號", 
+                "owner": "陳雙珠", 
+                "register_date": "76年09月11日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }
+        ], 
+        "land": [
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "151", 
+                "name": "臺北市中正區南海段一小段0317-0000地號(自用)", 
+                "owner": "陳雙珠", 
+                "register_date": "76年07月15日", 
+                "register_reason": "買賣", 
+                "share_portion": "10000分之189"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "114", 
+                "name": "臺北市中正區南海段一小段0317-0001地號(自用)", 
+                "owner": "陳雙珠", 
+                "register_date": "76年07月15日", 
+                "register_reason": "買賣", 
+                "share_portion": "10000分之189"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "423", 
+                "name": "臺北市中正區南海段一小段0318-0000地號(自用)", 
+                "owner": "陳雙珠", 
+                "register_date": "76年07月15日", 
+                "register_reason": "買賣", 
+                "share_portion": "10000分之189"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.文化部", 
+            "name": "洪孟啟", 
+            "report_at": "2013-10-01", 
+            "report_type": "就(到)職申報", 
+            "spouse": "陳雙珠", 
+            "title": "1.政務次長"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [
+            {
+                "area": "3.02", 
+                "name": "新北市中和區錦和段一小段01249-000建號", 
+                "owner": "洪孟啟", 
+                "register_date": "102年09月09日", 
+                "share_portion": "10000分之57", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "62.60", 
+                "name": "新北市中和區盛昌段一小段01357-000建號", 
+                "owner": "洪孟啟", 
+                "register_date": "102年09月09日", 
+                "share_portion": "10000分之57", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "7.28", 
+                "name": "新北市中和區盛昌段一小段02818-000建號", 
+                "owner": "洪孟啟", 
+                "register_date": "102年09月09日", 
+                "share_portion": "10000分之57", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "7", 
+                "name": "新北市中和區盛昌段一小段02819-000建號", 
+                "owner": "洪孟啟", 
+                "register_date": "102年09月09日", 
+                "share_portion": "10000分之57", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "168.88", 
+                "name": "新北市中和區盛昌段一小段02874-000建號", 
+                "owner": "洪孟啟", 
+                "register_date": "102年09月09日", 
+                "share_portion": "全部", 
+                "trust": "臺灣銀行"
+            }
+        ], 
+        "land": [
+            {
+                "area": "300.71", 
+                "name": "新北市中和區錦和段一小段0272-0000地號", 
+                "owner": "洪孟啟", 
+                "register_date": "102年09月09日", 
+                "share_portion": "900000分之15", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "5,064.10", 
+                "name": "新北市中和區盛昌段0404-0000地號", 
+                "owner": "洪孟啟", 
+                "register_date": "102年09月09日", 
+                "share_portion": "900000分之91", 
+                "trust": "臺灣銀行"
+            }, 
+            {
+                "area": "10,005.19", 
+                "name": "新北市中和區盛昌段0932-0000地號", 
+                "owner": "洪孟啟", 
+                "register_date": "102年09月09日", 
+                "share_portion": "900000分之23142", 
+                "trust": "臺灣銀行"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.文化部", 
+            "name": "洪孟啟", 
+            "report_at": "2013-10-01", 
+            "report_type": "就(到)職申報", 
+            "spouse": "陳雙珠", 
+            "title": "1.政務次長"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [
+            {
+                "acquire_value": "(超過五年,自用不動產)", 
+                "area": "130.40", 
+                "name": "臺北市大安區學府段一小段00984-000建號", 
+                "owner": "陳佳欣", 
+                "register_date": "民國76年6月", 
+                "register_reason": "(買入)", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年,未辦理保存登記之建物)", 
+                "area": "134.15", 
+                "name": "苗栗縣竹南鎮勤富街", 
+                "owner": "陳裕璋", 
+                "register_date": "民國93年3月", 
+                "register_reason": "(受贈財產)", 
+                "share_portion": "3分之1"
+            }, 
+            {
+                "acquire_value": "(超過五年,未辦理保存登記之建物)", 
+                "area": "115.11", 
+                "name": "苗栗縣竹南鎮勤富街", 
+                "owner": "陳裕璋", 
+                "register_date": "民國92年5月", 
+                "register_reason": "(受贈財產)", 
+                "share_portion": "3分之1"
+            }, 
+            {
+                "acquire_value": "(超過五年,未辦理保存登記之建物)", 
+                "area": "58.50", 
+                "name": "苗栗縣竹南鎮勤富街", 
+                "owner": "陳裕璋", 
+                "register_date": "民國93年3月", 
+                "register_reason": "(受贈財產)", 
+                "share_portion": "3分之1"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "95", 
+                "name": "苗栗縣三灣鄉永和村", 
+                "owner": "陳裕璋", 
+                "register_date": "民國89年7月", 
+                "register_reason": "(受贈財產)", 
+                "share_portion": "4分之1"
+            }
+        ], 
+        "land": [
+            {
+                "acquire_value": "(超過五年,自用不動產)", 
+                "area": "83", 
+                "name": "臺北市大安區學府段一小段0082-0000地號", 
+                "owner": "陳佳欣", 
+                "register_date": "民國76年6月", 
+                "register_reason": "(買入)", 
+                "share_portion": "4分之1"
+            }, 
+            {
+                "acquire_value": "(超過五年,自用不動產)", 
+                "area": "257", 
+                "name": "臺北市大安區學府段一小段0098-0000地號", 
+                "owner": "陳佳欣", 
+                "register_date": "民國76年6月", 
+                "register_reason": "(買入)", 
+                "share_portion": "4分之1"
+            }, 
+            {
+                "acquire_value": "(超過五年,自用不動產)", 
+                "area": "89", 
+                "name": "臺北市大安區學府段一小段0084-0000地號", 
+                "owner": "陳佳欣", 
+                "register_date": "民國76年6月", 
+                "register_reason": "(買入)", 
+                "share_portion": "44分之1"
+            }, 
+            {
+                "acquire_value": "(超過五年,農牧用地)", 
+                "area": "1,475", 
+                "name": "苗栗縣造橋鄉淡文湖段0489-0000地號", 
+                "owner": "陳佳欣", 
+                "register_date": "民國86年12月", 
+                "register_reason": "(買入)", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年,農牧用地)", 
+                "area": "919", 
+                "name": "苗栗縣造橋鄉淡文湖段0491-0000地號", 
+                "owner": "陳佳欣", 
+                "register_date": "民國86年12月", 
+                "register_reason": "(買入)", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年,農牧用地)", 
+                "area": "2,284.26", 
+                "name": "苗栗縣造橋鄉平興段0131-0000地號", 
+                "owner": "陳裕璋", 
+                "register_date": "民國89年7月", 
+                "register_reason": "(受贈農地)", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年,農牧用地)", 
+                "area": "3,404.71", 
+                "name": "苗栗縣造橋鄉平興段0156-0000地號", 
+                "owner": "陳裕璋", 
+                "register_date": "民國89年7月", 
+                "register_reason": "(受贈農地)", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年,農牧用地)", 
+                "area": "2,638", 
+                "name": "苗栗縣三灣鄉永和山段0890-0000地號", 
+                "owner": "陳裕璋", 
+                "register_date": "民國89年7月", 
+                "register_reason": "(受贈農地)", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年,農牧用地)", 
+                "area": "3,130", 
+                "name": "苗栗縣後龍鎮苦苓腳段3463-0000地號", 
+                "owner": "陳裕璋", 
+                "register_date": "民國89年7月", 
+                "register_reason": "(受贈農地)", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年,農牧用地)", 
+                "area": "958", 
+                "name": "苗栗縣三灣鄉永和山段0485-0018地號", 
+                "owner": "陳裕璋", 
+                "register_date": "民國89年7月", 
+                "register_reason": "(受贈農地)", 
+                "share_portion": "15分之4"
+            }, 
+            {
+                "acquire_value": "(超過五年,農牧用地)", 
+                "area": "321", 
+                "name": "苗栗縣三灣鄉永和山段0485-0019地號", 
+                "owner": "陳裕璋", 
+                "register_date": "民國89年7月", 
+                "register_reason": "(受贈農地)", 
+                "share_portion": "15分之4"
+            }, 
+            {
+                "acquire_value": "(超過五年,農牧用地)", 
+                "area": "594", 
+                "name": "苗栗縣三灣鄉永和山段0997-0012地號", 
+                "owner": "陳裕璋", 
+                "register_date": "民國89年7月", 
+                "register_reason": "(受贈農地)", 
+                "share_portion": "15分之4"
+            }, 
+            {
+                "acquire_value": "(超過五年,農牧用地)", 
+                "area": "261", 
+                "name": "苗栗縣三灣鄉永和山段0997-0022地號", 
+                "owner": "陳裕璋", 
+                "register_date": "民國89年7月", 
+                "register_reason": "(受贈農地)", 
+                "share_portion": "15分之4"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.金融監督管理委員會", 
+            "name": "陳裕璋", 
+            "report_at": "2013-08-01", 
+            "report_type": "卸(離)職申報", 
+            "spouse": "陳佳欣", 
+            "title": "1.主任委員"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [
+            {
+                "area": "97.91", 
+                "name": "臺北市大安區復興南路", 
+                "owner": "陳裕璋", 
+                "register_date": "99年07月01日", 
+                "share_portion": "全部", 
+                "trust": "第一商業銀行"
+            }, 
+            {
+                "area": "1,627.71", 
+                "name": "臺北市大安區復興南路 (共有部分)", 
+                "owner": "陳裕璋", 
+                "register_date": "99年07月01日", 
+                "share_portion": "9600分之135", 
+                "trust": "第一商業銀行"
+            }, 
+            {
+                "area": "155.70", 
+                "name": "苗栗縣竹南鎮照南里13鄰博愛街", 
+                "owner": "陳裕璋", 
+                "register_date": "99年07月05日", 
+                "share_portion": "全部", 
+                "trust": "第一商業銀行"
+            }
+        ], 
+        "land": [
+            {
+                "area": "445", 
+                "name": "苗栗縣造橋鄉淡文湖段1023-0001地號", 
+                "owner": "陳佳欣", 
+                "register_date": "99年07月05日", 
+                "share_portion": "全部", 
+                "trust": "第一商業銀行"
+            }, 
+            {
+                "area": "919", 
+                "name": "苗栗縣造橋鄉淡文湖段0490-0000地號", 
+                "owner": "陳佳欣", 
+                "register_date": "99年07月05日", 
+                "share_portion": "全部", 
+                "trust": "第一商業銀行"
+            }, 
+            {
+                "area": "865", 
+                "name": "臺北市大安區瑞安段二小段0858-0000地號", 
+                "owner": "陳裕璋", 
+                "register_date": "99年07月01日", 
+                "share_portion": "283200分之3186", 
+                "trust": "第一商業銀行"
+            }, 
+            {
+                "area": "548", 
+                "name": "苗栗縣三灣鄉永和山段0485-0001地號", 
+                "owner": "陳裕璋", 
+                "register_date": "99年07月01日", 
+                "share_portion": "4分之1", 
+                "trust": "第一商業銀行"
+            }, 
+            {
+                "area": "3,737", 
+                "name": "苗栗縣三灣鄉永和山段0485-0011地號", 
+                "owner": "陳裕璋", 
+                "register_date": "99年07月01日", 
+                "share_portion": "15分之4", 
+                "trust": "第一商業銀行"
+            }, 
+            {
+                "area": "1,474", 
+                "name": "苗栗縣三灣鄉永和山段0485-0012地號", 
+                "owner": "陳裕璋", 
+                "register_date": "99年07月01日", 
+                "share_portion": "15分之4", 
+                "trust": "第一商業銀行"
+            }, 
+            {
+                "area": "495", 
+                "name": "苗栗縣三灣鄉永和山段0997-0021地號", 
+                "owner": "陳裕璋", 
+                "register_date": "99年07月01日", 
+                "share_portion": "15分之4", 
+                "trust": "第一商業銀行"
+            }, 
+            {
+                "area": "1,582", 
+                "name": "苗栗縣竹南鎮中興段2050-0000地號", 
+                "owner": "陳裕璋", 
+                "register_date": "99年07月05日", 
+                "share_portion": "3分之1", 
+                "trust": "第一商業銀行"
+            }, 
+            {
+                "area": "88", 
+                "name": "苗栗縣竹南鎮竹南段三小段0095-0000地號", 
+                "owner": "陳裕璋", 
+                "register_date": "102年05月24日", 
+                "share_portion": "3分之1", 
+                "trust": "第一商業銀行"
+            }, 
+            {
+                "area": "146", 
+                "name": "苗栗縣竹南鎮竹南段三小段0127-0000地號", 
+                "owner": "陳裕璋", 
+                "register_date": "102年05月24日", 
+                "share_portion": "3分之1", 
+                "trust": "第一商業銀行"
+            }, 
+            {
+                "area": "93", 
+                "name": "苗栗縣竹南鎮竹南段三小段0227-0000地號", 
+                "owner": "陳裕璋", 
+                "register_date": "102年05月24日", 
+                "share_portion": "3分之1", 
+                "trust": "第一商業銀行"
+            }, 
+            {
+                "area": "27", 
+                "name": "苗栗縣竹南鎮龍鳳段2092-0001地號", 
+                "owner": "陳裕璋", 
+                "register_date": "99年07月05日", 
+                "share_portion": "全部", 
+                "trust": "第一商業銀行"
+            }, 
+            {
+                "area": "42", 
+                "name": "苗栗縣竹南鎮龍鳳段2092-0005地號", 
+                "owner": "陳裕璋", 
+                "register_date": "99年07月05日", 
+                "share_portion": "全部", 
+                "trust": "第一商業銀行"
+            }, 
+            {
+                "area": "47", 
+                "name": "苗栗縣竹南鎮龍鳳段2093-0003地", 
+                "owner": "陳裕璋", 
+                "register_date": "99年07月05日", 
+                "share_portion": "全部", 
+                "trust": "第一商業銀"
+            }, 
+            {
+                "area": "行", 
+                "name": "號"
+            }, 
+            {
+                "area": "33", 
+                "name": "苗栗縣竹南鎮龍鳳段2093-0007地號", 
+                "owner": "陳裕璋", 
+                "register_date": "99年07月05日", 
+                "share_portion": "全部", 
+                "trust": "第一商業銀行"
+            }, 
+            {
+                "area": "1,890.04", 
+                "name": "苗栗縣造橋鄉平興段0122-0000地號", 
+                "owner": "陳裕璋", 
+                "register_date": "99年07月05日", 
+                "share_portion": "全部", 
+                "trust": "第一商業銀行"
+            }, 
+            {
+                "area": "51.81", 
+                "name": "苗栗縣造橋鄉平興段0135-0000地號", 
+                "owner": "陳裕璋", 
+                "register_date": "99年07月05日", 
+                "share_portion": "全部", 
+                "trust": "第一商業銀行"
+            }, 
+            {
+                "area": "552.90", 
+                "name": "苗栗縣造橋鄉平興段0152-0000地號", 
+                "owner": "陳裕璋", 
+                "register_date": "99年07月05日", 
+                "share_portion": "全部", 
+                "trust": "第一商業銀行"
+            }, 
+            {
+                "area": "300.82", 
+                "name": "苗栗縣造橋鄉平興段0198-0000地號", 
+                "owner": "陳裕璋", 
+                "register_date": "99年07月05日", 
+                "share_portion": "全部", 
+                "trust": "第一商業銀行"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.金融監督管理委員會", 
+            "name": "陳裕璋", 
+            "report_at": "2013-08-01", 
+            "report_type": "卸(離)職申報", 
+            "spouse": "陳佳欣", 
+            "title": "1.主任委員"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [
+            {
+                "acquire_value": "(超過五年,所有權人含吳英樹)", 
+                "area": "290.37", 
+                "name": "嘉義市元段三小段00948-000建號", 
+                "owner": "吳英毅", 
+                "register_date": "73年11月09日", 
+                "register_reason": "(父母遺產)", 
+                "share_portion": "2分之1"
+            }, 
+            {
+                "acquire_value": "51,500,000", 
+                "area": "173.52", 
+                "name": "臺北市大安區信義路二段", 
+                "owner": "吳英毅", 
+                "register_date": "101年03月06日", 
+                "register_reason": "(自購住宅)", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "51,500,000(共有部份)", 
+                "area": "31.12", 
+                "name": "臺北市大安區信義路二段", 
+                "owner": "吳英毅", 
+                "register_date": "101年07月19日", 
+                "register_reason": "(自購住宅)", 
+                "share_portion": "100分之23"
+            }, 
+            {
+                "acquire_value": "28,000,000", 
+                "area": "89.41", 
+                "name": "臺北市大安區復興南路二段", 
+                "owner": "吳英毅", 
+                "register_date": "101年07月19日", 
+                "register_reason": "(自購住宅)", 
+                "share_portion": "全部"
+            }
+        ], 
+        "land": [
+            {
+                "acquire_value": "(超過五年,所有權人含吳英樹)", 
+                "area": "180", 
+                "name": "嘉義市元段三小段85,45-1地號", 
+                "owner": "吳英毅", 
+                "register_date": "73年11月09日", 
+                "register_reason": "(父母遺產)", 
+                "share_portion": "2分之1"
+            }, 
+            {
+                "acquire_value": "51,500,000", 
+                "area": "148", 
+                "name": "臺北市大安區金華段三小段0035-0000地號", 
+                "owner": "吳英毅", 
+                "register_date": "101年03月06日", 
+                "register_reason": "(自購住宅)", 
+                "share_portion": "100分之23"
+            }, 
+            {
+                "acquire_value": "28,000,000", 
+                "area": "152", 
+                "name": "臺北市大安區瑞安段一小段0051-0000地號", 
+                "owner": "吳英毅", 
+                "register_date": "101年07月19日", 
+                "register_reason": "(自購住宅)", 
+                "share_portion": "1000分之36"
+            }, 
+            {
+                "acquire_value": "28,000,000（含51地號）", 
+                "area": "416", 
+                "name": "臺北市大安區瑞安段一小段0051-0002地號", 
+                "owner": "吳英毅", 
+                "register_date": "101年07月19日", 
+                "register_reason": "(自購住宅)", 
+                "share_portion": "1000分之36"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.僑務委員會", 
+            "name": "吳英毅", 
+            "report_at": "2013-08-01", 
+            "report_type": "卸(離)職申報", 
+            "spouse": "孫峯月", 
+            "title": "1.委員長"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [
+            {
+                "area": "173.52", 
+                "name": "臺北市大安區信義路", 
+                "owner": "吳英毅", 
+                "register_date": "101年04月10日", 
+                "share_portion": "全部", 
+                "trust": "第一商業銀行"
+            }, 
+            {
+                "area": "31.12", 
+                "name": "臺北市大安區信義路 (共有部分)", 
+                "owner": "吳英毅", 
+                "register_date": "101年04月10日", 
+                "share_portion": "100分之23", 
+                "trust": "第一商業銀行"
+            }, 
+            {
+                "area": "89.41", 
+                "name": "臺北市大安區復興南路", 
+                "owner": "吳英毅", 
+                "register_date": "101年08月27日", 
+                "share_portion": "全部", 
+                "trust": "第一商業銀行"
+            }
+        ], 
+        "land": [
+            {
+                "area": "148", 
+                "name": "臺北市大安區金華段0035-0000地號", 
+                "owner": "吳英毅", 
+                "register_date": "101年04月10日", 
+                "share_portion": "100分之23", 
+                "trust": "第一商業銀行"
+            }, 
+            {
+                "area": "152", 
+                "name": "臺北市大安區瑞安段一小段0051-0000地號", 
+                "owner": "吳英毅", 
+                "register_date": "101年08月27日", 
+                "share_portion": "1000分之36", 
+                "trust": "第一商業銀行"
+            }, 
+            {
+                "area": "416", 
+                "name": "臺北市大安區瑞安段一小段0051-0002地號", 
+                "owner": "吳英毅", 
+                "register_date": "101年08月27日", 
+                "share_portion": "1000分之36", 
+                "trust": "第一商業銀行"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.僑務委員會", 
+            "name": "吳英毅", 
+            "report_at": "2013-08-01", 
+            "report_type": "卸(離)職申報", 
+            "spouse": "孫峯月", 
+            "title": "1.委員長"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [
+            {
+                "acquire_value": "12,640,000(房地總價款,含陽台、雨遮附屬建物22.8平方公尺)", 
+                "area": "158.23", 
+                "name": "新北市淡水區公司田段04883-000建號", 
+                "owner": "任弘", 
+                "register_date": "99年11月08日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "12,640,000(與4883建號一併購買,共有部分,含車位)", 
+                "area": "29,013.39", 
+                "name": "新北市淡水區公司田段05136-000建號", 
+                "owner": "任弘", 
+                "register_date": "99年11月08日", 
+                "register_reason": "買賣", 
+                "share_portion": "1000000分之3482"
+            }
+        ], 
+        "land": [
+            {
+                "acquire_value": "12,640,000(房地總價款)", 
+                "area": "15,741.67", 
+                "name": "新北市淡水區公司田段0080-0000地號", 
+                "owner": "任弘", 
+                "register_date": "99年11月08日", 
+                "register_reason": "買賣", 
+                "share_portion": "100000分之276"
+            }, 
+            {
+                "acquire_value": "3,233,800(公告土地現值)", 
+                "area": "1,406", 
+                "name": "臺南市新市區道爺段0739-0000地號", 
+                "owner": "林照敏", 
+                "register_date": "99年03月25日", 
+                "register_reason": "繼承", 
+                "share_portion": "全部"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.僑務委員會", 
+            "name": "任弘", 
+            "report_at": "2013-08-01", 
+            "report_type": "卸(離)職申報", 
+            "spouse": "林照敏", 
+            "title": "1.副委員長"
+        }, 
+        "stock": []
+    }, 
+    {
+        "building": [], 
+        "land": [], 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.僑務委員會", 
+            "name": "任弘", 
+            "report_at": "2013-08-01", 
+            "report_type": "卸(離)職申報", 
+            "spouse": "林照敏", 
+            "title": "1.副委員長"
+        }, 
+        "stock": [
+            {
+                "face_value": "10", 
+                "name": "環球水泥", 
+                "owner": "任弘", 
+                "quantity": "2,255", 
+                "total": "22,550", 
+                "trust": "第一商業銀行", 
+                "trust_at": "97年12月24日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "台塑", 
+                "owner": "任弘", 
+                "quantity": "5,350", 
+                "total": "53,500", 
+                "trust": "第一商業銀行", 
+                "trust_at": "97年12月24日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "中鋼", 
+                "owner": "任弘", 
+                "quantity": "18,636", 
+                "total": "186,360", 
+                "trust": "第一商業銀行", 
+                "trust_at": "97年12月24日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "春源鋼鐵", 
+                "owner": "任弘", 
+                "quantity": "7,617", 
+                "total": "76,170", 
+                "trust": "第一商業銀行", 
+                "trust_at": "97年12月24日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "光寶科", 
+                "owner": "任弘", 
+                "quantity": "5,125", 
+                "total": "51,250", 
+                "trust": "第一商業銀行", 
+                "trust_at": "97年12月24日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "聯電", 
+                "owner": "任弘", 
+                "quantity": "7,315", 
+                "total": "73,150", 
+                "trust": "第一商業銀行", 
+                "trust_at": "97年12月24日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "台積電", 
+                "owner": "任弘", 
+                "quantity": "10,149", 
+                "total": "101,490", 
+                "trust": "第一商業銀行", 
+                "trust_at": "97年12月24日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "南科", 
+                "owner": "任弘", 
+                "quantity": "4,306", 
+                "total": "43,060", 
+                "trust": "第一商業銀行", 
+                "trust_at": "98年12月15日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "友達", 
+                "owner": "任弘", 
+                "quantity": "214", 
+                "total": "2,140", 
+                "trust": "第一商業銀行", 
+                "trust_at": "97年12月24日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "中華電信", 
+                "owner": "任弘", 
+                "quantity": "808", 
+                "total": "8,080", 
+                "trust": "第一商業銀行", 
+                "trust_at": "100年01月25日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "晶電", 
+                "owner": "任弘", 
+                "quantity": "6,059", 
+                "total": "60,590", 
+                "trust": "第一商業銀行", 
+                "trust_at": "97年12月24日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "東貝", 
+                "owner": "任弘", 
+                "quantity": "441", 
+                "total": "4,410", 
+                "trust": "第一商業銀行", 
+                "trust_at": "97年12月24日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "陽明", 
+                "owner": "任弘", 
+                "quantity": "18,293", 
+                "total": "182,930", 
+                "trust": "第一商業銀行", 
+                "trust_at": "97年12月24日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "富邦金", 
+                "owner": "任弘", 
+                "quantity": "11,573", 
+                "total": "115,730", 
+                "trust": "第一商業銀行", 
+                "trust_at": "97年12月24日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "頂倫", 
+                "owner": "任弘", 
+                "quantity": "1,049", 
+                "total": "10,490", 
+                "trust": "第一商業銀行", 
+                "trust_at": "97年12月24日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "華亞科", 
+                "owner": "任弘", 
+                "quantity": "11,964", 
+                "total": "119,640", 
+                "trust": "第一商業銀行", 
+                "trust_at": "99年02月10日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "鼎創達", 
+                "owner": "任弘", 
+                "quantity": "918", 
+                "total": "9,180", 
+                "trust": "第一商業銀行", 
+                "trust_at": "97年12月24日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "中鋼", 
+                "owner": "林照敏", 
+                "quantity": "6,837", 
+                "total": "68,370", 
+                "trust": "第一商業銀行", 
+                "trust_at": "97年12月24日"
+            }
+        ]
+    }, 
+    {
+        "building": [
+            {
+                "acquire_value": "(超過五年以上)", 
+                "area": "110.93", 
+                "name": "高雄市大寮區內厝段00641-000建號", 
+                "owner": "黃惠英", 
+                "register_date": "83年04月06日", 
+                "register_reason": "買賣", 
+                "share_portion": "2分之1"
+            }
+        ], 
+        "land": [
+            {
+                "acquire_value": "(超過五年以上)", 
+                "area": "78", 
+                "name": "高雄市大寮區內厝段1048-0003地號(自用之一戶免信託)", 
+                "owner": "黃惠英", 
+                "register_date": "83年04月06日", 
+                "register_reason": "買賣", 
+                "share_portion": "2分之1"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.國軍退除役官兵輔導委員會", 
+            "name": "董翔龍", 
+            "report_at": "2013-10-16", 
+            "report_type": "就(到)職申報", 
+            "spouse": "黃惠英", 
+            "title": "1.主任委員"
+        }, 
+        "stock": [
+            {
+                "currency": "新臺幣", 
+                "face_value": "10", 
+                "name": "高雄第三信用合作社", 
+                "owner": "黃惠英", 
+                "quantity": "50", 
+                "total": "500"
+            }, 
+            {
+                "currency": "新臺幣", 
+                "face_value": "10", 
+                "name": "寶華商業銀行", 
+                "owner": "黃惠英", 
+                "quantity": "4,134", 
+                "total": "41,340"
+            }
+        ]
+    }, 
+    {
+        "building": [
+            {
+                "area": "126.17", 
+                "name": "臺北市中山區北安段四小段00730-000建號", 
+                "owner": "董翔龍", 
+                "register_date": "102年09月18日", 
+                "share_portion": "全部", 
+                "trust": "臺灣土地銀行"
+            }, 
+            {
+                "area": "80.07", 
+                "name": "嘉義市長竹段00758-000建號", 
+                "owner": "董翔龍", 
+                "register_date": "102年09月24日", 
+                "share_portion": "全部", 
+                "trust": "臺灣土地銀行"
+            }, 
+            {
+                "area": "91.25", 
+                "name": "高雄市鼓山區龍華段二小段00999-000建號", 
+                "owner": "黃惠英", 
+                "register_date": "102年09月23日", 
+                "share_portion": "全部", 
+                "trust": "臺灣土地銀行"
+            }, 
+            {
+                "area": "409.02", 
+                "name": "嘉義市台斗坑段03289-000建號", 
+                "owner": "黃惠英", 
+                "register_date": "102年09月25日", 
+                "share_portion": "全部", 
+                "trust": "臺灣土地銀行"
+            }, 
+            {
+                "area": "104", 
+                "name": "高雄市鳳山區七老爺段一甲小段01147-000建號", 
+                "owner": "黃惠英", 
+                "register_date": "102年09月23日", 
+                "share_portion": "2分之1", 
+                "trust": "臺灣土地銀行"
+            }, 
+            {
+                "area": "58.86", 
+                "name": "高雄市苓雅區武聖段00917-000建號", 
+                "owner": "黃惠英", 
+                "register_date": "102年09月23日", 
+                "share_portion": "全部", 
+                "trust": "臺灣土地銀行"
+            }, 
+            {
+                "area": "96.16", 
+                "name": "高雄市苓雅區福東段02046-000建號", 
+                "owner": "黃惠英", 
+                "register_date": "102年09月23日", 
+                "share_portion": "全部", 
+                "trust": "臺灣土地銀行"
+            }
+        ], 
+        "land": [
+            {
+                "area": "4,499", 
+                "name": "臺北市中山區北安段四小段0107-0000地號", 
+                "owner": "董翔龍", 
+                "register_date": "102年09月18日", 
+                "share_portion": "10000分之99", 
+                "trust": "臺灣土地銀行"
+            }, 
+            {
+                "area": "71", 
+                "name": "嘉義市長竹段1120-0000地號", 
+                "owner": "董翔龍", 
+                "register_date": "102年09月24日", 
+                "share_portion": "全部", 
+                "trust": "臺灣土地銀行"
+            }, 
+            {
+                "area": "731.89", 
+                "name": "嘉義縣竹崎鄉紫雲段段0253-0000地號", 
+                "owner": "董翔龍", 
+                "register_date": "102年09月26日", 
+                "share_portion": "2分之1", 
+                "trust": "臺灣土地銀行"
+            }, 
+            {
+                "area": "178", 
+                "name": "嘉義市台斗坑段0127-0008地號", 
+                "owner": "黃惠英", 
+                "register_date": "102年09月25日", 
+                "share_portion": "全部", 
+                "trust": "臺灣土地銀行"
+            }, 
+            {
+                "area": "300", 
+                "name": "嘉義市台斗坑段0127-0011地號", 
+                "owner": "黃惠英", 
+                "register_date": "102年09月25日", 
+                "share_portion": "14分之2", 
+                "trust": "臺灣土地銀行"
+            }, 
+            {
+                "area": "68", 
+                "name": "高雄市鳳山區七老爺段一甲小段0055-0014地號", 
+                "owner": "黃惠英", 
+                "register_date": "102年09月23日", 
+                "share_portion": "2分之1", 
+                "trust": "臺灣土地銀行"
+            }, 
+            {
+                "area": "45", 
+                "name": "高雄市苓雅區武聖段1259-0000地號", 
+                "owner": "黃惠英", 
+                "register_date": "102年09月23日", 
+                "share_portion": "2分之1", 
+                "trust": "臺灣土地銀行"
+            }, 
+            {
+                "area": "105", 
+                "name": "高雄市苓雅區福東段2098-0000地號", 
+                "owner": "黃惠英", 
+                "register_date": "102年09月23日", 
+                "share_portion": "全部", 
+                "trust": "臺灣土地銀行"
+            }, 
+            {
+                "area": "313", 
+                "name": "高雄市鼓山區龍華段二小段0233-0002地號", 
+                "owner": "黃惠英", 
+                "register_date": "102年09月23日", 
+                "share_portion": "10分之1", 
+                "trust": "臺灣土地銀行"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.國軍退除役官兵輔導委員會", 
+            "name": "董翔龍", 
+            "report_at": "2013-10-16", 
+            "report_type": "就(到)職申報", 
+            "spouse": "黃惠英", 
+            "title": "1.主任委員"
+        }, 
+        "stock": [
+            {
+                "face_value": "10", 
+                "name": "富邦金融控股股份有限公司", 
+                "owner": "黃惠英", 
+                "quantity": "2,313", 
+                "total": "23,130", 
+                "trust": "臺灣土地銀行", 
+                "trust_at": "102年09月16日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "南緯實業股份有限公司", 
+                "owner": "黃惠英", 
+                "quantity": "1,020", 
+                "total": "10,200", 
+                "trust": "臺灣土地銀行", 
+                "trust_at": "102年09月16日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "唐榮鐵工廠股份有限公司", 
+                "owner": "黃惠英", 
+                "quantity": "2,000", 
+                "total": "20,000", 
+                "trust": "臺灣土地銀行", 
+                "trust_at": "102年09月16日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "台新金融控股股份有限公司", 
+                "owner": "黃惠英", 
+                "quantity": "5,253", 
+                "total": "52,530", 
+                "trust": "臺灣土地銀行", 
+                "trust_at": "102年09月16日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "台灣典範半導體股份有限公司", 
+                "owner": "黃惠英", 
+                "quantity": "1,025", 
+                "total": "10,250", 
+                "trust": "臺灣土地銀行", 
+                "trust_at": "102年09月16日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "群創光電股份有限公司", 
+                "owner": "黃惠英", 
+                "quantity": "2,306", 
+                "total": "23,060", 
+                "trust": "臺灣土地銀行", 
+                "trust_at": "102年09月16日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "明泰科技股份有限公司", 
+                "owner": "黃惠英", 
+                "quantity": "2,159", 
+                "total": "21,590", 
+                "trust": "臺灣土地銀行", 
+                "trust_at": "102年09月16日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "聯華電子股份有限公司", 
+                "owner": "黃惠英", 
+                "quantity": "2,090", 
+                "total": "20,900", 
+                "trust": "臺灣土地銀行", 
+                "trust_at": "102年09月16日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "華碩電腦股份有限公司", 
+                "owner": "黃惠英", 
+                "quantity": "19", 
+                "total": "190", 
+                "trust": "臺灣土地銀行", 
+                "trust_at": "102年09月16日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "台灣塑膠工業股份有限公司", 
+                "owner": "黃惠英", 
+                "quantity": "2,225", 
+                "total": "22,250", 
+                "trust": "臺灣土地銀行", 
+                "trust_at": "102年09月16日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "鴻海精密工業股份有限公司", 
+                "owner": "黃惠英", 
+                "quantity": "1,790", 
+                "total": "17,900", 
+                "trust": "臺灣土地銀行", 
+                "trust_at": "102年09月16日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "儒鴻企業股份有限公司", 
+                "owner": "黃惠英", 
+                "quantity": "73", 
+                "total": "730", 
+                "trust": "臺灣土地銀行", 
+                "trust_at": "102年09月16日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "宏都建設股份有限公司", 
+                "owner": "黃惠英", 
+                "quantity": "718", 
+                "total": "7,180", 
+                "trust": "臺灣土地銀行", 
+                "trust_at": "102年09月16日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "中華電信股份有限公司", 
+                "owner": "黃惠英", 
+                "quantity": "508", 
+                "total": "5,080", 
+                "trust": "臺灣土地銀行", 
+                "trust_at": "102年09月16日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "台灣肥料股份有限公司", 
+                "owner": "黃惠英", 
+                "quantity": "2,000", 
+                "total": "20,000", 
+                "trust": "臺灣土地銀行", 
+                "trust_at": "102年09月16日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "和碩聯合科技股份有限公司", 
+                "owner": "黃惠英", 
+                "quantity": "43", 
+                "total": "430", 
+                "trust": "臺灣土地銀行", 
+                "trust_at": "102年09月16日"
+            }, 
+            {
+                "face_value": "10", 
+                "name": "中國鋼鐵股份有限公司", 
+                "owner": "黃惠英", 
+                "quantity": "20,336", 
+                "total": "203,360", 
+                "trust": "臺灣土地銀行", 
+                "trust_at": "102年09月16日"
+            }
+        ]
+    }, 
+    {
+        "building": [], 
+        "land": [], 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.國家通訊傳播委員會", 
+            "name": "魏學文", 
+            "report_at": "2013-09-23", 
+            "report_type": "定期申報", 
+            "spouse": "林月華", 
+            "title": "1.委員"
+        }, 
+        "stock": [
+            {
+                "face_value": "10", 
+                "name": "中國人造纖維", 
+                "owner": "林月華", 
+                "quantity": "1,702", 
+                "total": "17,020", 
+                "trust": "第一商業銀行", 
+                "trust_at": "102年09月16日"
+            }
+        ]
+    }, 
+    {
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.嘉義縣政府", 
+            "name": "林良懋", 
+            "report_at": "2012-12-28", 
+            "report_type": "定期申報", 
+            "spouse": "陳梅燕", 
+            "title": "1.處長"
+        }
+    }, 
+    {
+        "building": [
+            {
+                "acquire_value": "920,000(自用房屋)", 
+                "area": "96.89", 
+                "name": "★花蓮縣吉安鄉慶豐段01138-000建號", 
+                "owner": "饒忠", 
+                "register_date": "77年03月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }
+        ], 
+        "land": [
+            {
+                "acquire_value": "900,000(自用房屋之坐落基地)", 
+                "area": "93", 
+                "name": "★花蓮縣吉安鄉慶豐段1065-0030地號", 
+                "owner": "饒忠", 
+                "register_date": "77年02月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.花蓮縣環境保護局", 
+            "name": "饒忠", 
+            "report_at": "2013-06-21", 
+            "report_type": "就(到)職申報", 
+            "spouse": "陳玉萍", 
+            "title": "1.局長"
+        }
+    }, 
+    {
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.連江縣政府", 
+            "name": "林星寶", 
+            "report_at": "2012-02-01", 
+            "report_type": "卸(離)職申報", 
+            "spouse": "曹燕金", 
+            "title": "1.副縣長"
+        }
+    }
+]
