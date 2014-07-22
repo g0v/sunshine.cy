@@ -31,7 +31,7 @@ def rows(table, items, attr):
     return items
 
 models = json.load(open('models.json'))
-files = [codecs.open(f, 'r', encoding='utf-8') for f in glob.glob('data/xml/*.xml')]
+files = [codecs.open(f, 'r', encoding='utf-8') for f in glob.glob('../data/xml/*.xml')]
 for f in files:
     fileName, fileExt = os.path.splitext(os.path.basename(f.name))
     x = Selector(text=f.read(), type='xml')
@@ -56,6 +56,6 @@ for f in files:
                 items.append(item)
             item, model = {}, {}
     dump_data = json.dumps(items, sort_keys=True, indent=4, ensure_ascii=False)
-    common.write_file(dump_data, 'data/json/pretty_format/%s.json' % fileName)
+    common.write_file(dump_data, '../data/json/pretty_format/%s.json' % fileName)
     dump_data = json.dumps(items)
-    common.write_file(dump_data, 'data/json/%s.json' % fileName)
+    common.write_file(dump_data, '../data/json/%s.json' % fileName)
