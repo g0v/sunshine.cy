@@ -3,11 +3,16 @@ from django.db import models
 
 
 class Reports(models.Model):
-    journal = models.ForeignKey('journals.Journals', to_field="uid")
+    journal = models.ForeignKey('journals.Journals', to_field="name")
+    category = models.TextField()
     name = models.TextField()
-    department = models.IntegerField()
-    report_at = models.ForeignKey('legislator.Legislator', to_field="uid")
-    report_type = models.DateTimeField()
+    department = models.TextField()
+    title = models.TextField()
+    report_at = models.DateField()
+    report_type = models.TextField()
     spouse = models.TextField()
     def __unicode__(self):
         return self.name
+
+    class Meta:
+        unique_together = ('journal', 'category', 'name', 'report_at', 'report_type',)

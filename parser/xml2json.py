@@ -9,10 +9,11 @@ from scrapy.selector import Selector
 import common
 
 
-def profile(table):
+def profile(table, category):
     item = {}
     trs = table.xpath('TR')
     cells = [tr.xpath('TD/P/text()').extract() for tr in trs]
+    item['category'] = category
     item['name'] = cells[0][1].rstrip()
     item['department'] = cells[0][3].rstrip()
     item['title'] = cells[0][5].rstrip()
@@ -44,7 +45,7 @@ for f in files:
             model = models.get(p, {})
             item = {}
             if model:
-                item = profile(table)
+                item = {'meta': profile(table, p)}
         for category, attr in model.items():
             if re.search(category, p) and attr.get('name'):
                 item.update({attr['name']: rows(table, item.get(attr['name'], []), attr)})

@@ -29,7 +29,6 @@
                 "share_portion": "10000分之278"
             }
         ], 
-        "department": "1.勞動部", 
         "land": [
             {
                 "acquire_value": "(超過五年,自用)", 
@@ -41,12 +40,16 @@
                 "share_portion": "10000分之244"
             }
         ], 
-        "name": "陳益民", 
-        "report_at": "2014-04-10", 
-        "report_type": "就(到)職申報", 
-        "spouse": "蕭維玲", 
-        "stock": [], 
-        "title": "1.政務次長"
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.勞動部", 
+            "name": "陳益民", 
+            "report_at": "2014-04-10", 
+            "report_type": "就(到)職申報", 
+            "spouse": "蕭維玲", 
+            "title": "1.政務次長"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -59,7 +62,6 @@
                 "trust": "臺灣土地銀行"
             }
         ], 
-        "department": "1.勞動部", 
         "land": [
             {
                 "area": "2,893.09", 
@@ -70,12 +72,16 @@
                 "trust": "臺灣土地銀行"
             }
         ], 
-        "name": "陳益民", 
-        "report_at": "2014-04-10", 
-        "report_type": "就(到)職申報", 
-        "spouse": "蕭維玲", 
-        "stock": [], 
-        "title": "1.政務次長"
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.勞動部", 
+            "name": "陳益民", 
+            "report_at": "2014-04-10", 
+            "report_type": "就(到)職申報", 
+            "spouse": "蕭維玲", 
+            "title": "1.政務次長"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -98,7 +104,6 @@
                 "share_portion": "全部"
             }
         ], 
-        "department": "1.衛生福利部", 
         "land": [
             {
                 "acquire_value": "(超過五年)", 
@@ -119,12 +124,16 @@
                 "share_portion": "全部"
             }
         ], 
-        "name": "邱文達", 
-        "report_at": "2013-12-23", 
-        "report_type": "定期申報", 
-        "spouse": "康文娟", 
-        "stock": [], 
-        "title": "1.部長"
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.衛生福利部", 
+            "name": "邱文達", 
+            "report_at": "2013-12-23", 
+            "report_type": "定期申報", 
+            "spouse": "康文娟", 
+            "title": "1.部長"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -313,7 +322,6 @@
                 "trust": "臺灣銀行"
             }
         ], 
-        "department": "1.衛生福利部", 
         "land": [
             {
                 "area": "345", 
@@ -364,12 +372,16 @@
                 "trust": "臺灣銀行"
             }
         ], 
-        "name": "邱文達", 
-        "report_at": "2013-12-23", 
-        "report_type": "定期申報", 
-        "spouse": "康文娟", 
-        "stock": [], 
-        "title": "1.部長"
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.衛生福利部", 
+            "name": "邱文達", 
+            "report_at": "2013-12-23", 
+            "report_type": "定期申報", 
+            "spouse": "康文娟", 
+            "title": "1.部長"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -410,7 +422,6 @@
                 "share_portion": "全部"
             }
         ], 
-        "department": "1.衛生福利部", 
         "land": [
             {
                 "acquire_value": " 與建物合計", 
@@ -431,12 +442,16 @@
                 "share_portion": "1000分之13"
             }
         ], 
-        "name": "林奏延", 
-        "report_at": "2013-12-23", 
-        "report_type": "定期申報", 
-        "spouse": "楊端美", 
-        "stock": [], 
-        "title": "1.政務次長"
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.衛生福利部", 
+            "name": "林奏延", 
+            "report_at": "2013-12-23", 
+            "report_type": "定期申報", 
+            "spouse": "楊端美", 
+            "title": "1.政務次長"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -457,7 +472,6 @@
                 "trust": "臺灣銀行"
             }
         ], 
-        "department": "1.衛生福利部", 
         "land": [
             {
                 "area": "621", 
@@ -500,10 +514,15 @@
                 "trust": "臺灣銀行"
             }
         ], 
-        "name": "林奏延", 
-        "report_at": "2013-12-23", 
-        "report_type": "定期申報", 
-        "spouse": "楊端美", 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.衛生福利部", 
+            "name": "林奏延", 
+            "report_at": "2013-12-23", 
+            "report_type": "定期申報", 
+            "spouse": "楊端美", 
+            "title": "1.政務次長"
+        }, 
         "stock": [
             {
                 "face_value": "10", 
@@ -712,8 +731,7 @@
                 "trust": "臺灣銀行", 
                 "trust_at": "101年02月03日"
             }
-        ], 
-        "title": "1.政務次長"
+        ]
     }, 
     {
         "building": [
@@ -754,7 +772,6 @@
                 "share_portion": "全部"
             }
         ], 
-        "department": "1.衛生福利部", 
         "land": [
             {
                 "acquire_value": "", 
@@ -775,12 +792,16 @@
                 "share_portion": "4分之1"
             }
         ], 
-        "name": "曾中明", 
-        "report_at": "2013-09-01", 
-        "report_type": "就(到)職申報", 
-        "spouse": "吳孟娟", 
-        "stock": [], 
-        "title": "1.政務次長"
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.衛生福利部", 
+            "name": "曾中明", 
+            "report_at": "2013-09-01", 
+            "report_type": "就(到)職申報", 
+            "spouse": "吳孟娟", 
+            "title": "1.政務次長"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -801,7 +822,6 @@
                 "trust": "臺灣土地銀行"
             }
         ], 
-        "department": "1.衛生福利部", 
         "land": [
             {
                 "area": "194", 
@@ -876,12 +896,16 @@
                 "trust": "臺灣土地銀行"
             }
         ], 
-        "name": "曾中明", 
-        "report_at": "2013-09-01", 
-        "report_type": "就(到)職申報", 
-        "spouse": "吳孟娟", 
-        "stock": [], 
-        "title": "1.政務次長"
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.衛生福利部", 
+            "name": "曾中明", 
+            "report_at": "2013-09-01", 
+            "report_type": "就(到)職申報", 
+            "spouse": "吳孟娟", 
+            "title": "1.政務次長"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -904,7 +928,6 @@
                 "share_portion": "59分之2"
             }
         ], 
-        "department": "1.文化部", 
         "land": [
             {
                 "acquire_value": "併建物取得", 
@@ -916,10 +939,15 @@
                 "share_portion": "1000000分之2029"
             }
         ], 
-        "name": "龍應台", 
-        "report_at": "2013-12-31", 
-        "report_type": "定期申報", 
-        "spouse": "", 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.文化部", 
+            "name": "龍應台", 
+            "report_at": "2013-12-31", 
+            "report_type": "定期申報", 
+            "spouse": "", 
+            "title": "1.部長"
+        }, 
         "stock": [
             {
                 "currency": "港幣", 
@@ -945,8 +973,7 @@
                 "quantity": "6,233", 
                 "total": "240,531"
             }
-        ], 
-        "title": "1.部長"
+        ]
     }, 
     {
         "building": [
@@ -975,7 +1002,6 @@
                 "trust": "彰化商業銀行"
             }
         ], 
-        "department": "1.文化部", 
         "land": [
             {
                 "area": "8,100.59", 
@@ -986,10 +1012,15 @@
                 "trust": "彰化商業銀行"
             }
         ], 
-        "name": "龍應台", 
-        "report_at": "2013-12-31", 
-        "report_type": "定期申報", 
-        "spouse": "", 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.文化部", 
+            "name": "龍應台", 
+            "report_at": "2013-12-31", 
+            "report_type": "定期申報", 
+            "spouse": "", 
+            "title": "1.部長"
+        }, 
         "stock": [
             {
                 "face_value": "10", 
@@ -1027,8 +1058,7 @@
                 "trust": "彰化商業銀行", 
                 "trust_at": "民國101年05月"
             }
-        ], 
-        "title": "1.部長"
+        ]
     }, 
     {
         "building": [
@@ -1051,7 +1081,6 @@
                 "share_portion": "1000分之25"
             }
         ], 
-        "department": "1.科技部", 
         "land": [
             {
                 "acquire_value": "(超過五年)", 
@@ -1063,10 +1092,15 @@
                 "share_portion": "10000分之211"
             }
         ], 
-        "name": "林一平", 
-        "report_at": "2014-03-28", 
-        "report_type": "就(到)職申報", 
-        "spouse": "王櫻芳", 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.科技部", 
+            "name": "林一平", 
+            "report_at": "2014-03-28", 
+            "report_type": "就(到)職申報", 
+            "spouse": "王櫻芳", 
+            "title": "1.政務次長"
+        }, 
         "stock": [
             {
                 "currency": "新臺幣", 
@@ -1124,8 +1158,7 @@
                 "quantity": "378", 
                 "total": "3,780"
             }
-        ], 
-        "title": "1.政務次長"
+        ]
     }, 
     {
         "building": [
@@ -1175,7 +1208,6 @@
                 "share_portion": "日"
             }
         ], 
-        "department": "1.科技部", 
         "land": [
             {
                 "area": "124.33", 
@@ -1210,12 +1242,16 @@
                 "trust": "兆豐國際商業銀行"
             }
         ], 
-        "name": "林一平", 
-        "report_at": "2014-03-28", 
-        "report_type": "就(到)職申報", 
-        "spouse": "王櫻芳", 
-        "stock": [], 
-        "title": "1.政務次長"
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.科技部", 
+            "name": "林一平", 
+            "report_at": "2014-03-28", 
+            "report_type": "就(到)職申報", 
+            "spouse": "王櫻芳", 
+            "title": "1.政務次長"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -1229,7 +1265,6 @@
                 "share_portion": "全部"
             }
         ], 
-        "department": "1.科技部", 
         "land": [
             {
                 "acquire_value": "(超過五年)", 
@@ -1241,12 +1276,16 @@
                 "share_portion": "4分之1"
             }
         ], 
-        "name": "錢宗良", 
-        "report_at": "2014-05-18", 
-        "report_type": "就(到)職申報", 
-        "spouse": "吳惠文", 
-        "stock": [], 
-        "title": "1.政務次長"
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.科技部", 
+            "name": "錢宗良", 
+            "report_at": "2014-05-18", 
+            "report_type": "就(到)職申報", 
+            "spouse": "吳惠文", 
+            "title": "1.政務次長"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -1259,7 +1298,6 @@
                 "trust": "兆豐國際商業銀行"
             }
         ], 
-        "department": "1.科技部", 
         "land": [
             {
                 "area": "79", 
@@ -1286,12 +1324,16 @@
                 "trust": "兆豐國際商業銀行"
             }
         ], 
-        "name": "錢宗良", 
-        "report_at": "2014-05-18", 
-        "report_type": "就(到)職申報", 
-        "spouse": "吳惠文", 
-        "stock": [], 
-        "title": "1.政務次長"
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.科技部", 
+            "name": "錢宗良", 
+            "report_at": "2014-05-18", 
+            "report_type": "就(到)職申報", 
+            "spouse": "吳惠文", 
+            "title": "1.政務次長"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -1314,7 +1356,6 @@
                 "share_portion": "10000分之475"
             }
         ], 
-        "department": "1.僑務委員會", 
         "land": [
             {
                 "acquire_value": "(超過五年,土地)", 
@@ -1326,10 +1367,15 @@
                 "share_portion": "10000分之417"
             }
         ], 
-        "name": "陳士魁", 
-        "report_at": "2013-12-02", 
-        "report_type": "定期申報", 
-        "spouse": "黃玲美", 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.僑務委員會", 
+            "name": "陳士魁", 
+            "report_at": "2013-12-02", 
+            "report_type": "定期申報", 
+            "spouse": "黃玲美", 
+            "title": "1.委員長"
+        }, 
         "stock": [
             {
                 "currency": "新臺幣", 
@@ -1355,8 +1401,7 @@
                 "quantity": "2,348", 
                 "total": "23,480"
             }
-        ], 
-        "title": "1.委員長"
+        ]
     }, 
     {
         "building": [
@@ -1377,7 +1422,6 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "department": "1.僑務委員會", 
         "land": [
             {
                 "area": "1,698", 
@@ -1388,10 +1432,15 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "name": "陳士魁", 
-        "report_at": "2013-12-02", 
-        "report_type": "定期申報", 
-        "spouse": "黃玲美", 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.僑務委員會", 
+            "name": "陳士魁", 
+            "report_at": "2013-12-02", 
+            "report_type": "定期申報", 
+            "spouse": "黃玲美", 
+            "title": "1.委員長"
+        }, 
         "stock": [
             {
                 "face_value": "10", 
@@ -1420,8 +1469,7 @@
                 "trust": "第一商業銀行", 
                 "trust_at": "102年09月12日"
             }
-        ], 
-        "title": "1.委員長"
+        ]
     }, 
     {
         "building": [
@@ -1444,7 +1492,6 @@
                 "share_portion": "全部"
             }
         ], 
-        "department": "1.僑務委員會", 
         "land": [
             {
                 "acquire_value": "14,311,234(自用房屋之坐落基地)", 
@@ -1578,10 +1625,15 @@
                 "share_portion": "10000分之25"
             }
         ], 
-        "name": "陳玉梅", 
-        "report_at": "2013-12-20", 
-        "report_type": "就(到)職申報", 
-        "spouse": "", 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.僑務委員會", 
+            "name": "陳玉梅", 
+            "report_at": "2013-12-20", 
+            "report_type": "就(到)職申報", 
+            "spouse": "", 
+            "title": "1.副委員長"
+        }, 
         "stock": [
             {
                 "currency": "新臺幣", 
@@ -1591,8 +1643,7 @@
                 "quantity": "900", 
                 "total": "9,000"
             }
-        ], 
-        "title": "1.副委員長"
+        ]
     }, 
     {
         "building": [
@@ -1619,7 +1670,6 @@
                 "trust": "華南商業銀行"
             }
         ], 
-        "department": "1.僑務委員會", 
         "land": [
             {
                 "area": "5,234", 
@@ -1742,10 +1792,15 @@
                 "trust": "華南商業銀行"
             }
         ], 
-        "name": "陳玉梅", 
-        "report_at": "2013-12-20", 
-        "report_type": "就(到)職申報", 
-        "spouse": "", 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.僑務委員會", 
+            "name": "陳玉梅", 
+            "report_at": "2013-12-20", 
+            "report_type": "就(到)職申報", 
+            "spouse": "", 
+            "title": "1.副委員長"
+        }, 
         "stock": [
             {
                 "face_value": "10", 
@@ -1828,8 +1883,7 @@
                 "trust": "華南商業銀行", 
                 "trust_at": "102年12月20日"
             }
-        ], 
-        "title": "1.副委員長"
+        ]
     }, 
     {
         "building": [
@@ -1842,7 +1896,6 @@
                 "trust": "華南商業銀行"
             }
         ], 
-        "department": "1.僑務委員會", 
         "land": [
             {
                 "area": "159.94", 
@@ -1933,12 +1986,16 @@
                 "trust": "華南商業銀行"
             }
         ], 
-        "name": "陳玉梅", 
-        "report_at": "2014-02-17", 
-        "report_type": "就(到)職申報", 
-        "spouse": "", 
-        "stock": [], 
-        "title": "1.副委員長"
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.僑務委員會", 
+            "name": "陳玉梅", 
+            "report_at": "2014-02-17", 
+            "report_type": "就(到)職申報", 
+            "spouse": "", 
+            "title": "1.副委員長"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -1961,7 +2018,6 @@
                 "share_portion": "全部"
             }
         ], 
-        "department": "1.行政院國家科學委員會", 
         "land": [
             {
                 "acquire_value": "1,869,870(房地總價額)", 
@@ -1982,10 +2038,15 @@
                 "share_portion": "10000分之313"
             }
         ], 
-        "name": "朱敬一", 
-        "report_at": "2013-12-03", 
-        "report_type": "定期申報", 
-        "spouse": "楊曉莉", 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.行政院國家科學委員會", 
+            "name": "朱敬一", 
+            "report_at": "2013-12-03", 
+            "report_type": "定期申報", 
+            "spouse": "楊曉莉", 
+            "title": "1.主任委員"
+        }, 
         "stock": [
             {
                 "currency": "新臺幣", 
@@ -2011,8 +2072,7 @@
                 "quantity": "8,423", 
                 "total": "84,230"
             }
-        ], 
-        "title": "1.主任委員"
+        ]
     }, 
     {
         "building": [
@@ -2025,7 +2085,6 @@
                 "trust": "臺灣銀行"
             }
         ], 
-        "department": "1.行政院國家科學委員會", 
         "land": [
             {
                 "area": "2,991.29", 
@@ -2036,10 +2095,15 @@
                 "trust": "臺灣銀行"
             }
         ], 
-        "name": "朱敬一", 
-        "report_at": "2013-12-03", 
-        "report_type": "定期申報", 
-        "spouse": "楊曉莉", 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.行政院國家科學委員會", 
+            "name": "朱敬一", 
+            "report_at": "2013-12-03", 
+            "report_type": "定期申報", 
+            "spouse": "楊曉莉", 
+            "title": "1.主任委員"
+        }, 
         "stock": [
             {
                 "face_value": "10", 
@@ -2059,8 +2123,7 @@
                 "trust": "臺灣銀行", 
                 "trust_at": ""
             }
-        ], 
-        "title": "1.主任委員"
+        ]
     }, 
     {
         "building": [
@@ -2074,7 +2137,6 @@
                 "share_portion": "全部"
             }
         ], 
-        "department": "1.行政院國家科學委員會", 
         "land": [
             {
                 "acquire_value": "(超過五年)", 
@@ -2086,10 +2148,15 @@
                 "share_portion": "10000分之243"
             }
         ], 
-        "name": "牟中原", 
-        "report_at": "2013-11-30", 
-        "report_type": "定期申報", 
-        "spouse": "王碧", 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.行政院國家科學委員會", 
+            "name": "牟中原", 
+            "report_at": "2013-11-30", 
+            "report_type": "定期申報", 
+            "spouse": "王碧", 
+            "title": "1.副主任委員"
+        }, 
         "stock": [
             {
                 "currency": "新臺幣", 
@@ -2227,8 +2294,7 @@
                 "quantity": "53,000", 
                 "total": "3,784,410"
             }
-        ], 
-        "title": "1.副主任委員"
+        ]
     }, 
     {
         "building": [
@@ -2241,7 +2307,6 @@
                 "trust": "兆豐國際商業銀行"
             }
         ], 
-        "department": "1.行政院國家科學委員會", 
         "land": [
             {
                 "area": "2,421.35", 
@@ -2260,10 +2325,15 @@
                 "trust": "兆豐國際商業銀行"
             }
         ], 
-        "name": "牟中原", 
-        "report_at": "2013-11-30", 
-        "report_type": "定期申報", 
-        "spouse": "王碧", 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.行政院國家科學委員會", 
+            "name": "牟中原", 
+            "report_at": "2013-11-30", 
+            "report_type": "定期申報", 
+            "spouse": "王碧", 
+            "title": "1.副主任委員"
+        }, 
         "stock": [
             {
                 "face_value": "10", 
@@ -2283,8 +2353,7 @@
                 "trust": "兆豐國際商業銀行", 
                 "trust_at": "102年10月30日"
             }
-        ], 
-        "title": "1.副主任委員"
+        ]
     }, 
     {
         "building": [
@@ -2298,7 +2367,6 @@
                 "share_portion": "全部"
             }
         ], 
-        "department": "1.行政院國家科學委員會", 
         "land": [
             {
                 "acquire_value": "(超過五年)", 
@@ -2310,10 +2378,15 @@
                 "share_portion": "10000分之243"
             }
         ], 
-        "name": "牟中原", 
-        "report_at": "2014-03-03", 
-        "report_type": "卸(離)職申報", 
-        "spouse": "王碧", 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.行政院國家科學委員會", 
+            "name": "牟中原", 
+            "report_at": "2014-03-03", 
+            "report_type": "卸(離)職申報", 
+            "spouse": "王碧", 
+            "title": "1.副主任委員"
+        }, 
         "stock": [
             {
                 "currency": "新臺幣", 
@@ -2451,8 +2524,7 @@
                 "quantity": "53,000", 
                 "total": "5,533,428"
             }
-        ], 
-        "title": "1.副主任委員"
+        ]
     }, 
     {
         "building": [
@@ -2465,7 +2537,6 @@
                 "trust": "兆豐國際商業銀行"
             }
         ], 
-        "department": "1.行政院國家科學委員會", 
         "land": [
             {
                 "area": "2,421.35", 
@@ -2484,10 +2555,15 @@
                 "trust": "兆豐國際商業銀行"
             }
         ], 
-        "name": "牟中原", 
-        "report_at": "2014-03-03", 
-        "report_type": "卸(離)職申報", 
-        "spouse": "王碧", 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.行政院國家科學委員會", 
+            "name": "牟中原", 
+            "report_at": "2014-03-03", 
+            "report_type": "卸(離)職申報", 
+            "spouse": "王碧", 
+            "title": "1.副主任委員"
+        }, 
         "stock": [
             {
                 "face_value": "10", 
@@ -2507,8 +2583,7 @@
                 "trust": "兆豐國際商業銀行", 
                 "trust_at": "102年10月30日"
             }
-        ], 
-        "title": "1.副主任委員"
+        ]
     }, 
     {
         "building": [
@@ -2522,7 +2597,6 @@
                 "share_portion": "2分之1"
             }
         ], 
-        "department": "1.行政院國家科學委員會", 
         "land": [
             {
                 "acquire_value": "1,670,848", 
@@ -2534,21 +2608,29 @@
                 "share_portion": "20000分之489"
             }
         ], 
-        "name": "孫以瀚", 
-        "report_at": "2013-12-30", 
-        "report_type": "定期申報", 
-        "spouse": "陳芊斐", 
-        "stock": [], 
-        "title": "1.副主任委員"
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.行政院國家科學委員會", 
+            "name": "孫以瀚", 
+            "report_at": "2013-12-30", 
+            "report_type": "定期申報", 
+            "spouse": "陳芊斐", 
+            "title": "1.副主任委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [], 
-        "department": "1.行政院國家科學委員會", 
         "land": [], 
-        "name": "孫以瀚", 
-        "report_at": "2013-12-30", 
-        "report_type": "定期申報", 
-        "spouse": "陳芊斐", 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.行政院國家科學委員會", 
+            "name": "孫以瀚", 
+            "report_at": "2013-12-30", 
+            "report_type": "定期申報", 
+            "spouse": "陳芊斐", 
+            "title": "1.副主任委員"
+        }, 
         "stock": [
             {
                 "face_value": "10", 
@@ -2586,8 +2668,7 @@
                 "trust": "兆豐國際商業銀行", 
                 "trust_at": "102年12月17日"
             }
-        ], 
-        "title": "1.副主任委員"
+        ]
     }, 
     {
         "building": [
@@ -2601,7 +2682,6 @@
                 "share_portion": "2分之1"
             }
         ], 
-        "department": "1.行政院國家科學委員會", 
         "land": [
             {
                 "acquire_value": "1,670,848", 
@@ -2613,12 +2693,16 @@
                 "share_portion": "20000分之489"
             }
         ], 
-        "name": "孫以瀚", 
-        "report_at": "2014-03-03", 
-        "report_type": "卸(離)職申報", 
-        "spouse": "陳芊斐", 
-        "stock": [], 
-        "title": "1.副主任委員"
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.行政院國家科學委員會", 
+            "name": "孫以瀚", 
+            "report_at": "2014-03-03", 
+            "report_type": "卸(離)職申報", 
+            "spouse": "陳芊斐", 
+            "title": "1.副主任委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -2659,7 +2743,6 @@
                 "share_portion": "10000分之143"
             }
         ], 
-        "department": "1.行政院國家科學委員會", 
         "land": [
             {
                 "acquire_value": "(超過五年,自住)", 
@@ -2689,10 +2772,15 @@
                 "share_portion": "全部"
             }
         ], 
-        "name": "賀陳弘", 
-        "report_at": "2013-12-20", 
-        "report_type": "定期申報", 
-        "spouse": "連明香", 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.行政院國家科學委員會", 
+            "name": "賀陳弘", 
+            "report_at": "2013-12-20", 
+            "report_type": "定期申報", 
+            "spouse": "連明香", 
+            "title": "1.副主任委員"
+        }, 
         "stock": [
             {
                 "currency": "新臺幣", 
@@ -2734,8 +2822,7 @@
                 "quantity": "18,400", 
                 "total": "184,000"
             }
-        ], 
-        "title": "1.副主任委員"
+        ]
     }, 
     {
         "building": [
@@ -2767,7 +2854,6 @@
                 "share_portion": "10000分之52"
             }
         ], 
-        "department": "1.行政院農業委員會", 
         "land": [
             {
                 "acquire_value": "1,123,385(超過五年)", 
@@ -2815,10 +2901,15 @@
                 "share_portion": "全部"
             }
         ], 
-        "name": "陳保基", 
-        "report_at": "2013-11-20", 
-        "report_type": "定期申報", 
-        "spouse": "阮惠玫", 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.行政院農業委員會", 
+            "name": "陳保基", 
+            "report_at": "2013-11-20", 
+            "report_type": "定期申報", 
+            "spouse": "阮惠玫", 
+            "title": "1.主任委員"
+        }, 
         "stock": [
             {
                 "currency": "新臺幣", 
@@ -2868,8 +2959,7 @@
                 "quantity": "1,600", 
                 "total": "16,000"
             }
-        ], 
-        "title": "1.主任委員"
+        ]
     }, 
     {
         "building": [
@@ -2892,7 +2982,6 @@
                 "share_portion": "6分之1"
             }
         ], 
-        "department": "1.行政院農業委員會", 
         "land": [
             {
                 "acquire_value": "6,200,000(連房屋,註1)", 
@@ -2976,16 +3065,19 @@
                 "share_portion": "8分之1"
             }
         ], 
-        "name": "王政騰", 
-        "report_at": "2013-12-02", 
-        "report_type": "定期申報", 
-        "spouse": "陳麗香", 
-        "stock": [], 
-        "title": "1.副主任委員"
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.行政院農業委員會", 
+            "name": "王政騰", 
+            "report_at": "2013-12-02", 
+            "report_type": "定期申報", 
+            "spouse": "陳麗香", 
+            "title": "1.副主任委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [], 
-        "department": "1.行政院農業委員會", 
         "land": [
             {
                 "area": "149.45", 
@@ -3044,12 +3136,16 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "name": "王政騰", 
-        "report_at": "2013-12-02", 
-        "report_type": "定期申報", 
-        "spouse": "陳麗香", 
-        "stock": [], 
-        "title": "1.副主任委員"
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.行政院農業委員會", 
+            "name": "王政騰", 
+            "report_at": "2013-12-02", 
+            "report_type": "定期申報", 
+            "spouse": "陳麗香", 
+            "title": "1.副主任委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -3063,7 +3159,6 @@
                 "share_portion": "全部"
             }
         ], 
-        "department": "1.行政院農業委員會", 
         "land": [
             {
                 "acquire_value": "15,540,000(超過五年)", 
@@ -3075,12 +3170,16 @@
                 "share_portion": "100000分之1371"
             }
         ], 
-        "name": "胡興華", 
-        "report_at": "2013-12-20", 
-        "report_type": "定期申報", 
-        "spouse": "廖芳蘭", 
-        "stock": [], 
-        "title": "1.副主任委員"
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.行政院農業委員會", 
+            "name": "胡興華", 
+            "report_at": "2013-12-20", 
+            "report_type": "定期申報", 
+            "spouse": "廖芳蘭", 
+            "title": "1.副主任委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -3094,7 +3193,6 @@
                 "share_portion": "1000分之103"
             }
         ], 
-        "department": "1.行政院經濟建設委員會", 
         "land": [
             {
                 "acquire_value": "18,000,000(應有部分)", 
@@ -3124,16 +3222,19 @@
                 "share_portion": "323,748"
             }
         ], 
-        "name": "陳小紅", 
-        "report_at": "2013-12-27", 
-        "report_type": "定期申報", 
-        "spouse": "", 
-        "stock": [], 
-        "title": "1.副主任委員"
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.行政院經濟建設委員會", 
+            "name": "陳小紅", 
+            "report_at": "2013-12-27", 
+            "report_type": "定期申報", 
+            "spouse": "", 
+            "title": "1.副主任委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [], 
-        "department": "1.行政院經濟建設委員會", 
         "land": [
             {
                 "area": "1,030", 
@@ -3144,10 +3245,15 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "name": "陳小紅", 
-        "report_at": "2013-12-27", 
-        "report_type": "定期申報", 
-        "spouse": "", 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.行政院經濟建設委員會", 
+            "name": "陳小紅", 
+            "report_at": "2013-12-27", 
+            "report_type": "定期申報", 
+            "spouse": "", 
+            "title": "1.副主任委員"
+        }, 
         "stock": [
             {
                 "face_value": "10", 
@@ -3284,8 +3390,7 @@
                 "trust": "第一商業銀行", 
                 "trust_at": "101年12月13日"
             }
-        ], 
-        "title": "1.副主任委員"
+        ]
     }, 
     {
         "building": [
@@ -3299,7 +3404,6 @@
                 "share_portion": "1000分之103"
             }
         ], 
-        "department": "1.行政院經濟建設委員會", 
         "land": [
             {
                 "acquire_value": "18,000,000(應有部分)", 
@@ -3329,16 +3433,19 @@
                 "share_portion": "10000分之625"
             }
         ], 
-        "name": "陳小紅", 
-        "report_at": "2014-01-22", 
-        "report_type": "卸(離)職申報", 
-        "spouse": "", 
-        "stock": [], 
-        "title": "1.副主任委員"
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.行政院經濟建設委員會", 
+            "name": "陳小紅", 
+            "report_at": "2014-01-22", 
+            "report_type": "卸(離)職申報", 
+            "spouse": "", 
+            "title": "1.副主任委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [], 
-        "department": "1.行政院經濟建設委員會", 
         "land": [
             {
                 "area": "1,030", 
@@ -3349,10 +3456,15 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "name": "陳小紅", 
-        "report_at": "2014-01-22", 
-        "report_type": "卸(離)職申報", 
-        "spouse": "", 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.行政院經濟建設委員會", 
+            "name": "陳小紅", 
+            "report_at": "2014-01-22", 
+            "report_type": "卸(離)職申報", 
+            "spouse": "", 
+            "title": "1.副主任委員"
+        }, 
         "stock": [
             {
                 "face_value": "10", 
@@ -3489,8 +3601,7 @@
                 "trust": "第一商業銀行", 
                 "trust_at": "101年12月13日"
             }
-        ], 
-        "title": "1.副主任委員"
+        ]
     }, 
     {
         "building": [
@@ -3517,7 +3628,6 @@
                 "share_portion": "10000分之13"
             }
         ], 
-        "department": "1.行政院經濟建設委員會", 
         "land": [
             {
                 "acquire_value": "(超過五年,自用)", 
@@ -3592,10 +3702,15 @@
                 "share_portion": "2分之1"
             }
         ], 
-        "name": "黃萬翔", 
-        "report_at": "2013-12-19", 
-        "report_type": "定期申報", 
-        "spouse": "林明美", 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.行政院經濟建設委員會", 
+            "name": "黃萬翔", 
+            "report_at": "2013-12-19", 
+            "report_type": "定期申報", 
+            "spouse": "林明美", 
+            "title": "1.副主任委員"
+        }, 
         "stock": [
             {
                 "currency": "新臺幣", 
@@ -3605,12 +3720,10 @@
                 "quantity": "7,700", 
                 "total": "77,000"
             }
-        ], 
-        "title": "1.副主任委員"
+        ]
     }, 
     {
         "building": [], 
-        "department": "1.行政院經濟建設委員會", 
         "land": [
             {
                 "area": "6,867", 
@@ -3965,12 +4078,16 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "name": "黃萬翔", 
-        "report_at": "2013-12-19", 
-        "report_type": "定期申報", 
-        "spouse": "林明美", 
-        "stock": [], 
-        "title": "1.副主任委員"
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.行政院經濟建設委員會", 
+            "name": "黃萬翔", 
+            "report_at": "2013-12-19", 
+            "report_type": "定期申報", 
+            "spouse": "林明美", 
+            "title": "1.副主任委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -3993,7 +4110,6 @@
                 "share_portion": "全部"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "acquire_value": "(超過五年)", 
@@ -4014,12 +4130,16 @@
                 "share_portion": "30分之1"
             }
         ], 
-        "name": "王建煊", 
-        "report_at": "2013-11-06", 
-        "report_type": "定期申報", 
-        "spouse": "蘇法昭", 
-        "stock": [], 
-        "title": "1.院長"
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.監察院", 
+            "name": "王建煊", 
+            "report_at": "2013-11-06", 
+            "report_type": "定期申報", 
+            "spouse": "蘇法昭", 
+            "title": "1.院長"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -4072,7 +4192,6 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "area": "3,186.98", 
@@ -4091,12 +4210,16 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "name": "王建煊", 
-        "report_at": "2013-11-06", 
-        "report_type": "定期申報", 
-        "spouse": "蘇法昭", 
-        "stock": [], 
-        "title": "1.院長"
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.監察院", 
+            "name": "王建煊", 
+            "report_at": "2013-11-06", 
+            "report_type": "定期申報", 
+            "spouse": "蘇法昭", 
+            "title": "1.院長"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -4119,7 +4242,6 @@
                 "share_portion": "38分之1"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "acquire_value": "(超過五年)", 
@@ -4131,12 +4253,16 @@
                 "share_portion": "10000分之128"
             }
         ], 
-        "name": "陳進利", 
-        "report_at": "2013-12-25", 
-        "report_type": "定期申報", 
-        "spouse": "王榮", 
-        "stock": [], 
-        "title": "1.副院長"
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.監察院", 
+            "name": "陳進利", 
+            "report_at": "2013-12-25", 
+            "report_type": "定期申報", 
+            "spouse": "王榮", 
+            "title": "1.副院長"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -4221,7 +4347,6 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "area": "3,716.16", 
@@ -4232,12 +4357,16 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "name": "陳進利", 
-        "report_at": "2013-12-25", 
-        "report_type": "定期申報", 
-        "spouse": "王榮", 
-        "stock": [], 
-        "title": "1.副院長"
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.監察院", 
+            "name": "陳進利", 
+            "report_at": "2013-12-25", 
+            "report_type": "定期申報", 
+            "spouse": "王榮", 
+            "title": "1.副院長"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -4251,7 +4380,6 @@
                 "share_portion": "10000分之43"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "acquire_value": "6,500,000(自用房屋之座落基地)", 
@@ -4263,12 +4391,16 @@
                 "share_portion": "全部"
             }
         ], 
-        "name": "尹祚芊", 
-        "report_at": "2013-12-02", 
-        "report_type": "定期申報", 
-        "spouse": "何淮中", 
-        "stock": [], 
-        "title": "1.監察委員"
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.監察院", 
+            "name": "尹祚芊", 
+            "report_at": "2013-12-02", 
+            "report_type": "定期申報", 
+            "spouse": "何淮中", 
+            "title": "1.監察委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -4281,7 +4413,6 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "area": "957", 
@@ -4292,21 +4423,29 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "name": "尹祚芊", 
-        "report_at": "2013-12-02", 
-        "report_type": "定期申報", 
-        "spouse": "何淮中", 
-        "stock": [], 
-        "title": "1.監察委員"
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.監察院", 
+            "name": "尹祚芊", 
+            "report_at": "2013-12-02", 
+            "report_type": "定期申報", 
+            "spouse": "何淮中", 
+            "title": "1.監察委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [], 
-        "department": "1.監察院", 
         "land": [], 
-        "name": "余騰芳", 
-        "report_at": "2013-12-16", 
-        "report_type": "定期申報", 
-        "spouse": "游春英", 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.監察院", 
+            "name": "余騰芳", 
+            "report_at": "2013-12-16", 
+            "report_type": "定期申報", 
+            "spouse": "游春英", 
+            "title": "1.監察委員"
+        }, 
         "stock": [
             {
                 "currency": "新臺幣", 
@@ -4348,8 +4487,7 @@
                 "quantity": "53", 
                 "total": "530"
             }
-        ], 
-        "title": "1.監察委員"
+        ]
     }, 
     {
         "building": [
@@ -4418,7 +4556,6 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "area": "150.13", 
@@ -4453,12 +4590,16 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "name": "余騰芳", 
-        "report_at": "2013-12-16", 
-        "report_type": "定期申報", 
-        "spouse": "游春英", 
-        "stock": [], 
-        "title": "1.監察委員"
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.監察院", 
+            "name": "余騰芳", 
+            "report_at": "2013-12-16", 
+            "report_type": "定期申報", 
+            "spouse": "游春英", 
+            "title": "1.監察委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -4472,7 +4613,6 @@
                 "share_portion": "全部"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "acquire_value": "(超過五年)", 
@@ -4529,10 +4669,15 @@
                 "share_portion": "全部"
             }
         ], 
-        "name": "吳豐山", 
-        "report_at": "2013-12-02", 
-        "report_type": "定期申報", 
-        "spouse": "吳蔡秀菊", 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.監察院", 
+            "name": "吳豐山", 
+            "report_at": "2013-12-02", 
+            "report_type": "定期申報", 
+            "spouse": "吳蔡秀菊", 
+            "title": "1.監察委員"
+        }, 
         "stock": [
             {
                 "currency": "新臺幣", 
@@ -4550,8 +4695,7 @@
                 "quantity": "6,000", 
                 "total": "60,000"
             }
-        ], 
-        "title": "1.監察委員"
+        ]
     }, 
     {
         "building": [
@@ -4612,7 +4756,6 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "area": "136", 
@@ -4687,10 +4830,15 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "name": "吳豐山", 
-        "report_at": "2013-12-02", 
-        "report_type": "定期申報", 
-        "spouse": "吳蔡秀菊", 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.監察院", 
+            "name": "吳豐山", 
+            "report_at": "2013-12-02", 
+            "report_type": "定期申報", 
+            "spouse": "吳蔡秀菊", 
+            "title": "1.監察委員"
+        }, 
         "stock": [
             {
                 "face_value": "10", 
@@ -4746,8 +4894,7 @@
                 "trust": "第一商業銀行", 
                 "trust_at": "97年12月03日"
             }
-        ], 
-        "title": "1.監察委員"
+        ]
     }, 
     {
         "building": [
@@ -4770,7 +4917,6 @@
                 "share_portion": "全部"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "acquire_value": "(超過五年,建)", 
@@ -4845,10 +4991,15 @@
                 "share_portion": "6分之1"
             }
         ], 
-        "name": "李炳南", 
-        "report_at": "2013-12-05", 
-        "report_type": "定期申報", 
-        "spouse": "黃寶秀", 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.監察院", 
+            "name": "李炳南", 
+            "report_at": "2013-12-05", 
+            "report_type": "定期申報", 
+            "spouse": "黃寶秀", 
+            "title": "1.監察委員"
+        }, 
         "stock": [
             {
                 "currency": "新臺幣", 
@@ -4954,8 +5105,7 @@
                 "quantity": "15,000", 
                 "total": "150,000"
             }
-        ], 
-        "title": "1.監察委員"
+        ]
     }, 
     {
         "building": [
@@ -5008,7 +5158,6 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "area": "12,319", 
@@ -5067,10 +5216,15 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "name": "李炳南", 
-        "report_at": "2013-12-05", 
-        "report_type": "定期申報", 
-        "spouse": "黃寶秀", 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.監察院", 
+            "name": "李炳南", 
+            "report_at": "2013-12-05", 
+            "report_type": "定期申報", 
+            "spouse": "黃寶秀", 
+            "title": "1.監察委員"
+        }, 
         "stock": [
             {
                 "face_value": "10", 
@@ -5162,8 +5316,7 @@
                 "trust": "第一商業銀行", 
                 "trust_at": "97年11月20日"
             }
-        ], 
-        "title": "1.監察委員"
+        ]
     }, 
     {
         "building": [
@@ -5177,7 +5330,6 @@
                 "share_portion": "全部"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "acquire_value": "4,190,000", 
@@ -5189,10 +5341,15 @@
                 "share_portion": "10000分之205"
             }
         ], 
-        "name": "李復甸", 
-        "report_at": "2013-12-05", 
-        "report_type": "定期申報", 
-        "spouse": "李范燕瑛", 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.監察院", 
+            "name": "李復甸", 
+            "report_at": "2013-12-05", 
+            "report_type": "定期申報", 
+            "spouse": "李范燕瑛", 
+            "title": "1.監察委員"
+        }, 
         "stock": [
             {
                 "currency": "新臺幣", 
@@ -5202,8 +5359,7 @@
                 "quantity": "200,000", 
                 "total": "2,000,000"
             }
-        ], 
-        "title": "1.監察委員"
+        ]
     }, 
     {
         "building": [
@@ -5248,7 +5404,6 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "area": "1,576", 
@@ -5259,10 +5414,15 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "name": "李復甸", 
-        "report_at": "2013-12-05", 
-        "report_type": "定期申報", 
-        "spouse": "李范燕瑛", 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.監察院", 
+            "name": "李復甸", 
+            "report_at": "2013-12-05", 
+            "report_type": "定期申報", 
+            "spouse": "李范燕瑛", 
+            "title": "1.監察委員"
+        }, 
         "stock": [
             {
                 "face_value": "10", 
@@ -5444,8 +5604,7 @@
                 "trust": "第一商業銀行", 
                 "trust_at": "99年07月08日"
             }
-        ], 
-        "title": "1.監察委員"
+        ]
     }, 
     {
         "building": [
@@ -5486,7 +5645,6 @@
                 "share_portion": "2分之1"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "acquire_value": "(超過五年)", 
@@ -5525,12 +5683,16 @@
                 "share_portion": "20000分之2"
             }
         ], 
-        "name": "杜善良", 
-        "report_at": "2013-12-23", 
-        "report_type": "定期申報", 
-        "spouse": "杜張貴英", 
-        "stock": [], 
-        "title": "1.監察委員"
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.監察院", 
+            "name": "杜善良", 
+            "report_at": "2013-12-23", 
+            "report_type": "定期申報", 
+            "spouse": "杜張貴英", 
+            "title": "1.監察委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -5543,7 +5705,6 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "area": "16.05", 
@@ -5594,21 +5755,29 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "name": "杜善良", 
-        "report_at": "2013-12-23", 
-        "report_type": "定期申報", 
-        "spouse": "杜張貴英", 
-        "stock": [], 
-        "title": "1.監察委員"
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.監察院", 
+            "name": "杜善良", 
+            "report_at": "2013-12-23", 
+            "report_type": "定期申報", 
+            "spouse": "杜張貴英", 
+            "title": "1.監察委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [], 
-        "department": "1.監察院", 
         "land": [], 
-        "name": "杜善良", 
-        "report_at": "2014-01-09", 
-        "report_type": "定期申報", 
-        "spouse": "杜張貴英", 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.監察院", 
+            "name": "杜善良", 
+            "report_at": "2014-01-09", 
+            "report_type": "定期申報", 
+            "spouse": "杜張貴英", 
+            "title": "1.監察委員"
+        }, 
         "stock": [
             {
                 "face_value": "10", 
@@ -5619,8 +5788,7 @@
                 "trust": "第一商業銀行", 
                 "trust_at": "103年01月08日"
             }
-        ], 
-        "title": "1.監察委員"
+        ]
     }, 
     {
         "building": [
@@ -5643,7 +5811,6 @@
                 "share_portion": "10000分之848"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "acquire_value": "18,100,000(房地合購)", 
@@ -5655,12 +5822,16 @@
                 "share_portion": "10000分之848"
             }
         ], 
-        "name": "沈美真", 
-        "report_at": "2013-12-10", 
-        "report_type": "定期申報", 
-        "spouse": "郭登聰", 
-        "stock": [], 
-        "title": "1.監察委員"
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.監察院", 
+            "name": "沈美真", 
+            "report_at": "2013-12-10", 
+            "report_type": "定期申報", 
+            "spouse": "郭登聰", 
+            "title": "1.監察委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -5689,7 +5860,6 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "area": "4,834.66", 
@@ -5732,10 +5902,15 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "name": "沈美真", 
-        "report_at": "2013-12-10", 
-        "report_type": "定期申報", 
-        "spouse": "郭登聰", 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.監察院", 
+            "name": "沈美真", 
+            "report_at": "2013-12-10", 
+            "report_type": "定期申報", 
+            "spouse": "郭登聰", 
+            "title": "1.監察委員"
+        }, 
         "stock": [
             {
                 "face_value": "10", 
@@ -5800,8 +5975,7 @@
                 "trust": "第一商業銀行", 
                 "trust_at": "99年10月04日"
             }
-        ], 
-        "title": "1.監察委員"
+        ]
     }, 
     {
         "building": [
@@ -5815,7 +5989,6 @@
                 "share_portion": "全部"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "acquire_value": "3,262,500(內含車位基地持分10000分之155)", 
@@ -5827,12 +6000,16 @@
                 "share_portion": "100000分之869"
             }
         ], 
-        "name": "周陽山", 
-        "report_at": "2013-12-24", 
-        "report_type": "定期申報", 
-        "spouse": "黃良瑩", 
-        "stock": [], 
-        "title": "1.監察委員"
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.監察院", 
+            "name": "周陽山", 
+            "report_at": "2013-12-24", 
+            "report_type": "定期申報", 
+            "spouse": "黃良瑩", 
+            "title": "1.監察委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -5861,7 +6038,6 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "area": "3,488.97", 
@@ -5872,12 +6048,16 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "name": "周陽山", 
-        "report_at": "2013-12-24", 
-        "report_type": "定期申報", 
-        "spouse": "黃良瑩", 
-        "stock": [], 
-        "title": "1.監察委員"
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.監察院", 
+            "name": "周陽山", 
+            "report_at": "2013-12-24", 
+            "report_type": "定期申報", 
+            "spouse": "黃良瑩", 
+            "title": "1.監察委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -5900,7 +6080,6 @@
                 "share_portion": "180分之1"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "acquire_value": "(超過五年)", 
@@ -5912,12 +6091,16 @@
                 "share_portion": "10000分之49"
             }
         ], 
-        "name": "林鉅鋃", 
-        "report_at": "2013-12-02", 
-        "report_type": "定期申報", 
-        "spouse": "李月英", 
-        "stock": [], 
-        "title": "1.監察委員"
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.監察院", 
+            "name": "林鉅鋃", 
+            "report_at": "2013-12-02", 
+            "report_type": "定期申報", 
+            "spouse": "李月英", 
+            "title": "1.監察委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -5994,7 +6177,6 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "area": "273", 
@@ -6093,12 +6275,16 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "name": "林鉅鋃", 
-        "report_at": "2013-12-02", 
-        "report_type": "定期申報", 
-        "spouse": "李月英", 
-        "stock": [], 
-        "title": "1.監察委員"
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.監察院", 
+            "name": "林鉅鋃", 
+            "report_at": "2013-12-02", 
+            "report_type": "定期申報", 
+            "spouse": "李月英", 
+            "title": "1.監察委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -6112,7 +6298,6 @@
                 "share_portion": "全部"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "acquire_value": "(超過五年,自用房屋座落之基地)", 
@@ -6124,10 +6309,15 @@
                 "share_portion": "10000分之325"
             }
         ], 
-        "name": "洪昭男", 
-        "report_at": "2013-12-09", 
-        "report_type": "定期申報", 
-        "spouse": "張燕如", 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.監察院", 
+            "name": "洪昭男", 
+            "report_at": "2013-12-09", 
+            "report_type": "定期申報", 
+            "spouse": "張燕如", 
+            "title": "1.監察委員"
+        }, 
         "stock": [
             {
                 "currency": "新臺幣", 
@@ -6169,8 +6359,7 @@
                 "quantity": "644", 
                 "total": "6,440"
             }
-        ], 
-        "title": "1.監察委員"
+        ]
     }, 
     {
         "building": [
@@ -6199,7 +6388,6 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "area": "1,410", 
@@ -6210,12 +6398,16 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "name": "洪昭男", 
-        "report_at": "2013-12-09", 
-        "report_type": "定期申報", 
-        "spouse": "張燕如", 
-        "stock": [], 
-        "title": "1.監察委員"
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.監察院", 
+            "name": "洪昭男", 
+            "report_at": "2013-12-09", 
+            "report_type": "定期申報", 
+            "spouse": "張燕如", 
+            "title": "1.監察委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -6229,7 +6421,6 @@
                 "share_portion": "全部"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "acquire_value": "9,190,000", 
@@ -6241,10 +6432,15 @@
                 "share_portion": "10000分之190"
             }
         ], 
-        "name": "洪德旋", 
-        "report_at": "2013-12-18", 
-        "report_type": "定期申報", 
-        "spouse": "黃鳳美", 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.監察院", 
+            "name": "洪德旋", 
+            "report_at": "2013-12-18", 
+            "report_type": "定期申報", 
+            "spouse": "黃鳳美", 
+            "title": "1.監察委員"
+        }, 
         "stock": [
             {
                 "currency": "新臺幣", 
@@ -6310,8 +6506,7 @@
                 "quantity": "20,250", 
                 "total": "202,500"
             }
-        ], 
-        "title": "1.監察委員"
+        ]
     }, 
     {
         "building": [
@@ -6364,7 +6559,6 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "area": "197", 
@@ -6415,10 +6609,15 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "name": "洪德旋", 
-        "report_at": "2013-12-12", 
-        "report_type": "定期申報", 
-        "spouse": "黃鳳美", 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.監察院", 
+            "name": "洪德旋", 
+            "report_at": "2013-12-12", 
+            "report_type": "定期申報", 
+            "spouse": "黃鳳美", 
+            "title": "1.監察委員"
+        }, 
         "stock": [
             {
                 "face_value": "10", 
@@ -6627,8 +6826,7 @@
                 "trust": "第一商業銀行", 
                 "trust_at": "97年11月21日"
             }
-        ], 
-        "title": "1.監察委員"
+        ]
     }, 
     {
         "building": [
@@ -6660,7 +6858,6 @@
                 "share_portion": "全部"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "acquire_value": "1,800,000(房屋土地同售)", 
@@ -6690,12 +6887,16 @@
                 "share_portion": "177分之2"
             }
         ], 
-        "name": "陳永祥", 
-        "report_at": "2013-12-25", 
-        "report_type": "定期申報", 
-        "spouse": "余杜麗", 
-        "stock": [], 
-        "title": "1.監察委員"
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.監察院", 
+            "name": "陳永祥", 
+            "report_at": "2013-12-25", 
+            "report_type": "定期申報", 
+            "spouse": "余杜麗", 
+            "title": "1.監察委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -6716,7 +6917,6 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "area": "547", 
@@ -6743,12 +6943,16 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "name": "陳永祥", 
-        "report_at": "2013-12-25", 
-        "report_type": "定期申報", 
-        "spouse": "余杜麗", 
-        "stock": [], 
-        "title": "1.監察委員"
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.監察院", 
+            "name": "陳永祥", 
+            "report_at": "2013-12-25", 
+            "report_type": "定期申報", 
+            "spouse": "余杜麗", 
+            "title": "1.監察委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -6771,7 +6975,6 @@
                 "share_portion": "10000分之353"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "acquire_value": "(超過五年)", 
@@ -6783,12 +6986,16 @@
                 "share_portion": "28分之1"
             }
         ], 
-        "name": "陳健民", 
-        "report_at": "2013-12-04", 
-        "report_type": "定期申報", 
-        "spouse": "", 
-        "stock": [], 
-        "title": "1.監察委員"
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.監察院", 
+            "name": "陳健民", 
+            "report_at": "2013-12-04", 
+            "report_type": "定期申報", 
+            "spouse": "", 
+            "title": "1.監察委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -6823,7 +7030,6 @@
                 "share_portion": "10000分之371"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "acquire_value": "(超過五年)", 
@@ -6880,12 +7086,16 @@
                 "share_portion": "816238分之5063"
             }
         ], 
-        "name": "馬以工", 
-        "report_at": "2013-11-22", 
-        "report_type": "定期申報", 
-        "spouse": "", 
-        "stock": [], 
-        "title": "1.監察委員"
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.監察院", 
+            "name": "馬以工", 
+            "report_at": "2013-11-22", 
+            "report_type": "定期申報", 
+            "spouse": "", 
+            "title": "1.監察委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -6917,7 +7127,6 @@
                 "share_portion": "100000分之1369"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "acquire_value": "3,150,000(含車位100,000分之175)", 
@@ -6929,12 +7138,16 @@
                 "share_portion": "100000分之791"
             }
         ], 
-        "name": "馬秀如", 
-        "report_at": "2013-11-01", 
-        "report_type": "定期申報", 
-        "spouse": "", 
-        "stock": [], 
-        "title": "1.監察委員"
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.監察院", 
+            "name": "馬秀如", 
+            "report_at": "2013-11-01", 
+            "report_type": "定期申報", 
+            "spouse": "", 
+            "title": "1.監察委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -6957,7 +7170,6 @@
                 "share_portion": "100000分之850"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "acquire_value": "26,000,000(含於建物價格)", 
@@ -6969,12 +7181,16 @@
                 "share_portion": "20000分之156"
             }
         ], 
-        "name": "高鳳仙", 
-        "report_at": "2013-12-19", 
-        "report_type": "定期申報", 
-        "spouse": "盧政春", 
-        "stock": [], 
-        "title": "1.監察委員"
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.監察院", 
+            "name": "高鳳仙", 
+            "report_at": "2013-12-19", 
+            "report_type": "定期申報", 
+            "spouse": "盧政春", 
+            "title": "1.監察委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -6987,7 +7203,6 @@
                 "trust": "兆豐國際商業銀行"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "area": "4,025", 
@@ -7294,10 +7509,15 @@
                 "trust": "兆豐國際商業銀行"
             }
         ], 
-        "name": "高鳳仙", 
-        "report_at": "2013-12-19", 
-        "report_type": "定期申報", 
-        "spouse": "盧政春", 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.監察院", 
+            "name": "高鳳仙", 
+            "report_at": "2013-12-19", 
+            "report_type": "定期申報", 
+            "spouse": "盧政春", 
+            "title": "1.監察委員"
+        }, 
         "stock": [
             {
                 "face_value": "10", 
@@ -7416,17 +7636,20 @@
                 "trust": "兆豐國際商業銀行", 
                 "trust_at": "97年12月22日"
             }
-        ], 
-        "title": "1.監察委員"
+        ]
     }, 
     {
         "building": [], 
-        "department": "1.監察院", 
         "land": [], 
-        "name": "高鳳仙", 
-        "report_at": "2014-02-19", 
-        "report_type": "定期申報", 
-        "spouse": "盧政春", 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.監察院", 
+            "name": "高鳳仙", 
+            "report_at": "2014-02-19", 
+            "report_type": "定期申報", 
+            "spouse": "盧政春", 
+            "title": "1.監察委員"
+        }, 
         "stock": [
             {
                 "face_value": "10", 
@@ -7437,8 +7660,7 @@
                 "trust": "兆豐國際商業銀行", 
                 "trust_at": "103年01月15日"
             }
-        ], 
-        "title": "1.監察委員"
+        ]
     }, 
     {
         "building": [
@@ -7452,7 +7674,6 @@
                 "share_portion": "全部"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "acquire_value": "(超過五年)", 
@@ -7464,10 +7685,15 @@
                 "share_portion": "28分之2"
             }
         ], 
-        "name": "黃武次", 
-        "report_at": "2013-12-02", 
-        "report_type": "定期申報", 
-        "spouse": "張淑姿", 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.監察院", 
+            "name": "黃武次", 
+            "report_at": "2013-12-02", 
+            "report_type": "定期申報", 
+            "spouse": "張淑姿", 
+            "title": "1.監察委員"
+        }, 
         "stock": [
             {
                 "currency": "新臺幣", 
@@ -7485,8 +7711,7 @@
                 "quantity": "41", 
                 "total": "410"
             }
-        ], 
-        "title": "1.監察委員"
+        ]
     }, 
     {
         "building": [
@@ -7499,7 +7724,6 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "area": "158", 
@@ -7510,10 +7734,15 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "name": "黃武次", 
-        "report_at": "2013-12-18", 
-        "report_type": "定期申報", 
-        "spouse": "張淑姿", 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.監察院", 
+            "name": "黃武次", 
+            "report_at": "2013-12-18", 
+            "report_type": "定期申報", 
+            "spouse": "張淑姿", 
+            "title": "1.監察委員"
+        }, 
         "stock": [
             {
                 "face_value": "10", 
@@ -7596,8 +7825,7 @@
                 "trust": "第一商業銀行", 
                 "trust_at": "97年11月27日"
             }
-        ], 
-        "title": "1.監察委員"
+        ]
     }, 
     {
         "building": [
@@ -7611,7 +7839,6 @@
                 "share_portion": "3分之1"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "acquire_value": "(超過五年,農地)", 
@@ -7632,12 +7859,16 @@
                 "share_portion": "2分之1"
             }
         ], 
-        "name": "黃煌雄", 
-        "report_at": "2013-12-05", 
-        "report_type": "定期申報", 
-        "spouse": "吳月娥", 
-        "stock": [], 
-        "title": "1.監察委員"
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.監察院", 
+            "name": "黃煌雄", 
+            "report_at": "2013-12-05", 
+            "report_type": "定期申報", 
+            "spouse": "吳月娥", 
+            "title": "1.監察委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -7650,7 +7881,6 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "area": "22", 
@@ -7669,10 +7899,15 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "name": "黃煌雄", 
-        "report_at": "2013-12-05", 
-        "report_type": "定期申報", 
-        "spouse": "吳月娥", 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.監察院", 
+            "name": "黃煌雄", 
+            "report_at": "2013-12-05", 
+            "report_type": "定期申報", 
+            "spouse": "吳月娥", 
+            "title": "1.監察委員"
+        }, 
         "stock": [
             {
                 "face_value": "10", 
@@ -7683,8 +7918,7 @@
                 "trust": "第一商業銀行", 
                 "trust_at": "97年12月02日"
             }
-        ], 
-        "title": "1.監察委員"
+        ]
     }, 
     {
         "building": [
@@ -7698,7 +7932,6 @@
                 "share_portion": "全部"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "acquire_value": "28,000,000(與建物合計)", 
@@ -7710,10 +7943,15 @@
                 "share_portion": "10000分之741"
             }
         ], 
-        "name": "程仁宏", 
-        "report_at": "2013-12-05", 
-        "report_type": "定期申報", 
-        "spouse": "危芊芝", 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.監察院", 
+            "name": "程仁宏", 
+            "report_at": "2013-12-05", 
+            "report_type": "定期申報", 
+            "spouse": "危芊芝", 
+            "title": "1.監察委員"
+        }, 
         "stock": [
             {
                 "currency": "新臺幣", 
@@ -7723,8 +7961,7 @@
                 "quantity": "10,438", 
                 "total": "104,380"
             }
-        ], 
-        "title": "1.監察委員"
+        ]
     }, 
     {
         "building": [
@@ -7769,7 +8006,6 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "area": "152", 
@@ -7844,12 +8080,16 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "name": "程仁宏", 
-        "report_at": "2013-12-05", 
-        "report_type": "定期申報", 
-        "spouse": "危芊芝", 
-        "stock": [], 
-        "title": "1.監察委員"
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.監察院", 
+            "name": "程仁宏", 
+            "report_at": "2013-12-05", 
+            "report_type": "定期申報", 
+            "spouse": "危芊芝", 
+            "title": "1.監察委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -7872,7 +8112,6 @@
                 "share_portion": "全部"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "acquire_value": "(超過五年)", 
@@ -7884,10 +8123,15 @@
                 "share_portion": "10000分之116"
             }
         ], 
-        "name": "葉耀鵬", 
-        "report_at": "2013-12-25", 
-        "report_type": "定期申報", 
-        "spouse": "廖美霞", 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.監察院", 
+            "name": "葉耀鵬", 
+            "report_at": "2013-12-25", 
+            "report_type": "定期申報", 
+            "spouse": "廖美霞", 
+            "title": "1.監察委員"
+        }, 
         "stock": [
             {
                 "currency": "新臺幣", 
@@ -7897,8 +8141,7 @@
                 "quantity": "17,136", 
                 "total": "171,360"
             }
-        ], 
-        "title": "1.監察委員"
+        ]
     }, 
     {
         "building": [
@@ -7935,7 +8178,6 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "area": "1,653", 
@@ -7970,10 +8212,15 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "name": "葉耀鵬", 
-        "report_at": "2013-12-25", 
-        "report_type": "定期申報", 
-        "spouse": "廖美霞", 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.監察院", 
+            "name": "葉耀鵬", 
+            "report_at": "2013-12-25", 
+            "report_type": "定期申報", 
+            "spouse": "廖美霞", 
+            "title": "1.監察委員"
+        }, 
         "stock": [
             {
                 "face_value": "10", 
@@ -7993,8 +8240,7 @@
                 "trust": "第一商業銀行", 
                 "trust_at": "98年04月01日"
             }
-        ], 
-        "title": "1.監察委員"
+        ]
     }, 
     {
         "building": [
@@ -8008,7 +8254,6 @@
                 "share_portion": "全部"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "acquire_value": "5,500,000", 
@@ -8020,12 +8265,16 @@
                 "share_portion": "10000分之41"
             }
         ], 
-        "name": "葛永光", 
-        "report_at": "2013-12-17", 
-        "report_type": "定期申報", 
-        "spouse": "車宜靜", 
-        "stock": [], 
-        "title": "1.監察委員"
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.監察院", 
+            "name": "葛永光", 
+            "report_at": "2013-12-17", 
+            "report_type": "定期申報", 
+            "spouse": "車宜靜", 
+            "title": "1.監察委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -8054,7 +8303,6 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "area": "2,069", 
@@ -8065,12 +8313,16 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "name": "葛永光", 
-        "report_at": "2013-12-17", 
-        "report_type": "定期申報", 
-        "spouse": "車宜靜", 
-        "stock": [], 
-        "title": "1.監察委員"
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.監察院", 
+            "name": "葛永光", 
+            "report_at": "2013-12-17", 
+            "report_type": "定期申報", 
+            "spouse": "車宜靜", 
+            "title": "1.監察委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -8084,7 +8336,6 @@
                 "share_portion": "全部"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "acquire_value": "(超過五年)", 
@@ -8105,16 +8356,19 @@
                 "share_portion": "4分之1"
             }
         ], 
-        "name": "楊美鈴", 
-        "report_at": "2013-12-23", 
-        "report_type": "定期申報", 
-        "spouse": "張正勝", 
-        "stock": [], 
-        "title": "1.監察委員"
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.監察院", 
+            "name": "楊美鈴", 
+            "report_at": "2013-12-23", 
+            "report_type": "定期申報", 
+            "spouse": "張正勝", 
+            "title": "1.監察委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [], 
-        "department": "1.監察院", 
         "land": [
             {
                 "acquire_value": "(超過五年)", 
@@ -8135,10 +8389,15 @@
                 "share_portion": "600分之7"
             }
         ], 
-        "name": "趙昌平", 
-        "report_at": "2013-12-02", 
-        "report_type": "定期申報", 
-        "spouse": "趙簡玉雲", 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.監察院", 
+            "name": "趙昌平", 
+            "report_at": "2013-12-02", 
+            "report_type": "定期申報", 
+            "spouse": "趙簡玉雲", 
+            "title": "1.監察委員"
+        }, 
         "stock": [
             {
                 "currency": "", 
@@ -8148,8 +8407,7 @@
                 "quantity": "", 
                 "total": ""
             }
-        ], 
-        "title": "1.監察委員"
+        ]
     }, 
     {
         "building": [
@@ -8218,7 +8476,6 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "area": "155", 
@@ -8749,12 +9006,16 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "name": "趙昌平", 
-        "report_at": "2013-12-02", 
-        "report_type": "定期申報", 
-        "spouse": "趙簡玉雲", 
-        "stock": [], 
-        "title": "1.監察委員"
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.監察院", 
+            "name": "趙昌平", 
+            "report_at": "2013-12-02", 
+            "report_type": "定期申報", 
+            "spouse": "趙簡玉雲", 
+            "title": "1.監察委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -8777,7 +9038,6 @@
                 "share_portion": "16分之1"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "acquire_value": "3,050,000(併下)", 
@@ -8816,10 +9076,15 @@
                 "share_portion": "全部"
             }
         ], 
-        "name": "趙榮耀", 
-        "report_at": "2013-12-02", 
-        "report_type": "定期申報", 
-        "spouse": "趙胡和枝", 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.監察院", 
+            "name": "趙榮耀", 
+            "report_at": "2013-12-02", 
+            "report_type": "定期申報", 
+            "spouse": "趙胡和枝", 
+            "title": "1.監察委員"
+        }, 
         "stock": [
             {
                 "currency": "新臺幣", 
@@ -8837,8 +9102,7 @@
                 "quantity": "3,547", 
                 "total": "35,470"
             }
-        ], 
-        "title": "1.監察委員"
+        ]
     }, 
     {
         "building": [
@@ -8851,7 +9115,6 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "area": "455.18", 
@@ -8862,10 +9125,15 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "name": "趙榮耀", 
-        "report_at": "2013-12-02", 
-        "report_type": "定期申報", 
-        "spouse": "趙胡和枝", 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.監察院", 
+            "name": "趙榮耀", 
+            "report_at": "2013-12-02", 
+            "report_type": "定期申報", 
+            "spouse": "趙胡和枝", 
+            "title": "1.監察委員"
+        }, 
         "stock": [
             {
                 "face_value": "10", 
@@ -8912,8 +9180,7 @@
                 "trust": "第一商業銀行", 
                 "trust_at": ""
             }
-        ], 
-        "title": "1.監察委員"
+        ]
     }, 
     {
         "building": [
@@ -8936,7 +9203,6 @@
                 "share_portion": "1000000分之5923"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "acquire_value": "(超過五年)", 
@@ -8957,12 +9223,16 @@
                 "share_portion": "1000000分之5923"
             }
         ], 
-        "name": "劉玉山", 
-        "report_at": "2013-12-23", 
-        "report_type": "定期申報", 
-        "spouse": "邱麗華", 
-        "stock": [], 
-        "title": "1.監察委員"
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.監察院", 
+            "name": "劉玉山", 
+            "report_at": "2013-12-23", 
+            "report_type": "定期申報", 
+            "spouse": "邱麗華", 
+            "title": "1.監察委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -9023,7 +9293,6 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "area": "3,431.64", 
@@ -9050,12 +9319,16 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "name": "劉玉山", 
-        "report_at": "2013-12-23", 
-        "report_type": "定期申報", 
-        "spouse": "邱麗華", 
-        "stock": [], 
-        "title": "1.監察委員"
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.監察院", 
+            "name": "劉玉山", 
+            "report_at": "2013-12-23", 
+            "report_type": "定期申報", 
+            "spouse": "邱麗華", 
+            "title": "1.監察委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -9087,7 +9360,6 @@
                 "share_portion": "250分之8"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "acquire_value": "(超過五年,田)", 
@@ -9327,16 +9599,19 @@
                 "share_portion": "全部"
             }
         ], 
-        "name": "劉興善", 
-        "report_at": "2013-12-18", 
-        "report_type": "定期申報", 
-        "spouse": "翁美智", 
-        "stock": [], 
-        "title": "1.監察委員"
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.監察院", 
+            "name": "劉興善", 
+            "report_at": "2013-12-18", 
+            "report_type": "定期申報", 
+            "spouse": "翁美智", 
+            "title": "1.監察委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [], 
-        "department": "1.監察院", 
         "land": [
             {
                 "area": "7,367", 
@@ -10059,12 +10334,16 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "name": "劉興善", 
-        "report_at": "2013-12-18", 
-        "report_type": "定期申報", 
-        "spouse": "翁美智", 
-        "stock": [], 
-        "title": "1.監察委員"
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.監察院", 
+            "name": "劉興善", 
+            "report_at": "2013-12-18", 
+            "report_type": "定期申報", 
+            "spouse": "翁美智", 
+            "title": "1.監察委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -10078,7 +10357,6 @@
                 "share_portion": "全部"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "acquire_value": "(超過五年)", 
@@ -10261,16 +10539,19 @@
                 "share_portion": "4分之1"
             }
         ], 
-        "name": "錢林慧君", 
-        "report_at": "2013-12-19", 
-        "report_type": "定期申報", 
-        "spouse": "錢橙山", 
-        "stock": [], 
-        "title": "1.監察委員"
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.監察院", 
+            "name": "錢林慧君", 
+            "report_at": "2013-12-19", 
+            "report_type": "定期申報", 
+            "spouse": "錢橙山", 
+            "title": "1.監察委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [], 
-        "department": "1.監察院", 
         "land": [
             {
                 "area": "6,431", 
@@ -10577,12 +10858,16 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "name": "錢林慧君", 
-        "report_at": "2013-12-19", 
-        "report_type": "定期申報", 
-        "spouse": "錢橙山", 
-        "stock": [], 
-        "title": "1.監察委員"
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.監察院", 
+            "name": "錢林慧君", 
+            "report_at": "2013-12-19", 
+            "report_type": "定期申報", 
+            "spouse": "錢橙山", 
+            "title": "1.監察委員"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -10605,7 +10890,6 @@
                 "share_portion": "1000分之128"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "acquire_value": "(超過五年)", 
@@ -10635,10 +10919,15 @@
                 "share_portion": "8140880000分之116955189"
             }
         ], 
-        "name": "陳豐義", 
-        "report_at": "2013-12-19", 
-        "report_type": "定期申報", 
-        "spouse": "陳蔡金燕", 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.監察院", 
+            "name": "陳豐義", 
+            "report_at": "2013-12-19", 
+            "report_type": "定期申報", 
+            "spouse": "陳蔡金燕", 
+            "title": "1.秘書長"
+        }, 
         "stock": [
             {
                 "name": "總額"
@@ -10651,8 +10940,7 @@
                 "quantity": "4,824", 
                 "total": "48,240"
             }
-        ], 
-        "title": "1.秘書長"
+        ]
     }, 
     {
         "building": [
@@ -10705,7 +10993,6 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "department": "1.監察院", 
         "land": [
             {
                 "area": "2,702", 
@@ -10772,10 +11059,15 @@
                 "trust": "第一商業銀行"
             }
         ], 
-        "name": "陳豐義", 
-        "report_at": "2013-12-19", 
-        "report_type": "定期申報", 
-        "spouse": "陳蔡金燕", 
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.監察院", 
+            "name": "陳豐義", 
+            "report_at": "2013-12-19", 
+            "report_type": "定期申報", 
+            "spouse": "陳蔡金燕", 
+            "title": "1.秘書長"
+        }, 
         "stock": [
             {
                 "face_value": "10", 
@@ -11281,8 +11573,7 @@
                 "trust": "第一商業銀行", 
                 "trust_at": "99年11月09日"
             }
-        ], 
-        "title": "1.秘書長"
+        ]
     }, 
     {
         "building": [
@@ -11305,7 +11596,6 @@
                 "share_portion": "14分之1"
             }
         ], 
-        "department": "1.審計部", 
         "land": [
             {
                 "acquire_value": "(超過五年)", 
@@ -11317,12 +11607,16 @@
                 "share_portion": "566分之37"
             }
         ], 
-        "name": "林慶隆", 
-        "report_at": "2013-12-18", 
-        "report_type": "定期申報", 
-        "spouse": "吳煥", 
-        "stock": [], 
-        "title": "1.審計長"
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.審計部", 
+            "name": "林慶隆", 
+            "report_at": "2013-12-18", 
+            "report_type": "定期申報", 
+            "spouse": "吳煥", 
+            "title": "1.審計長"
+        }, 
+        "stock": []
     }, 
     {
         "building": [
@@ -11335,7 +11629,6 @@
                 "trust": "臺灣銀行"
             }
         ], 
-        "department": "1.審計部", 
         "land": [
             {
                 "area": "540.50", 
@@ -11370,11 +11663,15 @@
                 "trust": "臺灣銀行"
             }
         ], 
-        "name": "林慶隆", 
-        "report_at": "2013-12-18", 
-        "report_type": "定期申報", 
-        "spouse": "吳煥", 
-        "stock": [], 
-        "title": "1.審計長"
+        "meta": {
+            "category": "公職人員信託財產申報表", 
+            "department": "1.審計部", 
+            "name": "林慶隆", 
+            "report_at": "2013-12-18", 
+            "report_type": "定期申報", 
+            "spouse": "吳煥", 
+            "title": "1.審計長"
+        }, 
+        "stock": []
     }
 ]

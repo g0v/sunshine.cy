@@ -2,12 +2,42 @@
 from django.db import models
 
 
+class Land(models.Model):
+    report = models.ForeignKey('reports.Reports')
+    name = models.TextField()
+    market_value = models.FloatField(blank=True, null=True)
+    area = models.FloatField()
+    share_portion = models.TextField()
+    portion = models.FloatField()
+    owner = models.TextField(blank=True, null=True)
+    trust = models.TextField(blank=True, null=True)
+    register_date = models.TextField(blank=True, null=True)
+    register_reason = models.TextField(blank=True, null=True)
+    acquire_value = models.TextField(blank=True, null=True)
+    total = models.FloatField()
+    total_value = models.FloatField(blank=True, null=True)
+    def __unicode__(self):
+        return self.name
+
+class Building(models.Model):
+    report = models.ForeignKey('reports.Reports')
+    name = models.TextField()
+    market_value = models.FloatField(blank=True, null=True)
+    area = models.FloatField()
+    share_portion = models.TextField()
+    portion = models.FloatField()
+    owner = models.TextField(blank=True, null=True)
+    trust = models.TextField(blank=True, null=True)
+    register_date = models.TextField(blank=True, null=True)
+    register_reason = models.TextField(blank=True, null=True)
+    acquire_value = models.TextField(blank=True, null=True)
+    total = models.FloatField()
+    total_value = models.FloatField(blank=True, null=True)
+    def __unicode__(self):
+        return self.name
+
 class Investment(models.Model):
-    source_file = models.TextField()
-    index = models.IntegerField()
-    legislator = models.ForeignKey('legislator.Legislator', to_field="uid")
-    date = models.DateTimeField()
-    category = models.TextField()
+    report = models.ForeignKey('reports.Reports')
     owner = models.TextField()
     company = models.TextField()
     address = models.TextField()
@@ -17,15 +47,8 @@ class Investment(models.Model):
     def __unicode__(self):
         return self.name
 
-    class Meta:
-        unique_together = ('source_file', 'index',)
-
 class Debt(models.Model):
-    source_file = models.TextField()
-    index = models.IntegerField()
-    legislator = models.ForeignKey('legislator.Legislator', to_field="uid")
-    date = models.DateTimeField()
-    category = models.TextField()
+    report = models.ForeignKey('reports.Reports')
     species = models.TextField()
     debtor = models.TextField()
     owner = models.TextField()
@@ -34,16 +57,9 @@ class Debt(models.Model):
     total = models.FloatField()
     def __unicode__(self):
         return self.name
-
-    class Meta:
-        unique_together = ('source_file', 'index',)
 
 class Claim(models.Model):
-    source_file = models.TextField()
-    index = models.IntegerField()
-    legislator = models.ForeignKey('legislator.Legislator', to_field="uid")
-    date = models.DateTimeField()
-    category = models.TextField()
+    report = models.ForeignKey('reports.Reports')
     species = models.TextField()
     debtor = models.TextField()
     owner = models.TextField()
@@ -53,30 +69,16 @@ class Claim(models.Model):
     def __unicode__(self):
         return self.name
 
-    class Meta:
-        unique_together = ('source_file', 'index',)
-
 class Insurance(models.Model):
-    source_file = models.TextField()
-    index = models.IntegerField()
-    legislator = models.ForeignKey('legislator.Legislator', to_field="uid")
-    date = models.DateTimeField()
-    category = models.TextField()
+    report = models.ForeignKey('reports.Reports')
     company = models.TextField()
     name = models.TextField()
     owner = models.TextField()
     def __unicode__(self):
         return self.name
 
-    class Meta:
-        unique_together = ('source_file', 'index',)
-
 class Antique(models.Model):
-    source_file = models.TextField()
-    index = models.IntegerField()
-    legislator = models.ForeignKey('legislator.Legislator', to_field="uid")
-    date = models.DateTimeField()
-    category = models.TextField()
+    report = models.ForeignKey('reports.Reports')
     name = models.TextField()
     owner = models.TextField(blank=True, null=True)
     quantity = models.TextField(blank=True, null=True)
@@ -84,15 +86,8 @@ class Antique(models.Model):
     def __unicode__(self):
         return self.name
 
-    class Meta:
-        unique_together = ('source_file', 'index',)
-
 class OtherBonds(models.Model):
-    source_file = models.TextField()
-    index = models.IntegerField()
-    legislator = models.ForeignKey('legislator.Legislator', to_field="uid")
-    date = models.DateTimeField()
-    category = models.TextField()
+    report = models.ForeignKey('reports.Reports')
     name = models.TextField()
     owner = models.TextField(blank=True, null=True)
     quantity = models.IntegerField()
@@ -104,15 +99,8 @@ class OtherBonds(models.Model):
     def __unicode__(self):
         return self.name
 
-    class Meta:
-        unique_together = ('source_file', 'index',)
-
 class Fund(models.Model):
-    source_file = models.TextField()
-    index = models.IntegerField()
-    legislator = models.ForeignKey('legislator.Legislator', to_field="uid")
-    date = models.DateTimeField()
-    category = models.TextField()
+    report = models.ForeignKey('reports.Reports')
     name = models.TextField()
     owner = models.TextField(blank=True, null=True)
     dealer = models.TextField(blank=True, null=True)
@@ -126,15 +114,8 @@ class Fund(models.Model):
     def __unicode__(self):
         return self.name
 
-    class Meta:
-        unique_together = ('source_file', 'index',)
-
 class Bonds(models.Model):
-    source_file = models.TextField()
-    index = models.IntegerField()
-    legislator = models.ForeignKey('legislator.Legislator', to_field="uid")
-    date = models.DateTimeField()
-    category = models.TextField()
+    report = models.ForeignKey('reports.Reports')
     name = models.TextField()
     symbol = models.TextField()
     owner = models.TextField(blank=True, null=True)
@@ -149,15 +130,8 @@ class Bonds(models.Model):
     def __unicode__(self):
         return self.name
 
-    class Meta:
-        unique_together = ('source_file', 'index',)
-
 class Deposit(models.Model):
-    source_file = models.TextField()
-    index = models.IntegerField()
-    legislator = models.ForeignKey('legislator.Legislator', to_field="uid")
-    date = models.DateTimeField()
-    category = models.TextField()
+    report = models.ForeignKey('reports.Reports')
     bank = models.TextField()
     deposit_type = models.TextField()
     currency = models.TextField()
@@ -166,30 +140,16 @@ class Deposit(models.Model):
     def __unicode__(self):
         return self.total
 
-    class Meta:
-        unique_together = ('source_file', 'index',)
-
 class Cash(models.Model):
-    source_file = models.TextField()
-    index = models.IntegerField()
-    legislator = models.ForeignKey('legislator.Legislator', to_field="uid")
-    date = models.DateTimeField()
-    category = models.TextField()
+    report = models.ForeignKey('reports.Reports')
     currency = models.TextField()
     owner = models.TextField(blank=True, null=True)
     total = models.FloatField()
     def __unicode__(self):
         return self.total
 
-    class Meta:
-        unique_together = ('source_file', 'index',)
-
 class Stock(models.Model):
-    source_file = models.TextField()
-    index = models.IntegerField()
-    legislator = models.ForeignKey('legislator.Legislator', to_field="uid")
-    date = models.DateTimeField()
-    category = models.TextField()
+    report = models.ForeignKey('reports.Reports')
     name = models.TextField()
     symbol = models.IntegerField(blank=True, null=True)
     owner = models.TextField(blank=True, null=True)
@@ -198,69 +158,14 @@ class Stock(models.Model):
     quantity = models.IntegerField()
     face_value = models.FloatField(blank=True, null=True)
     market_value = models.FloatField(blank=True, null=True)
-    currency = models.TextField()
+    currency = models.TextField(blank=True, null=True)
     total = models.FloatField()
     total_value = models.FloatField(blank=True, null=True)
     def __unicode__(self):
         return self.name
-
-    class Meta:
-        unique_together = ('source_file', 'index',)
-
-class Land(models.Model):
-    source_file = models.TextField()
-    index = models.IntegerField()
-    legislator = models.ForeignKey('legislator.Legislator', to_field="uid")
-    date = models.DateTimeField()
-    category = models.TextField()
-    name = models.TextField()
-    market_value = models.FloatField(blank=True, null=True)
-    area = models.FloatField()
-    share_portion = models.TextField()
-    portion = models.FloatField()
-    owner = models.TextField(blank=True, null=True)
-    trust = models.TextField(blank=True, null=True)
-    register_date = models.TextField(blank=True, null=True)
-    register_reason = models.TextField(blank=True, null=True)
-    acquire_value = models.TextField(blank=True, null=True)
-    total = models.FloatField()
-    total_value = models.FloatField(blank=True, null=True)
-    def __unicode__(self):
-        return self.name
-
-    class Meta:
-        unique_together = ('source_file', 'index',)
-
-class Building(models.Model):
-    source_file = models.TextField()
-    index = models.IntegerField()
-    legislator = models.ForeignKey('legislator.Legislator', to_field="uid")
-    date = models.DateTimeField()
-    category = models.TextField()
-    name = models.TextField()
-    market_value = models.FloatField(blank=True, null=True)
-    area = models.FloatField()
-    share_portion = models.TextField()
-    portion = models.FloatField()
-    owner = models.TextField(blank=True, null=True)
-    trust = models.TextField(blank=True, null=True)
-    register_date = models.TextField(blank=True, null=True)
-    register_reason = models.TextField(blank=True, null=True)
-    acquire_value = models.TextField(blank=True, null=True)
-    total = models.FloatField()
-    total_value = models.FloatField(blank=True, null=True)
-    def __unicode__(self):
-        return self.name
-
-    class Meta:
-        unique_together = ('source_file', 'index',)
 
 class Boat(models.Model):
-    source_file = models.TextField()
-    index = models.IntegerField()
-    legislator = models.ForeignKey('legislator.Legislator', to_field="uid")
-    date = models.DateTimeField()
-    category = models.TextField()
+    report = models.ForeignKey('reports.Reports')
     name = models.TextField()
     tonnage = models.FloatField()
     homeport = models.TextField()
@@ -271,15 +176,8 @@ class Boat(models.Model):
     def __unicode__(self):
         return self.name
 
-    class Meta:
-        unique_together = ('source_file', 'index',)
-
 class Car(models.Model):
-    source_file = models.TextField()
-    index = models.IntegerField()
-    legislator = models.ForeignKey('legislator.Legislator', to_field="uid")
-    date = models.DateTimeField()
-    category = models.TextField()
+    report = models.ForeignKey('reports.Reports')
     name = models.TextField()
     capacity = models.FloatField()
     owner = models.TextField(blank=True, null=True)
@@ -289,15 +187,8 @@ class Car(models.Model):
     def __unicode__(self):
         return self.name
 
-    class Meta:
-        unique_together = ('source_file', 'index',)
-
 class Aircraft(models.Model):
-    source_file = models.TextField()
-    index = models.IntegerField()
-    legislator = models.ForeignKey('legislator.Legislator', to_field="uid")
-    date = models.DateTimeField()
-    category = models.TextField()
+    report = models.ForeignKey('reports.Reports')
     name = models.TextField()
     maker = models.TextField()
     number = models.TextField()
@@ -307,6 +198,3 @@ class Aircraft(models.Model):
     acquire_value = models.TextField(blank=True, null=True)
     def __unicode__(self):
         return self.name
-
-    class Meta:
-        unique_together = ('source_file', 'index',)
