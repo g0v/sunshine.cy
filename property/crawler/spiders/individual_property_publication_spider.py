@@ -4,7 +4,7 @@ import urllib
 from scrapy.http import Request, FormRequest
 from scrapy.selector import Selector
 from scrapy.spider import BaseSpider
-from cy.items import PropertyItem
+from crawler.items import PropertyItem
 
 
 def GetDate(text):

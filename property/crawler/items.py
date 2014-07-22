@@ -14,6 +14,7 @@ class PropertyItem(Item):
     name = Field()
     journal = Field()
     department = Field()
+    title = Field()
     category = Field()
     publication_date = Field()
     at_page = Field()

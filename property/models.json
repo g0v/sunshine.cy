@@ -1,0 +1,72 @@
+{
+    "公職人員財產申報表": {
+        "股票": {
+            "name": "stock",
+            "columns": ["name", "owner", "quantity", "face_value", "currency", "total"]
+        },
+        "債券": {
+            "columns": ["name", "symbol", "owner", "dealer", "quantity", "face_value", "currency", "total"]
+        },
+        "基金受益憑證": {
+            "columns": ["name", "owner", "dealer", "quantity", "face_value", "currency", "total"]
+        },
+        "其他有價證券": {
+            "columns": ["name", "owner", "quantity", "face_value", "currency", "total"]
+        },
+        "具有相當價值之財產": {
+            "columns": ["name", "quantity", "owner", "total"]
+        },
+        "保險": {
+            "columns": ["company", "name", "owner"]
+        },
+        "債權": {
+            "columns": ["species", "owner", "debtor", "total", "register_date", "register_reason"]
+        },
+        "債務": {
+            "columns": ["species", "debtor", "owner", "total", "register_date", "register_reason"]
+        },
+        "事業投資": {
+            "columns": ["owner", "company", "address", "total", "register_date", "register_reason"]
+        },
+        "土地": {
+            "name": "land",
+            "columns": ["name", "area", "share_portion", "owner", "register_date", "register_reason", "acquire_value"]
+        },
+        "建物": {
+            "name": "building",
+            "columns": ["name", "area", "share_portion", "owner", "register_date", "register_reason", "acquire_value"]
+        },
+        "船舶": {
+            "columns": ["name", "tonnage", "homeport", "owner", "register_date", "register_reason", "acquire_value"]
+        },
+        "汽車": {
+            "columns": ["name", "capacity", "owner", "register_date", "register_reason", "acquire_value"]
+        },
+        "船舶": {
+            "columns": ["name", "tonnage", "homeport", "owner", "register_date", "register_reason", "acquire_value"]
+        },
+        "航空器": {
+            "columns": ["name", "maker", "number", "owner", "register_date", "register_reason", "acquire_value"]
+        },
+        "現金": {
+            "columns": ["currency", "owner", "total"]
+        },
+        "存款": {
+            "columns": ["bank", "deposit_type", "currency", "owner", "total"]
+        }
+    },
+    "公職人員信託財產申報表": {
+        "土地": {
+            "name": "land",
+            "columns": ["name", "area", "share_portion", "owner", "trust", "register_date"]
+        },
+        "建物": {
+            "name": "building",
+            "columns": ["name", "area", "share_portion", "owner", "trust", "register_date"]
+        },
+        "股票": {
+            "name": "stock",
+            "columns": ["name", "quantity", "owner", "trust", "trust_at", "face_value", "total"]
+        }
+    }
+}
