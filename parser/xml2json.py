@@ -15,8 +15,8 @@ def profile(table, category):
     cells = [tr.xpath('TD/P/text()').extract() for tr in trs]
     item['category'] = category
     item['name'] = cells[0][1].rstrip()
-    item['department'] = cells[0][3].rstrip()
-    item['title'] = cells[0][5].rstrip()
+    item['department'] = re.sub('[\d.]', '', cells[0][3].rstrip())
+    item['title'] = re.sub('[\d.]', '', cells[0][5].rstrip())
     item['report_at'] = common.ROC2AD(cells[2][1])
     item['report_type'] = cells[2][3].rstrip()
     item['spouse'] = cells[5][1].rstrip()
@@ -25,10 +25,15 @@ def profile(table, category):
 def rows(table, items, attr):
     trs = table.xpath('TR')
     for tr in trs:
-        if tr.xpath('TD/P/text()').re(u'本欄空白'):
+        if tr.xpath('TD/P/text()').re(u'(本欄空白|未達申報標準)'):
             continue
         tds = [td.rstrip() for td in tr.xpath('TD/P/text()').extract()]
-        items.append(dict(zip(attr['columns'], tds)))
+        if len(tds) > (len(attr['columns'])-2):
+            items.append(dict(zip(attr['columns'], tds)))
+#       #--> 同一列的資料換頁被切開
+#       elif tr == trs[0] and items:
+#           pre_tds = items[-1]
+#       #<--
     return items
 
 models = json.load(open('models.json'))
