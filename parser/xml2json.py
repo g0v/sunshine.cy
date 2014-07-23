@@ -39,12 +39,14 @@ def rows(table, items, attr):
 models = json.load(open('models.json'))
 files = [codecs.open(f, 'r', encoding='utf-8') for f in glob.glob('../data/xml/*.xml')]
 for f in files:
+    print f.name
     fileName, fileExt = os.path.splitext(os.path.basename(f.name))
     x = Selector(text=f.read(), type='xml')
     tables = x.xpath('//Part/Sect/Table')
     model = {}
     items = []
     for table in tables:
+        print table
         p = re.sub('\s', '', table.xpath('preceding-sibling::P[1]/text()').extract()[0])
         if re.search(u'公職人員', p):
             model = models.get(p, {})
