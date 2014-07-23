@@ -5,8 +5,8 @@ from search.models import Keyword
 
 
 def keyword_list(category):
-    # 1: proposal, 2: vote, 3: bill
-    return list(Keyword.objects.filter(category=category,valid=True).order_by('-hits').values_list('content', flat=True))
+    # bills, ...
+    return list(Keyword.objects.filter(category=category, valid=True).order_by('-hits').values_list('content', flat=True))
 
 def keyword_been_searched(keyword, category):
     keyword_obj = Keyword.objects.filter(category=category, content=keyword)
@@ -16,8 +16,6 @@ def keyword_been_searched(keyword, category):
         k = Keyword(content=keyword, category=category, valid=True, hits=1)
         k.save()
 
-def keyword_normalize(request, keyword_url):
-    if 'keyword' in request.GET:
-        return re.sub(u'[，。／＼、；］［＝－＜＞？：＂｛｝｜＋＿（）！＠＃％＄︿＆＊～~`!@#$%^&*_+\-=,./<>?;:\'"\[\]{}\|()]',' ',request.GET['keyword']).strip()
-    elif keyword_url:
-        return keyword_url.strip()
+def keyword_normalize(GET):
+    if 'keyword' in GET:
+        return re.sub(u'[，。／＼、；］［＝－＜＞？：＂｛｝｜＋＿（）！＠＃％＄︿＆＊～~`!@#$%^&*_+\-=,./<>?;:\'\"\[\]{}\|()]', ' ', GET['keyword']).strip()

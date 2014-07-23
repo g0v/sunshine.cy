@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 import re
-from django.http import HttpResponseRedirect
-from django.shortcuts import render, get_object_or_404
+from django.shortcuts import render
 from django.db.models import Count, Sum, F, Q
 from reports.models import Reports
 from property.models import Stock, Land, Building, Car, Cash, Deposit, Bonds, Fund, OtherBonds, Antique, Insurance, Claim, Debt, Investment

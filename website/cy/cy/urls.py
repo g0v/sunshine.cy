@@ -8,5 +8,5 @@ urlpatterns = patterns('',
     url(r'^people/', include('people.urls', namespace="people")),
     url(r'^about/$', 'cy.views.about', name='about'),
     url(r'^reference/$', 'cy.views.reference', name='reference'),
-    #url(r'', include('legislator.urls', namespace="legislator")),
+    url(r'', 'cy.views.home', name='home'),
 )

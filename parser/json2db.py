@@ -32,3 +32,13 @@ for f in files:
                 data.update({'report_id': report_id})
             getattr(sql, 'upsert_property_%s' % category)(c, dataset)
 conn.commit()
+
+# Export auto-complete json file of legislator name & county
+from pandas import *
+import pandas.io.sql as psql
+
+
+df = psql.frame_query("SELECT DISTINCT(name) as label, '人名' as category FROM reports_reports ORDER BY name", conn)
+f = codecs.open('search.json', 'w', encoding='utf-8')
+f.write(df.to_json(orient='records'))
+f.close()

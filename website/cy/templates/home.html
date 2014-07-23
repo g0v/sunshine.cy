@@ -1,0 +1,69 @@
+﻿{% extends "base.html" %}
+{% load extras %}
+
+{% block title %}
+    <title>金錢報</title>
+    <meta property="og:title" content="金錢報"/>
+    <meta itemprop="name" content="金錢報">
+{% endblock title %}
+
+{% block right %}
+    <div class="page-header text-center">
+        <h1><b>金 錢 報</b></h1>
+        <h2><small>公職人員財產申報</small></h2>
+    </div>
+
+    <form action="" method="get" class="form-search text-center" id="form">
+        <fieldset>
+            <input type="search" name="search" id="search" class="span4" maxlength="200" autofocus>
+            <button type="submit" class="btn">Go!</button>
+        </fieldset>
+    </form>
+    {% if no_results %}
+        <h4 class=" text-center text-error">搜尋不到，請再輸入其他關鍵字</h4>
+    {% endif %}
+    <hr>
+    <div id="disqus_thread"></div>
+{% endblock right %}
+
+{% block script %}
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
+    <script src="//code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+    <style>
+        .ui-autocomplete-category {
+            font-weight: bold;
+            padding: .2em .4em;
+            margin: .8em 0 .2em;
+            line-height: 1.5;
+        }
+    </style>
+    <script>
+        $.widget( "custom.catcomplete", $.ui.autocomplete, {
+            _renderMenu: function( ul, items ) {
+                var that = this,
+                currentCategory = "";
+                $.each( items, function( index, item ) {
+                    if ( item.category != currentCategory ) {
+                        ul.append( "<li class='ui-autocomplete-category'>" + item.category + "</li>" );
+                        currentCategory = item.category;
+                    }
+                    that._renderItemData( ul, item );
+                });
+            }
+        });
+    </script>
+    <script>
+        $(function() {
+            var data = {% include "common/search.json" %};
+            $( "#search" ).catcomplete({
+                delay: 0,
+                source: data,
+                select: function(event, ui) {
+                    $(event.target).val(ui.item.value);
+                    $('#form').submit();
+                    return false;
+                }
+            });
+        });
+    </script>
+{% endblock script %}
