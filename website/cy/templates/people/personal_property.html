@@ -1,0 +1,59 @@
+﻿{% extends "common/person_info.html" %}
+{% load extras %}
+
+{% block title %}
+    {% if reports and cht %}
+        <title>{{reports.0.name}}的{{cht}}申報紀錄</title>
+        <meta property="og:title" content="{{reports.0.name}}的{{cht}}申報紀錄"/>
+        <meta itemprop="name" content="{{reports.0.name}}的{{cht}}申報紀錄">
+    {% else %}
+        <title>財產申報紀錄</title>
+        <meta property="og:title" content="財產申報紀錄"/>
+        <meta itemprop="name" content="財產申報紀錄">
+    {% endif %}
+{% endblock title %}
+
+{% block person_detail %}
+    <div class="well well-small">
+        {% for summary in summaries %}
+        {{summary.report__report_at|date:"Y-m-d"}}的<b>{{index|personal_property_summary:'cht'}}</b>{{index|personal_property_summary:'after_title'}}： {{summary.count}}{{index|personal_property_summary:'count_unit'}}{% if summary.total %}，{{index|personal_property_summary:'after_unit'}}<abbr title="{{ summary.total|floatformat }}"><span class="{{index|personal_property_summary:'zhutil_unit'}}">{{summary.total}}</span></abbr>{{index|personal_property_summary:'total_unit'}}{% endif %} {% if index|personal_property_summary:'remark' %}({{summary.total|multiply:0.3025|floatformat}}坪){% endif %}<br>
+        {% endfor %}
+    </div>
+    {% if objs %}
+        <table id="datatable" class="table table-bordered">
+            {% with "property/"|add:index|add:".html" as template %}
+            {% include template %}
+            {% endwith %}
+        </table>
+    {% else %}
+        <p class="lead text-error">敬請期待，歡迎跳坑加速開發~!!</p>
+    {% endif %}
+{% endblock person_detail %}
+
+{% block script %}
+    <link href="//cdn.jsdelivr.net/jquery.datatables/1.9.4/css/jquery.dataTables.css" rel="stylesheet">
+    <link href="//cdn.jsdelivr.net/jquery.datatables/1.9.4/css/jquery.dataTables_themeroller.css" rel="stylesheet">
+    <script src="//datatables.net/download/build/nightly/jquery.dataTables.js"></script>
+    <script src="https://s3-ap-northeast-1.amazonaws.com/twly.tw/zhutil.min.js"></script>
+    <script>
+        $(document).ready( function() {
+            $('#datatable').dataTable({
+                "sDom": "<'row'<'span6'f><'span6'i>r>t",
+                "sPaginationType": "bootstrap",
+                "sScrollY": "400px",
+                "bPaginate": false,
+                "aaSorting": [[0, "desc"]]
+            });
+            $('.price').each(function(index,ele){
+                var number = $(ele).text()
+                zh_number = zhutil.approximate(number, {base: '億', extra_decimal: 2});
+                $(ele).replaceWith(zh_number)
+            })
+            $('.area').each(function(index,ele){
+                var number = $(ele).text()
+                , zh_number = zhutil.approximate(number, {base: '萬', extra_decimal: 2});
+                $(ele).replaceWith(zh_number)
+            })
+        });
+    </script>
+{% endblock script %}

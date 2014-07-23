@@ -1,0 +1,35 @@
+﻿{% extends "base.html" %}
+{% block title %}
+<title>立委投票指南:資料來源</title>
+<meta property="og:title" content="立委投票指南:資料來源"/>
+<meta itemprop="name" content="立委投票指南:資料來源">
+{% endblock %}
+{% block right %}
+<div class="row-fluid">
+    <div class="span6">
+        <div class="hero-unit">
+            資料來源
+            <ul class="lead">
+                <li><a href="http://sunshine.cy.gov.tw/" target="_blank">陽光法案主題網</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="span6">
+        <div class="hero-unit">
+            <div class="fb-like pull-right" data-width="50" data-layout="box_count" data-show-faces="false" data-send="false" href="https://www.facebook.com/TW.Voter.Guide"></div>
+            友站連結
+            <ul class="lead">
+                <li><a href="http://vote.ly.g0v.tw/" target="_blank">立委投票指南</a></li><br>
+                <li><a href="http://councils.g0v.tw/" target="_blank">議員投票指南</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+{% endblock %}
+{% block script %}
+<script>
+    $(document).ready( function() {
+        $('#reference').addClass('active');
+    });
+</script>
+{% endblock %}

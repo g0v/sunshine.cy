@@ -1,0 +1,42 @@
+{% load extras %}
+<thead>
+    <tr style="background-color: #FFEEFF;">
+        <th width="10%">申報日期</th>
+        <th width="20%">土地坐落</th>
+        <th width="10%">持有面積<br>(平方公尺)</th>
+        <th width="10%">總面積<br>(平方公尺)</th>
+        <th width="10%">權利範圍(持分)</th>
+        <th width="10%">取得價額</th>
+        <th width="15%">取得時間</th>
+        <th width="5%">取得原因</th>
+        <th width="10%">所有人</th>
+    </tr>
+</thead>
+<tbody>
+    {% for obj in objs %}
+    <tr>
+        <td width="10%">{{obj.report.report_at|date:"Y-m-d"}}</td>
+        <td width="20%">{{obj.name}}</td>
+        <td width="10%"><p class="text-right">{{obj.total|floatformat}}</p></td>
+        <td width="10%"><p class="text-right">{{obj.area}}</p></td>
+        <td width="10%">{{obj.share_portion}} ({{obj.portion|multiply:100|floatformat}}%)</td>
+        <td width="10%"><abbr title="{{ obj.acquire_value }}"><p class="price text-right">{{ obj.acquire_value|truncatechars:20 }}</p></abbr></td>
+        <td width="15%">{{obj.register_date}}</td>
+        <td width="5%">{{obj.register_reason}}</td>
+        <td width="10%">{{obj.owner}}</td>
+    </tr>
+    {% endfor %}
+</tbody>
+<tfoot>
+    <tr style="background-color: #FFEEFF;">
+        <th width="10%">申報日期</th>
+        <th width="20%">土地坐落</th>
+        <th width="10%">持有面積<br>(平方公尺)</th>
+        <th width="10%">總面積<br>(平方公尺)</th>
+        <th width="10%">權利範圍(持分)</th>
+        <th width="10%">取得價額</th>
+        <th width="15%">取得時間</th>
+        <th width="5%">取得原因</th>
+        <th width="10%">所有人</th>
+    </tr>
+</tfoot>

@@ -36,6 +36,22 @@ class Building(models.Model):
     def __unicode__(self):
         return self.name
 
+class Stock(models.Model):
+    report = models.ForeignKey('reports.Reports')
+    name = models.TextField()
+    symbol = models.IntegerField(blank=True, null=True)
+    owner = models.TextField(blank=True, null=True)
+    trust = models.TextField(blank=True, null=True)
+    trust_at = models.TextField(blank=True, null=True)
+    quantity = models.FloatField()
+    face_value = models.FloatField(blank=True, null=True)
+    market_value = models.FloatField(blank=True, null=True)
+    currency = models.TextField(blank=True, null=True)
+    total = models.FloatField()
+    total_value = models.FloatField(blank=True, null=True)
+    def __unicode__(self):
+        return self.name
+
 class Investment(models.Model):
     report = models.ForeignKey('reports.Reports')
     owner = models.TextField()
@@ -147,22 +163,6 @@ class Cash(models.Model):
     total = models.FloatField()
     def __unicode__(self):
         return self.total
-
-class Stock(models.Model):
-    report = models.ForeignKey('reports.Reports')
-    name = models.TextField()
-    symbol = models.IntegerField(blank=True, null=True)
-    owner = models.TextField(blank=True, null=True)
-    trust = models.TextField(blank=True, null=True)
-    trust_at = models.TextField(blank=True, null=True)
-    quantity = models.IntegerField()
-    face_value = models.FloatField(blank=True, null=True)
-    market_value = models.FloatField(blank=True, null=True)
-    currency = models.TextField(blank=True, null=True)
-    total = models.FloatField()
-    total_value = models.FloatField(blank=True, null=True)
-    def __unicode__(self):
-        return self.name
 
 class Boat(models.Model):
     report = models.ForeignKey('reports.Reports')

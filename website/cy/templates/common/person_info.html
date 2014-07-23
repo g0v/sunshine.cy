@@ -1,0 +1,44 @@
+﻿{% extends "base.html" %}
+{% load extras %}
+{% block right %}
+<div class="row-fluid">
+    <div class="span12">
+        {% if reports and cht %}
+            <h3>{{reports.0.name}}的{{cht}}申報紀錄
+                <div class="btn-group">
+                    <a id='url_property' class="btn btn-large dropdown-toggle" href="#" data-toggle="dropdown">其他財產 <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="{% url 'people:personal_property' name=reports.0.name index='overview' %}"><b>總覽</b></a></li>
+                        <li style="background-color: #EEEEEE;"><a href="{% url 'people:personal_property' name=reports.0.name index='stock' %}"><b>股票</b></a></li>
+                        <li><a href="{% url 'people:personal_property' name=reports.0.name index='land' %}"><b>土地</b></a></li>
+                        <li style="background-color: #EEEEEE;"><a href="{% url 'people:personal_property' name=reports.0.name index='building' %}"><b>建物</b></a></li>
+                        <li><a href="{% url 'people:personal_property' name=reports.0.name index='car' %}"><b>汽車</b></a></li>
+                        <li style="background-color: #EEEEEE;"><a href="{% url 'people:personal_property' name=reports.0.name index='cash' %}"><b>現金</b></a></li>
+                        <li><a href="{% url 'people:personal_property' name=reports.0.name index='deposit' %}"><b>存款</b></a></li>
+                        <li style="background-color: #EEEEEE;"><a href="{% url 'people:personal_property' name=reports.0.name index='bonds' %}"><b>債券</b></a></li>
+                        <li><a href="{% url 'people:personal_property' name=reports.0.name index='fund' %}"><b>基金</b></a></li>
+                        <li style="background-color: #EEEEEE;"><a href="{% url 'people:personal_property' name=reports.0.name index='otherbonds' %}"><b>其他有價證券</b></a></li>
+                        <li><a href="{% url 'people:personal_property' name=reports.0.name index='antique' %}"><b>具有相當價值之財產</b></a></li>
+                        <li style="background-color: #EEEEEE;"><a href="{% url 'people:personal_property' name=reports.0.name index='insurance' %}"><b>保險</b></a></li>
+                        <li><a href="{% url 'people:personal_property' name=reports.0.name index='claim' %}"><b>債權</b></a></li>
+                        <li style="background-color: #EEEEEE;"><a href="{% url 'people:personal_property' name=reports.0.name index='debt' %}"><b>債務</b></a></li>
+                        <li><a href="{% url 'people:personal_property' name=reports.0.name index='investment' %}"><b>事業投資</b></a></li>
+                    </ul>
+                </div>
+            </h3>
+        {% endif %}
+        {% block person_detail %}
+        {% endblock person_detail %}
+        <hr>
+        <div id="disqus_thread"></div>
+    </div>
+</div>
+{% endblock right %}
+{% block script %}
+<script>
+    $(document).ready( function() {
+        $('.dropdown-toggle').dropdown();
+        $("[rel='tooltip']").tooltip();
+    });
+</script>
+{% endblock script %}

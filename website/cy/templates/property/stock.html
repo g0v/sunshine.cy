@@ -1,0 +1,35 @@
+<thead>
+    <tr style="background-color: #FFEEFF;">
+        <th width="15%">申報日期</th>
+        <th width="25%">股票名稱</th>
+        <th width="15%">折合新臺幣總額</th>
+        <th width="13%">幣別</th>
+        <th width="10%">股數</th>
+        <th width="12%">面額</th>
+        <th width="10%">所有人</th>
+    </tr>
+</thead>
+<tbody>
+    {% for obj in objs %}
+    <tr>
+        <td width="15%">{{obj.report.report_at|date:"Y-m-d"}}</td>
+        <td width="25%">{{obj.name}}</td>
+        <td width="15%"><p class="price text-right">{{obj.total|floatformat}}</p>元</td>
+        <td width="13%">{{obj.currency}}</td>
+        <td width="10%"><p class="text-right">{{obj.quantity}}</p></td>
+        <td width="12%"><p class="text-right">{{obj.face_value|floatformat}}</p></td>
+        <td width="10%">{{obj.owner}}</td>
+    </tr>
+    {% endfor %}
+</tbody>
+<tfoot>
+    <tr style="background-color: #FFEEFF;">
+        <th width="15%">申報日期</th>
+        <th width="25%">股票名稱</th>
+        <th width="15%">折合新臺幣總額</th>
+        <th width="13%">幣別</th>
+        <th width="10%">股數</th>
+        <th width="12%">面額</th>
+        <th width="10%">所有人</th>
+    </tr>
+</tfoot>

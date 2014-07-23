@@ -126,6 +126,9 @@ INSTALLED_APPS = (
     'journals',
     'reports',
     'property',
+    'people',
+    'search',
+    'commontag',
 )
 
 SESSION_SERIALIZER = 'django.contrib.sessions.serializers.JSONSerializer'
