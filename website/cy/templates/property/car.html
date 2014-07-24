@@ -1,27 +1,24 @@
-{% load ly_extras %}
 <thead>
     <tr style="background-color: #FFEEFF;">
         <th width="10%">申報日期</th>
         <th width="20%">廠牌型號</th>
-        <th width="20%">汽缸容量(cc)</th>
-        <th width="10%">取得價額</th>
-        <th width="10%">登記取得時間</th>
-        <th width="10%">登記取得原因</th>
-        <th width="10%">所有人</th>
-        <th width="10%">索引</th>
+        <th width="10%">汽缸容量(cc)</th>
+        <th width="15%">取得價額</th>
+        <th width="15%">登記取得時間</th>
+        <th width="15%">登記取得原因</th>
+        <th width="15%">所有人</th>
     </tr>
 </thead>
 <tbody>
     {% for obj in objs %}
     <tr>
-        <td>{{obj.date|date:"Y-m-d"}}</td>
-        <td>{{obj.name}}</td>
-        <td><p class="text-right">{{obj.capacity}}</p></td>
-        <td><abbr title="{{ obj.acquire_value }}"><p class="price text-right">{{ obj.acquire_value|truncatechars:20 }}</p></abbr></td>
-        <td>{{obj.register_date}}</td>
-        <td>{{obj.register_reason}}</td>
-        <td>{{obj.owner}}</td>
-        <td>{{obj.source_file}}-{{obj.index}}</td>
+        <td width="10%">{{obj.report.report_at|date:"Y-m-d"}}</td>
+        <td width="20%">{{obj.name}}</td>
+        <td width="10%"><p class="text-right">{{obj.capacity}}</p></td>
+        <td width="15%"><abbr title="{{ obj.acquire_value }}"><p class="text-right">{{ obj.acquire_value|truncatechars:20 }}</p></abbr></td>
+        <td width="15%">{{obj.register_date}}</td>
+        <td width="15%">{{obj.register_reason}}</td>
+        <td width="15%">{{obj.owner}}</td>
     </tr>
     {% endfor %}
 </tbody>
@@ -29,11 +26,10 @@
     <tr style="background-color: #FFEEFF;">
         <th width="10%">申報日期</th>
         <th width="20%">廠牌型號</th>
-        <th width="20%">汽缸容量(cc)</th>
-        <th width="10%">取得價額</th>
-        <th width="10%">登記取得時間</th>
-        <th width="10%">登記取得原因</th>
-        <th width="10%">所有人</th>
-        <th width="10%">索引</th>
+        <th width="10%">汽缸容量(cc)</th>
+        <th width="15%">取得價額</th>
+        <th width="15%">登記取得時間</th>
+        <th width="15">登記取得原因</th>
+        <th width="15%">所有人</th>
     </tr>
 </tfoot>

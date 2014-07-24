@@ -3,38 +3,33 @@
         <th width="10%">申報日期</th>
         <th width="20%">投資事業名稱</th>
         <th width="10%">投資金額</th>
-        <th width="15%">投資事業地址</th>
+        <th width="20%">投資事業地址</th>
         <th width="10%">投資人</th>
         <th width="15%">取得原因</th>
-        <th width="10%">取得時間</th>
-        <th width="10%">索引</th>
+        <th width="15%">取得時間</th>
     </tr>
 </thead>
 <tbody>
     {% for obj in objs %}
     <tr>
-        <td>{{obj.date|date:"Y-m-d"}}</td>
-        <td>{{obj.company}}</td>
-        <td><p class="price text-right">{{obj.total}}</p></td>
-        <td>{{obj.address}}</td>
-        <td>{{obj.owner}}</td>
-        <td>{{obj.register_reason}}</td>
-        <td>{{obj.register_date}}</td>
-        <td>{{obj.source_file}}-{{obj.index}}</td>
+        <td width="10%">{{obj.report.report_at|date:"Y-m-d"}}</td>
+        <td width="20%">{{obj.company}}</td>
+        <td width="10%"><p class="price text-right">{{obj.total}}</p></td>
+        <td width="20%">{{obj.address}}</td>
+        <td width="10%">{{obj.owner}}</td>
+        <td width="15%">{{obj.register_reason}}</td>
+        <td width="15%">{{obj.register_date}}</td>
     </tr>
     {% endfor %}
 </tbody>
 <tfoot>
     <tr style="background-color: #FFEEFF;">
-
         <th width="10%">申報日期</th>
         <th width="20%">投資事業名稱</th>
         <th width="10%">投資金額</th>
-        <th width="15%">投資事業地址</th>
+        <th width="20%">投資事業地址</th>
         <th width="10%">投資人</th>
         <th width="15%">取得原因</th>
-        <th width="10%">取得時間</th>
-        <th width="10%">索引</th>
-
+        <th width="15%">取得時間</th>
     </tr>
 </tfoot>

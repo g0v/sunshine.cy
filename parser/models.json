@@ -1,33 +1,5 @@
 {
     "公職人員財產申報表": {
-        "股票": {
-            "name": "stock",
-            "columns": ["name", "owner", "quantity", "face_value", "currency", "total"]
-        },
-        "債券": {
-            "columns": ["name", "symbol", "owner", "dealer", "quantity", "face_value", "currency", "total"]
-        },
-        "基金受益憑證": {
-            "columns": ["name", "owner", "dealer", "quantity", "face_value", "currency", "total"]
-        },
-        "其他有價證券": {
-            "columns": ["name", "owner", "quantity", "face_value", "currency", "total"]
-        },
-        "具有相當價值之財產": {
-            "columns": ["name", "quantity", "owner", "total"]
-        },
-        "保險": {
-            "columns": ["company", "name", "owner"]
-        },
-        "債權": {
-            "columns": ["species", "owner", "debtor", "total", "register_date", "register_reason"]
-        },
-        "債務": {
-            "columns": ["species", "debtor", "owner", "total", "register_date", "register_reason"]
-        },
-        "事業投資": {
-            "columns": ["owner", "company", "address", "total", "register_date", "register_reason"]
-        },
         "土地": {
             "name": "land",
             "columns": ["name", "area", "share_portion", "owner", "register_date", "register_reason", "acquire_value"]
@@ -37,22 +9,60 @@
             "columns": ["name", "area", "share_portion", "owner", "register_date", "register_reason", "acquire_value"]
         },
         "船舶": {
+            "name": "boat",
             "columns": ["name", "tonnage", "homeport", "owner", "register_date", "register_reason", "acquire_value"]
         },
         "汽車": {
+            "name": "car",
             "columns": ["name", "capacity", "owner", "register_date", "register_reason", "acquire_value"]
         },
-        "船舶": {
-            "columns": ["name", "tonnage", "homeport", "owner", "register_date", "register_reason", "acquire_value"]
-        },
         "航空器": {
+            "name": "aircraft",
             "columns": ["name", "maker", "number", "owner", "register_date", "register_reason", "acquire_value"]
         },
         "現金": {
-            "columns": ["currency", "owner", "total"]
+            "name": "cash",
+            "columns": ["currency", "owner", "currency_total", "total"]
         },
         "存款": {
-            "columns": ["bank", "deposit_type", "currency", "owner", "total"]
+            "name": "deposit",
+            "columns": ["bank", "deposit_type", "currency", "owner", "currency_total", "total"]
+        },
+        "股票": {
+            "name": "stock",
+            "columns": ["name", "owner", "quantity", "face_value", "currency", "total"]
+        },
+        "債券": {
+            "name": "bonds",
+            "columns": ["name", "symbol", "owner", "dealer", "quantity", "face_value", "currency", "total"]
+        },
+        "基金受益憑證": {
+            "name": "fund",
+            "columns": ["name", "owner", "dealer", "quantity", "face_value", "currency", "total"]
+        },
+        "其他有價證券": {
+            "name": "otherbonds",
+            "columns": ["name", "owner", "quantity", "face_value", "currency", "total"]
+        },
+        "具有相當價值之財產": {
+            "name": "antique",
+            "columns": ["name", "quantity", "owner", "total"]
+        },
+        "保險": {
+            "name": "insurance",
+            "columns": ["company", "name", "owner"]
+        },
+        "債權": {
+            "name": "claim",
+            "columns": ["species", "owner", "debtor", "total", "register_date", "register_reason"]
+        },
+        "債務": {
+            "name": "debt",
+            "columns": ["species", "debtor", "owner", "total", "register_date", "register_reason"]
+        },
+        "事業投資": {
+            "name": "investment",
+            "columns": ["owner", "company", "address", "total", "register_date", "register_reason"]
         }
     },
     "公職人員信託財產申報表": {

@@ -23,7 +23,313 @@
         "stock": []
     }, 
     {
+        "aircraft": [], 
+        "antique": [], 
+        "boat": [], 
+        "bonds": [], 
         "building": [], 
+        "car": [
+            {
+                "acquire_value": "700,000", 
+                "capacity": "1,995", 
+                "name": "Nissan", 
+                "owner": "陳建良", 
+                "register_date": "85年08月15日", 
+                "register_reason": "買賣"
+            }, 
+            {
+                "acquire_value": "1,200,000", 
+                "capacity": "3,498", 
+                "name": "MERCEDES-B", 
+                "owner": "陳建良", 
+                "register_date": "100年04月06日", 
+                "register_reason": "買賣"
+            }
+        ], 
+        "cash": [], 
+        "claim": [], 
+        "debt": [
+            {
+                "debtor": "陳建良 張修齊", 
+                "owner": "臺灣土地銀行", 
+                "register_date": "102年05月03日", 
+                "register_reason": "買賣", 
+                "species": "房貸", 
+                "total": "13,679,939"
+            }
+        ], 
+        "deposit": [
+            {
+                "bank": "第一商業銀行埔里分行", 
+                "currency": "澳幣", 
+                "currency_total": "18,048.96", 
+                "deposit_type": "定期存款", 
+                "owner": "陳建良", 
+                "total": "481,185"
+            }, 
+            {
+                "bank": "第一商業銀行埔里分行", 
+                "currency": "紐西蘭幣", 
+                "currency_total": "30,009.18", 
+                "deposit_type": "定期存款", 
+                "owner": "陳建良", 
+                "total": "695,913"
+            }, 
+            {
+                "bank": "第一商業銀行埔里分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "綜合存款", 
+                "owner": "陳建良", 
+                "total": "65,052"
+            }, 
+            {
+                "bank": "第一商業銀行埔里分行", 
+                "currency": "美金", 
+                "currency_total": "4,994.52", 
+                "deposit_type": "綜合存款", 
+                "owner": "陳建良", 
+                "total": "149,206"
+            }, 
+            {
+                "bank": "台新國際商業銀行豐原分行", 
+                "currency": "美金", 
+                "currency_total": "51,766.11", 
+                "deposit_type": "綜合存款", 
+                "owner": "陳建良", 
+                "total": "1,546,461"
+            }, 
+            {
+                "bank": "台新國際商業銀行豐原分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "綜合存款", 
+                "owner": "陳建良", 
+                "total": "107"
+            }, 
+            {
+                "bank": "中華郵政股份有限公司埔里郵局", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳建良", 
+                "total": "954,556"
+            }, 
+            {
+                "bank": "中華郵政股份有限公司台南中正路郵局", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳建良", 
+                "total": "89,244"
+            }, 
+            {
+                "bank": "彰化商業銀行埔里分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳建良", 
+                "total": "145,863"
+            }, 
+            {
+                "bank": "彰化商業銀行埔里分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳建良", 
+                "total": "6,781"
+            }, 
+            {
+                "bank": "聯邦商業銀行嘉義分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "綜合存款", 
+                "owner": "陳建良", 
+                "total": "531"
+            }, 
+            {
+                "bank": "聯邦商業銀行嘉義分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "定期儲蓄存款", 
+                "owner": "陳建良", 
+                "total": "597,498"
+            }, 
+            {
+                "bank": "台中商業銀行埔里分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳建良", 
+                "total": "346,312"
+            }, 
+            {
+                "bank": "台中商業銀行埔里分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳建良", 
+                "total": "90,582"
+            }, 
+            {
+                "bank": "合作金庫商業銀行信維分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "綜合存款", 
+                "owner": "陳建良", 
+                "total": "65,744"
+            }, 
+            {
+                "bank": "臺灣土地銀行西屯分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳建良", 
+                "total": "126,966"
+            }, 
+            {
+                "bank": "中國信託商業銀行文心分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "綜合存款", 
+                "owner": "陳建良", 
+                "total": "200,048"
+            }, 
+            {
+                "bank": "臺灣銀行埔里分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "綜合存款", 
+                "owner": "陳建良", 
+                "total": "863,981"
+            }, 
+            {
+                "bank": "臺灣銀行埔里分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "定期存款", 
+                "owner": "陳建良", 
+                "total": "2,000,000"
+            }, 
+            {
+                "bank": "玉山商業銀行嘉義分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "定期儲蓄存款", 
+                "owner": "陳建良", 
+                "total": "1,153,864"
+            }, 
+            {
+                "bank": "玉山商業銀行古亭分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "張修齊", 
+                "total": "35,020"
+            }, 
+            {
+                "bank": "玉山商業銀行古亭分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "定期儲蓄存款", 
+                "owner": "張修齊", 
+                "total": "200,000"
+            }, 
+            {
+                "bank": "玉山商業銀行古亭分行", 
+                "currency": "美金", 
+                "currency_total": "0.80", 
+                "deposit_type": "活期存款", 
+                "owner": "張修齊", 
+                "total": "24"
+            }, 
+            {
+                "bank": "玉山商業銀行古亭分行", 
+                "currency": "美金", 
+                "currency_total": "14,637.08", 
+                "deposit_type": "定期存款", 
+                "owner": "張修齊", 
+                "total": "438,088"
+            }, 
+            {
+                "bank": "玉山商業銀行古亭分行", 
+                "currency": "澳幣", 
+                "currency_total": "5,000", 
+                "deposit_type": "定期存款", 
+                "owner": "張修齊", 
+                "total": "134,150"
+            }, 
+            {
+                "bank": "兆豐國際商業銀行城中分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "張修齊", 
+                "total": "21,065"
+            }, 
+            {
+                "bank": "兆豐國際商業銀行城中分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "定期存款", 
+                "owner": "張修齊", 
+                "total": "473,269"
+            }, 
+            {
+                "bank": "中國信託商業銀行板橋分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "張修齊", 
+                "total": "14,896"
+            }, 
+            {
+                "bank": "中國信託商業銀行板橋分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "定期存款", 
+                "owner": "張修齊", 
+                "total": "140,000"
+            }, 
+            {
+                "bank": "中華郵政股份有限公司永和福和郵局", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "張修齊", 
+                "total": "138,843"
+            }, 
+            {
+                "bank": "第一商業銀行忠孝路分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "張修齊", 
+                "total": "2,980"
+            }, 
+            {
+                "bank": "上海商業儲蓄銀行天母分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "張修齊", 
+                "total": "559"
+            }
+        ], 
+        "fund": [], 
+        "insurance": [
+            {
+                "company": "富邦人壽", 
+                "name": "富邦花旗還本定期壽險", 
+                "owner": "張修齊"
+            }, 
+            {
+                "company": "南山人壽", 
+                "name": "增利久久外幣增額終身壽險", 
+                "owner": "張修齊"
+            }
+        ], 
+        "investment": [], 
         "land": [], 
         "meta": {
             "category": "公職人員財產申報表", 
@@ -34,6 +340,7 @@
             "spouse": "張修齊", 
             "title": "副主任委員"
         }, 
+        "otherbonds": [], 
         "stock": [
             {
                 "currency": "新臺幣", 
@@ -440,7 +747,171 @@
         ]
     }, 
     {
+        "aircraft": [], 
+        "antique": [], 
+        "boat": [], 
+        "bonds": [], 
         "building": [], 
+        "car": [
+            {
+                "acquire_value": "690,000(超過五年)", 
+                "capacity": "1,794", 
+                "name": "國瑞", 
+                "owner": "陳淑屏", 
+                "register_date": "91年05月28日", 
+                "register_reason": "買賣"
+            }
+        ], 
+        "cash": [], 
+        "claim": [], 
+        "debt": [
+            {
+                "debtor": "陳淑屏", 
+                "owner": "臺銀人壽保險股份有限公司 臺北市松山區敦化南路2段96號5樓", 
+                "register_date": "98年03月26日", 
+                "register_reason": "購屋", 
+                "species": "房屋貸款", 
+                "total": "3,603,092"
+            }, 
+            {
+                "debtor": "陳淑屏", 
+                "owner": "臺銀人壽保險股份有限公司 臺北市松山區敦化南路2段96號5樓", 
+                "register_date": "100年10月21日", 
+                "register_reason": "修繕", 
+                "species": "房屋貸款", 
+                "total": "5,000,000"
+            }
+        ], 
+        "deposit": [
+            {
+                "bank": "新店中正郵局（第５２支局）", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "中華郵政存簿儲金", 
+                "owner": "孫大川", 
+                "total": "437,702"
+            }, 
+            {
+                "bank": "臺灣銀行內湖分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "孫大川", 
+                "total": "874,127"
+            }, 
+            {
+                "bank": "嘉義中山路郵局（第１支局）", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "中華郵政存簿儲金", 
+                "owner": "陳淑屏", 
+                "total": "1,313"
+            }, 
+            {
+                "bank": "台北富邦商業銀行士林分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "陳淑屏", 
+                "total": "711,729"
+            }, 
+            {
+                "bank": "台北富邦商業銀行士林分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "陳淑屏", 
+                "total": "403,599"
+            }, 
+            {
+                "bank": "臺灣銀行劍潭分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "陳淑屏", 
+                "total": "26,432"
+            }, 
+            {
+                "bank": "聯邦商業銀行汐止分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "陳淑屏", 
+                "total": "5,425"
+            }, 
+            {
+                "bank": "台北市士林區農會士林本會", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "陳淑屏", 
+                "total": "109,215"
+            }, 
+            {
+                "bank": "台北北安郵局（第１０４支局）", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "孫○", 
+                "total": "266,215"
+            }, 
+            {
+                "bank": "臺灣銀行劍潭分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "孫大川", 
+                "total": "503,157"
+            }
+        ], 
+        "fund": [
+            {
+                "currency": "美金", 
+                "dealer": "聯邦銀行汐止分行", 
+                "face_value": "22.13", 
+                "name": "富坦成長基金", 
+                "owner": "陳淑屏", 
+                "quantity": "754.50", 
+                "total": "499,242.84"
+            }, 
+            {
+                "currency": "美金", 
+                "dealer": "日盛國際商業銀行板橋分行", 
+                "face_value": "7.18", 
+                "name": "摩根富林明歐元區股票基金", 
+                "owner": "陳淑屏", 
+                "quantity": "26", 
+                "total": "5,413.72"
+            }
+        ], 
+        "insurance": [
+            {
+                "company": "中華郵政", 
+                "name": "郵政簡易人壽一路發保險", 
+                "owner": "陳淑屏"
+            }, 
+            {
+                "company": "中華郵政", 
+                "name": "郵政簡易人壽", 
+                "owner": "陳淑屏"
+            }, 
+            {
+                "company": "國泰人壽", 
+                "name": "雙喜年年儲蓄保險", 
+                "owner": "陳淑屏"
+            }, 
+            {
+                "company": "臺銀人壽", 
+                "name": "美利久久美元外幣還本終身保險(101)", 
+                "owner": "陳淑屏"
+            }, 
+            {
+                "company": "臺銀人壽", 
+                "name": "中國人壽幸福一生終身壽險", 
+                "owner": "陳淑屏"
+            }
+        ], 
+        "investment": [], 
         "land": [
             {
                 "acquire_value": "2,741,186(超過五年)", 
@@ -470,6 +941,7 @@
             "spouse": "陳淑屏", 
             "title": "主任委員"
         }, 
+        "otherbonds": [], 
         "stock": []
     }, 
     {
@@ -557,7 +1029,113 @@
         ]
     }, 
     {
+        "aircraft": [], 
+        "antique": [
+            {
+                "name": "種植蘭花", 
+                "owner": "洪良全", 
+                "quantity": "200盆", 
+                "total": "無法估價"
+            }
+        ], 
+        "boat": [], 
+        "bonds": [], 
         "building": [], 
+        "car": [
+            {
+                "acquire_value": "(超過五年)", 
+                "capacity": "1,995", 
+                "name": "裕隆 (Nissan)", 
+                "owner": "蔡淑芬", 
+                "register_date": "民國89年4月", 
+                "register_reason": "買賣"
+            }, 
+            {
+                "acquire_value": "800,000", 
+                "capacity": "2,000", 
+                "name": "裕隆 (X-Trail)", 
+                "owner": "蔡淑芬", 
+                "register_date": "民國99年11月", 
+                "register_reason": "買賣"
+            }
+        ], 
+        "cash": [], 
+        "claim": [], 
+        "debt": [], 
+        "deposit": [
+            {
+                "bank": "中華郵政股份有限公司南投光明", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "洪良全", 
+                "total": "613,020"
+            }, 
+            {
+                "bank": "臺北永豐商業銀行世貿分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "洪良全", 
+                "total": "277,167"
+            }, 
+            {
+                "bank": "臺中商業銀行埔里分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "蔡淑芬", 
+                "total": "2,786,148"
+            }, 
+            {
+                "bank": "合作金庫商業銀行埔里分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "蔡淑芬", 
+                "total": "28,436"
+            }, 
+            {
+                "bank": "臺灣銀行延平分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "綜合存款", 
+                "owner": "洪良全", 
+                "total": "586,571"
+            }, 
+            {
+                "bank": "臺灣銀行延平分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "公教優惠儲蓄存款", 
+                "owner": "洪良全", 
+                "total": "1,503,700"
+            }
+        ], 
+        "fund": [], 
+        "insurance": [
+            {
+                "company": "新光人壽", 
+                "name": "長樂終身", 
+                "owner": "洪良全"
+            }, 
+            {
+                "company": "新光人壽", 
+                "name": "新住院醫療", 
+                "owner": "洪良全"
+            }, 
+            {
+                "company": "新光人壽", 
+                "name": "長保安康", 
+                "owner": "蔡淑芬"
+            }, 
+            {
+                "company": "新光人壽", 
+                "name": "防癌健康", 
+                "owner": "蔡淑芬"
+            }
+        ], 
+        "investment": [], 
         "land": [
             {
                 "acquire_value": "120,000(林地,原住民保留地,詳備註)", 
@@ -587,6 +1165,7 @@
             "spouse": "蔡淑芬", 
             "title": "副主任委員"
         }, 
+        "otherbonds": [], 
         "stock": []
     }, 
     {
@@ -622,6 +1201,10 @@
         "stock": []
     }, 
     {
+        "aircraft": [], 
+        "antique": [], 
+        "boat": [], 
+        "bonds": [], 
         "building": [
             {
                 "acquire_value": "(超過五年)", 
@@ -660,6 +1243,96 @@
                 "share_portion": "全部"
             }
         ], 
+        "car": [
+            {
+                "acquire_value": "(超過五年)", 
+                "capacity": "1,984", 
+                "name": "福斯 PASSAT 2.0", 
+                "owner": "林世嘉", 
+                "register_date": "94年01月28日", 
+                "register_reason": "買賣"
+            }, 
+            {
+                "acquire_value": "1,300,000", 
+                "capacity": "2,000", 
+                "name": "福斯 PASSAT 2.0 TDI", 
+                "owner": "蔡篤堅", 
+                "register_date": "民國102年6月", 
+                "register_reason": "買賣"
+            }
+        ], 
+        "cash": [], 
+        "claim": [], 
+        "debt": [
+            {
+                "debtor": "林世嘉", 
+                "owner": "兆豐國際商業銀行台北復興分行", 
+                "register_date": "民國97年07月", 
+                "register_reason": "購屋", 
+                "species": "房屋貸款", 
+                "total": "5,566,788"
+            }, 
+            {
+                "debtor": "林世嘉", 
+                "owner": "兆豐國際商業銀行台北復興分行", 
+                "register_date": "民國93年02月", 
+                "register_reason": "購屋", 
+                "species": "房屋貸款", 
+                "total": "6,675,465"
+            }, 
+            {
+                "debtor": "蔡篤堅", 
+                "owner": "第一商業銀行蘆洲分行", 
+                "register_date": "民國102年02月", 
+                "register_reason": "購屋", 
+                "species": "房屋貸款", 
+                "total": "10,500,000"
+            }, 
+            {
+                "debtor": "蔡篤堅", 
+                "owner": "第一商業銀行蘆洲分行", 
+                "register_date": "民國98年04月", 
+                "register_reason": "購屋", 
+                "species": "房屋貸款", 
+                "total": "2,161,265"
+            }, 
+            {
+                "debtor": "蔡篤堅", 
+                "owner": "第一商業銀行蘆洲分行", 
+                "register_date": "民國92年01月", 
+                "register_reason": "購屋", 
+                "species": "房屋貸款", 
+                "total": "563,630"
+            }, 
+            {
+                "debtor": "蔡篤堅", 
+                "owner": "第一商業銀行蘆洲分行", 
+                "register_date": "民國92年01月", 
+                "register_reason": "購屋", 
+                "species": "房屋貸款", 
+                "total": "543,011"
+            }, 
+            {
+                "debtor": "蔡篤堅", 
+                "owner": "第一商業銀行蘆洲分行", 
+                "register_date": "民國92年01月", 
+                "register_reason": "購屋", 
+                "species": "房屋貸款", 
+                "total": "714,257"
+            }, 
+            {
+                "debtor": "蔡篤堅", 
+                "owner": "郭素珍 臺北市北投區明德路", 
+                "register_date": "民國92年02月", 
+                "register_reason": "私人借貸", 
+                "species": "私人借款", 
+                "total": "2,000,000"
+            }
+        ], 
+        "deposit": [], 
+        "fund": [], 
+        "insurance": [], 
+        "investment": [], 
         "land": [
             {
                 "acquire_value": "(超過五年)", 
@@ -698,9 +1371,14 @@
             "spouse": "蔡篤堅", 
             "title": "立法委員"
         }, 
+        "otherbonds": [], 
         "stock": []
     }, 
     {
+        "aircraft": [], 
+        "antique": [], 
+        "boat": [], 
+        "bonds": [], 
         "building": [
             {
                 "acquire_value": "4,000,000", 
@@ -748,6 +1426,83 @@
                 "share_portion": "全部"
             }
         ], 
+        "car": [
+            {
+                "acquire_value": "1,090,000", 
+                "capacity": "2,995", 
+                "name": "TOYOTA (汽車)", 
+                "owner": "林正二", 
+                "register_date": "93年08月05日", 
+                "register_reason": "買賣"
+            }, 
+            {
+                "acquire_value": "1,000,000", 
+                "capacity": "3,498", 
+                "name": "NISSAN (汽車)", 
+                "owner": "林正二", 
+                "register_date": "99年02月09日", 
+                "register_reason": "買賣"
+            }
+        ], 
+        "cash": [
+            {
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "owner": "林正二", 
+                "total": "150,000"
+            }
+        ], 
+        "claim": [], 
+        "debt": [
+            {
+                "debtor": "林正二", 
+                "owner": "臺灣土地銀行台東分行 臺東縣台東市中華路1段357號", 
+                "register_date": "83年04月30日", 
+                "register_reason": "房屋貸款", 
+                "species": "房屋貸款", 
+                "total": "159,006"
+            }, 
+            {
+                "debtor": "林正二", 
+                "owner": "臺灣土地銀行花蓮分行 花蓮縣花蓮市中山路356號", 
+                "register_date": "88年04月07日", 
+                "register_reason": "房屋貸款", 
+                "species": "房屋貸款", 
+                "total": "3,408,061"
+            }, 
+            {
+                "debtor": "林正二", 
+                "owner": "華南商業銀行花蓮分行 花蓮縣花蓮市中山路78號", 
+                "register_date": "88年04月01日", 
+                "register_reason": "房屋貸款", 
+                "species": "房屋貸款", 
+                "total": "2,541,362"
+            }
+        ], 
+        "deposit": [
+            {
+                "bank": "臺灣銀行群賢分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "林正二", 
+                "total": "870,320"
+            }
+        ], 
+        "fund": [], 
+        "insurance": [
+            {
+                "company": "富邦人壽", 
+                "name": "生存還本保險", 
+                "owner": "林正二"
+            }, 
+            {
+                "company": "富邦人壽", 
+                "name": "年金保險", 
+                "owner": "林正二"
+            }
+        ], 
+        "investment": [], 
         "land": [
             {
                 "acquire_value": "40,000", 
@@ -813,9 +1568,14 @@
             "spouse": "胡朱錦", 
             "title": "立法委員"
         }, 
+        "otherbonds": [], 
         "stock": []
     }, 
     {
+        "aircraft": [], 
+        "antique": [], 
+        "boat": [], 
+        "bonds": [], 
         "building": [
             {
                 "acquire_value": "3,953,000", 
@@ -908,6 +1668,347 @@
                 "share_portion": "全部"
             }
         ], 
+        "car": [
+            {
+                "acquire_value": "96,000(二手車)", 
+                "capacity": "2,476", 
+                "name": "中華 DE2,5PSW3", 
+                "owner": "廖瑞聞", 
+                "register_date": "101年08月06日", 
+                "register_reason": "買賣"
+            }
+        ], 
+        "cash": [], 
+        "claim": [], 
+        "debt": [
+            {
+                "debtor": "葉津鈴", 
+                "owner": "高雄銀行 高雄市苓雅區三多一路171號3樓", 
+                "register_date": "102年04月17日", 
+                "register_reason": "購屋貸款", 
+                "species": "房屋貸款", 
+                "total": "14,747,796"
+            }
+        ], 
+        "deposit": [
+            {
+                "bank": "臺灣銀行成功分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "綜合存款", 
+                "owner": "葉津鈴", 
+                "total": "253,340"
+            }, 
+            {
+                "bank": "臺灣銀行成功分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "綜合存款", 
+                "owner": "廖瑞聞", 
+                "total": "4,090"
+            }, 
+            {
+                "bank": "臺灣銀行三多分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "綜合存款", 
+                "owner": "葉津鈴", 
+                "total": "490,800"
+            }, 
+            {
+                "bank": "臺灣銀行三多分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "支票存款", 
+                "owner": "葉津鈴", 
+                "total": "55,366"
+            }, 
+            {
+                "bank": "臺灣銀行前鎮分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "廖瑞聞", 
+                "total": "108,393"
+            }, 
+            {
+                "bank": "臺灣中小企業銀行前鎮分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "綜合存款", 
+                "owner": "廖瑞聞", 
+                "total": "66,164"
+            }, 
+            {
+                "bank": "臺灣中小企業銀行前鎮分行", 
+                "currency": "美金", 
+                "currency_total": "1,902", 
+                "deposit_type": "綜合存款", 
+                "owner": "廖瑞聞", 
+                "total": "57,060"
+            }, 
+            {
+                "bank": "華南商業銀行前鎮分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "綜合存款", 
+                "owner": "廖瑞聞", 
+                "total": "34,281"
+            }, 
+            {
+                "bank": "華南商業銀行前鎮分行", 
+                "currency": "港幣", 
+                "currency_total": "1,000,000", 
+                "deposit_type": "定期存款", 
+                "owner": "廖瑞聞", 
+                "total": "3,800,000"
+            }, 
+            {
+                "bank": "兆豐國際商業銀行高雄分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "葉津鈴", 
+                "total": "758"
+            }, 
+            {
+                "bank": "兆豐國際商業銀行高雄分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "廖瑞聞", 
+                "total": "7,504"
+            }, 
+            {
+                "bank": "兆豐國際商業銀行高雄分行", 
+                "currency": "美金", 
+                "currency_total": "1,843", 
+                "deposit_type": "活期存款", 
+                "owner": "廖瑞聞", 
+                "total": "55,290"
+            }, 
+            {
+                "bank": "兆豐國際商業銀行高雄分行", 
+                "currency": "澳幣", 
+                "currency_total": "71", 
+                "deposit_type": "活期存款", 
+                "owner": "廖瑞聞", 
+                "total": "1,988"
+            }, 
+            {
+                "bank": "兆豐國際商業銀行高雄分行", 
+                "currency": "南非幣", 
+                "currency_total": "6", 
+                "deposit_type": "活期存款", 
+                "owner": "廖瑞聞", 
+                "total": "18"
+            }, 
+            {
+                "bank": "兆豐國際商業銀行港都分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "葉津鈴", 
+                "total": "12,178"
+            }, 
+            {
+                "bank": "兆豐國際商業銀行港都分行", 
+                "currency": "美金", 
+                "currency_total": "26,054", 
+                "deposit_type": "活期存款", 
+                "owner": "葉津鈴", 
+                "total": "781,620"
+            }, 
+            {
+                "bank": "兆豐國際商業銀行港都分行", 
+                "currency": "美金", 
+                "currency_total": "50,000", 
+                "deposit_type": "定期存款", 
+                "owner": "葉津鈴", 
+                "total": "1,500,000"
+            }, 
+            {
+                "bank": "兆豐國際商業銀行港都分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "廖瑞聞", 
+                "total": "141"
+            }, 
+            {
+                "bank": "兆豐國際商業銀行港都分行", 
+                "currency": "美金", 
+                "currency_total": "286", 
+                "deposit_type": "活期存款", 
+                "owner": "廖瑞聞", 
+                "total": "8,580"
+            }, 
+            {
+                "bank": "兆豐國際商業銀行港都分行", 
+                "currency": "美金", 
+                "currency_total": "4,272", 
+                "deposit_type": "定期存款", 
+                "owner": "廖瑞聞", 
+                "total": "128,160"
+            }, 
+            {
+                "bank": "兆豐國際商業銀行港都分行", 
+                "currency": "歐元", 
+                "currency_total": "2,709", 
+                "deposit_type": "定期存款", 
+                "owner": "廖瑞聞", 
+                "total": "105,651"
+            }, 
+            {
+                "bank": "兆豐國際商業銀行三多分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "葉津鈴", 
+                "total": "33,088"
+            }, 
+            {
+                "bank": "兆豐國際商業銀行三多分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "廖瑞聞", 
+                "total": "14,892"
+            }, 
+            {
+                "bank": "兆豐國際商業銀行三多分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "支票存款", 
+                "owner": "廖瑞聞", 
+                "total": "20,089"
+            }, 
+            {
+                "bank": "高雄銀行灣內分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "葉津鈴", 
+                "total": "125,564"
+            }, 
+            {
+                "bank": "華美銀行", 
+                "currency": "美金", 
+                "currency_total": "50,908", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "廖瑞聞", 
+                "total": "1,572,240"
+            }, 
+            {
+                "bank": "華美銀行", 
+                "currency": "美金", 
+                "currency_total": "370", 
+                "deposit_type": "支票存款", 
+                "owner": "廖瑞聞", 
+                "total": "11,100"
+            }, 
+            {
+                "bank": "復華銀行前鎮收付處", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "廖瑞聞", 
+                "total": "30,535"
+            }, 
+            {
+                "bank": "復華銀行前鎮收付處", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "葉津鈴", 
+                "total": "21,572"
+            }, 
+            {
+                "bank": "大眾商業銀行營業部", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "葉津鈴", 
+                "total": "36,046"
+            }, 
+            {
+                "bank": "中國信託商業銀行高雄分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "葉津鈴", 
+                "total": "75,804"
+            }
+        ], 
+        "fund": [], 
+        "insurance": [
+            {
+                "company": "新光人壽", 
+                "name": "百年長青終身壽險", 
+                "owner": "葉津鈴"
+            }, 
+            {
+                "company": "新光人壽", 
+                "name": "百年長青終身壽險", 
+                "owner": "廖瑞聞"
+            }, 
+            {
+                "company": "新光人壽", 
+                "name": "防癌終身壽險", 
+                "owner": "葉津鈴"
+            }, 
+            {
+                "company": "新光人壽", 
+                "name": "防癌終身壽險", 
+                "owner": "廖瑞聞"
+            }, 
+            {
+                "company": "大都會國際人壽", 
+                "name": "新得利年年外幣萬能壽險(三)", 
+                "owner": "葉津鈴"
+            }, 
+            {
+                "company": "中國信託人壽", 
+                "name": "新得利年年外幣萬能壽險(三)", 
+                "owner": "葉津鈴"
+            }, 
+            {
+                "company": "中國信託人壽", 
+                "name": "富美滿外幣率利變動型年金保險", 
+                "owner": "廖瑞聞"
+            }, 
+            {
+                "company": "臺銀人壽", 
+                "name": "牛轉乾坤萬能壽險", 
+                "owner": "廖瑞聞"
+            }, 
+            {
+                "company": "富邦人壽", 
+                "name": "美利成增外幣養老保險", 
+                "owner": "廖瑞聞"
+            }, 
+            {
+                "company": "全球人壽", 
+                "name": "新卓越變額萬能壽險", 
+                "owner": "廖瑞聞"
+            }, 
+            {
+                "company": "南山人壽", 
+                "name": "享利久久外幣增額終身壽險", 
+                "owner": "廖瑞聞"
+            }, 
+            {
+                "company": "法國巴黎人壽", 
+                "name": "穩操勝券外幣變額壽險", 
+                "owner": "廖瑞聞"
+            }, 
+            {
+                "company": "中華郵政", 
+                "name": "一路發保險", 
+                "owner": "廖瑞聞"
+            }
+        ], 
+        "investment": [], 
         "land": [
             {
                 "acquire_value": "(超過五年)", 
@@ -1099,6 +2200,7 @@
             "spouse": "廖瑞聞", 
             "title": "立法委員"
         }, 
+        "otherbonds": [], 
         "stock": [
             {
                 "currency": "新臺幣", 
@@ -1119,6 +2221,10 @@
         ]
     }, 
     {
+        "aircraft": [], 
+        "antique": [], 
+        "boat": [], 
+        "bonds": [], 
         "building": [
             {
                 "acquire_value": "673,100(建物標示)", 
@@ -1139,6 +2245,127 @@
                 "share_portion": "10000分之1015"
             }
         ], 
+        "car": [], 
+        "cash": [], 
+        "claim": [], 
+        "debt": [], 
+        "deposit": [
+            {
+                "bank": "中華郵政股份有限公司台北龍口郵局", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "丁育群", 
+                "total": "299,808"
+            }, 
+            {
+                "bank": "中華郵政股份有限公司台北71支郵局", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "丁育群", 
+                "total": "35,969"
+            }, 
+            {
+                "bank": "臺灣銀行民生分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "綜合存款", 
+                "owner": "丁育群", 
+                "total": "4,305,750"
+            }, 
+            {
+                "bank": "臺灣銀行館前分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "公教優惠儲蓄存款", 
+                "owner": "丁育群", 
+                "total": "2,585,499"
+            }, 
+            {
+                "bank": "臺灣土地銀行營業部", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "丁育群", 
+                "total": "160,161"
+            }, 
+            {
+                "bank": "臺灣土地銀行敦化分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "丁育群", 
+                "total": "500"
+            }, 
+            {
+                "bank": "臺灣土地銀行忠孝分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "丁育群", 
+                "total": "11,109"
+            }, 
+            {
+                "bank": "台北富邦商業銀行市府分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "綜合存款", 
+                "owner": "丁育群", 
+                "total": "3,001,702"
+            }, 
+            {
+                "bank": "台北富邦商業銀行市府分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "公教優惠儲蓄存款", 
+                "owner": "丁育群", 
+                "total": "523,044"
+            }, 
+            {
+                "bank": "萬泰商業銀行新店分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "綜合存款", 
+                "owner": "丁育群", 
+                "total": "10,499"
+            }, 
+            {
+                "bank": "台新國際商業銀行信義分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "綜合存款", 
+                "owner": "丁育群", 
+                "total": "346,727"
+            }, 
+            {
+                "bank": "上海商業儲蓄銀行三重分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "丁育群", 
+                "total": "30"
+            }, 
+            {
+                "bank": "臺灣土地銀行信託部", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "丁育群", 
+                "total": "0"
+            }, 
+            {
+                "bank": "美國銀行", 
+                "currency": "美金", 
+                "currency_total": "44,545", 
+                "deposit_type": "活期存款", 
+                "owner": "丁育群", 
+                "total": "1,339,557"
+            }
+        ], 
+        "fund": [], 
+        "insurance": [], 
+        "investment": [], 
         "land": [
             {
                 "acquire_value": "6,998,718", 
@@ -1159,6 +2386,7 @@
             "spouse": "", 
             "title": "局長"
         }, 
+        "otherbonds": [], 
         "stock": []
     }, 
     {
@@ -1194,6 +2422,10 @@
         "stock": []
     }, 
     {
+        "aircraft": [], 
+        "antique": [], 
+        "boat": [], 
+        "bonds": [], 
         "building": [
             {
                 "acquire_value": "1,800,000(含停車位)", 
@@ -1214,6 +2446,229 @@
                 "share_portion": "20376分之7"
             }
         ], 
+        "car": [
+            {
+                "acquire_value": "800,000", 
+                "capacity": "1,998", 
+                "name": "本田 ACCORD EX-2.0L", 
+                "owner": "詹琇珠", 
+                "register_date": "96年06月28日", 
+                "register_reason": "(購買)"
+            }
+        ], 
+        "cash": [], 
+        "claim": [], 
+        "debt": [], 
+        "deposit": [
+            {
+                "bank": "中國信託商業銀行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "邊泰明", 
+                "total": "956"
+            }, 
+            {
+                "bank": "中國信託商業銀行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "定期存款", 
+                "owner": "邊泰明", 
+                "total": "3,273,212"
+            }, 
+            {
+                "bank": "中華郵政股份有限公司", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "邊泰明", 
+                "total": "50,359"
+            }, 
+            {
+                "bank": "台北富邦商業銀行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "邊泰明", 
+                "total": "132,426"
+            }, 
+            {
+                "bank": "兆豐金", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "邊泰明", 
+                "total": "281"
+            }, 
+            {
+                "bank": "第一商業銀行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "邊泰明", 
+                "total": "377"
+            }, 
+            {
+                "bank": "中國信託商業銀行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "詹琇珠", 
+                "total": "215"
+            }, 
+            {
+                "bank": "中國信託商業銀行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "定期存款", 
+                "owner": "詹琇珠", 
+                "total": "3,218,763"
+            }, 
+            {
+                "bank": "中華郵政股份有限公司", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "詹琇珠", 
+                "total": "67,897"
+            }, 
+            {
+                "bank": "台北富邦商業銀行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "支票存款", 
+                "owner": "詹琇珠", 
+                "total": "6,674"
+            }, 
+            {
+                "bank": "台北富邦商業銀行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "詹琇珠", 
+                "total": "11,617"
+            }, 
+            {
+                "bank": "台北富邦商業銀行", 
+                "currency": "英鎊", 
+                "currency_total": "18,731.64", 
+                "deposit_type": "定期存款", 
+                "owner": "詹琇珠", 
+                "total": "840,301"
+            }, 
+            {
+                "bank": "臺灣銀行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "詹琇珠", 
+                "total": "288,911"
+            }, 
+            {
+                "bank": "臺灣銀行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "定期存款", 
+                "owner": "詹琇珠", 
+                "total": "7,900,000"
+            }, 
+            {
+                "bank": "兆豐金", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "詹琇珠", 
+                "total": "6,023,039"
+            }, 
+            {
+                "bank": "國泰世華商業銀行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "詹琇珠", 
+                "total": "2,313,060"
+            }, 
+            {
+                "bank": "國泰世華商業銀行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "定期存款", 
+                "owner": "詹琇珠", 
+                "total": "3,983,344"
+            }, 
+            {
+                "bank": "國泰世華商業銀行", 
+                "currency": "歐元", 
+                "currency_total": "1.52", 
+                "deposit_type": "活期存款", 
+                "owner": "詹琇珠", 
+                "total": "59,401"
+            }, 
+            {
+                "bank": "國泰世華商業銀行", 
+                "currency": "日圓", 
+                "currency_total": "72,000", 
+                "deposit_type": "活期存款", 
+                "owner": "詹琇珠", 
+                "total": "21,456"
+            }, 
+            {
+                "bank": "國泰世華商業銀行", 
+                "currency": "人民幣", 
+                "currency_total": "35,102", 
+                "deposit_type": "定期存款", 
+                "owner": "詹琇珠", 
+                "total": "167,436"
+            }, 
+            {
+                "bank": "澳盛銀行 (ANZ)", 
+                "currency": "紐西蘭幣", 
+                "currency_total": "445,681", 
+                "deposit_type": "定期存款", 
+                "owner": "詹琇珠", 
+                "total": "10,500,243"
+            }, 
+            {
+                "bank": "紐西蘭銀行 (bnz)", 
+                "currency": "紐西蘭幣", 
+                "currency_total": "281,323", 
+                "deposit_type": "定期存款", 
+                "owner": "詹琇珠", 
+                "total": "6,627,969"
+            }, 
+            {
+                "bank": "匯豐商業銀行 (HSBC)", 
+                "currency": "紐西蘭幣", 
+                "currency_total": "9,497", 
+                "deposit_type": "定期存款", 
+                "owner": "詹琇珠", 
+                "total": "223,749"
+            }
+        ], 
+        "fund": [], 
+        "insurance": [
+            {
+                "company": "國泰人壽", 
+                "name": "添美盛美元終身壽險", 
+                "owner": "詹琇珠"
+            }, 
+            {
+                "company": "國泰人壽", 
+                "name": "樂悠人生外幣變額年金保險", 
+                "owner": "詹琇珠"
+            }, 
+            {
+                "company": "富邦人壽", 
+                "name": "美利成增外幣養老保險", 
+                "owner": "詹琇珠"
+            }, 
+            {
+                "company": "富邦人壽", 
+                "name": "超美利外幣增額終身壽險", 
+                "owner": "詹琇珠"
+            }
+        ], 
+        "investment": [], 
         "land": [
             {
                 "acquire_value": "200,000", 
@@ -1234,6 +2689,7 @@
             "spouse": "詹琇珠", 
             "title": "局長"
         }, 
+        "otherbonds": [], 
         "stock": []
     }, 
     {
@@ -1371,6 +2827,47 @@
         ]
     }, 
     {
+        "aircraft": [], 
+        "antique": [
+            {
+                "name": "古董花瓶", 
+                "owner": "林寬裕", 
+                "quantity": "2", 
+                "total": "300,000"
+            }, 
+            {
+                "name": "手錶", 
+                "owner": "林寬裕", 
+                "quantity": "3", 
+                "total": "400,000"
+            }, 
+            {
+                "name": "手錶", 
+                "owner": "朱寬梅", 
+                "quantity": "1", 
+                "total": "350,000"
+            }, 
+            {
+                "name": "音響", 
+                "owner": "林寬裕", 
+                "quantity": "2", 
+                "total": "800,000"
+            }, 
+            {
+                "name": "古典CD唱片、LP唱片、LD光碟、DVD光碟", 
+                "owner": "林寬裕", 
+                "quantity": "8,000", 
+                "total": "3,000,000"
+            }, 
+            {
+                "name": "模型火車玩具", 
+                "owner": "林寬裕", 
+                "quantity": "200", 
+                "total": "1,200,000"
+            }
+        ], 
+        "boat": [], 
+        "bonds": [], 
         "building": [
             {
                 "acquire_value": "(超過五年,自住,附屬建物11.63)", 
@@ -1391,6 +2888,117 @@
                 "share_portion": "255分之1"
             }
         ], 
+        "car": [
+            {
+                "acquire_value": "(超過五年)", 
+                "capacity": "2,497", 
+                "name": "起亞 Kia", 
+                "owner": "林寬裕", 
+                "register_date": "94年09月09日", 
+                "register_reason": "買賣"
+            }
+        ], 
+        "cash": [
+            {
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "owner": "林寬裕", 
+                "total": "400,000"
+            }, 
+            {
+                "currency": "美金", 
+                "currency_total": "20,000", 
+                "owner": "林寬裕", 
+                "total": "594,000"
+            }, 
+            {
+                "currency": "日圓", 
+                "currency_total": "200,000", 
+                "owner": "林寬裕", 
+                "total": "58,600"
+            }
+        ], 
+        "claim": [
+            {
+                "debtor": "林佳裕  新北市三重區集美街", 
+                "owner": "林寬裕", 
+                "register_date": "101年12月15日", 
+                "register_reason": "親戚借款", 
+                "species": "一般借款", 
+                "total": "18,000,000"
+            }
+        ], 
+        "debt": [
+            {
+                "debtor": "林寬裕", 
+                "owner": "花旗(台灣)商業銀行儲蓄部 臺北市信義區松智路1號", 
+                "register_date": "82年04月06日", 
+                "register_reason": "個人資金調度", 
+                "species": "房屋貸款(透支帳戶)", 
+                "total": "1,200,000"
+            }, 
+            {
+                "debtor": "林寬裕", 
+                "owner": "玉山商業銀行敦南分行 臺北市敦化南路一段339號", 
+                "register_date": "94年05月03日", 
+                "register_reason": "留學貸款", 
+                "species": "留學生貸款", 
+                "total": "800,000"
+            }
+        ], 
+        "deposit": [
+            {
+                "bank": "中華郵政股份有限公司內湖碧湖郵局", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "林寬裕", 
+                "total": "11,146"
+            }, 
+            {
+                "bank": "國泰世華商業銀行南投分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "林寬裕", 
+                "total": "2,080,977"
+            }, 
+            {
+                "bank": "合作金庫商業銀行光復南路分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "林寬裕", 
+                "total": "37,936"
+            }, 
+            {
+                "bank": "玉山商業銀行敦南分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "林寬裕", 
+                "total": "20,620"
+            }, 
+            {
+                "bank": "花旗(台灣)商業銀行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "林寬裕", 
+                "total": "723.99"
+            }, 
+            {
+                "bank": "花旗(台灣)商業銀行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "支票存款", 
+                "owner": "林寬裕", 
+                "total": "0"
+            }
+        ], 
+        "fund": [], 
+        "insurance": [], 
+        "investment": [], 
         "land": [
             {
                 "acquire_value": "(超過五年,自住)", 
@@ -1510,6 +3118,7 @@
             "spouse": "朱寬梅", 
             "title": "局長"
         }, 
+        "otherbonds": [], 
         "stock": []
     }, 
     {
@@ -1665,6 +3274,38 @@
         "stock": []
     }, 
     {
+        "aircraft": [], 
+        "antique": [
+            {
+                "name": "黃金存摺", 
+                "owner": "林惠雪", 
+                "quantity": "1", 
+                "total": "112,035(89.20g 參考價格 1256/g)"
+            }
+        ], 
+        "boat": [], 
+        "bonds": [
+            {
+                "currency": "澳幣", 
+                "dealer": "0210030花旗（台灣）銀行高雄分行", 
+                "face_value": "100", 
+                "name": "BARCLAYS 10Y AUD DUAL RANGE", 
+                "owner": "林惠雪", 
+                "quantity": "600", 
+                "symbol": "", 
+                "total": "1,662,300"
+            }, 
+            {
+                "currency": "澳幣", 
+                "dealer": "0210030花旗（台灣）銀行高雄分行", 
+                "face_value": "92.77", 
+                "name": "CITI 10Y AUD FIXED COUPON", 
+                "owner": "林惠雪", 
+                "quantity": "500", 
+                "symbol": "", 
+                "total": "1,285,096.42"
+            }
+        ], 
         "building": [
             {
                 "acquire_value": "(超過五年)", 
@@ -1694,6 +3335,250 @@
                 "share_portion": "10000分之362"
             }
         ], 
+        "car": [
+            {
+                "acquire_value": "630,000", 
+                "capacity": "1,794", 
+                "name": "國瑞", 
+                "owner": "林惠雪", 
+                "register_date": "96年04月24日", 
+                "register_reason": "買賣"
+            }, 
+            {
+                "acquire_value": "981,000", 
+                "capacity": "2,494", 
+                "name": "國瑞", 
+                "owner": "林惠雪", 
+                "register_date": "101年11月30日", 
+                "register_reason": "買賣"
+            }
+        ], 
+        "cash": [], 
+        "claim": [], 
+        "debt": [], 
+        "deposit": [
+            {
+                "bank": "交通大學郵局（第２５支局）", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "中華郵政存簿儲金", 
+                "owner": "許和鈞", 
+                "total": "888,633"
+            }, 
+            {
+                "bank": "永和中山路郵局（第６９支局）", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "中華郵政存簿儲金", 
+                "owner": "林惠雪", 
+                "total": "452,909"
+            }, 
+            {
+                "bank": "臺灣土地銀行內湖分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "愛心活期存款", 
+                "owner": "林惠雪", 
+                "total": "422,115"
+            }, 
+            {
+                "bank": "遠東國際商業銀行台北襄陽分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "林惠雪", 
+                "total": "66,571"
+            }, 
+            {
+                "bank": "遠東國際商業銀行台北襄陽分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "定期存款", 
+                "owner": "林惠雪", 
+                "total": "1,835,718"
+            }, 
+            {
+                "bank": "國泰世華商業銀行文德分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "林惠雪", 
+                "total": "1,000"
+            }, 
+            {
+                "bank": "臺灣銀行營業部", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "林惠雪", 
+                "total": "662,904"
+            }, 
+            {
+                "bank": "臺灣銀行營業部", 
+                "currency": "美金", 
+                "currency_total": "80,778.26", 
+                "deposit_type": "活期存款", 
+                "owner": "林惠雪", 
+                "total": "2,386,593.69"
+            }, 
+            {
+                "bank": "臺灣銀行信安分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "許和鈞", 
+                "total": "2,710,261"
+            }, 
+            {
+                "bank": "臺灣銀行信安分行", 
+                "currency": "美金", 
+                "currency_total": "74,084.11", 
+                "deposit_type": "活期存款", 
+                "owner": "許和鈞", 
+                "total": "2,188,815.02"
+            }, 
+            {
+                "bank": "華南商業銀行忠孝東路分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "林惠雪", 
+                "total": "602,922"
+            }, 
+            {
+                "bank": "臺灣銀行信安分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "支票存款", 
+                "owner": "許和鈞", 
+                "total": "5,000"
+            }, 
+            {
+                "bank": "臺灣銀行營業部", 
+                "currency": "澳幣", 
+                "currency_total": "40.16", 
+                "deposit_type": "活期存款", 
+                "owner": "林惠雪", 
+                "total": "1,116.24"
+            }, 
+            {
+                "bank": "花旗（台灣）銀行高雄分行", 
+                "currency": "澳幣", 
+                "currency_total": "12.44", 
+                "deposit_type": "活期存款", 
+                "owner": "林惠雪", 
+                "total": "344.65"
+            }, 
+            {
+                "bank": "花旗（台灣）銀行高雄分行", 
+                "currency": "美金", 
+                "currency_total": "273.07", 
+                "deposit_type": "活期存款", 
+                "owner": "林惠雪", 
+                "total": "8,093.79"
+            }
+        ], 
+        "fund": [
+            {
+                "currency": "美金", 
+                "dealer": "花旗（台灣）銀行", 
+                "face_value": "4.57", 
+                "name": "AB-GLOBAL HIGH YIELD PORTFOLIO AT (USD)DISTN", 
+                "owner": "林惠雪", 
+                "quantity": "7,260.70", 
+                "total": "983,496.66"
+            }, 
+            {
+                "currency": "美金", 
+                "dealer": "台灣銀行", 
+                "face_value": "29.47", 
+                "name": "貝萊德新興市場", 
+                "owner": "林惠雪", 
+                "quantity": "868.34", 
+                "total": "756,055.95"
+            }, 
+            {
+                "currency": "美金", 
+                "dealer": "台灣銀行", 
+                "face_value": "22.19", 
+                "name": "A721富蘭坦伯頓法人機構", 
+                "owner": "林惠雪", 
+                "quantity": "1,227.26", 
+                "total": "804,596.01"
+            }, 
+            {
+                "currency": "澳幣", 
+                "dealer": "花旗（台灣）銀行", 
+                "face_value": "10.87", 
+                "name": "BGF US DOLLAR HIGH YIELD BOND FUND A8(AUD HEDGED)", 
+                "owner": "林惠雪", 
+                "quantity": "137.22", 
+                "total": "41,324.26"
+            }
+        ], 
+        "insurance": [
+            {
+                "company": "臺銀人壽", 
+                "name": "鴻福還本終身壽險", 
+                "owner": "許和鈞"
+            }, 
+            {
+                "company": "臺銀人壽", 
+                "name": "增值分紅養老壽險", 
+                "owner": "林惠雪"
+            }, 
+            {
+                "company": "臺銀人壽", 
+                "name": "增值分紅養老壽險", 
+                "owner": "林惠雪"
+            }, 
+            {
+                "company": "臺銀人壽", 
+                "name": "增值分紅養老壽險", 
+                "owner": "林惠雪"
+            }, 
+            {
+                "company": "國泰人壽", 
+                "name": "富貴年年終身壽險", 
+                "owner": "林惠雪"
+            }, 
+            {
+                "company": "國泰人壽", 
+                "name": "富貴年年終身壽險", 
+                "owner": "林惠雪"
+            }, 
+            {
+                "company": "國泰人壽", 
+                "name": "312還本終身壽險", 
+                "owner": "林惠雪"
+            }, 
+            {
+                "company": "國泰人壽", 
+                "name": "312還本終身壽險", 
+                "owner": "林惠雪"
+            }, 
+            {
+                "company": "國泰人壽", 
+                "name": "富貴保本三福", 
+                "owner": "林惠雪"
+            }, 
+            {
+                "company": "國泰人壽", 
+                "name": "鍾愛一生313", 
+                "owner": "林惠雪"
+            }, 
+            {
+                "company": "國泰人壽", 
+                "name": "鍾愛一生313", 
+                "owner": "林惠雪"
+            }, 
+            {
+                "company": "南山人壽", 
+                "name": "添利久久外幣增額終身壽險", 
+                "owner": "林惠雪"
+            }
+        ], 
+        "investment": [], 
         "land": [
             {
                 "acquire_value": "(超過五年)", 
@@ -1867,6 +3752,7 @@
             "spouse": "林惠雪", 
             "title": "副市長"
         }, 
+        "otherbonds": [], 
         "stock": [
             {
                 "currency": "新臺幣", 
@@ -1919,6 +3805,10 @@
         "stock": []
     }, 
     {
+        "aircraft": [], 
+        "antique": [], 
+        "boat": [], 
+        "bonds": [], 
         "building": [
             {
                 "acquire_value": "131,700", 
@@ -1930,6 +3820,48 @@
                 "share_portion": "全部"
             }
         ], 
+        "car": [
+            {
+                "acquire_value": "450,000", 
+                "capacity": "2,488", 
+                "name": "裕隆 (國產)", 
+                "owner": "馬躍.比吼", 
+                "register_date": "99年05月10日", 
+                "register_reason": "買賣"
+            }
+        ], 
+        "cash": [], 
+        "claim": [], 
+        "debt": [
+            {
+                "debtor": "馬躍.比吼", 
+                "owner": "第一銀行商業銀長泰分行 新北市三重區重新路二段99號", 
+                "register_date": "95年07月03日", 
+                "register_reason": "購置房屋", 
+                "species": "房屋貸款", 
+                "total": "2,255,228"
+            }
+        ], 
+        "deposit": [], 
+        "fund": [], 
+        "insurance": [
+            {
+                "company": "國泰人壽", 
+                "name": "美滿人生202終身", 
+                "owner": "馬躍.比吼"
+            }, 
+            {
+                "company": "國泰人壽", 
+                "name": "天祥終身", 
+                "owner": "馬躍.比吼"
+            }, 
+            {
+                "company": "國泰人壽", 
+                "name": "保本101終身", 
+                "owner": "馬躍.比吼"
+            }
+        ], 
+        "investment": [], 
         "land": [
             {
                 "acquire_value": "106,928", 
@@ -1950,6 +3882,7 @@
             "spouse": "", 
             "title": "主任委員"
         }, 
+        "otherbonds": [], 
         "stock": []
     }, 
     {
@@ -1985,6 +3918,10 @@
         "stock": []
     }, 
     {
+        "aircraft": [], 
+        "antique": [], 
+        "boat": [], 
+        "bonds": [], 
         "building": [
             {
                 "acquire_value": "(超過五年)", 
@@ -1996,6 +3933,75 @@
                 "share_portion": "全部"
             }
         ], 
+        "car": [
+            {
+                "acquire_value": "(超過五年)", 
+                "capacity": "1,769", 
+                "name": "日產 N16ESSENTRA", 
+                "owner": "陳聰慧", 
+                "register_date": "94年01月05日", 
+                "register_reason": "買賣"
+            }
+        ], 
+        "cash": [], 
+        "claim": [], 
+        "debt": [
+            {
+                "debtor": "黃憲東", 
+                "owner": "臺灣銀行 臺北市重慶南路一段120號", 
+                "register_date": "101年01月05日", 
+                "register_reason": "房貸", 
+                "species": "抵押貸款", 
+                "total": "3,588,133"
+            }, 
+            {
+                "debtor": "黃憲東", 
+                "owner": "高雄銀行市府分行 高雄市苓雅區四維三路2號1樓", 
+                "register_date": "101年01月05日", 
+                "register_reason": "家用", 
+                "species": "短期借款", 
+                "total": "537,885"
+            }, 
+            {
+                "debtor": "黃憲東", 
+                "owner": "高雄銀行市府分行 高雄市苓雅區四維三路2號1樓", 
+                "register_date": "101年06月05日", 
+                "register_reason": "家用", 
+                "species": "短期借款", 
+                "total": "451,460"
+            }, 
+            {
+                "debtor": "陳聰慧", 
+                "owner": "臺灣銀行北花蓮分行 花蓮縣花蓮市林森路281號1、2樓", 
+                "register_date": "98年07月30日", 
+                "register_reason": "個人理財", 
+                "species": "短期借款", 
+                "total": "761,908"
+            }, 
+            {
+                "debtor": "陳聰慧", 
+                "owner": "臺銀人壽 臺北市敦化南路2段69號3樓", 
+                "register_date": "101年09月07日", 
+                "register_reason": "家用", 
+                "species": "保單借款", 
+                "total": "160,000"
+            }
+        ], 
+        "deposit": [], 
+        "fund": [], 
+        "insurance": [
+            {
+                "company": "臺銀人壽", 
+                "name": "定期還本終身壽險(保額300,000元)", 
+                "owner": "陳聰慧"
+            }, 
+            {
+                "company": "富邦人壽", 
+                "name": "安泰還本終身壽險(保額74,100元)", 
+                "owner": "陳聰慧"
+            }
+        ], 
+        "investment": [], 
         "land": [
             {
                 "acquire_value": "(超過五年)", 
@@ -2016,10 +4022,23 @@
             "spouse": "陳聰慧", 
             "title": "局長"
         }, 
+        "otherbonds": [], 
         "stock": []
     }, 
     {
+        "aircraft": [], 
+        "antique": [], 
+        "boat": [], 
+        "bonds": [], 
         "building": [], 
+        "car": [], 
+        "cash": [], 
+        "claim": [], 
+        "debt": [], 
+        "deposit": [], 
+        "fund": [], 
+        "insurance": [], 
+        "investment": [], 
         "land": [], 
         "meta": {
             "category": "公職人員財產申報表", 
@@ -2030,6 +4049,7 @@
             "spouse": "趙○宜", 
             "title": "局長"
         }, 
+        "otherbonds": [], 
         "stock": []
     }, 
     {
@@ -2065,6 +4085,29 @@
         "stock": []
     }, 
     {
+        "aircraft": [], 
+        "antique": [
+            {
+                "name": "畫作", 
+                "owner": "賴錫祿", 
+                "quantity": "", 
+                "total": "120,000"
+            }, 
+            {
+                "name": "藝品", 
+                "owner": "賴錫祿", 
+                "quantity": "", 
+                "total": "300,000"
+            }, 
+            {
+                "name": "金飾", 
+                "owner": "陳玉雲", 
+                "quantity": "", 
+                "total": "20,000"
+            }
+        ], 
+        "boat": [], 
+        "bonds": [], 
         "building": [
             {
                 "acquire_value": "(超過五年)", 
@@ -2076,6 +4119,96 @@
                 "share_portion": "全部"
             }
         ], 
+        "car": [
+            {
+                "acquire_value": "(超過五年)", 
+                "capacity": "1,998", 
+                "name": "NISSAN-PRIMERA 2.0 SLX 小客車", 
+                "owner": "賴錫祿", 
+                "register_date": "86年05月10日", 
+                "register_reason": "買賣"
+            }
+        ], 
+        "cash": [], 
+        "claim": [], 
+        "debt": [], 
+        "deposit": [
+            {
+                "bank": "臺灣銀行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "賴錫祿", 
+                "total": "587,391"
+            }, 
+            {
+                "bank": "臺灣銀行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳玉雲", 
+                "total": "40,022"
+            }, 
+            {
+                "bank": "臺灣銀行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "綜合存款", 
+                "owner": "陳玉雲", 
+                "total": "4,121,141"
+            }, 
+            {
+                "bank": "臺灣銀行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "綜合存款", 
+                "owner": "陳玉雲", 
+                "total": "1,195,628"
+            }, 
+            {
+                "bank": "臺灣銀行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "綜合存款", 
+                "owner": "賴錫祿", 
+                "total": "1,743,940"
+            }, 
+            {
+                "bank": "中華郵政股份有限公司宜蘭縣政府郵局", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "綜合存款", 
+                "owner": "陳玉雲", 
+                "total": "3,764,443"
+            }, 
+            {
+                "bank": "中華郵政股份有限公司宜蘭西後街郵局", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "賴錫祿", 
+                "total": "479,354"
+            }, 
+            {
+                "bank": "彰化商業銀行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳玉雲", 
+                "total": "342"
+            }, 
+            {
+                "bank": "宜蘭縣羅東鎮農會", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "賴錫祿", 
+                "total": "1,496"
+            }
+        ], 
+        "fund": [], 
+        "insurance": [], 
+        "investment": [], 
         "land": [
             {
                 "acquire_value": "(超過五年)", 
@@ -2141,9 +4274,14 @@
             "spouse": "陳玉雲", 
             "title": "處長"
         }, 
+        "otherbonds": [], 
         "stock": []
     }, 
     {
+        "aircraft": [], 
+        "antique": [], 
+        "boat": [], 
+        "bonds": [], 
         "building": [
             {
                 "acquire_value": "1,000,000(屋頂突出物6.14)", 
@@ -2180,6 +4318,105 @@
                 "register_date": "78年08月10日", 
                 "register_reason": "買賣", 
                 "share_portion": "全部"
+            }
+        ], 
+        "car": [
+            {
+                "acquire_value": "700,000", 
+                "capacity": "1,998", 
+                "name": "國瑞汽車", 
+                "owner": "余玉女", 
+                "register_date": "94年03月22日", 
+                "register_reason": "買賣"
+            }
+        ], 
+        "cash": [], 
+        "claim": [], 
+        "debt": [
+            {
+                "debtor": "余玉女", 
+                "owner": "臺灣銀行蘇澳分行 宜蘭縣蘇澳鎮中山路1", 
+                "register_date": "91年01月01日", 
+                "register_reason": "購置房屋", 
+                "species": "購屋貸款", 
+                "total": "6,500,000"
+            }, 
+            {
+                "debtor": "陳文昌", 
+                "owner": "臺灣銀行羅東分行 宜蘭縣羅東鎮公正路", 
+                "register_date": "93年08月02日", 
+                "register_reason": "私人借貸", 
+                "species": "保證債務", 
+                "total": "8,830,000"
+            }, 
+            {
+                "debtor": "陳文昌", 
+                "owner": "臺灣銀行羅東分行 宜蘭縣羅東鎮公正路", 
+                "register_date": "93年08月02日", 
+                "register_reason": "購置汽車", 
+                "species": "保證債務", 
+                "total": "2,575,000"
+            }, 
+            {
+                "debtor": "陳文昌", 
+                "owner": "臺灣銀行羅東分行 宜蘭縣羅東鎮公正路", 
+                "register_date": "93年08月02日", 
+                "register_reason": "個人資金調度", 
+                "species": "保證債務", 
+                "total": "645,000"
+            }, 
+            {
+                "debtor": "陳文昌", 
+                "owner": "臺灣銀行羅東分行 宜蘭縣羅東鎮公正路", 
+                "register_date": "93年08月02日", 
+                "register_reason": "主債務人無法清償", 
+                "species": "保證債務", 
+                "total": "440,000"
+            }, 
+            {
+                "debtor": "余玉女", 
+                "owner": "宜蘭縣三星地區農會 宜蘭縣三星鄉中山路31號", 
+                "register_date": "85年11月14日", 
+                "register_reason": "", 
+                "species": "擔保貸款", 
+                "total": "3,000,000"
+            }, 
+            {
+                "debtor": "余玉女", 
+                "owner": "宜蘭縣三星地區農會 宜蘭縣三星鄉中山路31號", 
+                "register_date": "93年09月08日", 
+                "register_reason": "", 
+                "species": "擔保貸款", 
+                "total": "150,000"
+            }, 
+            {
+                "debtor": "余玉女", 
+                "owner": "臺灣中小企業銀行仁愛分行 臺北市大安區仁愛路4段357號", 
+                "register_date": "97年01月15日", 
+                "register_reason": "", 
+                "species": "長期擔保貸款", 
+                "total": "12,895,000"
+            }
+        ], 
+        "deposit": [], 
+        "fund": [], 
+        "insurance": [], 
+        "investment": [
+            {
+                "address": "宜蘭縣礁溪鄉德陽路43號", 
+                "company": "川湯春天有限公司", 
+                "owner": "余玉女", 
+                "register_date": "94年08月22日", 
+                "register_reason": "合夥", 
+                "total": "31,250,000"
+            }, 
+            {
+                "address": "宜蘭縣礁溪鄉德陽路35號", 
+                "company": "川湯溫泉會館有限公司", 
+                "owner": "余玉女", 
+                "register_date": "97年07月22日", 
+                "register_reason": "合夥", 
+                "total": "3,125,000"
             }
         ], 
         "land": [
@@ -2319,6 +4556,7 @@
             "spouse": "余玉女", 
             "title": "處長"
         }, 
+        "otherbonds": [], 
         "stock": []
     }, 
     {
@@ -2450,6 +4688,10 @@
         "stock": []
     }, 
     {
+        "aircraft": [], 
+        "antique": [], 
+        "boat": [], 
+        "bonds": [], 
         "building": [
             {
                 "acquire_value": "(超過五年)", 
@@ -2461,6 +4703,295 @@
                 "share_portion": "全部"
             }
         ], 
+        "car": [
+            {
+                "acquire_value": "2,370,000", 
+                "capacity": "3,300", 
+                "name": "LEXUS,TOYOTA", 
+                "owner": "葉世文", 
+                "register_date": "96年12月13日", 
+                "register_reason": "買賣"
+            }
+        ], 
+        "cash": [], 
+        "claim": [], 
+        "debt": [
+            {
+                "debtor": "葉世文", 
+                "owner": "台北富邦桂林分行 臺北市萬華區桂林路52號", 
+                "register_date": "96年10月25日", 
+                "register_reason": "房屋抵押", 
+                "species": "房屋貸款", 
+                "total": "16,000,000"
+            }
+        ], 
+        "deposit": [
+            {
+                "bank": "第一商業銀行南屯分行", 
+                "currency": "美金", 
+                "currency_total": "8,001.10", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "李秀華", 
+                "total": "240,593.07"
+            }, 
+            {
+                "bank": "中華郵政股份有限公司南投中興", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "李秀華", 
+                "total": "446,427"
+            }, 
+            {
+                "bank": "遠東國際商業銀行南投", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "李秀華", 
+                "total": "17,008"
+            }, 
+            {
+                "bank": "臺灣銀行營業部", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "李秀華", 
+                "total": "101"
+            }, 
+            {
+                "bank": "臺灣銀行中興新村", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "李秀華", 
+                "total": "179,360"
+            }, 
+            {
+                "bank": "臺灣銀行中興新村", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "李秀華", 
+                "total": "402,274"
+            }, 
+            {
+                "bank": "臺灣銀行中興新村", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "公教優惠儲蓄存款", 
+                "owner": "李秀華", 
+                "total": "1,278,800"
+            }, 
+            {
+                "bank": "第一商業銀行草屯", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "李秀華", 
+                "total": "672,789"
+            }, 
+            {
+                "bank": "合作金庫票券金融公司中山路", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "中華郵政劃撥儲金", 
+                "owner": "李秀華", 
+                "total": "3,445"
+            }, 
+            {
+                "bank": "台中商業銀行草屯", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "中華郵政劃撥儲金", 
+                "owner": "李秀華", 
+                "total": "5"
+            }, 
+            {
+                "bank": "中國信託商業銀行天母", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "李秀華", 
+                "total": "268,203"
+            }, 
+            {
+                "bank": "台北富邦商業銀行天母", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "葉世文", 
+                "total": "949,204"
+            }, 
+            {
+                "bank": "玉山商業銀行天母", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "葉世文", 
+                "total": "144,683"
+            }, 
+            {
+                "bank": "中華郵政股份有限公司陽明山", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "葉世文", 
+                "total": "210,460"
+            }, 
+            {
+                "bank": "中華郵政股份有限公司陽明山", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "中華郵政劃撥儲金", 
+                "owner": "葉世文", 
+                "total": "3,055"
+            }, 
+            {
+                "bank": "彰化商業銀行水裡坑", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "中華郵政劃撥儲金", 
+                "owner": "葉世文", 
+                "total": "84,544"
+            }, 
+            {
+                "bank": "臺灣銀行南投", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "葉世文", 
+                "total": "67,735"
+            }, 
+            {
+                "bank": "淡水第一信用合作社營業部", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "葉世文", 
+                "total": "903"
+            }, 
+            {
+                "bank": "萬泰商業銀行新店", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "葉世文", 
+                "total": "325"
+            }, 
+            {
+                "bank": "台北縣淡水信用合作社營業部", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "葉世文", 
+                "total": "115"
+            }, 
+            {
+                "bank": "遠東國際商業銀行南投", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "葉世文", 
+                "total": "1,148"
+            }, 
+            {
+                "bank": "花旗(台灣)商業銀行大安", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "中華郵政劃撥儲金", 
+                "owner": "葉世文", 
+                "total": "30"
+            }, 
+            {
+                "bank": "草屯郵局（第１０支局）", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "李秀華", 
+                "total": "453,610"
+            }, 
+            {
+                "bank": "臺灣銀行民生分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "公教優惠儲蓄存款", 
+                "owner": "葉世文", 
+                "total": "2,583,221"
+            }
+        ], 
+        "fund": [
+            {
+                "currency": "新臺幣", 
+                "dealer": "兆豐國際商業銀行", 
+                "face_value": "13.80", 
+                "name": "匯豐成功基金", 
+                "owner": "李秀華", 
+                "quantity": "10,000", 
+                "total": "138,000"
+            }, 
+            {
+                "currency": "美金", 
+                "dealer": "中國信託商業銀行", 
+                "face_value": "27.20", 
+                "name": "貝萊德世界黃金基金", 
+                "owner": "李秀華", 
+                "quantity": "730.05", 
+                "total": "597,110.81"
+            }, 
+            {
+                "currency": "美金", 
+                "dealer": "中國信託商業銀行", 
+                "face_value": "31.20", 
+                "name": "富達東協基金", 
+                "owner": "李秀華", 
+                "quantity": "482.78", 
+                "total": "452,936.47"
+            }, 
+            {
+                "currency": "美金", 
+                "dealer": "中國信託商業銀行", 
+                "face_value": "18.57", 
+                "name": "瑞銀美國增長", 
+                "owner": "李秀華", 
+                "quantity": "1,342.46", 
+                "total": "750,033.20"
+            }, 
+            {
+                "currency": "美金", 
+                "dealer": "中國信託商業銀行", 
+                "face_value": "21.18", 
+                "name": "坦全-全球債 B 股(配現)", 
+                "owner": "李秀華", 
+                "quantity": "285.01", 
+                "total": "181,517.90"
+            }, 
+            {
+                "currency": "美金", 
+                "dealer": "中國信託商業銀行", 
+                "face_value": "21.26", 
+                "name": "施羅德新興亞洲美元", 
+                "owner": "李秀華", 
+                "quantity": "1,106.90", 
+                "total": "707,628.10"
+            }, 
+            {
+                "currency": "美金", 
+                "dealer": "中國信託商業銀行", 
+                "face_value": "10.40", 
+                "name": "翰亞投資中國股票基金", 
+                "owner": "李秀華", 
+                "quantity": "323.67", 
+                "total": "101,220.67"
+            }
+        ], 
+        "insurance": [
+            {
+                "company": "安聯人壽", 
+                "name": "安聯世界觀外幣變額萬能壽險 C 型", 
+                "owner": "李秀華"
+            }
+        ], 
+        "investment": [], 
         "land": [
             {
                 "acquire_value": "(超過五年)", 
@@ -2490,6 +5021,7 @@
             "spouse": "李秀華", 
             "title": "副縣長"
         }, 
+        "otherbonds": [], 
         "stock": [
             {
                 "currency": "新臺幣", 
@@ -2754,6 +5286,10 @@
         ]
     }, 
     {
+        "aircraft": [], 
+        "antique": [], 
+        "boat": [], 
+        "bonds": [], 
         "building": [
             {
                 "acquire_value": "7,000,000", 
@@ -2774,6 +5310,161 @@
                 "share_portion": "10000分之64"
             }
         ], 
+        "car": [], 
+        "cash": [], 
+        "claim": [], 
+        "debt": [
+            {
+                "debtor": "李建廷", 
+                "owner": "臺灣銀行前金分行 高雄市中正四路259號", 
+                "register_date": "93年07月22日", 
+                "register_reason": "購置房屋", 
+                "species": "房屋貸款", 
+                "total": "2,422,363"
+            }, 
+            {
+                "debtor": "李建廷", 
+                "owner": "臺灣銀行前金分行 高雄市中正四路259號", 
+                "register_date": "93年07月22日", 
+                "register_reason": "購置房屋", 
+                "species": "房屋貸款", 
+                "total": "341,139"
+            }
+        ], 
+        "deposit": [
+            {
+                "bank": "陽信商業銀行海光分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "定期存款", 
+                "owner": "李建廷", 
+                "total": "600,000"
+            }, 
+            {
+                "bank": "陽信商業銀行海光分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "李建廷", 
+                "total": "140,710"
+            }, 
+            {
+                "bank": "臺灣銀行前金分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "職工福利存款", 
+                "owner": "李建廷", 
+                "total": "103"
+            }, 
+            {
+                "bank": "臺灣銀行前金分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "李建廷", 
+                "total": "3,303"
+            }, 
+            {
+                "bank": "臺灣銀行前金分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "李建廷", 
+                "total": "391,376"
+            }, 
+            {
+                "bank": "臺灣土地銀行屏東分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "李建廷", 
+                "total": "562,534"
+            }, 
+            {
+                "bank": "中華郵政股份有限公司屏東民生路郵局", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "中華郵政存簿儲金", 
+                "owner": "李建廷", 
+                "total": "214,106"
+            }, 
+            {
+                "bank": "臺灣銀行北高雄", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "綜合存款", 
+                "owner": "李建廷", 
+                "total": "4,362"
+            }, 
+            {
+                "bank": "臺灣銀行北高雄", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "李建廷", 
+                "total": "700"
+            }, 
+            {
+                "bank": "臺灣中小企業銀行苓雅分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "李建廷", 
+                "total": "942,183"
+            }
+        ], 
+        "fund": [
+            {
+                "currency": "美金", 
+                "dealer": "臺灣土地銀行屏東分行", 
+                "face_value": "7.09", 
+                "name": "基金富坦全球投資公司債基金", 
+                "owner": "李建廷", 
+                "quantity": "2,386.351", 
+                "total": "497,154"
+            }, 
+            {
+                "currency": "美金", 
+                "dealer": "臺灣土地銀行屏東分行", 
+                "face_value": "11.34", 
+                "name": "富坦全新興固定收月配", 
+                "owner": "李建廷", 
+                "quantity": "444", 
+                "total": "147,947"
+            }, 
+            {
+                "currency": "美金", 
+                "dealer": "臺灣土地銀行屏東分行", 
+                "face_value": "72.3265", 
+                "name": "安本環球亞太股票基金", 
+                "owner": "李建廷", 
+                "quantity": "24.09", 
+                "total": "51,196"
+            }
+        ], 
+        "insurance": [
+            {
+                "company": "南山人壽", 
+                "name": "醫療壽險保障〈住院〉", 
+                "owner": "李建廷"
+            }, 
+            {
+                "company": "南山人壽", 
+                "name": "長期看護保障〈癌症、住院壽險〉", 
+                "owner": "李建廷"
+            }, 
+            {
+                "company": "遠雄人壽", 
+                "name": "年金保險", 
+                "owner": "李建廷"
+            }, 
+            {
+                "company": "富邦人壽", 
+                "name": "金吉利保本投資連結型遞延年金保險〈乙型〉", 
+                "owner": "李建廷"
+            }
+        ], 
+        "investment": [], 
         "land": [
             {
                 "acquire_value": "7,000,000", 
@@ -2794,6 +5485,7 @@
             "spouse": "", 
             "title": "局長"
         }, 
+        "otherbonds": [], 
         "stock": []
     }, 
     {
@@ -2933,6 +5625,10 @@
         "stock": []
     }, 
     {
+        "aircraft": [], 
+        "antique": [], 
+        "boat": [], 
+        "bonds": [], 
         "building": [
             {
                 "acquire_value": "5,200,000(含地)", 
@@ -2944,6 +5640,97 @@
                 "share_portion": "全部"
             }
         ], 
+        "car": [
+            {
+                "acquire_value": "550,000", 
+                "capacity": "1,497", 
+                "name": "國瑞 (豐田)", 
+                "owner": "周傑民", 
+                "register_date": "97年07月24日", 
+                "register_reason": "(購買)"
+            }, 
+            {
+                "acquire_value": "760,000", 
+                "capacity": "2,261", 
+                "name": "福特六和", 
+                "owner": "周傑民", 
+                "register_date": "100年05月30日", 
+                "register_reason": "(購買)"
+            }
+        ], 
+        "cash": [], 
+        "claim": [], 
+        "debt": [
+            {
+                "debtor": "周傑民", 
+                "owner": "花蓮一信中華分社", 
+                "register_date": "民國97年4月", 
+                "register_reason": "購屋", 
+                "species": "房屋貸款", 
+                "total": "3,250,000"
+            }
+        ], 
+        "deposit": [
+            {
+                "bank": "中華郵政股份有限公司蘆竹分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "周傑民", 
+                "total": "71,761"
+            }, 
+            {
+                "bank": "中華郵政股份有限公司新店碧潭", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "周傑民", 
+                "total": "19,123"
+            }, 
+            {
+                "bank": "花蓮第一信用合作社中華分社", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "周傑民", 
+                "total": "24,049"
+            }, 
+            {
+                "bank": "花蓮第二信用合作社中山分社", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "周傑民", 
+                "total": "189,650"
+            }, 
+            {
+                "bank": "兆豐國際商業銀行花蓮分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "周傑民", 
+                "total": "2,500"
+            }, 
+            {
+                "bank": "臺灣銀行花蓮分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "周傑民", 
+                "total": "205,915"
+            }, 
+            {
+                "bank": "臺灣銀行花蓮分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "公教優惠儲蓄存款", 
+                "owner": "周傑民", 
+                "total": "2,229,500"
+            }
+        ], 
+        "fund": [], 
+        "insurance": [], 
+        "investment": [], 
         "land": [
             {
                 "acquire_value": "5,200,000(含屋(貸400萬))", 
@@ -2964,6 +5751,7 @@
             "spouse": "汪黛茵", 
             "title": "處長"
         }, 
+        "otherbonds": [], 
         "stock": []
     }, 
     {
@@ -3018,6 +5806,10 @@
         ]
     }, 
     {
+        "aircraft": [], 
+        "antique": [], 
+        "boat": [], 
+        "bonds": [], 
         "building": [
             {
                 "acquire_value": "(超過五年)", 
@@ -3029,6 +5821,142 @@
                 "share_portion": "全部"
             }
         ], 
+        "car": [], 
+        "cash": [], 
+        "claim": [], 
+        "debt": [], 
+        "deposit": [
+            {
+                "bank": "臺灣銀行松山分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "黃榮峰", 
+                "total": "509,878"
+            }, 
+            {
+                "bank": "臺灣銀行松山分行", 
+                "currency": "美金", 
+                "currency_total": "8,594.25", 
+                "deposit_type": "定期存款", 
+                "owner": "黃榮峰", 
+                "total": "256,968.07"
+            }, 
+            {
+                "bank": "臺灣銀行松山分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "定期存款", 
+                "owner": "黃榮峰", 
+                "total": "4,000,000"
+            }, 
+            {
+                "bank": "台北富邦商業銀行市府分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "黃榮峰", 
+                "total": "1,179,217"
+            }, 
+            {
+                "bank": "台北富邦商業銀行仁愛分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "黃榮峰", 
+                "total": "387,382"
+            }, 
+            {
+                "bank": "台北富邦商業銀行仁愛分行", 
+                "currency": "美金", 
+                "currency_total": "2,528.14", 
+                "deposit_type": "活期存款", 
+                "owner": "黃榮峰", 
+                "total": "75,591.38"
+            }, 
+            {
+                "bank": "中國信託商業銀行營業部", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "黃榮峰", 
+                "total": "172,930"
+            }, 
+            {
+                "bank": "中國信託商業銀行營業部", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "定期存款", 
+                "owner": "黃榮峰", 
+                "total": "1,800,000"
+            }
+        ], 
+        "fund": [
+            {
+                "currency": "美金", 
+                "dealer": "台北富邦商業銀行", 
+                "face_value": "4.58", 
+                "name": "/聯博全球高收益債券基金AT股美元", 
+                "owner": "黃榮峰", 
+                "quantity": "4,716.98", 
+                "total": "645,952.67"
+            }, 
+            {
+                "currency": "美金", 
+                "dealer": "台北富邦商業", 
+                "face_value": "5.80", 
+                "name": "AW/貝萊德美元", 
+                "owner": "黃榮峰", 
+                "quantity": "5,958.90", 
+                "total": "1,033,392.43"
+            }, 
+            {
+                "currency": "美金", 
+                "dealer": "中國信託商業銀行", 
+                "face_value": "29.55", 
+                "name": "/摩根亞太入息基金(原摩根JF亞太入息基金)(再投資)", 
+                "owner": "黃榮峰", 
+                "quantity": "387.78", 
+                "total": "342,621.08"
+            }, 
+            {
+                "currency": "美金", 
+                "dealer": "中國信託商業銀行", 
+                "face_value": "131.28", 
+                "name": "/施羅德環球收益股票基金", 
+                "owner": "黃榮峰", 
+                "quantity": "213.45", 
+                "total": "837,849.30"
+            }
+        ], 
+        "insurance": [
+            {
+                "company": "富邦人壽", 
+                "name": "增值分紅終身壽險(繳費二十年)", 
+                "owner": "黃榮峰"
+            }, 
+            {
+                "company": "富邦人壽", 
+                "name": "安泰分紅終身壽險(繳費二十年)", 
+                "owner": "黃榮峰"
+            }, 
+            {
+                "company": "富邦人壽", 
+                "name": "安泰新保本定期壽險(十年期)", 
+                "owner": "黃榮峰"
+            }, 
+            {
+                "company": "富邦人壽", 
+                "name": "投資型保險", 
+                "owner": "黃榮峰"
+            }, 
+            {
+                "company": "三商美邦人壽", 
+                "name": "二十年繳費終身壽險(壽型)", 
+                "owner": "黃榮峰"
+            }
+        ], 
+        "investment": [], 
         "land": [
             {
                 "acquire_value": "(超過五年)", 
@@ -3085,6 +6013,7 @@
             "spouse": "", 
             "title": "局長"
         }, 
+        "otherbonds": [], 
         "stock": []
     }, 
     {
@@ -3208,6 +6137,10 @@
         ]
     }, 
     {
+        "aircraft": [], 
+        "antique": [], 
+        "boat": [], 
+        "bonds": [], 
         "building": [
             {
                 "acquire_value": "(超過五年)", 
@@ -3219,6 +6152,75 @@
                 "share_portion": "全部"
             }
         ], 
+        "car": [
+            {
+                "acquire_value": "(超過五年)", 
+                "capacity": "1,984", 
+                "name": "Volvo S60 2.0T Turbo", 
+                "owner": "謝又園", 
+                "register_date": "97年01月18日", 
+                "register_reason": "買賣"
+            }
+        ], 
+        "cash": [], 
+        "claim": [], 
+        "debt": [], 
+        "deposit": [
+            {
+                "bank": "合作金庫商業銀行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "高華柱", 
+                "total": "747,912"
+            }, 
+            {
+                "bank": "中華郵政股份有限公司台北南門郵局", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "中華郵政存簿儲金", 
+                "owner": "高華柱", 
+                "total": "362,976"
+            }, 
+            {
+                "bank": "臺灣銀行營業部", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "綜合存款", 
+                "owner": "高華柱", 
+                "total": "346,140"
+            }, 
+            {
+                "bank": "臺灣銀行營業部", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "綜合存款", 
+                "owner": "謝又園", 
+                "total": "8,134,636"
+            }, 
+            {
+                "bank": "第一商業銀行南京東路分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "謝又園", 
+                "total": "3,259"
+            }
+        ], 
+        "fund": [], 
+        "insurance": [
+            {
+                "company": "保德信國際人壽", 
+                "name": "終身壽險", 
+                "owner": "高華柱"
+            }, 
+            {
+                "company": "保德信國際人壽", 
+                "name": "終身壽險", 
+                "owner": "謝又園"
+            }
+        ], 
+        "investment": [], 
         "land": [
             {
                 "acquire_value": "(超過五年)", 
@@ -3239,6 +6241,7 @@
             "spouse": "謝又園", 
             "title": "部長"
         }, 
+        "otherbonds": [], 
         "stock": []
     }, 
     {
@@ -3320,7 +6323,135 @@
         ]
     }, 
     {
+        "aircraft": [], 
+        "antique": [], 
+        "boat": [], 
+        "bonds": [], 
         "building": [], 
+        "car": [], 
+        "cash": [], 
+        "claim": [], 
+        "debt": [], 
+        "deposit": [
+            {
+                "bank": "兆豐國際商業銀行安和分行", 
+                "currency": "美金", 
+                "currency_total": "14,085.60", 
+                "deposit_type": "活期存款", 
+                "owner": "楊念祖", 
+                "total": "416,553.45"
+            }, 
+            {
+                "bank": "兆豐國際商業銀行安和分行", 
+                "currency": "英鎊", 
+                "currency_total": "379.42", 
+                "deposit_type": "活期存款", 
+                "owner": "楊念祖", 
+                "total": "18,280.46"
+            }, 
+            {
+                "bank": "兆豐國際商業銀行安和分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "楊念祖", 
+                "total": "3,134.90"
+            }, 
+            {
+                "bank": "中華郵政股份有限公司中山大學郵局", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "楊念祖", 
+                "total": "35,203"
+            }, 
+            {
+                "bank": "第一商業銀行仁愛分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "綜合存款", 
+                "owner": "楊念祖", 
+                "total": "145,216"
+            }, 
+            {
+                "bank": "第一商業銀行仁愛分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "綜合存款", 
+                "owner": "楊念祖", 
+                "total": "197,790"
+            }, 
+            {
+                "bank": "合作金庫商業銀行博愛簡易分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "楊念祖", 
+                "total": "202,225"
+            }, 
+            {
+                "bank": "中華郵政股份有限公司台北安和郵局", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "嚴以恕", 
+                "total": "116,196"
+            }, 
+            {
+                "bank": "中國信託商業銀行士林分行", 
+                "currency": "美金", 
+                "currency_total": "151.24", 
+                "deposit_type": "活期存款", 
+                "owner": "嚴以恕", 
+                "total": "4,504"
+            }, 
+            {
+                "bank": "中國信託商業銀行士林分行", 
+                "currency": "港幣", 
+                "currency_total": "56,399.51", 
+                "deposit_type": "活期存款", 
+                "owner": "嚴以恕", 
+                "total": "216,574.11"
+            }, 
+            {
+                "bank": "中國信託商業銀行士林分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "嚴以恕", 
+                "total": "266,112"
+            }, 
+            {
+                "bank": "CATHAY BANK(美國)", 
+                "currency": "美金", 
+                "currency_total": "69,392.08", 
+                "deposit_type": "活期存款", 
+                "owner": "嚴以恕", 
+                "total": "2,052,131.98"
+            }, 
+            {
+                "bank": "LIOYDS TSB BANK(英國)", 
+                "currency": "英鎊", 
+                "currency_total": "36,320.93", 
+                "deposit_type": "定期存款", 
+                "owner": "嚴以恕", 
+                "total": "1,749,942.41"
+            }
+        ], 
+        "fund": [], 
+        "insurance": [
+            {
+                "company": "富邦人壽", 
+                "name": "ULB安泰人壽靈活理財變額保險乙型", 
+                "owner": "楊念祖"
+            }, 
+            {
+                "company": "富邦人壽", 
+                "name": "ULB安泰人壽靈活理財變額保險乙型", 
+                "owner": "嚴以恕"
+            }
+        ], 
+        "investment": [], 
         "land": [], 
         "meta": {
             "category": "公職人員財產申報表", 
@@ -3331,9 +6462,14 @@
             "spouse": "嚴以恕", 
             "title": "部長"
         }, 
+        "otherbonds": [], 
         "stock": []
     }, 
     {
+        "aircraft": [], 
+        "antique": [], 
+        "boat": [], 
+        "bonds": [], 
         "building": [
             {
                 "acquire_value": "(超過五年)", 
@@ -3363,6 +6499,128 @@
                 "share_portion": "10000分之71"
             }
         ], 
+        "car": [], 
+        "cash": [], 
+        "claim": [], 
+        "debt": [
+            {
+                "debtor": "嚴明", 
+                "owner": "國泰世華商業銀行 臺北市八德路四段656-1號", 
+                "register_date": "95年10月12日", 
+                "register_reason": "購屋", 
+                "species": "房屋貸款", 
+                "total": "2,345,006"
+            }, 
+            {
+                "debtor": "鄭齊家", 
+                "owner": "玉山商業銀行 新北市三重區三和路四段380號", 
+                "register_date": "99年08月12日", 
+                "register_reason": "購屋", 
+                "species": "房屋貸款", 
+                "total": "10,686,005"
+            }
+        ], 
+        "deposit": [
+            {
+                "bank": "中華郵政股份有限公司基隆信義郵局", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "鄭齊家", 
+                "total": "306,700"
+            }, 
+            {
+                "bank": "國泰世華商業銀行永和分行", 
+                "currency": "美金", 
+                "currency_total": "2,515,781", 
+                "deposit_type": "活期存款", 
+                "owner": "鄭齊家", 
+                "total": "754,734"
+            }, 
+            {
+                "bank": "國泰世華商業銀行永和分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "鄭齊家", 
+                "total": "59,709"
+            }, 
+            {
+                "bank": "臺灣土地銀行仁愛分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "嚴明", 
+                "total": "29,975"
+            }, 
+            {
+                "bank": "合作金庫商業銀行漳和分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "嚴明", 
+                "total": "27,731"
+            }, 
+            {
+                "bank": "國泰世華商業銀行八德分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "嚴明", 
+                "total": "889,605"
+            }, 
+            {
+                "bank": "中華郵政股份有限公司永和永貞郵局", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "嚴明", 
+                "total": "1,120,025"
+            }, 
+            {
+                "bank": "中國信託商業銀行城中分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "嚴明", 
+                "total": "189,082"
+            }, 
+            {
+                "bank": "臺灣銀行信義分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "嚴明", 
+                "total": "139,358"
+            }, 
+            {
+                "bank": "臺灣銀行信義分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "優惠存款", 
+                "owner": "嚴明", 
+                "total": "4,626,200"
+            }
+        ], 
+        "fund": [], 
+        "insurance": [
+            {
+                "company": "國華人壽", 
+                "name": "終身壽險", 
+                "owner": "嚴明"
+            }, 
+            {
+                "company": "國華人壽", 
+                "name": "終身壽險", 
+                "owner": "鄭齊家"
+            }, 
+            {
+                "company": "中國人壽", 
+                "name": "長佑不分紅-終身壽險", 
+                "owner": "鄭齊家"
+            }
+        ], 
+        "investment": [], 
         "land": [
             {
                 "acquire_value": "(超過五年)", 
@@ -3383,6 +6641,7 @@
             "spouse": "鄭齊家", 
             "title": "部長"
         }, 
+        "otherbonds": [], 
         "stock": []
     }, 
     {
@@ -3426,6 +6685,29 @@
         "stock": []
     }, 
     {
+        "aircraft": [], 
+        "antique": [
+            {
+                "name": "葉火城油畫", 
+                "owner": "曾勇夫", 
+                "quantity": "1", 
+                "total": "600,000"
+            }, 
+            {
+                "name": "鼻煙壺(墨玉)", 
+                "owner": "曾勇夫", 
+                "quantity": "1", 
+                "total": "500,000"
+            }, 
+            {
+                "name": "幸福球場高爾夫球證", 
+                "owner": "歐暖", 
+                "quantity": "1", 
+                "total": "1,800,000"
+            }
+        ], 
+        "boat": [], 
+        "bonds": [], 
         "building": [
             {
                 "acquire_value": "(超過五年,陽台7.06,雨遮7.44)", 
@@ -3437,6 +6719,229 @@
                 "share_portion": "全部"
             }
         ], 
+        "car": [], 
+        "cash": [], 
+        "claim": [], 
+        "debt": [], 
+        "deposit": [
+            {
+                "bank": "合作金庫商業銀行東門分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "曾勇夫", 
+                "total": "242,060"
+            }, 
+            {
+                "bank": "臺灣銀行和平分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "曾勇夫", 
+                "total": "2,620,527"
+            }, 
+            {
+                "bank": "中華郵政股份有限公司台北法院郵局", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "曾勇夫", 
+                "total": "824,742"
+            }, 
+            {
+                "bank": "中華郵政股份有限公司台北青田郵局", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "歐暖", 
+                "total": "724,416"
+            }, 
+            {
+                "bank": "彰化商業銀行大安分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "歐暖", 
+                "total": "598,402"
+            }, 
+            {
+                "bank": "彰化商業銀行大安分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "歐暖", 
+                "total": "7,588"
+            }, 
+            {
+                "bank": "臺灣土地銀行西台中分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "歐暖", 
+                "total": "20,896"
+            }, 
+            {
+                "bank": "臺灣銀行和平分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "歐暖", 
+                "total": "420,104"
+            }, 
+            {
+                "bank": "臺灣銀行和平分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "公教優惠儲蓄存款", 
+                "owner": "歐暖", 
+                "total": "1,595,500"
+            }, 
+            {
+                "bank": "臺灣銀行和平分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "曾勇夫", 
+                "total": "59"
+            }, 
+            {
+                "bank": "臺灣銀行和平分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "定期存款", 
+                "owner": "曾勇夫", 
+                "total": "1,370"
+            }, 
+            {
+                "bank": "臺灣銀行和平分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "定期存款", 
+                "owner": "曾勇夫", 
+                "total": "164,856"
+            }, 
+            {
+                "bank": "臺灣銀行和平分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "定期存款", 
+                "owner": "曾勇夫", 
+                "total": "59"
+            }, 
+            {
+                "bank": "國泰世華商業銀行東門分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "歐暖", 
+                "total": "18,106"
+            }, 
+            {
+                "bank": "中國信託商業銀行城北分行", 
+                "currency": "美金", 
+                "currency_total": "6,068.07", 
+                "deposit_type": "活期存款", 
+                "owner": "歐暖", 
+                "total": "179,009"
+            }
+        ], 
+        "fund": [
+            {
+                "currency": "新臺幣", 
+                "dealer": "元大投信", 
+                "face_value": "8.59", 
+                "name": "新興亞洲基金", 
+                "owner": "曾勇夫", 
+                "quantity": "375,059.30", 
+                "total": "3,221,759"
+            }, 
+            {
+                "currency": "美金", 
+                "dealer": "中國信託商業銀行", 
+                "face_value": "111.90", 
+                "name": "瑞銀俄羅斯股票基金", 
+                "owner": "歐暖", 
+                "quantity": "93.475", 
+                "total": "308,566"
+            }, 
+            {
+                "currency": "美金", 
+                "dealer": "中國信託商業銀行", 
+                "face_value": "12.27", 
+                "name": "坦伯頓全球系列基金", 
+                "owner": "歐暖", 
+                "quantity": "7,608.788", 
+                "total": "2,754,115"
+            }
+        ], 
+        "insurance": [
+            {
+                "company": "國泰人壽", 
+                "name": "富貴喜福", 
+                "owner": "曾勇夫"
+            }, 
+            {
+                "company": "國泰人壽", 
+                "name": "多順利變動型終身壽險", 
+                "owner": "曾勇夫"
+            }, 
+            {
+                "company": "國泰人壽", 
+                "name": "富貴保本之福終身", 
+                "owner": "曾勇夫"
+            }, 
+            {
+                "company": "國泰人壽", 
+                "name": "富貴喜福", 
+                "owner": "曾勇夫"
+            }, 
+            {
+                "company": "國泰人壽", 
+                "name": "多順利率變動壽險", 
+                "owner": "曾勇夫"
+            }, 
+            {
+                "company": "國泰人壽", 
+                "name": "創世紀變額壽險(丙型)", 
+                "owner": "曾勇夫"
+            }, 
+            {
+                "company": "國泰人壽", 
+                "name": "創世紀變額壽險(甲型)", 
+                "owner": "曾勇夫"
+            }, 
+            {
+                "company": "國泰人壽", 
+                "name": "鑫添鑫終身壽險", 
+                "owner": "歐暖"
+            }, 
+            {
+                "company": "國泰人壽", 
+                "name": "創世紀變額壽險(甲型)", 
+                "owner": "歐暖"
+            }, 
+            {
+                "company": "國泰人壽", 
+                "name": "富貴保本之福終身", 
+                "owner": "曾勇夫"
+            }, 
+            {
+                "company": "國泰人壽", 
+                "name": "富利多變額壽險", 
+                "owner": "歐暖"
+            }, 
+            {
+                "company": "國泰人壽", 
+                "name": "富利多變額壽險", 
+                "owner": "歐暖"
+            }, 
+            {
+                "company": "國泰人壽", 
+                "name": "富利多變額壽險", 
+                "owner": "歐暖"
+            }
+        ], 
+        "investment": [], 
         "land": [
             {
                 "acquire_value": "(超過五年)", 
@@ -3475,6 +6980,7 @@
             "spouse": "歐暖", 
             "title": "部長"
         }, 
+        "otherbonds": [], 
         "stock": []
     }, 
     {
@@ -3562,6 +7068,10 @@
         ]
     }, 
     {
+        "aircraft": [], 
+        "antique": [], 
+        "boat": [], 
+        "bonds": [], 
         "building": [
             {
                 "acquire_value": "(超過五年)", 
@@ -3582,6 +7092,127 @@
                 "share_portion": "全部"
             }
         ], 
+        "car": [
+            {
+                "acquire_value": "800,000", 
+                "capacity": "2,000", 
+                "name": "本田 (Honda Accord)", 
+                "owner": "李應平", 
+                "register_date": "100年07月13日", 
+                "register_reason": "買賣"
+            }, 
+            {
+                "acquire_value": "1,150,000", 
+                "capacity": "2,000", 
+                "name": "福特六和", 
+                "owner": "李應平", 
+                "register_date": "102年10月29日", 
+                "register_reason": "買賣"
+            }
+        ], 
+        "cash": [], 
+        "claim": [], 
+        "debt": [
+            {
+                "debtor": "李應平", 
+                "owner": "彰化銀行建國分行 臺北市大安區仁愛路三段136號", 
+                "register_date": "94年07月13日", 
+                "register_reason": "購屋", 
+                "species": "房屋貸款", 
+                "total": "2,543,068"
+            }, 
+            {
+                "debtor": "李應平", 
+                "owner": "彰化銀行建國分行 臺北市大安區仁愛路三段136號", 
+                "register_date": "94年07月25日", 
+                "register_reason": "購屋", 
+                "species": "房屋貸款", 
+                "total": "232,319"
+            }
+        ], 
+        "deposit": [
+            {
+                "bank": "國泰世華商業銀行南門分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "李應平", 
+                "total": "242,084"
+            }, 
+            {
+                "bank": "聯邦商業銀行南京東路分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "楊昇儒", 
+                "total": "487"
+            }, 
+            {
+                "bank": "台北富邦商業銀行市府分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "楊○華", 
+                "total": "82,186"
+            }, 
+            {
+                "bank": "華南商業銀行萬華分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "李應平", 
+                "total": "3,640"
+            }, 
+            {
+                "bank": "聯邦商業銀行東台北分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "李應平", 
+                "total": "8,077"
+            }, 
+            {
+                "bank": "永豐商業銀行松江分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "李應平", 
+                "total": "3,430"
+            }, 
+            {
+                "bank": "台北富邦商業銀行士林分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "楊昇儒", 
+                "total": "1,000"
+            }, 
+            {
+                "bank": "士林天母郵局（第５２支局）", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "中華郵政存簿儲金", 
+                "owner": "楊昇儒", 
+                "total": "272"
+            }, 
+            {
+                "bank": "士林法院郵局（第１０６支局）", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "中華郵政存簿儲金", 
+                "owner": "李應平", 
+                "total": "25,993"
+            }
+        ], 
+        "fund": [], 
+        "insurance": [
+            {
+                "company": "中華郵政", 
+                "name": "郵政安家定期還本終身壽險(十年付費)", 
+                "owner": "李應平"
+            }
+        ], 
+        "investment": [], 
         "land": [
             {
                 "acquire_value": "(超過五年)", 
@@ -3602,6 +7233,7 @@
             "spouse": "楊昇儒", 
             "title": "政務次長"
         }, 
+        "otherbonds": [], 
         "stock": []
     }, 
     {
@@ -3745,6 +7377,10 @@
         ]
     }, 
     {
+        "aircraft": [], 
+        "antique": [], 
+        "boat": [], 
+        "bonds": [], 
         "building": [
             {
                 "acquire_value": "(超過五年)", 
@@ -3756,6 +7392,250 @@
                 "share_portion": "全部"
             }
         ], 
+        "car": [
+            {
+                "acquire_value": "578,000", 
+                "capacity": "1,794", 
+                "name": "國瑞", 
+                "owner": "陳雙珠", 
+                "register_date": "97年07月31日", 
+                "register_reason": "買賣"
+            }
+        ], 
+        "cash": [], 
+        "claim": [], 
+        "debt": [
+            {
+                "debtor": "洪孟啟", 
+                "owner": "台灣銀行 新北市板橋區府中路21號", 
+                "register_date": "100年02月23日", 
+                "register_reason": "購屋", 
+                "species": "房屋貸款", 
+                "total": "13,420,000"
+            }
+        ], 
+        "deposit": [
+            {
+                "bank": "臺灣銀行北府簡易型分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "洪孟啟", 
+                "total": "953,262"
+            }, 
+            {
+                "bank": "國泰世華商業銀行南門分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "洪孟啟", 
+                "total": "1,392,901"
+            }, 
+            {
+                "bank": "永豐商業銀行中正分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "洪孟啟", 
+                "total": "992"
+            }, 
+            {
+                "bank": "臺灣銀行華江分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "洪孟啟", 
+                "total": "1,745,369"
+            }, 
+            {
+                "bank": "兆豐國際商業銀行金控總部分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳雙珠", 
+                "total": "898,067"
+            }, 
+            {
+                "bank": "兆豐國際商業銀行金控總部分行", 
+                "currency": "人民幣", 
+                "currency_total": "20,004.50", 
+                "deposit_type": "活期存款", 
+                "owner": "陳雙珠", 
+                "total": "95,961.58"
+            }, 
+            {
+                "bank": "兆豐國際商業銀行金控總部分行", 
+                "currency": "澳幣", 
+                "currency_total": "3,872.84", 
+                "deposit_type": "定期存款", 
+                "owner": "陳雙珠", 
+                "total": "106,386.91"
+            }, 
+            {
+                "bank": "中華郵政股份有限公司台北重南郵局", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "愛心活期存款", 
+                "owner": "陳雙珠", 
+                "total": "54,757"
+            }, 
+            {
+                "bank": "臺灣土地銀行古亭分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳雙珠", 
+                "total": "1,706"
+            }, 
+            {
+                "bank": "台北富邦商業銀行南門分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "洪孟啟", 
+                "total": "976,721"
+            }, 
+            {
+                "bank": "第一商業銀行南門分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "洪孟啟", 
+                "total": "204,761"
+            }, 
+            {
+                "bank": "國泰世華商業銀行館前分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳雙珠", 
+                "total": "9,372"
+            }, 
+            {
+                "bank": "中華郵政股份有限公司南投光明里郵局", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "洪孟啟", 
+                "total": "7,262"
+            }, 
+            {
+                "bank": "台北富邦商業銀行士林分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳雙珠", 
+                "total": "2,434"
+            }, 
+            {
+                "bank": "第一商業銀行板橋分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳雙珠", 
+                "total": "448,465"
+            }, 
+            {
+                "bank": "臺灣土地銀行天母分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "洪孟啟", 
+                "total": "2,645"
+            }, 
+            {
+                "bank": "合作金庫商業銀行海山分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "洪孟啟", 
+                "total": "2,114"
+            }, 
+            {
+                "bank": "台北富邦商業銀行南門分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "洪孟啟", 
+                "total": "1,068"
+            }, 
+            {
+                "bank": "兆豐國際商業銀行金控總部分行", 
+                "currency": "美金", 
+                "currency_total": "5,610.76", 
+                "deposit_type": "活期存款", 
+                "owner": "陳雙珠", 
+                "total": "165,180.77"
+            }, 
+            {
+                "bank": "臺灣銀行華江分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳雙珠", 
+                "total": "261,311"
+            }
+        ], 
+        "fund": [
+            {
+                "currency": "新臺幣", 
+                "dealer": "復華投信", 
+                "face_value": "10.31", 
+                "name": "復華復華基金", 
+                "owner": "陳雙珠", 
+                "quantity": "24,038.50", 
+                "total": "247,836.93"
+            }, 
+            {
+                "currency": "新臺幣", 
+                "dealer": "復華投信", 
+                "face_value": "14.11", 
+                "name": "復華貨幣市場基金", 
+                "owner": "陳雙珠", 
+                "quantity": "21,417.90", 
+                "total": "302,206.56"
+            }, 
+            {
+                "currency": "新臺幣", 
+                "dealer": "復華投信", 
+                "face_value": "10.18", 
+                "name": "復華新興市場高收益債券基金A股", 
+                "owner": "陳雙珠", 
+                "quantity": "52,029.10", 
+                "total": "529,656.23"
+            }, 
+            {
+                "currency": "新臺幣", 
+                "dealer": "瀚亞投信", 
+                "face_value": "19.43", 
+                "name": "非洲基金", 
+                "owner": "陳雙珠", 
+                "quantity": "6,102.80", 
+                "total": "118,577.40"
+            }, 
+            {
+                "currency": "新臺幣", 
+                "dealer": "瀚亞投信", 
+                "face_value": "11.89", 
+                "name": "全球高收益債券A", 
+                "owner": "陳雙珠", 
+                "quantity": "31,814.70", 
+                "total": "378,276.78"
+            }
+        ], 
+        "insurance": [
+            {
+                "company": "台銀人壽", 
+                "name": "鴻福還本終身壽險", 
+                "owner": "洪孟啟"
+            }, 
+            {
+                "company": "南山人壽", 
+                "name": "增利久久外幣增額終身壽險", 
+                "owner": "陳雙珠"
+            }
+        ], 
+        "investment": [], 
         "land": [
             {
                 "acquire_value": "(超過五年)", 
@@ -3794,6 +7674,7 @@
             "spouse": "陳雙珠", 
             "title": "政務次長"
         }, 
+        "otherbonds": [], 
         "stock": []
     }, 
     {
@@ -3877,6 +7758,10 @@
         "stock": []
     }, 
     {
+        "aircraft": [], 
+        "antique": [], 
+        "boat": [], 
+        "bonds": [], 
         "building": [
             {
                 "acquire_value": "(超過五年,自用不動產)", 
@@ -3924,6 +7809,461 @@
                 "share_portion": "4分之1"
             }
         ], 
+        "car": [], 
+        "cash": [], 
+        "claim": [], 
+        "debt": [], 
+        "deposit": [
+            {
+                "bank": "中華郵政股份有限公司台北中聯郵局", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳裕璋", 
+                "total": "390,997"
+            }, 
+            {
+                "bank": "中華郵政股份有限公司台北中聯郵局", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳裕璋", 
+                "total": "2,856"
+            }, 
+            {
+                "bank": "中華郵政股份有限公司台北榮星郵局", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳裕璋", 
+                "total": "187,739"
+            }, 
+            {
+                "bank": "台北富邦商業銀行市府分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳裕璋", 
+                "total": "2,082"
+            }, 
+            {
+                "bank": "台北富邦商業銀行市府分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳裕璋", 
+                "total": "658,537"
+            }, 
+            {
+                "bank": "台北富邦商業銀行市府分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳裕璋", 
+                "total": "1,204"
+            }, 
+            {
+                "bank": "台北富邦商業銀行敦化分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳裕璋", 
+                "total": "1,141,947"
+            }, 
+            {
+                "bank": "台北富邦商業銀行和平分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳裕璋", 
+                "total": "169,990"
+            }, 
+            {
+                "bank": "台北富邦商業銀行敦化分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "陳裕璋", 
+                "total": "222"
+            }, 
+            {
+                "bank": "第一商業銀行竹南分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳裕璋", 
+                "total": "59,067"
+            }, 
+            {
+                "bank": "第一商業銀行竹南分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "定期存款", 
+                "owner": "陳裕璋", 
+                "total": "1,500,000"
+            }, 
+            {
+                "bank": "第一商業銀行營業部", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "定期存款", 
+                "owner": "陳裕璋", 
+                "total": "3,000,000"
+            }, 
+            {
+                "bank": "第一商業銀行營業部", 
+                "currency": "美金", 
+                "currency_total": "90,000", 
+                "deposit_type": "定期存款", 
+                "owner": "陳裕璋", 
+                "total": "2,692,800"
+            }, 
+            {
+                "bank": "第一商業銀行營業部", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳裕璋", 
+                "total": "911,583"
+            }, 
+            {
+                "bank": "第一商業銀行營業部", 
+                "currency": "美金", 
+                "currency_total": "46,977.92", 
+                "deposit_type": "活期存款", 
+                "owner": "陳裕璋", 
+                "total": "1,405,579"
+            }, 
+            {
+                "bank": "臺灣銀行松山分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "定期存款", 
+                "owner": "陳裕璋", 
+                "total": "3,830,000"
+            }, 
+            {
+                "bank": "臺灣銀行松山分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳裕璋", 
+                "total": "3,991"
+            }, 
+            {
+                "bank": "臺灣銀行松山分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳裕璋", 
+                "total": "8,408"
+            }, 
+            {
+                "bank": "臺灣銀行南門分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "公教優惠儲蓄存款", 
+                "owner": "陳裕璋", 
+                "total": "198"
+            }, 
+            {
+                "bank": "第一商業銀行和平分行", 
+                "currency": "美金", 
+                "currency_total": "22,077", 
+                "deposit_type": "活期存款", 
+                "owner": "陳佳欣", 
+                "total": "661,206"
+            }, 
+            {
+                "bank": "第一商業銀行和平分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳佳欣", 
+                "total": "174,516"
+            }, 
+            {
+                "bank": "第一商業銀行敦化分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳佳欣", 
+                "total": "1,715"
+            }, 
+            {
+                "bank": "台北富邦商業銀行和平分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳佳欣", 
+                "total": "1,606"
+            }, 
+            {
+                "bank": "中國信託商業銀行敦南分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳佳欣", 
+                "total": "18,425"
+            }, 
+            {
+                "bank": "中華郵政股份有限公司台北成功郵局", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "定期存款", 
+                "owner": "陳佳欣", 
+                "total": "1,000,000"
+            }, 
+            {
+                "bank": "中華郵政股份有限公司台北成功郵局", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "定期存款", 
+                "owner": "陳佳欣", 
+                "total": "1,000,000"
+            }, 
+            {
+                "bank": "中華郵政股份有限公司台北成功郵局", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "定期存款", 
+                "owner": "陳佳欣", 
+                "total": "513,568"
+            }, 
+            {
+                "bank": "中華郵政股份有限公司台北成功郵局", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "定期存款", 
+                "owner": "陳佳欣", 
+                "total": "621,621"
+            }, 
+            {
+                "bank": "中華郵政股份有限公司台北成功郵局", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳佳欣", 
+                "total": "67,540"
+            }, 
+            {
+                "bank": "華泰商業銀行和平分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳佳欣", 
+                "total": "175,330"
+            }, 
+            {
+                "bank": "臺灣土地銀行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳佳欣", 
+                "total": "281"
+            }, 
+            {
+                "bank": "華南商業銀行和平", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "陳佳欣", 
+                "total": "168"
+            }, 
+            {
+                "bank": "中華郵政股份有限公司竹南郵局", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳裕璋", 
+                "total": "5,000,920"
+            }, 
+            {
+                "bank": "玉山商業銀行竹南分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "定期存款", 
+                "owner": "陳裕璋", 
+                "total": "1,257,309"
+            }, 
+            {
+                "bank": "玉山商業銀行板橋分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳裕璋", 
+                "total": "29,304"
+            }, 
+            {
+                "bank": "玉山商業銀行板橋分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "定期存款", 
+                "owner": "陳裕璋", 
+                "total": "990,000"
+            }, 
+            {
+                "bank": "臺灣土地銀行板橋分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳裕璋", 
+                "total": "729,009"
+            }, 
+            {
+                "bank": "兆豐國際商業銀行金控總部", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳裕璋", 
+                "total": "1,053"
+            }, 
+            {
+                "bank": "日盛國際商業銀行敦北", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "陳裕璋", 
+                "total": "616"
+            }, 
+            {
+                "bank": "中國信託商業銀行敦北", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "陳裕璋", 
+                "total": "51"
+            }
+        ], 
+        "fund": [
+            {
+                "currency": "歐元", 
+                "dealer": "第一商業銀行", 
+                "face_value": "71.04", 
+                "name": "霸菱東歐基金-歐元", 
+                "owner": "陳裕璋", 
+                "quantity": "254.528", 
+                "total": "713,141"
+            }, 
+            {
+                "currency": "美金", 
+                "dealer": "第一商業銀行", 
+                "face_value": "38.40", 
+                "name": "富達拉丁美洲基", 
+                "owner": "陳裕璋", 
+                "quantity": "451.47", 
+                "total": "518,706.52"
+            }, 
+            {
+                "currency": "美金", 
+                "dealer": "第一商業銀行", 
+                "face_value": "20.74", 
+                "name": "(坦全) 全球債券美元", 
+                "owner": "陳裕璋", 
+                "quantity": "1,002.004", 
+                "total": "621,784.36"
+            }, 
+            {
+                "currency": "美金", 
+                "dealer": "第一商業銀行", 
+                "face_value": "45.31", 
+                "name": "德盛中國基金", 
+                "owner": "陳裕璋", 
+                "quantity": "441.408", 
+                "total": "565,124.42"
+            }, 
+            {
+                "currency": "", 
+                "dealer": "第一金投信", 
+                "face_value": "16.19", 
+                "name": "大趨勢基金", 
+                "owner": "陳裕璋", 
+                "quantity": "20,505.80", 
+                "total": "331,989"
+            }, 
+            {
+                "currency": "", 
+                "dealer": "第一金投信", 
+                "face_value": "173.915", 
+                "name": "全家福基金", 
+                "owner": "陳裕璋", 
+                "quantity": "23.83", 
+                "total": "4,144"
+            }, 
+            {
+                "currency": "", 
+                "dealer": "第一金投信", 
+                "face_value": "13.7295", 
+                "name": "高收益債 A", 
+                "owner": "陳裕璋", 
+                "quantity": "20,000", 
+                "total": "274,590"
+            }, 
+            {
+                "currency": "", 
+                "dealer": "第一金投信", 
+                "face_value": "10.48", 
+                "name": "萬得福基金", 
+                "owner": "陳裕璋", 
+                "quantity": "29,041.30", 
+                "total": "304,353"
+            }, 
+            {
+                "currency": "美金", 
+                "dealer": "第一商業銀行", 
+                "face_value": "20.74", 
+                "name": "富蘭克林坦伯頓全球債美元", 
+                "owner": "陳佳欣", 
+                "quantity": "1,664.652", 
+                "total": "1,034,020"
+            }, 
+            {
+                "currency": "美金", 
+                "dealer": "第一商業銀行", 
+                "face_value": "4.58", 
+                "name": "聯博全高收益債券美配", 
+                "owner": "陳佳欣", 
+                "quantity": "7,059.694", 
+                "total": "968,385"
+            }, 
+            {
+                "currency": "美金", 
+                "dealer": "第一商業銀行", 
+                "face_value": "10.5049", 
+                "name": "英傑華新興市場債美配", 
+                "owner": "陳佳欣", 
+                "quantity": "3,030.413", 
+                "total": "953,434"
+            }
+        ], 
+        "insurance": [
+            {
+                "company": "中華郵政", 
+                "name": "郵政簡易人壽六年吉利保險", 
+                "owner": "陳佳欣"
+            }, 
+            {
+                "company": "中華郵政", 
+                "name": "郵政簡易人壽六年吉利保險", 
+                "owner": "陳佳欣"
+            }, 
+            {
+                "company": "中華郵政", 
+                "name": "郵政簡易人壽六年吉利保險", 
+                "owner": "陳佳欣"
+            }, 
+            {
+                "company": "中華郵政", 
+                "name": "郵政簡易人壽六年吉利保險", 
+                "owner": "陳裕璋"
+            }, 
+            {
+                "company": "遠雄人壽", 
+                "name": "人身保險", 
+                "owner": "陳裕璋"
+            }
+        ], 
+        "investment": [], 
         "land": [
             {
                 "acquire_value": "(超過五年,自用不動產)", 
@@ -4052,6 +8392,7 @@
             "spouse": "陳佳欣", 
             "title": "主任委員"
         }, 
+        "otherbonds": [], 
         "stock": []
     }, 
     {
@@ -4247,6 +8588,10 @@
         "stock": []
     }, 
     {
+        "aircraft": [], 
+        "antique": [], 
+        "boat": [], 
+        "bonds": [], 
         "building": [
             {
                 "acquire_value": "(超過五年,所有權人含吳英樹)", 
@@ -4285,6 +8630,80 @@
                 "share_portion": "全部"
             }
         ], 
+        "car": [], 
+        "cash": [], 
+        "claim": [], 
+        "debt": [
+            {
+                "debtor": "吳英毅", 
+                "owner": "第一商業銀行天母分行", 
+                "register_date": "101年03月07日", 
+                "register_reason": "購買住宅", 
+                "species": "房屋貸款", 
+                "total": "40,000,000"
+            }, 
+            {
+                "debtor": "吳英毅", 
+                "owner": "第一商業銀行天母分行", 
+                "register_date": "101年08月30日", 
+                "register_reason": "購買住宅", 
+                "species": "房屋貸款", 
+                "total": "15,836,239"
+            }
+        ], 
+        "deposit": [
+            {
+                "bank": "中華郵政股份有限公司立法院郵局", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "吳英毅", 
+                "total": "1,671"
+            }, 
+            {
+                "bank": "臺灣銀行群賢分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "吳英毅", 
+                "total": "937"
+            }, 
+            {
+                "bank": "國泰世華商業銀行館前分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "吳英毅", 
+                "total": "858,830"
+            }, 
+            {
+                "bank": "國泰世華商業銀行館前分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "綜合存款", 
+                "owner": "吳英毅", 
+                "total": "32,890"
+            }, 
+            {
+                "bank": "國泰世華商業銀行館前分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "綜合存款", 
+                "owner": "吳英毅", 
+                "total": "4,500,000"
+            }, 
+            {
+                "bank": "第一商業銀行天母分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "吳英毅", 
+                "total": "111,230"
+            }
+        ], 
+        "fund": [], 
+        "insurance": [], 
+        "investment": [], 
         "land": [
             {
                 "acquire_value": "(超過五年,所有權人含吳英樹)", 
@@ -4332,6 +8751,7 @@
             "spouse": "孫峯月", 
             "title": "委員長"
         }, 
+        "otherbonds": [], 
         "stock": []
     }, 
     {
@@ -4399,6 +8819,10 @@
         "stock": []
     }, 
     {
+        "aircraft": [], 
+        "antique": [], 
+        "boat": [], 
+        "bonds": [], 
         "building": [
             {
                 "acquire_value": "12,640,000(房地總價款,含陽台、雨遮附屬建物22.8平方公尺)", 
@@ -4419,6 +8843,164 @@
                 "share_portion": "1000000分之3482"
             }
         ], 
+        "car": [
+            {
+                "acquire_value": "(超過五年)", 
+                "capacity": "1,769", 
+                "name": "日產 SENTRAN16ES", 
+                "owner": "任弘", 
+                "register_date": "91年12月19日", 
+                "register_reason": "(購買)"
+            }
+        ], 
+        "cash": [], 
+        "claim": [], 
+        "debt": [
+            {
+                "debtor": "任弘", 
+                "owner": "華南商業銀行營業部", 
+                "register_date": "99年11月22日", 
+                "register_reason": "購置房屋", 
+                "species": "房屋貸款", 
+                "total": "8,756,714"
+            }
+        ], 
+        "deposit": [
+            {
+                "bank": "CITIBANK (WEST), FSB BR. #368 CD:6063", 
+                "currency": "美金", 
+                "currency_total": "34,339.02", 
+                "deposit_type": "定期存款", 
+                "owner": "任弘", 
+                "total": "1,019,869"
+            }, 
+            {
+                "bank": "CITIBANK, 451 MONTGOMERY ST CD:0459", 
+                "currency": "美金", 
+                "currency_total": "21,278.65", 
+                "deposit_type": "定期存款", 
+                "owner": "任弘", 
+                "total": "631,976"
+            }, 
+            {
+                "bank": "CITIBANK, SAN FRANCISCO, CA 94104 BR. #368", 
+                "currency": "美金", 
+                "currency_total": "5,493.53", 
+                "deposit_type": "支票存款", 
+                "owner": "任弘", 
+                "total": "163,158"
+            }, 
+            {
+                "bank": "台北富邦商業銀行仁愛分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "任弘", 
+                "total": "436,241"
+            }, 
+            {
+                "bank": "國泰世華商業銀行館前分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "任弘", 
+                "total": "1,480,108"
+            }, 
+            {
+                "bank": "中華郵政股份有限公司石牌分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "任弘", 
+                "total": "668,374"
+            }, 
+            {
+                "bank": "華南商業銀行營業部", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "任弘", 
+                "total": "27,941"
+            }, 
+            {
+                "bank": "中華郵政股份有限公司深坑郵局", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "中華郵政劃撥儲金", 
+                "owner": "任弘", 
+                "total": "235"
+            }, 
+            {
+                "bank": "華南商業銀行新生分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "任弘", 
+                "total": "28"
+            }, 
+            {
+                "bank": "中華郵政股份有限公司石牌分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "林照敏", 
+                "total": "233,490"
+            }, 
+            {
+                "bank": "台北富邦商業銀行士東分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "林照敏", 
+                "total": "411,339"
+            }, 
+            {
+                "bank": "中國信託商業銀行士林分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "林照敏", 
+                "total": "250,348"
+            }, 
+            {
+                "bank": "臺灣中小企業銀行復興", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "林照敏", 
+                "total": "1,282"
+            }, 
+            {
+                "bank": "臺灣土地銀行新市", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "林照敏", 
+                "total": "1,008"
+            }, 
+            {
+                "bank": "陽信商業銀行大屯", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "林照敏", 
+                "total": "455"
+            }
+        ], 
+        "fund": [], 
+        "insurance": [
+            {
+                "company": "國泰人壽", 
+                "name": "國泰鑫添鑫壽險", 
+                "owner": "任弘"
+            }, 
+            {
+                "company": "國泰人壽", 
+                "name": "國泰鑫添鑫壽險", 
+                "owner": "林照敏"
+            }
+        ], 
+        "investment": [], 
         "land": [
             {
                 "acquire_value": "12,640,000(房地總價款)", 
@@ -4448,6 +9030,7 @@
             "spouse": "林照敏", 
             "title": "副委員長"
         }, 
+        "otherbonds": [], 
         "stock": []
     }, 
     {
@@ -4628,6 +9211,10 @@
         ]
     }, 
     {
+        "aircraft": [], 
+        "antique": [], 
+        "boat": [], 
+        "bonds": [], 
         "building": [
             {
                 "acquire_value": "(超過五年以上)", 
@@ -4637,6 +9224,275 @@
                 "register_date": "83年04月06日", 
                 "register_reason": "買賣", 
                 "share_portion": "2分之1"
+            }
+        ], 
+        "car": [
+            {
+                "acquire_value": "900,000", 
+                "capacity": "2,400", 
+                "name": "T0Y0TA CAMRY", 
+                "owner": "董翔龍", 
+                "register_date": "97年07月30日", 
+                "register_reason": "買賣"
+            }
+        ], 
+        "cash": [], 
+        "claim": [], 
+        "debt": [], 
+        "deposit": [
+            {
+                "bank": "臺灣土地銀行內湖分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "董翔龍", 
+                "total": "720,293"
+            }, 
+            {
+                "bank": "臺灣土地銀行嘉義分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "黃惠英", 
+                "total": "108,771"
+            }, 
+            {
+                "bank": "台北富邦商業銀行營業部", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "黃惠英", 
+                "total": "534,839"
+            }, 
+            {
+                "bank": "華南商業銀行嘉南分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "董翔龍", 
+                "total": "41,135"
+            }, 
+            {
+                "bank": "華南商業銀行嘉義分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "黃惠英", 
+                "total": "24,457"
+            }, 
+            {
+                "bank": "合作金庫商業銀行介壽簡易型分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "董翔龍", 
+                "total": "6,571"
+            }, 
+            {
+                "bank": "合作金庫商業銀行嘉義分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "黃惠英", 
+                "total": "1,000"
+            }, 
+            {
+                "bank": "臺灣銀行嘉義分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "綜合存款", 
+                "owner": "黃惠英", 
+                "total": "1,402,584"
+            }, 
+            {
+                "bank": "高雄市農會苓雅分部", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "董翔龍", 
+                "total": "623"
+            }, 
+            {
+                "bank": "高雄市第三信用合作社三多分社", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "黃惠英", 
+                "total": "16,677"
+            }, 
+            {
+                "bank": "高雄旗津郵局（第３支局）", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "中華郵政存簿儲金", 
+                "owner": "董翔龍", 
+                "total": "785,898"
+            }, 
+            {
+                "bank": "嘉義郵局", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "中華郵政存簿儲金", 
+                "owner": "黃惠英", 
+                "total": "965,638"
+            }, 
+            {
+                "bank": "陽信商業銀行嘉義分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "綜合存款", 
+                "owner": "黃惠英", 
+                "total": "190,113"
+            }, 
+            {
+                "bank": "元大商業銀行嘉義分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "黃惠英", 
+                "total": "486,692"
+            }, 
+            {
+                "bank": "臺灣銀行嘉義分行", 
+                "currency": "英鎊", 
+                "currency_total": "2,190.68", 
+                "deposit_type": "外匯存款", 
+                "owner": "黃惠英", 
+                "total": "102,655.26"
+            }, 
+            {
+                "bank": "臺灣銀行嘉義分行", 
+                "currency": "美金", 
+                "currency_total": "19,898.99", 
+                "deposit_type": "外匯存款", 
+                "owner": "黃惠英", 
+                "total": "584,234.34"
+            }, 
+            {
+                "bank": "臺灣銀行臺北分行", 
+                "currency": "加拿大幣", 
+                "currency_total": "21,205.92", 
+                "deposit_type": "外匯存款", 
+                "owner": "黃惠英", 
+                "total": "598,855.18"
+            }, 
+            {
+                "bank": "臺灣銀行臺北分行", 
+                "currency": "英鎊", 
+                "currency_total": "6,574.58", 
+                "deposit_type": "外匯存款", 
+                "owner": "黃惠英", 
+                "total": "308,084.81"
+            }, 
+            {
+                "bank": "臺灣銀行臺北分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "綜合存款", 
+                "owner": "黃惠英", 
+                "total": "302,620"
+            }, 
+            {
+                "bank": "臺灣銀行信義分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "董翔龍", 
+                "total": "2,440,396"
+            }, 
+            {
+                "bank": "臺灣銀行信義分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "定期存款", 
+                "owner": "董翔龍", 
+                "total": "4,082,100"
+            }, 
+            {
+                "bank": "國軍同胞儲蓄會", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "定期存款", 
+                "owner": "董翔龍", 
+                "total": "80,000"
+            }
+        ], 
+        "fund": [
+            {
+                "currency": "美金", 
+                "dealer": "陽信商業銀行嘉義分行", 
+                "face_value": "4.69", 
+                "name": "聯博全球高收益債B", 
+                "owner": "黃惠英", 
+                "quantity": "2,396.89", 
+                "total": "330,047.91"
+            }, 
+            {
+                "currency": "美金", 
+                "dealer": "陽信商業銀行嘉義分行", 
+                "face_value": "4.69", 
+                "name": "聯博全球高收益債B", 
+                "owner": "黃惠英", 
+                "quantity": "3,597.09", 
+                "total": "495,313.53"
+            }, 
+            {
+                "currency": "美金", 
+                "dealer": "陽信商業銀行嘉義分行", 
+                "face_value": "23.37", 
+                "name": "霸菱韓國", 
+                "owner": "黃惠英", 
+                "quantity": "50.72", 
+                "total": "34,801.18"
+            }, 
+            {
+                "currency": "美金", 
+                "dealer": "匯豐（台灣）商業銀行嘉義分行", 
+                "face_value": "12.88", 
+                "name": "聯博全球高收益債A2", 
+                "owner": "黃惠英", 
+                "quantity": "829.19", 
+                "total": "313,563.83"
+            }
+        ], 
+        "insurance": [
+            {
+                "company": "遠雄人壽", 
+                "name": "好利HIGH利率變動型年金保險", 
+                "owner": "董翔龍"
+            }, 
+            {
+                "company": "新光人壽", 
+                "name": "年年如意保險", 
+                "owner": "董翔龍"
+            }, 
+            {
+                "company": "新光人壽", 
+                "name": "新百齡保險", 
+                "owner": "黃惠英"
+            }, 
+            {
+                "company": "三商美邦人壽", 
+                "name": "15年繳費平安保本保險", 
+                "owner": "董翔龍"
+            }
+        ], 
+        "investment": [
+            {
+                "address": "嘉義市民權路62號", 
+                "company": "嘉義市民權儲蓄互助社", 
+                "owner": "黃惠英", 
+                "register_date": "94年04月29日", 
+                "register_reason": "儲蓄", 
+                "total": "32,380"
+            }, 
+            {
+                "address": "嘉義市民權路62號", 
+                "company": "嘉義市民權儲蓄互助社", 
+                "owner": "董翔龍", 
+                "register_date": "99年04月25日", 
+                "register_reason": "儲蓄", 
+                "total": "13,022"
             }
         ], 
         "land": [
@@ -4659,6 +9515,7 @@
             "spouse": "黃惠英", 
             "title": "主任委員"
         }, 
+        "otherbonds": [], 
         "stock": [
             {
                 "currency": "新臺幣", 
@@ -5001,6 +9858,48 @@
         ]
     }, 
     {
+        "debt": [
+            {
+                "debtor": "林良懋", 
+                "owner": "雲林縣虎尾鎮農會 雲林縣虎尾鎮光復路197號", 
+                "register_date": "92年12月18日", 
+                "register_reason": "貸款", 
+                "species": "★其他", 
+                "total": "1,869,527"
+            }, 
+            {
+                "debtor": "林良懋", 
+                "owner": "台灣金聯資產管理股份有限公司 臺北市中山區南京東路二段85號12樓", 
+                "register_date": "100年06月17日", 
+                "register_reason": "貸款", 
+                "species": "★保證債務", 
+                "total": "50,000,000"
+            }, 
+            {
+                "debtor": "林良懋", 
+                "owner": "陳奕端 屏東縣潮州鎮四春里盛春路", 
+                "register_date": "90年03月17日", 
+                "register_reason": "借貸", 
+                "species": "★私人債務", 
+                "total": "15,000,000"
+            }, 
+            {
+                "debtor": "林良懋", 
+                "owner": "中華開發資產管理股份有限公司 臺北市松山區東光里南京東路5段125號7樓", 
+                "register_date": "93年01月05日", 
+                "register_reason": "貸款", 
+                "species": "★保證債務", 
+                "total": "3,521,900"
+            }, 
+            {
+                "debtor": "林良懋", 
+                "owner": "花旗(台灣)商業銀行股份有限公司 臺北市信義區松智路1號", 
+                "register_date": "93年03月25日", 
+                "register_reason": "貸款", 
+                "species": "★保證債務", 
+                "total": "17,000,000"
+            }
+        ], 
         "meta": {
             "category": "公職人員財產申報表", 
             "department": "嘉義縣政府", 
@@ -5045,6 +9944,13 @@
         }
     }, 
     {
+        "insurance": [
+            {
+                "company": "★南山人壽", 
+                "name": "南山金美滿還本終身壽險", 
+                "owner": "曹燕金"
+            }
+        ], 
         "meta": {
             "category": "公職人員財產申報表", 
             "department": "連江縣政府", 

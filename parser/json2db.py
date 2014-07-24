@@ -23,8 +23,9 @@ for f in files:
     for report in reports:
         report['meta'].update({'journal_id': fileName})
         report_id, created = sql.upsert_reports(c, report['meta'])
-        if not created:
-            continue
+#       if not created:
+#           continue
+        print report['meta']
         for category, dataset in report.items():
             if category == 'meta':
                 continue
