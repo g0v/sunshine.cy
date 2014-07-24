@@ -173,5 +173,5 @@ TEMPLATE_CONTEXT_PROCESSORS = (
     "cy.context_processor.current_url",
 )
 
-SITE_DOMAIN = 'http://twcy.herokuapp.com'
+SITE_DOMAIN = 'http://sunshine.cy.g0v.tw'
 from local_settings import *
