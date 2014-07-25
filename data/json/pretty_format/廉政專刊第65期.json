@@ -203,12 +203,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "勞動部", 
+            "department": "1.勞動部", 
             "name": "陳益民", 
             "report_at": "2014-04-10", 
             "report_type": "就(到)職申報", 
-            "spouse": "蕭維玲", 
-            "title": "政務次長"
+            "spouse": "姓名", 
+            "title": "1.政務次長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -236,12 +236,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "勞動部", 
+            "department": "1.勞動部", 
             "name": "陳益民", 
             "report_at": "2014-04-10", 
             "report_type": "就(到)職申報", 
-            "spouse": "蕭維玲", 
-            "title": "政務次長"
+            "spouse": "姓名", 
+            "title": "1.政務次長"
         }, 
         "stock": []
     }, 
@@ -451,12 +451,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "衛生福利部", 
+            "department": "1.衛生福利部", 
             "name": "邱文達", 
             "report_at": "2013-12-23", 
             "report_type": "定期申報", 
-            "spouse": "康文娟", 
-            "title": "部長"
+            "spouse": "姓名", 
+            "title": "1.部長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -700,12 +700,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "衛生福利部", 
+            "department": "1.衛生福利部", 
             "name": "邱文達", 
             "report_at": "2013-12-23", 
             "report_type": "定期申報", 
-            "spouse": "康文娟", 
-            "title": "部長"
+            "spouse": "姓名", 
+            "title": "1.部長"
         }, 
         "stock": []
     }, 
@@ -1070,12 +1070,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "衛生福利部", 
+            "department": "1.衛生福利部", 
             "name": "林奏延", 
             "report_at": "2013-12-23", 
             "report_type": "定期申報", 
-            "spouse": "楊端美", 
-            "title": "政務次長"
+            "spouse": "姓名", 
+            "title": "1.政務次長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -1143,12 +1143,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "衛生福利部", 
+            "department": "1.衛生福利部", 
             "name": "林奏延", 
             "report_at": "2013-12-23", 
             "report_type": "定期申報", 
-            "spouse": "楊端美", 
-            "title": "政務次長"
+            "spouse": "姓名", 
+            "title": "1.政務次長"
         }, 
         "stock": [
             {
@@ -1719,12 +1719,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "衛生福利部", 
+            "department": "1.衛生福利部", 
             "name": "曾中明", 
             "report_at": "2013-09-01", 
             "report_type": "就(到)職申報", 
-            "spouse": "吳孟娟", 
-            "title": "政務次長"
+            "spouse": "姓名", 
+            "title": "1.政務次長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -1824,12 +1824,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "衛生福利部", 
+            "department": "1.衛生福利部", 
             "name": "曾中明", 
             "report_at": "2013-09-01", 
             "report_type": "就(到)職申報", 
-            "spouse": "吳孟娟", 
-            "title": "政務次長"
+            "spouse": "姓名", 
+            "title": "1.政務次長"
         }, 
         "stock": []
     }, 
@@ -1837,18 +1837,7 @@
         "aircraft": [], 
         "antique": [], 
         "boat": [], 
-        "bonds": [
-            {
-                "currency": "人民幣", 
-                "dealer": "中國深圳招商銀行", 
-                "face_value": "2,300,000", 
-                "name": "憑證式國債", 
-                "owner": "龍應台", 
-                "quantity": "", 
-                "symbol": "", 
-                "total": "11,348,200"
-            }
-        ], 
+        "bonds": [], 
         "building": [
             {
                 "acquire_value": "18,500,000", 
@@ -1990,12 +1979,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "文化部", 
+            "department": "1.文化部", 
             "name": "龍應台", 
             "report_at": "2013-12-31", 
             "report_type": "定期申報", 
-            "spouse": "", 
-            "title": "部長"
+            "spouse": "姓名", 
+            "title": "1.部長"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -2064,12 +2053,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "文化部", 
+            "department": "1.文化部", 
             "name": "龍應台", 
             "report_at": "2013-12-31", 
             "report_type": "定期申報", 
-            "spouse": "", 
-            "title": "部長"
+            "spouse": "姓名", 
+            "title": "1.部長"
         }, 
         "stock": [
             {
@@ -2573,12 +2562,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "科技部", 
+            "department": "1.科技部", 
             "name": "林一平", 
             "report_at": "2014-03-28", 
             "report_type": "就(到)職申報", 
-            "spouse": "王櫻芳", 
-            "title": "政務次長"
+            "spouse": "姓名", 
+            "title": "1.政務次長"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -2719,12 +2708,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "科技部", 
+            "department": "1.科技部", 
             "name": "林一平", 
             "report_at": "2014-03-28", 
             "report_type": "就(到)職申報", 
-            "spouse": "王櫻芳", 
-            "title": "政務次長"
+            "spouse": "姓名", 
+            "title": "1.政務次長"
         }, 
         "stock": []
     }, 
@@ -2822,12 +2811,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "科技部", 
+            "department": "1.科技部", 
             "name": "錢宗良", 
             "report_at": "2014-05-18", 
             "report_type": "就(到)職申報", 
-            "spouse": "吳惠文", 
-            "title": "政務次長"
+            "spouse": "姓名", 
+            "title": "1.政務次長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -2871,12 +2860,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "科技部", 
+            "department": "1.科技部", 
             "name": "錢宗良", 
             "report_at": "2014-05-18", 
             "report_type": "就(到)職申報", 
-            "spouse": "吳惠文", 
-            "title": "政務次長"
+            "spouse": "姓名", 
+            "title": "1.政務次長"
         }, 
         "stock": []
     }, 
@@ -3310,12 +3299,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "僑務委員會", 
+            "department": "1.僑務委員會", 
             "name": "陳士魁", 
             "report_at": "2013-12-02", 
             "report_type": "定期申報", 
-            "spouse": "黃玲美", 
-            "title": "委員長"
+            "spouse": "姓名", 
+            "title": "1.委員長"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -3376,12 +3365,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "僑務委員會", 
+            "department": "1.僑務委員會", 
             "name": "陳士魁", 
             "report_at": "2013-12-02", 
             "report_type": "定期申報", 
-            "spouse": "黃玲美", 
-            "title": "委員長"
+            "spouse": "姓名", 
+            "title": "1.委員長"
         }, 
         "stock": [
             {
@@ -3751,12 +3740,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "僑務委員會", 
+            "department": "1.僑務委員會", 
             "name": "陳玉梅", 
             "report_at": "2013-12-20", 
             "report_type": "就(到)職申報", 
-            "spouse": "", 
-            "title": "副委員長"
+            "spouse": "姓名", 
+            "title": "1.副委員長"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -3913,12 +3902,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "僑務委員會", 
+            "department": "1.僑務委員會", 
             "name": "陳玉梅", 
             "report_at": "2013-12-20", 
             "report_type": "就(到)職申報", 
-            "spouse": "", 
-            "title": "副委員長"
+            "spouse": "姓名", 
+            "title": "1.副委員長"
         }, 
         "stock": [
             {
@@ -4107,12 +4096,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "僑務委員會", 
+            "department": "1.僑務委員會", 
             "name": "陳玉梅", 
             "report_at": "2014-02-17", 
             "report_type": "就(到)職申報", 
-            "spouse": "", 
-            "title": "副委員長"
+            "spouse": "姓名", 
+            "title": "1.副委員長"
         }, 
         "stock": []
     }, 
@@ -4316,12 +4305,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "行政院國家科學委員會", 
+            "department": "1.行政院國家科學委員會", 
             "name": "朱敬一", 
             "report_at": "2013-12-03", 
             "report_type": "定期申報", 
-            "spouse": "楊曉莉", 
-            "title": "主任委員"
+            "spouse": "姓名", 
+            "title": "1.主任委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -4374,12 +4363,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "行政院國家科學委員會", 
+            "department": "1.行政院國家科學委員會", 
             "name": "朱敬一", 
             "report_at": "2013-12-03", 
             "report_type": "定期申報", 
-            "spouse": "楊曉莉", 
-            "title": "主任委員"
+            "spouse": "姓名", 
+            "title": "1.主任委員"
         }, 
         "stock": [
             {
@@ -5116,12 +5105,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "行政院國家科學委員會", 
+            "department": "1.行政院國家科學委員會", 
             "name": "牟中原", 
             "report_at": "2013-11-30", 
             "report_type": "定期申報", 
-            "spouse": "王碧", 
-            "title": "副主任委員"
+            "spouse": "姓名", 
+            "title": "1.副主任委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -5294,12 +5283,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "行政院國家科學委員會", 
+            "department": "1.行政院國家科學委員會", 
             "name": "牟中原", 
             "report_at": "2013-11-30", 
             "report_type": "定期申報", 
-            "spouse": "王碧", 
-            "title": "副主任委員"
+            "spouse": "姓名", 
+            "title": "1.副主任委員"
         }, 
         "stock": [
             {
@@ -6062,12 +6051,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "行政院國家科學委員會", 
+            "department": "1.行政院國家科學委員會", 
             "name": "牟中原", 
             "report_at": "2014-03-03", 
             "report_type": "卸(離)職申報", 
-            "spouse": "王碧", 
-            "title": "副主任委員"
+            "spouse": "姓名", 
+            "title": "1.副主任委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -6240,12 +6229,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "行政院國家科學委員會", 
+            "department": "1.行政院國家科學委員會", 
             "name": "牟中原", 
             "report_at": "2014-03-03", 
             "report_type": "卸(離)職申報", 
-            "spouse": "王碧", 
-            "title": "副主任委員"
+            "spouse": "姓名", 
+            "title": "1.副主任委員"
         }, 
         "stock": [
             {
@@ -6448,12 +6437,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "行政院國家科學委員會", 
+            "department": "1.行政院國家科學委員會", 
             "name": "孫以瀚", 
             "report_at": "2013-12-30", 
             "report_type": "定期申報", 
-            "spouse": "陳芊斐", 
-            "title": "副主任委員"
+            "spouse": "姓名", 
+            "title": "1.副主任委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -6463,12 +6452,12 @@
         "land": [], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "行政院國家科學委員會", 
+            "department": "1.行政院國家科學委員會", 
             "name": "孫以瀚", 
             "report_at": "2013-12-30", 
             "report_type": "定期申報", 
-            "spouse": "陳芊斐", 
-            "title": "副主任委員"
+            "spouse": "姓名", 
+            "title": "1.副主任委員"
         }, 
         "stock": [
             {
@@ -6745,12 +6734,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "行政院國家科學委員會", 
+            "department": "1.行政院國家科學委員會", 
             "name": "孫以瀚", 
             "report_at": "2014-03-03", 
             "report_type": "卸(離)職申報", 
-            "spouse": "陳芊斐", 
-            "title": "副主任委員"
+            "spouse": "姓名", 
+            "title": "1.副主任委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -7066,12 +7055,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "行政院國家科學委員會", 
+            "department": "1.行政院國家科學委員會", 
             "name": "賀陳弘", 
             "report_at": "2013-12-20", 
             "report_type": "定期申報", 
-            "spouse": "連明香", 
-            "title": "副主任委員"
+            "spouse": "姓名", 
+            "title": "1.副主任委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -7556,12 +7545,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "行政院農業委員會", 
+            "department": "1.行政院農業委員會", 
             "name": "陳保基", 
             "report_at": "2013-11-20", 
             "report_type": "定期申報", 
-            "spouse": "阮惠玫", 
-            "title": "主任委員"
+            "spouse": "姓名", 
+            "title": "1.主任委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -8022,12 +8011,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "行政院農業委員會", 
+            "department": "1.行政院農業委員會", 
             "name": "王政騰", 
             "report_at": "2013-12-02", 
             "report_type": "定期申報", 
-            "spouse": "陳麗香", 
-            "title": "副主任委員"
+            "spouse": "姓名", 
+            "title": "1.副主任委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -8094,12 +8083,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "行政院農業委員會", 
+            "department": "1.行政院農業委員會", 
             "name": "王政騰", 
             "report_at": "2013-12-02", 
             "report_type": "定期申報", 
-            "spouse": "陳麗香", 
-            "title": "副主任委員"
+            "spouse": "姓名", 
+            "title": "1.副主任委員"
         }, 
         "stock": []
     }, 
@@ -8493,12 +8482,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "行政院農業委員會", 
+            "department": "1.行政院農業委員會", 
             "name": "胡興華", 
             "report_at": "2013-12-20", 
             "report_type": "定期申報", 
-            "spouse": "廖芳蘭", 
-            "title": "副主任委員"
+            "spouse": "姓名", 
+            "title": "1.副主任委員"
         }, 
         "otherbonds": [
             {
@@ -8693,14 +8682,6 @@
                 "deposit_type": "活期儲蓄存款", 
                 "owner": "陳小紅", 
                 "total": "1,612,913"
-            }, 
-            {
-                "bank": "玉山商業銀行城中分行", 
-                "currency": "新臺幣", 
-                "currency_total": "", 
-                "deposit_type": "", 
-                "owner": "陳小紅", 
-                "total": "1,057,745"
             }, 
             {
                 "bank": "玉山商業銀行城中分行", 
@@ -9016,23 +8997,23 @@
                 "share_portion": "1030分之4"
             }, 
             {
-                "acquire_value": "購買", 
-                "area": "", 
+                "acquire_value": "(取得價額為US$50,000.00)", 
+                "area": "323,748", 
                 "name": "East half of the Southwest quarter of Section , Township  North, Range  West, San Bernardino Meridian, the County of Los Angeles, California (A/R 888 1187)", 
-                "owner": "10000分之625", 
-                "register_date": "陳小紅", 
-                "register_reason": "78年01月18日", 
-                "share_portion": "323,748"
+                "owner": "陳小紅", 
+                "register_date": "78年01月18日", 
+                "register_reason": "購買", 
+                "share_portion": "10000分之625"
             }
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "行政院經濟建設委員會", 
+            "department": "1.行政院經濟建設委員會", 
             "name": "陳小紅", 
             "report_at": "2013-12-27", 
             "report_type": "定期申報", 
-            "spouse": "", 
-            "title": "副主任委員"
+            "spouse": "姓名", 
+            "title": "1.副主任委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -9051,12 +9032,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "行政院經濟建設委員會", 
+            "department": "1.行政院經濟建設委員會", 
             "name": "陳小紅", 
             "report_at": "2013-12-27", 
             "report_type": "定期申報", 
-            "spouse": "", 
-            "title": "副主任委員"
+            "spouse": "姓名", 
+            "title": "1.副主任委員"
         }, 
         "stock": [
             {
@@ -9329,14 +9310,6 @@
                 "deposit_type": "活期儲蓄存款", 
                 "owner": "陳小紅", 
                 "total": "1,612,913"
-            }, 
-            {
-                "bank": "玉山商業銀行城中分行", 
-                "currency": "新臺幣", 
-                "currency_total": "", 
-                "deposit_type": "", 
-                "owner": "陳小紅", 
-                "total": "1,057,745"
             }, 
             {
                 "bank": "玉山商業銀行城中分行", 
@@ -9688,12 +9661,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "行政院經濟建設委員會", 
+            "department": "1.行政院經濟建設委員會", 
             "name": "陳小紅", 
             "report_at": "2014-01-22", 
             "report_type": "卸(離)職申報", 
-            "spouse": "", 
-            "title": "副主任委員"
+            "spouse": "姓名", 
+            "title": "1.副主任委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -9712,12 +9685,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "行政院經濟建設委員會", 
+            "department": "1.行政院經濟建設委員會", 
             "name": "陳小紅", 
             "report_at": "2014-01-22", 
             "report_type": "卸(離)職申報", 
-            "spouse": "", 
-            "title": "副主任委員"
+            "spouse": "姓名", 
+            "title": "1.副主任委員"
         }, 
         "stock": [
             {
@@ -10106,12 +10079,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "行政院經濟建設委員會", 
+            "department": "1.行政院經濟建設委員會", 
             "name": "黃萬翔", 
             "report_at": "2013-12-19", 
             "report_type": "定期申報", 
-            "spouse": "林明美", 
-            "title": "副主任委員"
+            "spouse": "姓名", 
+            "title": "1.副主任委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -10483,12 +10456,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "行政院經濟建設委員會", 
+            "department": "1.行政院經濟建設委員會", 
             "name": "黃萬翔", 
             "report_at": "2013-12-19", 
             "report_type": "定期申報", 
-            "spouse": "林明美", 
-            "title": "副主任委員"
+            "spouse": "姓名", 
+            "title": "1.副主任委員"
         }, 
         "stock": []
     }, 
@@ -10771,12 +10744,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "王建煊", 
             "report_at": "2013-11-06", 
             "report_type": "定期申報", 
-            "spouse": "蘇法昭", 
-            "title": "院長"
+            "spouse": "姓名", 
+            "title": "1.院長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -10852,12 +10825,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "王建煊", 
             "report_at": "2013-11-06", 
             "report_type": "定期申報", 
-            "spouse": "蘇法昭", 
-            "title": "院長"
+            "spouse": "姓名", 
+            "title": "1.院長"
         }, 
         "stock": []
     }, 
@@ -10923,12 +10896,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "陳進利", 
             "report_at": "2013-12-25", 
             "report_type": "定期申報", 
-            "spouse": "王榮", 
-            "title": "副院長"
+            "spouse": "姓名", 
+            "title": "1.副院長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -11028,12 +11001,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "陳進利", 
             "report_at": "2013-12-25", 
             "report_type": "定期申報", 
-            "spouse": "王榮", 
-            "title": "副院長"
+            "spouse": "姓名", 
+            "title": "1.副院長"
         }, 
         "stock": []
     }, 
@@ -11228,12 +11201,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "尹祚芊", 
             "report_at": "2013-12-02", 
             "report_type": "定期申報", 
-            "spouse": "何淮中", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "otherbonds": [
             {
@@ -11270,12 +11243,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "尹祚芊", 
             "report_at": "2013-12-02", 
             "report_type": "定期申報", 
-            "spouse": "何淮中", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "stock": []
     }, 
@@ -11537,12 +11510,12 @@
         "land": [], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "余騰芳", 
             "report_at": "2013-12-16", 
             "report_type": "定期申報", 
-            "spouse": "游春英", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -11691,12 +11664,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "余騰芳", 
             "report_at": "2013-12-16", 
             "report_type": "定期申報", 
-            "spouse": "游春英", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "stock": []
     }, 
@@ -11886,12 +11859,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "吳豐山", 
             "report_at": "2013-12-02", 
             "report_type": "定期申報", 
-            "spouse": "吳蔡秀菊", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -12048,12 +12021,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "吳豐山", 
             "report_at": "2013-12-02", 
             "report_type": "定期申報", 
-            "spouse": "吳蔡秀菊", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "stock": [
             {
@@ -12438,12 +12411,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "李炳南", 
             "report_at": "2013-12-05", 
             "report_type": "定期申報", 
-            "spouse": "黃寶秀", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -12664,12 +12637,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "李炳南", 
             "report_at": "2013-12-05", 
             "report_type": "定期申報", 
-            "spouse": "黃寶秀", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "stock": [
             {
@@ -13013,12 +12986,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "李復甸", 
             "report_at": "2013-12-05", 
             "report_type": "定期申報", 
-            "spouse": "李范燕瑛", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -13087,12 +13060,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "李復甸", 
             "report_at": "2013-12-05", 
             "report_type": "定期申報", 
-            "spouse": "李范燕瑛", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "stock": [
             {
@@ -13494,12 +13467,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "杜善良", 
             "report_at": "2013-12-23", 
             "report_type": "定期申報", 
-            "spouse": "杜張貴英", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -13567,12 +13540,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "杜善良", 
             "report_at": "2013-12-23", 
             "report_type": "定期申報", 
-            "spouse": "杜張貴英", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "stock": []
     }, 
@@ -13581,12 +13554,12 @@
         "land": [], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "杜善良", 
             "report_at": "2014-01-09", 
             "report_type": "定期申報", 
-            "spouse": "杜張貴英", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "stock": [
             {
@@ -13697,12 +13670,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "沈美真", 
             "report_at": "2013-12-10", 
             "report_type": "定期申報", 
-            "spouse": "郭登聰", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -13778,12 +13751,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "沈美真", 
             "report_at": "2013-12-10", 
             "report_type": "定期申報", 
-            "spouse": "郭登聰", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "stock": [
             {
@@ -13933,12 +13906,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "周陽山", 
             "report_at": "2013-12-24", 
             "report_type": "定期申報", 
-            "spouse": "黃良瑩", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -13982,12 +13955,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "周陽山", 
             "report_at": "2013-12-24", 
             "report_type": "定期申報", 
-            "spouse": "黃良瑩", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "stock": []
     }, 
@@ -14272,12 +14245,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "林鉅鋃", 
             "report_at": "2013-12-02", 
             "report_type": "定期申報", 
-            "spouse": "李月英", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -14457,12 +14430,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "林鉅鋃", 
             "report_at": "2013-12-02", 
             "report_type": "定期申報", 
-            "spouse": "李月英", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "stock": []
     }, 
@@ -14593,44 +14566,7 @@
                 "total": "439,100"
             }
         ], 
-        "fund": [
-            {
-                "currency": "", 
-                "dealer": "國泰世華商業銀行", 
-                "face_value": "", 
-                "name": "南非幣保本型組合式商品", 
-                "owner": "張燕如", 
-                "quantity": "", 
-                "total": "2,511,304"
-            }, 
-            {
-                "currency": "", 
-                "dealer": "國泰世華商業銀行", 
-                "face_value": "", 
-                "name": "德意志銀行南非幣公司債券", 
-                "owner": "張燕如", 
-                "quantity": "", 
-                "total": "967,409"
-            }, 
-            {
-                "currency": "", 
-                "dealer": "國泰世華商業銀行", 
-                "face_value": "", 
-                "name": "貝萊德世礦", 
-                "owner": "張燕如", 
-                "quantity": "214.02", 
-                "total": "390,000"
-            }, 
-            {
-                "currency": "", 
-                "dealer": "瀚亞投顧", 
-                "face_value": "", 
-                "name": "瀚亞印度基金", 
-                "owner": "張燕如", 
-                "quantity": "249,000", 
-                "total": "249,000"
-            }
-        ], 
+        "fund": [], 
         "insurance": [
             {
                 "company": "國泰人壽", 
@@ -14672,12 +14608,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "洪昭男", 
             "report_at": "2013-12-09", 
             "report_type": "定期申報", 
-            "spouse": "張燕如", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -14762,12 +14698,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "洪昭男", 
             "report_at": "2013-12-09", 
             "report_type": "定期申報", 
-            "spouse": "張燕如", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "stock": []
     }, 
@@ -15045,12 +14981,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "洪德旋", 
             "report_at": "2013-12-18", 
             "report_type": "定期申報", 
-            "spouse": "黃鳳美", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -15223,12 +15159,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "洪德旋", 
             "report_at": "2013-12-12", 
             "report_type": "定期申報", 
-            "spouse": "黃鳳美", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "stock": [
             {
@@ -15671,12 +15607,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "陳永祥", 
             "report_at": "2013-12-25", 
             "report_type": "定期申報", 
-            "spouse": "余杜麗", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -15728,12 +15664,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "陳永祥", 
             "report_at": "2013-12-25", 
             "report_type": "定期申報", 
-            "spouse": "余杜麗", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "stock": []
     }, 
@@ -15855,12 +15791,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "陳健民", 
             "report_at": "2013-12-04", 
             "report_type": "定期申報", 
-            "spouse": "", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -16092,12 +16028,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "馬以工", 
             "report_at": "2013-11-22", 
             "report_type": "定期申報", 
-            "spouse": "", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -16358,12 +16294,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "馬秀如", 
             "report_at": "2013-11-01", 
             "report_type": "定期申報", 
-            "spouse": "", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -16440,12 +16376,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "高鳳仙", 
             "report_at": "2013-12-19", 
             "report_type": "定期申報", 
-            "spouse": "盧政春", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -16769,12 +16705,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "高鳳仙", 
             "report_at": "2013-12-19", 
             "report_type": "定期申報", 
-            "spouse": "盧政春", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "stock": [
             {
@@ -16901,12 +16837,12 @@
         "land": [], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "高鳳仙", 
             "report_at": "2014-02-19", 
             "report_type": "定期申報", 
-            "spouse": "盧政春", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "stock": [
             {
@@ -17619,12 +17555,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "黃武次", 
             "report_at": "2013-12-02", 
             "report_type": "定期申報", 
-            "spouse": "張淑姿", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -17669,12 +17605,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "黃武次", 
             "report_at": "2013-12-18", 
             "report_type": "定期申報", 
-            "spouse": "張淑姿", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "stock": [
             {
@@ -17896,12 +17832,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "黃煌雄", 
             "report_at": "2013-12-05", 
             "report_type": "定期申報", 
-            "spouse": "吳月娥", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -17937,12 +17873,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "黃煌雄", 
             "report_at": "2013-12-05", 
             "report_type": "定期申報", 
-            "spouse": "吳月娥", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "stock": [
             {
@@ -18168,12 +18104,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "程仁宏", 
             "report_at": "2013-12-05", 
             "report_type": "定期申報", 
-            "spouse": "危芊芝", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -18306,12 +18242,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "程仁宏", 
             "report_at": "2013-12-05", 
             "report_type": "定期申報", 
-            "spouse": "危芊芝", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "stock": []
     }, 
@@ -18459,12 +18395,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "葉耀鵬", 
             "report_at": "2013-12-25", 
             "report_type": "定期申報", 
-            "spouse": "廖美霞", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -18549,12 +18485,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "葉耀鵬", 
             "report_at": "2013-12-25", 
             "report_type": "定期申報", 
-            "spouse": "廖美霞", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "stock": [
             {
@@ -18795,12 +18731,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "葛永光", 
             "report_at": "2013-12-17", 
             "report_type": "定期申報", 
-            "spouse": "車宜靜", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -18844,12 +18780,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "葛永光", 
             "report_at": "2013-12-17", 
             "report_type": "定期申報", 
-            "spouse": "車宜靜", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "stock": []
     }, 
@@ -19020,12 +18956,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "楊美鈴", 
             "report_at": "2013-12-23", 
             "report_type": "定期申報", 
-            "spouse": "張正勝", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -19181,12 +19117,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "趙昌平", 
             "report_at": "2013-12-02", 
             "report_type": "定期申報", 
-            "spouse": "趙簡玉雲", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -19790,12 +19726,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "趙昌平", 
             "report_at": "2013-12-02", 
             "report_type": "定期申報", 
-            "spouse": "趙簡玉雲", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "stock": []
     }, 
@@ -20019,12 +19955,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "趙榮耀", 
             "report_at": "2013-12-02", 
             "report_type": "定期申報", 
-            "spouse": "趙胡和枝", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -20069,12 +20005,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "趙榮耀", 
             "report_at": "2013-12-02", 
             "report_type": "定期申報", 
-            "spouse": "趙胡和枝", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "stock": [
             {
@@ -20385,12 +20321,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "劉玉山", 
             "report_at": "2013-12-23", 
             "report_type": "定期申報", 
-            "spouse": "邱麗華", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -20482,12 +20418,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "劉玉山", 
             "report_at": "2013-12-23", 
             "report_type": "定期申報", 
-            "spouse": "邱麗華", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "stock": []
     }, 
@@ -20805,12 +20741,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "劉興善", 
             "report_at": "2013-12-18", 
             "report_type": "定期申報", 
-            "spouse": "翁美智", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -21541,12 +21477,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "劉興善", 
             "report_at": "2013-12-18", 
             "report_type": "定期申報", 
-            "spouse": "翁美智", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "stock": []
     }, 
@@ -21925,12 +21861,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "錢林慧君", 
             "report_at": "2013-12-19", 
             "report_type": "定期申報", 
-            "spouse": "錢橙山", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "otherbonds": [
             {
@@ -22270,12 +22206,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "錢林慧君", 
             "report_at": "2013-12-19", 
             "report_type": "定期申報", 
-            "spouse": "錢橙山", 
-            "title": "監察委員"
+            "spouse": "姓名", 
+            "title": "1.監察委員"
         }, 
         "stock": []
     }, 
@@ -22451,12 +22387,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "陳豐義", 
             "report_at": "2013-12-19", 
             "report_type": "定期申報", 
-            "spouse": "陳蔡金燕", 
-            "title": "秘書長"
+            "spouse": "姓名", 
+            "title": "1.秘書長"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -22589,12 +22525,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "監察院", 
+            "department": "1.監察院", 
             "name": "陳豐義", 
             "report_at": "2013-12-19", 
             "report_type": "定期申報", 
-            "spouse": "陳蔡金燕", 
-            "title": "秘書長"
+            "spouse": "姓名", 
+            "title": "1.秘書長"
         }, 
         "stock": [
             {
@@ -23255,12 +23191,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "審計部", 
+            "department": "1.審計部", 
             "name": "林慶隆", 
             "report_at": "2013-12-18", 
             "report_type": "定期申報", 
-            "spouse": "吳煥", 
-            "title": "審計長"
+            "spouse": "姓名", 
+            "title": "1.審計長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -23312,12 +23248,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "審計部", 
+            "department": "1.審計部", 
             "name": "林慶隆", 
             "report_at": "2013-12-18", 
             "report_type": "定期申報", 
-            "spouse": "吳煥", 
-            "title": "審計長"
+            "spouse": "姓名", 
+            "title": "1.審計長"
         }, 
         "stock": []
     }

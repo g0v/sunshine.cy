@@ -38,12 +38,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "內政部", 
+            "department": "1.內政部", 
             "name": "簡太郎", 
             "report_at": "2013-07-18", 
             "report_type": "定期申報", 
-            "spouse": "楊玲卿", 
-            "title": "政務次長"
+            "spouse": "姓名", 
+            "title": "1.政務次長"
         }, 
         "stock": []
     }, 
@@ -94,12 +94,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "行政院大陸委員會", 
+            "department": "1.行政院大陸委員會", 
             "name": "王郁琦", 
             "report_at": "2013-07-17", 
             "report_type": "就(到)職申報", 
-            "spouse": "蘇惠麗", 
-            "title": "主任委員"
+            "spouse": "姓名", 
+            "title": "1.主任委員"
         }, 
         "stock": []
     }, 
@@ -306,53 +306,7 @@
                 "total": "5,882"
             }
         ], 
-        "fund": [
-            {
-                "currency": "", 
-                "dealer": "第一商業銀行", 
-                "face_value": "", 
-                "name": "聯博全高收債美元配息", 
-                "owner": "王嘉陵", 
-                "quantity": "1,550.52", 
-                "total": "219,042"
-            }, 
-            {
-                "currency": "", 
-                "dealer": "第一商業銀行", 
-                "face_value": "", 
-                "name": "統一大滿貫", 
-                "owner": "王嘉陵", 
-                "quantity": "771.31", 
-                "total": "15,194"
-            }, 
-            {
-                "currency": "", 
-                "dealer": "第一商業銀行", 
-                "face_value": "", 
-                "name": "富蘭克林華美全債配息", 
-                "owner": "王嘉陵", 
-                "quantity": "8,180.80", 
-                "total": "89,927"
-            }, 
-            {
-                "currency": "", 
-                "dealer": "第一商業銀行", 
-                "face_value": "", 
-                "name": "富蘭克林華美中國消費", 
-                "owner": "王嘉陵", 
-                "quantity": "1,024.20", 
-                "total": "9,606"
-            }, 
-            {
-                "currency": "", 
-                "dealer": "第一商業銀行", 
-                "face_value": "", 
-                "name": "群益安穩貨幣市場", 
-                "owner": "王嘉陵", 
-                "quantity": "31,917.60", 
-                "total": "500,685"
-            }
-        ], 
+        "fund": [], 
         "insurance": [
             {
                 "company": "富邦人壽", 
@@ -384,12 +338,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "行政院研究發展考核委員會", 
+            "department": "1.行政院研究發展考核委員會", 
             "name": "范姜泰基", 
             "report_at": "2013-03-25", 
             "report_type": "就(到)職申報", 
-            "spouse": "王嘉陵", 
-            "title": "副主任委員"
+            "spouse": "姓名", 
+            "title": "1.副主任委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -399,12 +353,12 @@
         "land": [], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "行政院研究發展考核委員會", 
+            "department": "1.行政院研究發展考核委員會", 
             "name": "范姜泰基", 
             "report_at": "2013-03-25", 
             "report_type": "就(到)職申報", 
-            "spouse": "王嘉陵", 
-            "title": "副主任委員"
+            "spouse": "姓名", 
+            "title": "1.副主任委員"
         }, 
         "stock": [
             {
@@ -783,12 +737,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "行政院公共工程委員會", 
+            "department": "1.行政院公共工程委員會", 
             "name": "陳振川", 
             "report_at": "2013-08-01", 
             "report_type": "卸(離)職申報", 
-            "spouse": "李惠珍", 
-            "title": "主任委員"
+            "spouse": "姓名", 
+            "title": "1.主任委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -1224,12 +1178,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "立法院", 
+            "department": "1.立法院", 
             "name": "陳怡潔", 
             "report_at": "2013-06-20", 
             "report_type": "就(到)職申報", 
-            "spouse": "陳○諺", 
-            "title": "立法委員"
+            "spouse": "姓名", 
+            "title": "1.立法委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -1400,15 +1354,1223 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "立法院", 
+            "department": "1.立法院", 
             "name": "張曉風", 
             "report_at": "2013-03-17", 
             "report_type": "卸(離)職申報", 
-            "spouse": "林治平", 
-            "title": "立法委員"
+            "spouse": "姓名", 
+            "title": "1.立法委員"
         }, 
         "otherbonds": [], 
         "stock": []
+    }, 
+    {
+        "aircraft": [], 
+        "antique": [], 
+        "boat": [], 
+        "bonds": [], 
+        "building": [
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "467.50", 
+                "name": "★臺中市西屯區惠來里惠文三街", 
+                "owner": "顏寬恆", 
+                "register_date": "92年09月01日", 
+                "register_reason": "買賣", 
+                "share_portion": "2分之1"
+            }, 
+            {
+                "acquire_value": "1,931,500", 
+                "area": "774.20", 
+                "name": "★臺中市西屯區潮洋里朝貴路", 
+                "owner": "顏寬恆", 
+                "register_date": "100年11月24日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "302.60", 
+                "name": "★臺中市沙鹿區鹿寮里光榮街", 
+                "owner": "顏寬恆", 
+                "register_date": "95年10月25日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "345.20", 
+                "name": "臺中市沙鹿區鹿寮里成功東街", 
+                "owner": "顏寬恆", 
+                "register_date": "94年08月02日", 
+                "register_reason": "拍賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "230.10", 
+                "name": "★臺中市沙鹿區鹿寮里光榮街", 
+                "owner": "顏寬恆", 
+                "register_date": "91年07月02日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "260.20", 
+                "name": "臺中市沙鹿區三鹿里保順路", 
+                "owner": "顏寬恆", 
+                "register_date": "97年02月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "39.40", 
+                "name": "臺中市沙鹿區三鹿里保順路", 
+                "owner": "顏寬恆", 
+                "register_date": "97年02月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "491", 
+                "name": "臺中市沙鹿區埔子里正義路", 
+                "owner": "顏寬恆", 
+                "register_date": "93年03月16日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "357.60", 
+                "name": "臺中市沙鹿區埔子里正義路", 
+                "owner": "陳麗淩", 
+                "register_date": "87年05月19日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "467.50", 
+                "name": "★臺中市西屯區惠來里惠文三", 
+                "owner": "陳麗淩", 
+                "register_date": "92年09月", 
+                "register_reason": "買賣", 
+                "share_portion": "2分之1"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "456", 
+                "name": "臺中市梧棲區頂寮里四維中路", 
+                "owner": "顏寬恆", 
+                "register_date": "96年01月31日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "314.90", 
+                "name": "臺中市梧棲區頂寮里四維中路", 
+                "owner": "顏寬恆", 
+                "register_date": "96年01月31日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "140.90", 
+                "name": "臺中市沙鹿區埔子里正義路", 
+                "owner": "顏寬恆", 
+                "register_date": "93年03月16日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }
+        ], 
+        "car": [
+            {
+                "acquire_value": "1,700,000", 
+                "capacity": "3,799", 
+                "name": "NISSAN", 
+                "owner": "顏寬恆", 
+                "register_date": "101年08月07日", 
+                "register_reason": "買賣"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "capacity": "1,170", 
+                "name": "BMW", 
+                "owner": "顏寬恆", 
+                "register_date": "95年01月01日", 
+                "register_reason": "買賣"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "capacity": "5,972", 
+                "name": "BMW", 
+                "owner": "顏寬恆", 
+                "register_date": "93年01月01日", 
+                "register_reason": "買賣"
+            }, 
+            {
+                "acquire_value": "1,400,000", 
+                "capacity": "3,456", 
+                "name": "LEXUS", 
+                "owner": "陳麗淩", 
+                "register_date": "100年03月03日", 
+                "register_reason": "買賣"
+            }
+        ], 
+        "cash": [], 
+        "deposit": [
+            {
+                "bank": "台中商業銀行沙鹿分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "顏寬恆", 
+                "total": "2,884,470"
+            }, 
+            {
+                "bank": "臺灣土地銀行沙鹿分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "陳麗淩", 
+                "total": "75,589"
+            }, 
+            {
+                "bank": "臺灣土地銀行沙鹿分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "定期存款", 
+                "owner": "陳麗淩", 
+                "total": "2,000,000"
+            }, 
+            {
+                "bank": "合作金庫商業銀行沙鹿分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳麗淩", 
+                "total": "852,982"
+            }, 
+            {
+                "bank": "臺灣土地銀行沙鹿分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳麗淩", 
+                "total": "16,125"
+            }, 
+            {
+                "bank": "合作金庫商業銀行文心分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳麗淩", 
+                "total": "1,256,760"
+            }, 
+            {
+                "bank": "合作金庫商業銀行文心分行", 
+                "currency": "美金", 
+                "currency_total": "35,712", 
+                "deposit_type": "外幣存款", 
+                "owner": "陳麗淩", 
+                "total": "1,053,504"
+            }, 
+            {
+                "bank": "中國信託商業銀行公益分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳麗淩", 
+                "total": "1,955,524"
+            }, 
+            {
+                "bank": "中國信託商業銀行公益分行", 
+                "currency": "美金", 
+                "currency_total": "87,695", 
+                "deposit_type": "活期存款", 
+                "owner": "陳麗淩", 
+                "total": "2,587,002.50"
+            }, 
+            {
+                "bank": "臺灣土地銀行沙鹿分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "顏○婕", 
+                "total": "47,772"
+            }, 
+            {
+                "bank": "臺灣土地銀行沙鹿分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "定期存款", 
+                "owner": "顏○婕", 
+                "total": "1,900,000"
+            }, 
+            {
+                "bank": "花旗（台灣）銀行文心分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "定期存款", 
+                "owner": "顏○婕", 
+                "total": "2,404,176"
+            }, 
+            {
+                "bank": "臺灣土地銀行沙鹿分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "顏○朋", 
+                "total": "1,072,010"
+            }, 
+            {
+                "bank": "臺灣土地銀行沙鹿分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "定期存款", 
+                "owner": "顏○朋", 
+                "total": "1,000,000"
+            }, 
+            {
+                "bank": "花旗（台灣）銀行文心分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "顏○朋", 
+                "total": "2,403,193"
+            }, 
+            {
+                "bank": "臺灣土地銀行沙鹿分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳麗淩", 
+                "total": "52,000,000"
+            }, 
+            {
+                "bank": "★臺灣土地銀行沙鹿分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "顏寬恆", 
+                "total": "18,925,634"
+            }, 
+            {
+                "bank": "★臺灣土地銀行沙鹿分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "顏寬恆", 
+                "total": "58,585,433"
+            }, 
+            {
+                "bank": "★國泰世華商業銀行沙鹿分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "顏寬恆", 
+                "total": "55,414,777"
+            }, 
+            {
+                "bank": "★兆豐國際商業銀行沙鹿分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "顏寬恆", 
+                "total": "21,903,642"
+            }, 
+            {
+                "bank": "★兆豐國際商業銀行沙鹿分行", 
+                "currency": "美金", 
+                "currency_total": "26,565", 
+                "deposit_type": "外匯存款", 
+                "owner": "顏寬恆", 
+                "total": "783,667.50"
+            }, 
+            {
+                "bank": "★臺灣土地銀行沙鹿分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "陳麗淩", 
+                "total": "58,606,080"
+            }, 
+            {
+                "bank": "★國泰世華商業銀行沙鹿分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期存款", 
+                "owner": "陳麗淩", 
+                "total": "16,125"
+            }, 
+            {
+                "bank": "★花旗(台灣)商業銀行文心分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "活期儲蓄存款", 
+                "owner": "陳麗淩", 
+                "total": "1,256,760"
+            }, 
+            {
+                "bank": "★花旗(台灣)商業銀行文心分行", 
+                "currency": "新臺幣", 
+                "currency_total": "", 
+                "deposit_type": "外幣存款", 
+                "owner": "陳麗淩", 
+                "total": "35,712"
+            }
+        ], 
+        "fund": [], 
+        "insurance": [
+            {
+                "company": "台灣人壽", 
+                "name": "台灣人壽新富貴年年變額年金保險", 
+                "owner": "陳麗淩"
+            }, 
+            {
+                "company": "台灣人壽", 
+                "name": "台灣人壽新富貴年年變額年金保險", 
+                "owner": "陳麗淩"
+            }, 
+            {
+                "company": "台灣人壽", 
+                "name": "台灣人壽舞動人生變額萬能壽險", 
+                "owner": "陳麗淩"
+            }, 
+            {
+                "company": "台灣人壽", 
+                "name": "台灣人壽舞動人生變額萬能壽險", 
+                "owner": "陳麗淩"
+            }, 
+            {
+                "company": "台灣人壽", 
+                "name": "台灣人壽舞動人生變額萬能壽險", 
+                "owner": "陳麗淩"
+            }, 
+            {
+                "company": "台灣人壽", 
+                "name": "台灣人壽新真愛一世情終身壽險", 
+                "owner": "陳麗淩"
+            }, 
+            {
+                "company": "台灣人壽", 
+                "name": "台灣人壽新真愛一世情終身壽險", 
+                "owner": "陳麗淩"
+            }, 
+            {
+                "company": "台灣人壽", 
+                "name": "台灣人壽新真愛一世情終身壽險", 
+                "owner": "陳麗淩"
+            }, 
+            {
+                "company": "台灣人壽", 
+                "name": "台灣人壽鑫美利外幣終身壽險", 
+                "owner": "陳麗淩"
+            }, 
+            {
+                "company": "台灣人壽", 
+                "name": "台灣人壽鑫美利外幣終身壽險", 
+                "owner": "陳麗淩"
+            }, 
+            {
+                "company": "台灣人壽", 
+                "name": "台灣人壽鑫美利外幣終身壽險", 
+                "owner": "陳麗淩"
+            }, 
+            {
+                "company": "★台灣人壽", 
+                "name": "台灣人壽健康新生活終身保險", 
+                "owner": "陳麗淩"
+            }, 
+            {
+                "company": "★台灣人壽", 
+                "name": "台灣人壽健康新生活終身保險", 
+                "owner": "陳麗淩"
+            }, 
+            {
+                "company": "台灣人壽", 
+                "name": "台灣人壽長期看護終身壽險", 
+                "owner": "陳麗淩"
+            }, 
+            {
+                "company": "台灣人壽", 
+                "name": "台灣人壽真愛一世情終身壽險", 
+                "owner": "顏寬恆"
+            }, 
+            {
+                "company": "台灣人壽", 
+                "name": "台灣人壽健康新生活終身壽險", 
+                "owner": "顏寬恆"
+            }, 
+            {
+                "company": "台灣人壽", 
+                "name": "台灣人壽健康新生活終身保險", 
+                "owner": "顏寬恆"
+            }, 
+            {
+                "company": "富邦人壽", 
+                "name": "富邦人壽金康福保本終身壽險", 
+                "owner": "顏寬恆"
+            }, 
+            {
+                "company": "中國人壽", 
+                "name": "迎向陽光終身壽險(乙型)", 
+                "owner": "顏寬恆"
+            }, 
+            {
+                "company": "南山人壽", 
+                "name": "南山十年繳費新年年春還本終身保險", 
+                "owner": "顏寬恆"
+            }, 
+            {
+                "company": "南山人壽", 
+                "name": "南山新康祥終身壽險B型", 
+                "owner": "顏寬恆"
+            }, 
+            {
+                "company": "南山人壽", 
+                "name": "南山十年繳費新年年春還本終身保險", 
+                "owner": "顏寬恆"
+            }, 
+            {
+                "company": "國泰人壽", 
+                "name": "萬代福211終身", 
+                "owner": "顏寬恆"
+            }, 
+            {
+                "company": "國泰人壽", 
+                "name": "富貴年年終身", 
+                "owner": "顏寬恆"
+            }, 
+            {
+                "company": "國泰人壽", 
+                "name": "新安家保本定期保險", 
+                "owner": "顏寬恆"
+            }, 
+            {
+                "company": "★全球人壽", 
+                "name": "全球金元寶還本終身壽險", 
+                "owner": "顏寬恆"
+            }, 
+            {
+                "company": "★蘇黎世國際人壽", 
+                "name": "守護人生專案", 
+                "owner": "陳麗淩"
+            }, 
+            {
+                "company": "★國泰人壽", 
+                "name": "新鍾情終身壽險", 
+                "owner": "陳麗淩"
+            }, 
+            {
+                "company": "★國泰人壽", 
+                "name": "安心保住院醫療終身保險", 
+                "owner": "陳麗淩"
+            }, 
+            {
+                "company": "★國泰人壽", 
+                "name": "安順手術醫療終身保險", 
+                "owner": "陳麗淩"
+            }, 
+            {
+                "company": "★南山人壽", 
+                "name": "南山人壽繳費新年年春還本終身保險", 
+                "owner": "陳麗淩"
+            }, 
+            {
+                "company": "★南山人壽", 
+                "name": "南山人壽新終身醫療保險", 
+                "owner": "陳麗淩"
+            }, 
+            {
+                "company": "★南山人壽", 
+                "name": "南山人壽新康祥終身壽險", 
+                "owner": "陳麗淩"
+            }, 
+            {
+                "company": "★南山人壽", 
+                "name": "南山312還本終身保險", 
+                "owner": "陳麗淩"
+            }
+        ], 
+        "land": [
+            {
+                "acquire_value": "2,601,788", 
+                "area": "282", 
+                "name": "臺中市清水區銀聯段0000-0603地號", 
+                "owner": "顏寬恆", 
+                "register_date": "101年03月16日", 
+                "register_reason": "買賣", 
+                "share_portion": "2分之1"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "4,292", 
+                "name": "臺中市沙鹿區南勢坑段南勢坑小段0488-0006地號", 
+                "owner": "顏寬恆", 
+                "register_date": "96年10月26日", 
+                "register_reason": "拍賣", 
+                "share_portion": "36分之3"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "1,463", 
+                "name": "臺中市沙鹿區南勢坑段南勢坑小段0488-0008地號", 
+                "owner": "顏寬恆", 
+                "register_date": "96年10月26日", 
+                "register_reason": "拍賣", 
+                "share_portion": "36分之3"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "1,319", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0214-0011地號", 
+                "owner": "顏寬恆", 
+                "register_date": "93年02月27日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "3,100", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0239-0000地號", 
+                "owner": "顏寬恆", 
+                "register_date": "97年03月13日", 
+                "register_reason": "拍賣", 
+                "share_portion": "48分之11"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "1,860", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0239-0001地號", 
+                "owner": "顏寬恆", 
+                "register_date": "97年03月13日", 
+                "register_reason": "拍賣", 
+                "share_portion": "48分之11"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "2,480", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0239-0002地號", 
+                "owner": "顏寬恆", 
+                "register_date": "97年03月13日", 
+                "register_reason": "拍賣", 
+                "share_portion": "48分之11"
+            }, 
+            {
+                "acquire_value": "27,600", 
+                "area": "2,281", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0386-0000地號", 
+                "owner": "顏寬恆", 
+                "register_date": "100年03月31日", 
+                "register_reason": "買賣", 
+                "share_portion": "2分之1"
+            }, 
+            {
+                "acquire_value": "16,195,100", 
+                "area": "2,281", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0386-0003地號", 
+                "owner": "顏寬恆", 
+                "register_date": "99年12月30日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "1,340", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0388-0001地號", 
+                "owner": "顏寬恆", 
+                "register_date": "96年10月26日", 
+                "register_reason": "拍賣", 
+                "share_portion": "36分之3"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "69", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0388-0005地號", 
+                "owner": "顏寬恆", 
+                "register_date": "96年10月26日", 
+                "register_reason": "拍賣", 
+                "share_portion": "36分之3"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "80", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0388-0006地號", 
+                "owner": "顏寬恆", 
+                "register_date": "96年10月26日", 
+                "register_reason": "拍賣", 
+                "share_portion": "36分之3"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "30", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0388-0007地號", 
+                "owner": "顏寬恆", 
+                "register_date": "96年10月26日", 
+                "register_reason": "拍賣", 
+                "share_portion": "36分之3"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "89", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0388-0009地號", 
+                "owner": "顏寬恆", 
+                "register_date": "96年10月26日", 
+                "register_reason": "拍賣", 
+                "share_portion": "36分之3"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "713", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0388-0010地號", 
+                "owner": "顏寬恆", 
+                "register_date": "96年10月26日", 
+                "register_reason": "拍賣", 
+                "share_portion": "36分之3"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "525", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0392-0000地號", 
+                "owner": "顏寬恆", 
+                "register_date": "96年10月26日", 
+                "register_reason": "拍賣", 
+                "share_portion": "36分之3"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "618", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0392-0002地號", 
+                "owner": "顏寬恆", 
+                "register_date": "96年10月26日", 
+                "register_reason": "拍賣", 
+                "share_portion": "36分之3"
+            }, 
+            {
+                "acquire_value": "2,140,812", 
+                "area": "9,396", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0589-0000地號", 
+                "owner": "顏寬恆", 
+                "register_date": "100年11月23日", 
+                "register_reason": "買賣", 
+                "share_portion": "37644分之4765"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "110", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0594-0001地號", 
+                "owner": "顏寬恆", 
+                "register_date": "95年03月31日", 
+                "register_reason": "拍賣", 
+                "share_portion": "14040分之3662"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "576", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0594-0003地號", 
+                "owner": "顏寬恆", 
+                "register_date": "95年03月31日", 
+                "register_reason": "拍賣", 
+                "share_portion": "14040分之3662"
+            }, 
+            {
+                "acquire_value": "995,726", 
+                "area": "731", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0594-0004地號", 
+                "owner": "顏寬恆", 
+                "register_date": "102年03月07日", 
+                "register_reason": "共有物分割", 
+                "share_portion": "6240分之1831"
+            }, 
+            {
+                "acquire_value": "113,887", 
+                "area": "191", 
+                "name": "臺中市龍井區龍目井段段水裡社小段0008-0014地號", 
+                "owner": "顏寬恆", 
+                "register_date": "101年06月19日", 
+                "register_reason": "拍賣", 
+                "share_portion": "100分之10"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "4,911.55", 
+                "name": "臺中市龍井區遊園北段段0431-0000地號", 
+                "owner": "顏寬恆", 
+                "register_date": "97年04月18日", 
+                "register_reason": "贈與", 
+                "share_portion": "91200分之9184"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "1,195.92", 
+                "name": "臺中市龍井區遊園北段段0549-0000地號", 
+                "owner": "顏寬恆", 
+                "register_date": "97年04月18日", 
+                "register_reason": "贈與", 
+                "share_portion": "91200分之9184"
+            }, 
+            {
+                "acquire_value": "3,985,200", 
+                "area": "3,321", 
+                "name": "臺南市柳營區大腿段1092-0000地號", 
+                "owner": "顏寬恆", 
+                "register_date": "98年07月27日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "31,561,842", 
+                "area": "527.79", 
+                "name": "臺中市西屯區惠泰段0255-0001地號", 
+                "owner": "顏寬恆", 
+                "register_date": "100年11月24日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "792.23", 
+                "name": "臺中市西屯區惠順段0070-0000地號", 
+                "owner": "顏寬恆", 
+                "register_date": "92年09月01日", 
+                "register_reason": "買賣", 
+                "share_portion": "10000分之590"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "91.89", 
+                "name": "臺中市西屯區惠順段0070-0001地號", 
+                "owner": "顏寬恆", 
+                "register_date": "92年09月01日", 
+                "register_reason": "買賣", 
+                "share_portion": "2分之1"
+            }, 
+            {
+                "acquire_value": "2,951,820", 
+                "area": "10,567", 
+                "name": "★臺中市南屯區春安段0797-0000地號", 
+                "owner": "顏寬恆", 
+                "register_date": "99年09月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "720396分之8750"
+            }, 
+            {
+                "acquire_value": "7,590", 
+                "area": "95", 
+                "name": "臺中市南屯區春安段0797-0001地號", 
+                "owner": "顏寬恆", 
+                "register_date": "99年09月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "720396分之8750"
+            }, 
+            {
+                "acquire_value": "71,676", 
+                "area": "895", 
+                "name": "臺中市南屯區春安段0797-0002地號", 
+                "owner": "顏寬恆", 
+                "register_date": "99年09月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "720396分之8750"
+            }, 
+            {
+                "acquire_value": "446,226", 
+                "area": "5,570", 
+                "name": "臺中市南屯區春安段0798-0000地號", 
+                "owner": "顏寬恆", 
+                "register_date": "99年09月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "720396分之8750"
+            }, 
+            {
+                "acquire_value": "86,394", 
+                "area": "1,079", 
+                "name": "臺中市南屯區春安段0798-0001地號", 
+                "owner": "顏寬恆", 
+                "register_date": "99年09月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "720396分之8750"
+            }, 
+            {
+                "acquire_value": "21,120", 
+                "area": "264", 
+                "name": "臺中市南屯區春安段0799-0006地號", 
+                "owner": "顏寬恆", 
+                "register_date": "99年09月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "720396分之8750"
+            }, 
+            {
+                "acquire_value": "66", 
+                "area": "1", 
+                "name": "臺中市南屯區春安段0804-0001地號", 
+                "owner": "顏寬恆", 
+                "register_date": "99年09月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "720396分之8750"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "641", 
+                "name": "臺中市沙鹿區鹿寮段0262-0013", 
+                "owner": "顏寬恆", 
+                "register_date": "95年10月", 
+                "register_reason": "買賣", 
+                "share_portion": "12820分之"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "81", 
+                "name": "臺中市沙鹿區鹿寮段0262-0161地號", 
+                "owner": "顏寬恆", 
+                "register_date": "91年07月02日", 
+                "register_reason": "拍賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "144", 
+                "name": "臺中市沙鹿區鹿寮段0262-0259地號", 
+                "owner": "顏寬恆", 
+                "register_date": "94年08月02日", 
+                "register_reason": "拍賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "153", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0196-0002地號", 
+                "owner": "顏寬恆", 
+                "register_date": "93年03月16日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "106", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0192-0003地號", 
+                "owner": "顏寬恆", 
+                "register_date": "89年03月07日", 
+                "register_reason": "買賣", 
+                "share_portion": "2分之1"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "32", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0197-0003地號", 
+                "owner": "顏寬恆", 
+                "register_date": "93年03月16日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "259", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0214-0001地號", 
+                "owner": "顏寬恆", 
+                "register_date": "93年02月27日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "567,341", 
+                "area": "463", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0215-0000地號", 
+                "owner": "顏寬恆", 
+                "register_date": "99年07月15日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "3,880,800", 
+                "area": "495", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0221-0001地號", 
+                "owner": "顏寬恆", 
+                "register_date": "99年12月01日", 
+                "register_reason": "買賣", 
+                "share_portion": "5分之4"
+            }, 
+            {
+                "acquire_value": "12,934,400", 
+                "area": "1,376", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0236-0008地號", 
+                "owner": "顏寬恆", 
+                "register_date": "101年06月17日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "156,768", 
+                "area": "265", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0312-0002地號", 
+                "owner": "顏寬恆", 
+                "register_date": "98年12月08日", 
+                "register_reason": "買賣", 
+                "share_portion": "36分之3"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "80", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0240-0016地號", 
+                "owner": "顏寬恆", 
+                "register_date": "97年02月13日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "31,311", 
+                "area": "53", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0312-0007地號", 
+                "owner": "顏寬恆", 
+                "register_date": "98年12月08日", 
+                "register_reason": "買賣", 
+                "share_portion": "36分之3"
+            }, 
+            {
+                "acquire_value": "756,267", 
+                "area": "805", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0314-0000地號", 
+                "owner": "顏寬恆", 
+                "register_date": "98年12月08日", 
+                "register_reason": "買賣", 
+                "share_portion": "6分之1"
+            }, 
+            {
+                "acquire_value": "431,680", 
+                "area": "73", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0314-0003地號", 
+                "owner": "顏寬恆", 
+                "register_date": "98年12月08日", 
+                "register_reason": "買賣", 
+                "share_portion": "36分之3"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "3,084", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0339-0000地號", 
+                "owner": "顏寬恆", 
+                "register_date": "97年03月13日", 
+                "register_reason": "拍賣", 
+                "share_portion": "48分之11"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "975", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0339-0002地號", 
+                "owner": "顏寬恆", 
+                "register_date": "97年03月13日", 
+                "register_reason": "拍賣", 
+                "share_portion": "24分之5"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "440", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0339-0003地號", 
+                "owner": "顏寬恆", 
+                "register_date": "97年03月13日", 
+                "register_reason": "拍賣", 
+                "share_portion": "24分之5"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "1,254", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0352-0000地號", 
+                "owner": "顏寬恆", 
+                "register_date": "96年10月26日", 
+                "register_reason": "拍賣", 
+                "share_portion": "72分之3"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "2,283", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0439-0003地號", 
+                "owner": "顏寬恆", 
+                "register_date": "96年10月26日", 
+                "register_reason": "拍賣", 
+                "share_portion": "180分之75"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "137", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0450-0003地號", 
+                "owner": "顏寬恆", 
+                "register_date": "95年06月09日", 
+                "register_reason": "拍賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "437", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0554-0008地號", 
+                "owner": "顏寬恆", 
+                "register_date": "95年06月09日", 
+                "register_reason": "拍賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "295,996", 
+                "area": "361", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0981-0051地號", 
+                "owner": "顏寬恆", 
+                "register_date": "101年05月08日", 
+                "register_reason": "買賣", 
+                "share_portion": "12分之1"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "1,040", 
+                "name": "臺中市梧棲區梧棲段2795-0000地號", 
+                "owner": "顏寬恆", 
+                "register_date": "96年04月18日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "792.23", 
+                "name": "臺中市西屯區惠順段0070-0000地號", 
+                "owner": "陳麗淩", 
+                "register_date": "92年09月01日", 
+                "register_reason": "買賣", 
+                "share_portion": "1000分之59"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "106", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0192-0003地號", 
+                "owner": "陳麗淩", 
+                "register_date": "89年07月19日", 
+                "register_reason": "買賣", 
+                "share_portion": "12分之4"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "86", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0196-0005地號", 
+                "owner": "陳麗淩", 
+                "register_date": "87年05月19日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "61", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0197-0014地號", 
+                "owner": "陳麗淩", 
+                "register_date": "87年05月19日", 
+                "register_reason": "買賣", 
+                "share_portion": "全部"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "3,084", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0339-0000地號", 
+                "owner": "陳麗淩", 
+                "register_date": "95年12月25日", 
+                "register_reason": "買賣", 
+                "share_portion": "72分之13"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "975", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0339-0002地號", 
+                "owner": "陳麗淩", 
+                "register_date": "95年12月25日", 
+                "register_reason": "買賣", 
+                "share_portion": "72分之13"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "440", 
+                "name": "臺中市沙鹿區南勢坑段埔子小段0339-0003地號", 
+                "owner": "陳麗淩", 
+                "register_date": "95年12月25日", 
+                "register_reason": "買賣", 
+                "share_portion": "72分之13"
+            }, 
+            {
+                "acquire_value": "(超過五年)", 
+                "area": "91.89", 
+                "name": "臺中市西屯區惠順段0070-0001地號", 
+                "owner": "陳麗淩", 
+                "register_date": "92年09月01日", 
+                "register_reason": "買賣", 
+                "share_portion": "2分之1"
+            }
+        ], 
+        "meta": {
+            "category": "公職人員財產申報表", 
+            "department": "1.立法院", 
+            "name": "顏寬恆", 
+            "report_at": "2013-05-01", 
+            "report_type": "就(到)職申報", 
+            "spouse": "姓名", 
+            "title": "1.立法委員"
+        }, 
+        "otherbonds": [], 
+        "stock": [
+            {
+                "currency": "新臺幣", 
+                "face_value": "10", 
+                "name": "★新光合成纖維股份有限公司", 
+                "owner": "顏寬恆", 
+                "quantity": "110,398", 
+                "total": "1,103,980"
+            }, 
+            {
+                "currency": "新臺幣", 
+                "face_value": "10", 
+                "name": "★鴻海精密工業股份有限公司", 
+                "owner": "顏寬恆", 
+                "quantity": "30,022", 
+                "total": "300,220"
+            }, 
+            {
+                "currency": "新臺幣", 
+                "face_value": "10", 
+                "name": "★晶豪科技股份有限公司", 
+                "owner": "顏寬恆", 
+                "quantity": "10,000", 
+                "total": "100,000"
+            }, 
+            {
+                "currency": "新臺幣", 
+                "face_value": "10", 
+                "name": "★精材科技股份有限公司", 
+                "owner": "顏寬恆", 
+                "quantity": "102,007", 
+                "total": "1,020,070"
+            }, 
+            {
+                "currency": "新臺幣", 
+                "face_value": "10", 
+                "name": "★聯鈞光電股份有限公司", 
+                "owner": "顏寬恆", 
+                "quantity": "7,000", 
+                "total": "70,000"
+            }, 
+            {
+                "currency": "新臺幣", 
+                "face_value": "10", 
+                "name": "★聯勝光電股份有限公司", 
+                "owner": "顏寬恆", 
+                "quantity": "119,536", 
+                "total": "1,195,360"
+            }, 
+            {
+                "currency": "新臺幣", 
+                "face_value": "10", 
+                "name": "★健喬信元醫藥生技股份有限公司", 
+                "owner": "顏寬恆", 
+                "quantity": "174,641", 
+                "total": "1,746,410"
+            }
+        ]
     }, 
     {
         "aircraft": [], 
@@ -1732,12 +2894,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "臺北市政府", 
+            "department": "1.臺北市政府", 
             "name": "張金鶚", 
             "report_at": "2013-05-15", 
             "report_type": "就(到)職申報", 
-            "spouse": "王麗芬", 
-            "title": "副市長"
+            "spouse": "姓名", 
+            "title": "1.副市長"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -1814,12 +2976,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "臺北市政府", 
+            "department": "1.臺北市政府", 
             "name": "張金鶚", 
             "report_at": "2013-05-15", 
             "report_type": "就(到)職申報", 
-            "spouse": "王麗芬", 
-            "title": "副市長"
+            "spouse": "姓名", 
+            "title": "1.副市長"
         }, 
         "stock": []
     }, 
@@ -1904,12 +3066,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "臺北市政府捷運工程局", 
+            "department": "1.臺北市政府捷運工程局", 
             "name": "蔡輝昇", 
             "report_at": "2013-05-15", 
             "report_type": "就(到)職申報", 
-            "spouse": "黃如妙", 
-            "title": "局長"
+            "spouse": "姓名", 
+            "title": "1.局長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -1977,12 +3139,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "臺北市政府捷運工程局", 
+            "department": "1.臺北市政府捷運工程局", 
             "name": "蔡輝昇", 
             "report_at": "2013-05-15", 
             "report_type": "就(到)職申報", 
-            "spouse": "黃如妙", 
-            "title": "局長"
+            "spouse": "姓名", 
+            "title": "1.局長"
         }, 
         "stock": []
     }, 
@@ -2165,12 +3327,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "臺北市政府交通局", 
+            "department": "1.臺北市政府交通局", 
             "name": "王聲威", 
             "report_at": "2013-05-17", 
             "report_type": "就(到)職申報", 
-            "spouse": "葉美秀", 
-            "title": "局長"
+            "spouse": "姓名", 
+            "title": "1.局長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -2198,12 +3360,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "臺北市政府交通局", 
+            "department": "1.臺北市政府交通局", 
             "name": "王聲威", 
             "report_at": "2013-05-17", 
             "report_type": "就(到)職申報", 
-            "spouse": "葉美秀", 
-            "title": "局長"
+            "spouse": "姓名", 
+            "title": "1.局長"
         }, 
         "stock": [
             {
@@ -2858,12 +4020,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "臺北市政府交通局", 
+            "department": "1.臺北市政府交通局", 
             "name": "林志盈", 
             "report_at": "2013-03-01", 
             "report_type": "卸(離)職申報", 
-            "spouse": "陳雲儀", 
-            "title": "局長"
+            "spouse": "姓名", 
+            "title": "1.局長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -3019,12 +4181,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "臺北市政府交通局", 
+            "department": "1.臺北市政府交通局", 
             "name": "林志盈", 
             "report_at": "2013-03-01", 
             "report_type": "卸(離)職申報", 
-            "spouse": "陳雲儀", 
-            "title": "局長"
+            "spouse": "姓名", 
+            "title": "1.局長"
         }, 
         "stock": [
             {
@@ -3831,12 +4993,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "臺北市政府消防局", 
+            "department": "1.臺北市政府消防局", 
             "name": "廖茂為", 
             "report_at": "2013-05-13", 
             "report_type": "就(到)職申報", 
-            "spouse": "何美鈴", 
-            "title": "局長"
+            "spouse": "姓名", 
+            "title": "1.局長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -3880,12 +5042,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "臺北市政府消防局", 
+            "department": "1.臺北市政府消防局", 
             "name": "廖茂為", 
             "report_at": "2013-05-13", 
             "report_type": "就(到)職申報", 
-            "spouse": "何美鈴", 
-            "title": "局長"
+            "spouse": "姓名", 
+            "title": "1.局長"
         }, 
         "stock": []
     }, 
@@ -4022,12 +5184,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "新北市政府水利局", 
+            "department": "1.新北市政府水利局", 
             "name": "古沼格", 
             "report_at": "2013-05-17", 
             "report_type": "就(到)職申報", 
-            "spouse": "鄭靜美", 
-            "title": "局長"
+            "spouse": "姓名", 
+            "title": "1.局長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -4063,12 +5225,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "新北市政府水利局", 
+            "department": "1.新北市政府水利局", 
             "name": "古沼格", 
             "report_at": "2013-05-17", 
             "report_type": "就(到)職申報", 
-            "spouse": "鄭靜美", 
-            "title": "局長"
+            "spouse": "姓名", 
+            "title": "1.局長"
         }, 
         "stock": [
             {
@@ -4426,12 +5588,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "新北市政府水利局", 
+            "department": "1.新北市政府水利局", 
             "name": "張延光", 
             "report_at": "2013-03-01", 
             "report_type": "卸(離)職申報", 
-            "spouse": "馬淑媛", 
-            "title": "局長"
+            "spouse": "姓名", 
+            "title": "1.局長"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -4458,12 +5620,12 @@
         "land": [], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "新北市政府水利局", 
+            "department": "1.新北市政府水利局", 
             "name": "張延光", 
             "report_at": "2013-03-01", 
             "report_type": "卸(離)職申報", 
-            "spouse": "馬淑媛", 
-            "title": "局長"
+            "spouse": "姓名", 
+            "title": "1.局長"
         }, 
         "stock": [
             {
@@ -4500,12 +5662,12 @@
         "land": [], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "臺中市政府環境保護局", 
+            "department": "1.臺中市政府環境保護局", 
             "name": "劉邦裕", 
             "report_at": "2013-08-09", 
             "report_type": "定期申報", 
-            "spouse": "王雪方", 
-            "title": "局長"
+            "spouse": "姓名", 
+            "title": "1.局長"
         }, 
         "stock": [
             {
@@ -4945,12 +6107,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "臺南市政府", 
+            "department": "1.臺南市政府", 
             "name": "許和鈞", 
             "report_at": "2013-04-30", 
             "report_type": "就(到)職申報", 
-            "spouse": "林惠雪", 
-            "title": "副市長"
+            "spouse": "姓名", 
+            "title": "1.副市長"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -4995,12 +6157,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "臺南市政府", 
+            "department": "1.臺南市政府", 
             "name": "許和鈞", 
             "report_at": "2013-04-30", 
             "report_type": "就(到)職申報", 
-            "spouse": "林惠雪", 
-            "title": "副市長"
+            "spouse": "姓名", 
+            "title": "1.副市長"
         }, 
         "stock": []
     }, 
@@ -5084,12 +6246,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "臺南市政府", 
+            "department": "1.臺南市政府", 
             "name": "趙卿惠", 
             "report_at": "2013-05-06", 
             "report_type": "就(到)職申報", 
-            "spouse": "", 
-            "title": "處長"
+            "spouse": "姓名", 
+            "title": "1.處長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -5171,12 +6333,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "高雄市政府環境保護局", 
+            "department": "1.高雄市政府環境保護局", 
             "name": "陳金德", 
             "report_at": "2013-05-03", 
             "report_type": "就(到)職申報", 
-            "spouse": "黃素琴", 
-            "title": "局長"
+            "spouse": "姓名", 
+            "title": "1.局長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -5220,12 +6382,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "高雄市政府環境保護局", 
+            "department": "1.高雄市政府環境保護局", 
             "name": "陳金德", 
             "report_at": "2013-05-03", 
             "report_type": "就(到)職申報", 
-            "spouse": "黃素琴", 
-            "title": "局長"
+            "spouse": "姓名", 
+            "title": "1.局長"
         }, 
         "stock": []
     }, 
@@ -5267,35 +6429,7 @@
             }
         ], 
         "deposit": [], 
-        "fund": [
-            {
-                "currency": "", 
-                "dealer": "國泰投顧", 
-                "face_value": "", 
-                "name": "國泰台灣貨幣市場基金", 
-                "owner": "柯芷伶", 
-                "quantity": "", 
-                "total": "5,150,000"
-            }, 
-            {
-                "currency": "", 
-                "dealer": "摩根證券", 
-                "face_value": "", 
-                "name": "摩根中國亮點基金", 
-                "owner": "柯芷伶", 
-                "quantity": "", 
-                "total": "179,800"
-            }, 
-            {
-                "currency": "", 
-                "dealer": "聯博投信", 
-                "face_value": "", 
-                "name": "聯博亞洲股票基金 AD 股美元", 
-                "owner": "柯芷伶", 
-                "quantity": "", 
-                "total": "290,000"
-            }
-        ], 
+        "fund": [], 
         "insurance": [
             {
                 "company": "國泰人壽", 
@@ -5332,12 +6466,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "高雄市政府經濟發展局", 
+            "department": "1.高雄市政府經濟發展局", 
             "name": "曾文生", 
             "report_at": "2013-06-26", 
             "report_type": "就(到)職申報", 
-            "spouse": "柯芷伶", 
-            "title": "局長"
+            "spouse": "姓名", 
+            "title": "1.局長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -5530,12 +6664,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "宜蘭縣政府", 
+            "department": "1.宜蘭縣政府", 
             "name": "黃志良", 
             "report_at": "2013-06-25", 
             "report_type": "就(到)職申報", 
-            "spouse": "廖育驊", 
-            "title": "處長"
+            "spouse": "姓名", 
+            "title": "1.處長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -5545,12 +6679,12 @@
         "land": [], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "宜蘭縣政府", 
+            "department": "1.宜蘭縣政府", 
             "name": "黃志良", 
             "report_at": "2013-06-25", 
             "report_type": "就(到)職申報", 
-            "spouse": "廖育驊", 
-            "title": "處長"
+            "spouse": "姓名", 
+            "title": "1.處長"
         }, 
         "stock": [
             {
@@ -5926,12 +7060,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "桃園縣政府", 
+            "department": "1.桃園縣政府", 
             "name": "李朝枝", 
             "report_at": "2013-07-01", 
             "report_type": "卸(離)職申報", 
-            "spouse": "王麗華", 
-            "title": "副縣長"
+            "spouse": "姓名", 
+            "title": "1.副縣長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -6383,12 +7517,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "桃園縣政府", 
+            "department": "1.桃園縣政府", 
             "name": "李朝枝", 
             "report_at": "2013-07-01", 
             "report_type": "卸(離)職申報", 
-            "spouse": "王麗華", 
-            "title": "副縣長"
+            "spouse": "姓名", 
+            "title": "1.副縣長"
         }, 
         "stock": []
     }, 
@@ -6579,12 +7713,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "桃園縣政府社會局", 
+            "department": "1.桃園縣政府社會局", 
             "name": "陳仲良", 
             "report_at": "2013-06-13", 
             "report_type": "就(到)職申報", 
-            "spouse": "張詠雪", 
-            "title": "局長"
+            "spouse": "姓名", 
+            "title": "1.局長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -6636,12 +7770,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "桃園縣政府社會局", 
+            "department": "1.桃園縣政府社會局", 
             "name": "陳仲良", 
             "report_at": "2013-06-13", 
             "report_type": "就(到)職申報", 
-            "spouse": "張詠雪", 
-            "title": "局長"
+            "spouse": "姓名", 
+            "title": "1.局長"
         }, 
         "stock": []
     }, 
@@ -6938,12 +8072,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "桃園縣政府社會局", 
+            "department": "1.桃園縣政府社會局", 
             "name": "張淑慧", 
             "report_at": "2013-01-01", 
             "report_type": "卸(離)職申報", 
-            "spouse": "盧榮宏", 
-            "title": "局長"
+            "spouse": "姓名", 
+            "title": "1.局長"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -7012,12 +8146,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "桃園縣政府社會局", 
+            "department": "1.桃園縣政府社會局", 
             "name": "張淑慧", 
             "report_at": "2013-01-01", 
             "report_type": "卸(離)職申報", 
-            "spouse": "盧榮宏", 
-            "title": "局長"
+            "spouse": "姓名", 
+            "title": "1.局長"
         }, 
         "stock": [
             {
@@ -7257,12 +8391,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "桃園縣政府工務局", 
+            "department": "1.桃園縣政府工務局", 
             "name": "朱惕之", 
             "report_at": "2013-06-30", 
             "report_type": "就(到)職申報", 
-            "spouse": "余紫菁", 
-            "title": "局長"
+            "spouse": "姓名", 
+            "title": "1.局長"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -7845,12 +8979,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "新竹縣政府", 
+            "department": "1.新竹縣政府", 
             "name": "林賢聲", 
             "report_at": "2013-05-06", 
             "report_type": "卸(離)職申報", 
-            "spouse": "陳美滿", 
-            "title": "處長"
+            "spouse": "姓名", 
+            "title": "1.處長"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -8151,12 +9285,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "新竹縣政府", 
+            "department": "1.新竹縣政府", 
             "name": "林賢聲", 
             "report_at": "2013-05-06", 
             "report_type": "卸(離)職申報", 
-            "spouse": "陳美滿", 
-            "title": "處長"
+            "spouse": "姓名", 
+            "title": "1.處長"
         }, 
         "stock": [
             {
@@ -8219,12 +9353,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "苗栗縣政府", 
+            "department": "1.苗栗縣政府", 
             "name": "劉政鴻", 
             "report_at": "2013-06-10", 
             "report_type": "定期申報", 
-            "spouse": "杜麗華", 
-            "title": "縣長"
+            "spouse": "姓名", 
+            "title": "1.縣長"
         }, 
         "stock": []
     }, 
@@ -8488,12 +9622,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "苗栗縣政府", 
+            "department": "1.苗栗縣政府", 
             "name": "賴安平", 
             "report_at": "2013-06-26", 
             "report_type": "就(到)職申報", 
-            "spouse": "胡娘妹", 
-            "title": "處長"
+            "spouse": "姓名", 
+            "title": "1.處長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -8520,12 +9654,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "苗栗縣政府", 
+            "department": "1.苗栗縣政府", 
             "name": "賴安平", 
             "report_at": "2013-06-26", 
             "report_type": "就(到)職申報", 
-            "spouse": "胡娘妹", 
-            "title": "處長"
+            "spouse": "姓名", 
+            "title": "1.處長"
         }, 
         "stock": [
             {
@@ -9417,12 +10551,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "彰化縣政府", 
+            "department": "1.彰化縣政府", 
             "name": "郭丑哲", 
             "report_at": "2013-06-06", 
             "report_type": "就(到)職申報", 
-            "spouse": "官美珠", 
-            "title": "處長"
+            "spouse": "姓名", 
+            "title": "1.處長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -9498,12 +10632,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "彰化縣政府", 
+            "department": "1.彰化縣政府", 
             "name": "郭丑哲", 
             "report_at": "2013-06-06", 
             "report_type": "就(到)職申報", 
-            "spouse": "官美珠", 
-            "title": "處長"
+            "spouse": "姓名", 
+            "title": "1.處長"
         }, 
         "stock": [
             {
@@ -10084,12 +11218,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "雲林縣政府", 
+            "department": "1.雲林縣政府", 
             "name": "蘇治芬", 
             "report_at": "2012-11-30", 
             "report_type": "定期申報", 
-            "spouse": "黃武雄", 
-            "title": "縣長"
+            "spouse": "姓名", 
+            "title": "1.縣長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -10141,12 +11275,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "雲林縣政府", 
+            "department": "1.雲林縣政府", 
             "name": "蘇治芬", 
             "report_at": "2012-11-30", 
             "report_type": "定期申報", 
-            "spouse": "黃武雄", 
-            "title": "縣長"
+            "spouse": "姓名", 
+            "title": "1.縣長"
         }, 
         "stock": [
             {
@@ -10351,12 +11485,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "雲林縣政府", 
+            "department": "1.雲林縣政府", 
             "name": "丁彥哲", 
             "report_at": "2012-12-17", 
             "report_type": "定期申報", 
-            "spouse": "陳青妙", 
-            "title": "處長"
+            "spouse": "姓名", 
+            "title": "1.處長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -10407,12 +11541,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "雲林縣政府", 
+            "department": "1.雲林縣政府", 
             "name": "丁彥哲", 
             "report_at": "2012-12-17", 
             "report_type": "定期申報", 
-            "spouse": "陳青妙", 
-            "title": "處長"
+            "spouse": "姓名", 
+            "title": "1.處長"
         }, 
         "stock": []
     }, 
@@ -10490,12 +11624,12 @@
         "land": [], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "雲林縣政府", 
+            "department": "1.雲林縣政府", 
             "name": "許智凱", 
             "report_at": "2013-02-19", 
             "report_type": "就(到)職申報", 
-            "spouse": "邱怡歆", 
-            "title": "處長"
+            "spouse": "姓名", 
+            "title": "1.處長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -10679,12 +11813,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "雲林縣政府", 
+            "department": "1.雲林縣政府", 
             "name": "洪仁聲", 
             "report_at": "2013-02-28", 
             "report_type": "解除代理申報", 
-            "spouse": "許峰岳", 
-            "title": "處長"
+            "spouse": "姓名", 
+            "title": "1.處長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -10712,12 +11846,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "雲林縣政府", 
+            "department": "1.雲林縣政府", 
             "name": "洪仁聲", 
             "report_at": "2013-02-28", 
             "report_type": "解除代理申報", 
-            "spouse": "許峰岳", 
-            "title": "處長"
+            "spouse": "姓名", 
+            "title": "1.處長"
         }, 
         "stock": [
             {
@@ -10898,12 +12032,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "雲林縣政府", 
+            "department": "1.雲林縣政府", 
             "name": "劉銓芝", 
             "report_at": "2013-05-28", 
             "report_type": "就(到)職申報", 
-            "spouse": "黃瓊芳", 
-            "title": "處長"
+            "spouse": "姓名", 
+            "title": "1.處長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -11081,12 +12215,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "雲林縣政府", 
+            "department": "1.雲林縣政府", 
             "name": "呂政璋", 
             "report_at": "2012-10-01", 
             "report_type": "卸(離)職申報", 
-            "spouse": "黃雅芳", 
-            "title": "處長"
+            "spouse": "姓名", 
+            "title": "1.處長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -11190,12 +12324,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "雲林縣政府", 
+            "department": "1.雲林縣政府", 
             "name": "李武忠", 
             "report_at": "2013-01-01", 
             "report_type": "卸(離)職申報", 
-            "spouse": "江靜文", 
-            "title": "處長"
+            "spouse": "姓名", 
+            "title": "1.處長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -11467,12 +12601,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "雲林縣政府衛生局", 
+            "department": "1.雲林縣政府衛生局", 
             "name": "吳昭軍", 
             "report_at": "2012-11-30", 
             "report_type": "定期申報", 
-            "spouse": "吳淑芬", 
-            "title": "局長"
+            "spouse": "姓名", 
+            "title": "1.局長"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -11565,12 +12699,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "雲林縣政府衛生局", 
+            "department": "1.雲林縣政府衛生局", 
             "name": "吳昭軍", 
             "report_at": "2012-11-30", 
             "report_type": "定期申報", 
-            "spouse": "吳淑芬", 
-            "title": "局長"
+            "spouse": "姓名", 
+            "title": "1.局長"
         }, 
         "stock": [
             {
@@ -11658,12 +12792,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "雲林縣政府衛生局", 
+            "department": "1.雲林縣政府衛生局", 
             "name": "吳昭軍", 
             "report_at": "2013-06-28", 
             "report_type": "定期申報", 
-            "spouse": "吳淑芬", 
-            "title": "局長"
+            "spouse": "姓名", 
+            "title": "1.局長"
         }, 
         "stock": []
     }, 
@@ -11740,12 +12874,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "雲林縣政府環境保護局", 
+            "department": "1.雲林縣政府環境保護局", 
             "name": "葉德惠", 
             "report_at": "2012-12-27", 
             "report_type": "定期申報", 
-            "spouse": "葉秋童", 
-            "title": "局長"
+            "spouse": "姓名", 
+            "title": "1.局長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -11773,12 +12907,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "雲林縣政府環境保護局", 
+            "department": "1.雲林縣政府環境保護局", 
             "name": "葉德惠", 
             "report_at": "2012-12-27", 
             "report_type": "定期申報", 
-            "spouse": "葉秋童", 
-            "title": "局長"
+            "spouse": "姓名", 
+            "title": "1.局長"
         }, 
         "stock": []
     }, 
@@ -11787,12 +12921,12 @@
         "land": [], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "臺東縣政府", 
+            "department": "1.臺東縣政府", 
             "name": "余明勳", 
             "report_at": "2013-08-02", 
             "report_type": "就(到)職申報", 
-            "spouse": "蘇茜", 
-            "title": "處長"
+            "spouse": "姓名", 
+            "title": "1.處長"
         }, 
         "stock": [
             {
@@ -12160,12 +13294,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "連江縣政府", 
+            "department": "1.連江縣政府", 
             "name": "楊綏生", 
             "report_at": "2012-12-18", 
             "report_type": "定期申報", 
-            "spouse": "鄭嬌英", 
-            "title": "縣長"
+            "spouse": "姓名", 
+            "title": "1.縣長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -12249,12 +13383,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "連江縣政府", 
+            "department": "1.連江縣政府", 
             "name": "曹以雄", 
             "report_at": "2012-12-28", 
             "report_type": "定期申報", 
-            "spouse": "陳愛珍", 
-            "title": "局長"
+            "spouse": "姓名", 
+            "title": "1.局長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -12273,12 +13407,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "連江縣政府", 
+            "department": "1.連江縣政府", 
             "name": "曹以雄", 
             "report_at": "2012-12-28", 
             "report_type": "定期申報", 
-            "spouse": "陳愛珍", 
-            "title": "局長"
+            "spouse": "姓名", 
+            "title": "1.局長"
         }, 
         "stock": []
     }, 
@@ -12457,12 +13591,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "連江縣政府", 
+            "department": "1.連江縣政府", 
             "name": "陳金寶", 
             "report_at": "2012-12-12", 
             "report_type": "定期申報", 
-            "spouse": "黃君鳳", 
-            "title": "局長"
+            "spouse": "姓名", 
+            "title": "1.局長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -12506,12 +13640,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "連江縣政府", 
+            "department": "1.連江縣政府", 
             "name": "陳金寶", 
             "report_at": "2012-12-12", 
             "report_type": "定期申報", 
-            "spouse": "黃君鳳", 
-            "title": "局長"
+            "spouse": "姓名", 
+            "title": "1.局長"
         }, 
         "stock": []
     }, 
@@ -12904,12 +14038,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "臺北市政府地政局", 
+            "department": "1.臺北市政府地政局", 
             "name": "陳錫禎", 
             "report_at": "2013-03-01", 
             "report_type": "卸(離)職申報", 
-            "spouse": "吳素鑾", 
-            "title": "局長"
+            "spouse": "姓名", 
+            "title": "1.局長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -13166,12 +14300,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "臺北市政府資訊局", 
+            "department": "1.臺北市政府資訊局", 
             "name": "詹德存", 
             "report_at": "2013-02-20", 
             "report_type": "就(到)職申報", 
-            "spouse": "莊金花", 
-            "title": "局長"
+            "spouse": "姓名", 
+            "title": "1.局長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -13215,12 +14349,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "臺北市政府資訊局", 
+            "department": "1.臺北市政府資訊局", 
             "name": "詹德存", 
             "report_at": "2013-02-20", 
             "report_type": "就(到)職申報", 
-            "spouse": "莊金花", 
-            "title": "局長"
+            "spouse": "姓名", 
+            "title": "1.局長"
         }, 
         "stock": []
     }, 
@@ -13519,12 +14653,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "臺北市政府法務局", 
+            "department": "1.臺北市政府法務局", 
             "name": "蔡立文", 
             "report_at": "2013-05-29", 
             "report_type": "定期申報", 
-            "spouse": "郭思吟", 
-            "title": "局長"
+            "spouse": "姓名", 
+            "title": "1.局長"
         }, 
         "stock": []
     }, 
@@ -13910,12 +15044,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "行政院", 
+            "department": "1.行政院", 
             "name": "薛琦", 
             "report_at": "2013-04-28", 
             "report_type": "就(到)職申報", 
-            "spouse": "何碧玉", 
-            "title": "政務委員"
+            "spouse": "姓名", 
+            "title": "1.政務委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -13975,12 +15109,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "行政院", 
+            "department": "1.行政院", 
             "name": "薛琦", 
             "report_at": "2013-04-28", 
             "report_type": "就(到)職申報", 
-            "spouse": "何碧玉", 
-            "title": "政務委員"
+            "spouse": "姓名", 
+            "title": "1.政務委員"
         }, 
         "stock": []
     }, 
@@ -14007,12 +15141,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "行政院", 
+            "department": "1.行政院", 
             "name": "鄭麗文", 
             "report_at": "2013-07-16", 
             "report_type": "就(到)職申報", 
-            "spouse": "駱武昌", 
-            "title": "發言人"
+            "spouse": "姓名", 
+            "title": "1.發言人"
         }, 
         "stock": []
     }, 
@@ -14186,12 +15320,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "外交部", 
+            "department": "1.外交部", 
             "name": "石定", 
             "report_at": "2013-05-28", 
             "report_type": "就(到)職申報", 
-            "spouse": "曾貝絲", 
-            "title": "政務次長"
+            "spouse": "姓名", 
+            "title": "1.政務次長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -14243,12 +15377,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "外交部", 
+            "department": "1.外交部", 
             "name": "石定", 
             "report_at": "2013-05-28", 
             "report_type": "就(到)職申報", 
-            "spouse": "曾貝絲", 
-            "title": "政務次長"
+            "spouse": "姓名", 
+            "title": "1.政務次長"
         }, 
         "stock": []
     }, 
@@ -14455,12 +15589,12 @@
         "land": [], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "外交部", 
+            "department": "1.外交部", 
             "name": "魏武煉", 
             "report_at": "2013-06-29", 
             "report_type": "卸(離)職申報", 
-            "spouse": "胡靜玉", 
-            "title": "大使"
+            "spouse": "姓名", 
+            "title": "1.大使"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -14470,12 +15604,12 @@
         "land": [], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "外交部", 
+            "department": "1.外交部", 
             "name": "魏武煉", 
             "report_at": "2013-06-29", 
             "report_type": "卸(離)職申報", 
-            "spouse": "胡靜玉", 
-            "title": "大使"
+            "spouse": "姓名", 
+            "title": "1.大使"
         }, 
         "stock": [
             {
@@ -14792,12 +15926,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "外交部", 
+            "department": "1.外交部", 
             "name": "呂慶龍", 
             "report_at": "2013-04-02", 
             "report_type": "就(到)職申報", 
-            "spouse": "林麗雲", 
-            "title": "大使"
+            "spouse": "姓名", 
+            "title": "1.大使"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -14840,12 +15974,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "外交部", 
+            "department": "1.外交部", 
             "name": "呂慶龍", 
             "report_at": "2013-04-02", 
             "report_type": "就(到)職申報", 
-            "spouse": "林麗雲", 
-            "title": "大使"
+            "spouse": "姓名", 
+            "title": "1.大使"
         }, 
         "stock": [
             {
@@ -15872,12 +17006,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "教育部", 
+            "department": "1.教育部", 
             "name": "林聰明", 
             "report_at": "2013-01-16", 
             "report_type": "卸(離)職申報", 
-            "spouse": "蕭素惠", 
-            "title": "政務次長"
+            "spouse": "姓名", 
+            "title": "1.政務次長"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -16114,12 +17248,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "教育部", 
+            "department": "1.教育部", 
             "name": "林聰明", 
             "report_at": "2013-01-16", 
             "report_type": "卸(離)職申報", 
-            "spouse": "蕭素惠", 
-            "title": "政務次長"
+            "spouse": "姓名", 
+            "title": "1.政務次長"
         }, 
         "stock": [
             {
@@ -16463,12 +17597,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "法務部", 
+            "department": "1.法務部", 
             "name": "陳明堂", 
             "report_at": "2013-06-03", 
             "report_type": "就(到)職申報", 
-            "spouse": "林美靜", 
-            "title": "政務次長"
+            "spouse": "姓名", 
+            "title": "1.政務次長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -16536,12 +17670,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "法務部", 
+            "department": "1.法務部", 
             "name": "陳明堂", 
             "report_at": "2013-06-03", 
             "report_type": "就(到)職申報", 
-            "spouse": "林美靜", 
-            "title": "政務次長"
+            "spouse": "姓名", 
+            "title": "1.政務次長"
         }, 
         "stock": []
     }, 
@@ -16913,12 +18047,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "文化部", 
+            "department": "1.文化部", 
             "name": "林金田", 
             "report_at": "2013-06-20", 
             "report_type": "卸(離)職申報", 
-            "spouse": "白梅櫻", 
-            "title": "政務次長"
+            "spouse": "姓名", 
+            "title": "1.政務次長"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -16971,12 +18105,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "文化部", 
+            "department": "1.文化部", 
             "name": "林金田", 
             "report_at": "2013-06-20", 
             "report_type": "卸(離)職申報", 
-            "spouse": "白梅櫻", 
-            "title": "政務次長"
+            "spouse": "姓名", 
+            "title": "1.政務次長"
         }, 
         "stock": []
     }, 
@@ -17226,12 +18360,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "文化部", 
+            "department": "1.文化部", 
             "name": "張雲程", 
             "report_at": "2013-08-01", 
             "report_type": "卸(離)職申報", 
-            "spouse": "顧其婣", 
-            "title": "政務次長"
+            "spouse": "姓名", 
+            "title": "1.政務次長"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -17250,12 +18384,12 @@
         "land": [], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "文化部", 
+            "department": "1.文化部", 
             "name": "張雲程", 
             "report_at": "2013-08-01", 
             "report_type": "卸(離)職申報", 
-            "spouse": "顧其婣", 
-            "title": "政務次長"
+            "spouse": "姓名", 
+            "title": "1.政務次長"
         }, 
         "stock": [
             {
@@ -17326,12 +18460,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "金融監督管理委員會", 
+            "department": "1.金融監督管理委員會", 
             "name": "陳裕璋", 
             "report_at": "2013-05-24", 
             "report_type": "定期申報", 
-            "spouse": "陳佳欣", 
-            "title": "主任委員"
+            "spouse": "姓名", 
+            "title": "1.主任委員"
         }, 
         "stock": []
     }, 
@@ -17765,12 +18899,12 @@
         "land": [], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "金融監督管理委員會", 
+            "department": "1.金融監督管理委員會", 
             "name": "王儷玲", 
             "report_at": "2013-05-23", 
             "report_type": "就(到)職申報", 
-            "spouse": "曾郁仁", 
-            "title": "副主任委員"
+            "spouse": "姓名", 
+            "title": "1.副主任委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -17894,12 +19028,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "金融監督管理委員會", 
+            "department": "1.金融監督管理委員會", 
             "name": "王儷玲", 
             "report_at": "2013-05-23", 
             "report_type": "就(到)職申報", 
-            "spouse": "曾郁仁", 
-            "title": "副主任委員"
+            "spouse": "姓名", 
+            "title": "1.副主任委員"
         }, 
         "stock": []
     }, 
@@ -18030,12 +19164,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "金融監督管理委員會", 
+            "department": "1.金融監督管理委員會", 
             "name": "謝易宏", 
             "report_at": "2013-04-22", 
             "report_type": "卸(離)職申報", 
-            "spouse": "連鍾蕙", 
-            "title": "委員"
+            "spouse": "姓名", 
+            "title": "1.委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -18288,12 +19422,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "中央銀行", 
+            "department": "1.中央銀行", 
             "name": "楊金龍", 
             "report_at": "2013-04-30", 
             "report_type": "就(到)職申報", 
-            "spouse": "袁正儀", 
-            "title": "副總裁"
+            "spouse": "姓名", 
+            "title": "1.副總裁"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -18303,12 +19437,12 @@
         "land": [], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "中央選舉委員會", 
+            "department": "1.中央選舉委員會", 
             "name": "劉義周", 
             "report_at": "2013-08-12", 
             "report_type": "定期申報", 
-            "spouse": "田芳華", 
-            "title": "副主任委員"
+            "spouse": "姓名", 
+            "title": "1.副主任委員"
         }, 
         "stock": [
             {
@@ -18635,12 +19769,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "公平交易委員會", 
+            "department": "1.公平交易委員會", 
             "name": "王素彎", 
             "report_at": "2013-04-25", 
             "report_type": "就(到)職申報", 
-            "spouse": "連文榮", 
-            "title": "委員"
+            "spouse": "姓名", 
+            "title": "1.委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -18805,12 +19939,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "公平交易委員會", 
+            "department": "1.公平交易委員會", 
             "name": "王素彎", 
             "report_at": "2013-04-25", 
             "report_type": "就(到)職申報", 
-            "spouse": "連文榮", 
-            "title": "委員"
+            "spouse": "姓名", 
+            "title": "1.委員"
         }, 
         "stock": [
             {
@@ -18847,12 +19981,12 @@
         "land": [], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "北美事務協調委員會", 
+            "department": "1.北美事務協調委員會", 
             "name": "李大維", 
             "report_at": "2013-07-15", 
             "report_type": "定期申報", 
-            "spouse": "池琳", 
-            "title": "主任委員"
+            "spouse": "姓名", 
+            "title": "1.主任委員"
         }, 
         "stock": [
             {
@@ -18879,12 +20013,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "教育部", 
+            "department": "1.教育部", 
             "name": "林聰明", 
             "report_at": "2012-12-28", 
             "report_type": "定期申報", 
-            "spouse": "蕭素惠", 
-            "title": "政務次長"
+            "spouse": "姓名", 
+            "title": "1.政務次長"
         }
     }, 
     {
@@ -18901,12 +20035,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "考試院", 
+            "department": "1.考試院", 
             "name": "關中", 
             "report_at": "2009-02-25", 
             "report_type": "就(到)職申報", 
-            "spouse": "張惠君", 
-            "title": "院長"
+            "spouse": "姓名", 
+            "title": "1.院長"
         }
     }, 
     {
@@ -18923,12 +20057,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "考試院", 
+            "department": "1.考試院", 
             "name": "關中", 
             "report_at": "2010-12-27", 
             "report_type": "定期申報", 
-            "spouse": "張惠君", 
-            "title": "院長"
+            "spouse": "姓名", 
+            "title": "1.院長"
         }
     }, 
     {
@@ -18945,12 +20079,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "考試院", 
+            "department": "1.考試院", 
             "name": "關中", 
             "report_at": "2011-12-27", 
             "report_type": "定期申報", 
-            "spouse": "張惠君", 
-            "title": "院長"
+            "spouse": "姓名", 
+            "title": "1.院長"
         }
     }, 
     {
@@ -18967,12 +20101,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "考試院", 
+            "department": "1.考試院", 
             "name": "關中", 
             "report_at": "2012-12-25", 
             "report_type": "定期申報", 
-            "spouse": "張惠君", 
-            "title": "院長"
+            "spouse": "姓名", 
+            "title": "1.院長"
         }
     }, 
     {
@@ -19092,12 +20226,12 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "南投縣政府", 
+            "department": "1.南投縣政府", 
             "name": "林榮森", 
             "report_at": "2012-11-30", 
             "report_type": "定期申報", 
-            "spouse": "蕭秀珍", 
-            "title": "處長"
+            "spouse": "姓名", 
+            "title": "1.處長"
         }
     }, 
     {
@@ -19145,12 +20279,12 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "國立故宮博物院", 
+            "department": "1.國立故宮博物院", 
             "name": "周筑昆", 
             "report_at": "2012-12-17", 
             "report_type": "信託申報", 
-            "spouse": "周魏麗麗", 
-            "title": "副院長"
+            "spouse": "姓名", 
+            "title": "1.副院長"
         }
     }
 ]
