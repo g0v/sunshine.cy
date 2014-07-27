@@ -21,6 +21,8 @@ for f in files:
     reports = json.load(f)
     fileName, fileExt = os.path.splitext(os.path.basename(f.name))
     for report in reports:
+        if not report['meta'].get('report_at'):
+            continue
         report['meta'].update({'journal_id': fileName})
         report_id, created = sql.upsert_reports(c, report['meta'])
 #       if not created:
@@ -29,9 +31,10 @@ for f in files:
         for category, dataset in report.items():
             if category == 'meta':
                 continue
-            for data in dataset:
-                data.update({'report_id': report_id})
-            getattr(sql, 'upsert_property_%s' % category)(c, dataset)
+            if dataset:
+                for data in dataset:
+                    data.update({'report_id': report_id})
+                getattr(sql, 'upsert_property_%s' % category)(c, dataset)
 conn.commit()
 
 # Export auto-complete json file of legislator name & county

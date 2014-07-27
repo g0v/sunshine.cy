@@ -360,12 +360,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.總統府", 
+            "department": "總統府", 
             "name": "曾永權", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-09-27", 
             "report_type": "卸(離)職申報", 
-            "spouse": "姓名", 
-            "title": "1.秘書長"
+            "spouse": "陳麗芬", 
+            "title": "秘書長"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -392,12 +393,13 @@
         "land": [], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.總統府", 
+            "department": "總統府", 
             "name": "曾永權", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-09-27", 
             "report_type": "卸(離)職申報", 
-            "spouse": "姓名", 
-            "title": "1.秘書長"
+            "spouse": "陳麗芬", 
+            "title": "秘書長"
         }, 
         "stock": []
     }, 
@@ -676,12 +678,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.總統府", 
+            "department": "總統府", 
             "name": "楊進添", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-12", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.秘書長"
+            "spouse": "石純純", 
+            "title": "秘書長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -740,12 +743,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.總統府", 
+            "department": "總統府", 
             "name": "楊進添", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-12", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.秘書長"
+            "spouse": "石純純", 
+            "title": "秘書長"
         }, 
         "stock": [
             {
@@ -943,12 +947,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.國史館", 
+            "department": "國史館", 
             "name": "呂芳上", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-11", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.館長"
+            "spouse": "配偶及未成年子女", 
+            "title": "館長"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -1081,12 +1086,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.國史館", 
+            "department": "國史館", 
             "name": "呂芳上", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-11", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.館長"
+            "spouse": "配偶及未成年子女", 
+            "title": "館長"
         }, 
         "stock": [
             {
@@ -1259,12 +1265,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.中央研究院", 
+            "department": "中央研究院", 
             "name": "翁啟惠", 
+            "remark": "翁啟惠及劉映理家庭信託儲金:Merrill Lynch(US$501,919),LPL Financial(US$9,755,436) 翁啟惠退休金:Fidelity Investment(US$942,546),Lincoln Financial Group(US$45,450),Teacher Insurance Tax-Defferred Plan(TIAA US$575,600) 公職人員信託之股票配息金額,存放於玉山銀行信託專戶(戶名「玉山商業銀行受託信託財產專戶」,統編99021409):翁啟惠118,703元,劉映理1,016,368元。 ", 
             "report_at": "2012-12-23", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.院長"
+            "spouse": "劉映理", 
+            "title": "院長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -1291,12 +1298,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.中央研究院", 
+            "department": "中央研究院", 
             "name": "翁啟惠", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-23", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.院長"
+            "spouse": "劉映理", 
+            "title": "院長"
         }, 
         "stock": [
             {
@@ -1723,12 +1731,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.中央研究院", 
+            "department": "中央研究院", 
             "name": "王汎森", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-11-30", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.副院長"
+            "spouse": "孟文芳", 
+            "title": "副院長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -1780,12 +1789,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.中央研究院", 
+            "department": "中央研究院", 
             "name": "王汎森", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-11-30", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.副院長"
+            "spouse": "孟文芳", 
+            "title": "副院長"
         }, 
         "stock": []
     }, 
@@ -1950,12 +1960,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.國家安全會議", 
+            "department": "國家安全會議", 
             "name": "胡為真", 
+            "remark": "(一)1美元等於29.31元新台幣 1歐元等於38.16元新台幣 (二)以上申報均以民國101年10月8日本人離開國安會秘書長職務之日為準 ", 
             "report_at": "2012-10-08", 
             "report_type": "卸(離)職申報", 
-            "spouse": "姓名", 
-            "title": "1.秘書長"
+            "spouse": "林惠英", 
+            "title": "秘書長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -1998,12 +2009,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.國家安全會議", 
+            "department": "國家安全會議", 
             "name": "胡為真", 
+            "remark": "本人於101年10月8日離國安會秘書長職,於該日解除財產信託,茲檢附受託人臺灣銀行於該日蓋章之信託財產目錄,併請參考。 ", 
             "report_at": "2012-10-08", 
             "report_type": "卸(離)職申報", 
-            "spouse": "姓名", 
-            "title": "1.秘書長"
+            "spouse": "林惠英", 
+            "title": "秘書長"
         }, 
         "stock": []
     }, 
@@ -2173,12 +2185,13 @@
         "land": [], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.國家安全會議", 
+            "department": "國家安全會議", 
             "name": "袁健生", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-28", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.秘書長"
+            "spouse": "吳垣玲", 
+            "title": "秘書長"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -2213,12 +2226,13 @@
         "land": [], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.國家安全會議", 
+            "department": "國家安全會議", 
             "name": "袁健生", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-28", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.秘書長"
+            "spouse": "吳垣玲", 
+            "title": "秘書長"
         }, 
         "stock": [
             {
@@ -2409,12 +2423,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.國家安全會議", 
+            "department": "國家安全會議", 
             "name": "鄧振中", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-21", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.副秘書長"
+            "spouse": "王美連", 
+            "title": "副秘書長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -2424,12 +2439,13 @@
         "land": [], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.國家安全會議", 
+            "department": "國家安全會議", 
             "name": "鄧振中", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-11-21", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.副秘書長"
+            "spouse": "王美連", 
+            "title": "副秘書長"
         }, 
         "stock": [
             {
@@ -2822,12 +2838,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.國家安全局", 
+            "department": "國家安全局", 
             "name": "蔡得勝", 
+            "remark": "蔡得勝本人於民國99年11月3日以配偶許速鈴之名義訂購位於臺北市文山區萬壽路○號○樓第○戶預售屋乙戶及兩停車位,總價新台幣30,260,000元,迄101年12月份止,共已繳納包括訂金、簽約金、開工款及一至十六期工程款合計新台幣8,283,000元整,餘款將以存款及貸款方式分期支付。 ", 
             "report_at": "2012-12-25", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.局長"
+            "spouse": "許速鈴", 
+            "title": "局長"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -2855,12 +2872,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.國家安全局", 
+            "department": "國家安全局", 
             "name": "蔡得勝", 
+            "remark": "1.許速鈴持有之華隆股票2,423股因屬已下市股票,依法免交付信託。  2.許速鈴所有澎湖縣西嶼鄉竹篙灣段1541號土地面積359平方公尺屬受託人依法不得承受者(耕地),依法免交付信託。  3.蔡得勝所有澎湖縣西嶼鄉竹灣村○號建物,含建物所在建地澎湖縣西嶼鄉竹篙灣段1540號均屬自擇房屋(含基地)一戶供自用者,依法免交付信託。  4.蔡得勝所有澎湖縣西嶼鄉竹篙灣段1533號土地面積475平方公尺,以及西嶼鄉竹篙灣段2167號土地面積912平方公尺均屬受託人依法不得承受者(耕地),依法免交付信託。 ", 
             "report_at": "2012-12-25", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.局長"
+            "spouse": "許速鈴", 
+            "title": "局長"
         }, 
         "stock": []
     }, 
@@ -3097,12 +3115,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.國家安全局", 
+            "department": "國家安全局", 
             "name": "張光遠", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-03", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.副局長"
+            "spouse": "金香珠", 
+            "title": "副局長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -3138,12 +3157,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.國家安全局", 
+            "department": "國家安全局", 
             "name": "張光遠", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-03", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.副局長"
+            "spouse": "金香珠", 
+            "title": "副局長"
         }, 
         "stock": [
             {
@@ -3379,12 +3399,13 @@
         "land": [], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.內政部", 
+            "department": "內政部", 
             "name": "李鴻源", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-03", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.部長"
+            "spouse": "李慧馨", 
+            "title": "部長"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -3645,12 +3666,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.內政部", 
+            "department": "內政部", 
             "name": "李鴻源", 
+            "remark": "Y第一商業銀行 ", 
             "report_at": "2012-12-03", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.部長"
+            "spouse": "李慧馨", 
+            "title": "部長"
         }, 
         "stock": [
             {
@@ -3836,12 +3858,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.內政部", 
+            "department": "內政部", 
             "name": "簡太郎", 
+            "remark": "100年1月17日向亞昕平方買位於新北市新莊區中原段173地號土地A戶拾捌樓房屋預售屋1戶,房屋面積71.10坪,車位二個,至101年11月06日止已繳10123107元。 ", 
             "report_at": "2012-11-06", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.政務次長"
+            "spouse": "楊玲卿", 
+            "title": "政務次長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -3885,12 +3908,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.內政部", 
+            "department": "內政部", 
             "name": "簡太郎", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-11-06", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.政務次長"
+            "spouse": "楊玲卿", 
+            "title": "政務次長"
         }, 
         "stock": []
     }, 
@@ -3981,12 +4005,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.國防部", 
+            "department": "國防部", 
             "name": "高華柱", 
+            "remark": "申報人投保保德信金融集團終身壽險持續繳費約定身故領回,依公職人員財產申報法委託兆豐國際商業銀行股份有限公司辦理公職人員財產信託契約書編號GZ0035,並附公職人員信託財產申報表及其信託財產目錄如附件三. ", 
             "report_at": "2012-12-21", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.部長"
+            "spouse": "謝又園", 
+            "title": "部長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -4014,12 +4039,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.國防部", 
+            "department": "國防部", 
             "name": "高華柱", 
+            "remark": "檢附民國101年11月30日兆豐國際商業銀行受託謝又園信託財產專戶信託財產目錄壹紙以資證明 ", 
             "report_at": "2012-12-21", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.部長"
+            "spouse": "謝又園", 
+            "title": "部長"
         }, 
         "stock": [
             {
@@ -4210,12 +4236,13 @@
         "land": [], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.國防部", 
+            "department": "國防部", 
             "name": "楊念祖", 
+            "remark": "1.(八)有價證券項次所列三筆股票,係貴院101年8月21日來函通知,本人獲知後經查,確定股票、證券存摺、銀行存摺均已遺失,已於101年8月24日向台北、8月29日向高雄法院申報股票遺失,台北法院將於12月28日做出除權判決,高雄法院預計於102年3月底做出除權判決,本人已於12月13日重新向銀行申請集保帳戶存摺補發,俟股票完成補發後辦理交易結清事宜。 (八)有價證券1.股票: 說明一:環泥股票(70)與中鋼配息之畸零股(2205),已於102年1月15日憑台北法院除權判決書,完成股票重發申請作業,並於1月28日全數賣出。 說明二:中鋼實體股(4366)申請重發目前辦理進度,已向高雄地方法院完成除權申請,預計3月6日開庭審理,待法院除權判決書確定後,即向中鋼公司辦理股票重發事宜,作業完成後將股票全數賣出,預計於4月底完成上述作業。 ", 
             "report_at": "2012-12-27", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.副部長"
+            "spouse": "嚴以恕", 
+            "title": "副部長"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -5160,12 +5187,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.教育部", 
+            "department": "教育部", 
             "name": "林聰明", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-28", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.政務次長"
+            "spouse": "蕭素惠", 
+            "title": "政務次長"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -5402,12 +5430,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.教育部", 
+            "department": "教育部", 
             "name": "林聰明", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-28", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.政務次長"
+            "spouse": "蕭素惠", 
+            "title": "政務次長"
         }, 
         "stock": [
             {
@@ -5795,12 +5824,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.經濟部", 
+            "department": "經濟部", 
             "name": "施顏祥", 
+            "remark": "停車位:台北市羅斯福路五段地下一個平面車位及二個機械車位使用權。 ", 
             "report_at": "2012-12-07", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.部長"
+            "spouse": "張郁婉", 
+            "title": "部長"
         }, 
         "otherbonds": [
             {
@@ -6046,12 +6076,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.經濟部", 
+            "department": "經濟部", 
             "name": "施顏祥", 
+            "remark": " ", 
             "report_at": "2012-12-07", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.部長"
+            "spouse": "張郁婉", 
+            "title": "部長"
         }, 
         "stock": [
             {
@@ -6360,12 +6391,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.交通部", 
+            "department": "交通部", 
             "name": "毛治國", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-13", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.部長"
+            "spouse": "錢瑩瑩", 
+            "title": "部長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -6465,12 +6497,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.交通部", 
+            "department": "交通部", 
             "name": "毛治國", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-13", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.部長"
+            "spouse": "錢瑩瑩", 
+            "title": "部長"
         }, 
         "stock": [
             {
@@ -6789,12 +6822,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.交通部", 
+            "department": "交通部", 
             "name": "葉匡時", 
+            "remark": "葉匡時，國泰人壽超利HIGH利率變動年金保險（甲型），98/6/30---終身100歲，保費：2,500,000元。 一次繳交。 蘇彩足，富邦人壽，LS2D安泰喬壽還本終身壽險，年繳88,100元，2002/12/24 起繳費十年。 蘇彩足，富邦人壽，LS2D安泰喬壽還本終身壽險，年繳88,400元，2002/12/24 起繳費十年。 蘇彩足，富邦人壽，LS2D安泰喬壽還本終身壽險，年繳85,600元，2002/12/25 起繳費十年。 蘇彩足，富邦人壽，LS2D安泰喬壽還本終身壽險，年繳85,300元，2002/12/25 起繳費十年。 蘇彩足，富邦人壽，SE特別養老壽險，年繳24,500元，1996/05/28 起繳費二十年。 蘇彩足，富邦人壽，LES安泰還本終身壽險，年繳48,989元，1996/05/28 起繳費二十年。 蘇彩足，富邦人壽，E增值分紅養老壽險，十五年滿期（1996/05/28起），已繳清。 ", 
             "report_at": "2012-12-08", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.政務次長"
+            "spouse": "蘇彩足", 
+            "title": "政務次長"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -6822,12 +6856,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.交通部", 
+            "department": "交通部", 
             "name": "葉匡時", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-08", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.政務次長"
+            "spouse": "蘇彩足", 
+            "title": "政務次長"
         }, 
         "stock": [
             {
@@ -6997,12 +7032,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.行政院大陸委員會", 
+            "department": "行政院大陸委員會", 
             "name": "王郁琦", 
+            "remark": "本欄空白 ", 
             "report_at": "2013-01-01", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.主任委員"
+            "spouse": "蘇惠麗", 
+            "title": "主任委員"
         }, 
         "otherbonds": [
             {
@@ -7233,12 +7269,13 @@
         "land": [], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.行政院大陸委員會", 
+            "department": "行政院大陸委員會", 
             "name": "林祖嘉", 
+            "remark": "(七)存款:第5、6筆種類為理財專戶。 ", 
             "report_at": "2013-01-07", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.副主任委員"
+            "spouse": "趙立雯", 
+            "title": "副主任委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -7314,12 +7351,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.行政院大陸委員會", 
+            "department": "行政院大陸委員會", 
             "name": "林祖嘉", 
+            "remark": "本欄空白 ", 
             "report_at": "2013-01-07", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.副主任委員"
+            "spouse": "趙立雯", 
+            "title": "副主任委員"
         }, 
         "stock": []
     }, 
@@ -7706,12 +7744,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.行政院大陸委員會", 
+            "department": "行政院大陸委員會", 
             "name": "高長", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-10-16", 
             "report_type": "卸(離)職申報", 
-            "spouse": "姓名", 
-            "title": "1.副主任委員"
+            "spouse": "王秀如", 
+            "title": "副主任委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -7747,12 +7786,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.行政院大陸委員會", 
+            "department": "行政院大陸委員會", 
             "name": "高長", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-10-16", 
             "report_type": "卸(離)職申報", 
-            "spouse": "姓名", 
-            "title": "1.副主任委員"
+            "spouse": "王秀如", 
+            "title": "副主任委員"
         }, 
         "stock": [
             {
@@ -8242,12 +8282,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.行政院大陸委員會", 
+            "department": "行政院大陸委員會", 
             "name": "劉德勳", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-28", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.副主任委員"
+            "spouse": "涂春金", 
+            "title": "副主任委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -8307,12 +8348,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.行政院大陸委員會", 
+            "department": "行政院大陸委員會", 
             "name": "劉德勳", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-28", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.副主任委員"
+            "spouse": "涂春金", 
+            "title": "副主任委員"
         }, 
         "stock": []
     }, 
@@ -8497,12 +8539,13 @@
         "land": [], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.行政院研究發展考核委員會", 
+            "department": "行政院研究發展考核委員會", 
             "name": "宋餘俠", 
+            "remark": "秦彩霞已向日勝生活科技股份有限公司訂購房屋乙棟，已付款為4,640,000元，未付款為11,758,000元 ", 
             "report_at": "2012-12-12", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.主任委員"
+            "spouse": "秦彩霞", 
+            "title": "主任委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -8935,12 +8978,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.行政院研究發展考核委員會", 
+            "department": "行政院研究發展考核委員會", 
             "name": "戴豪君", 
+            "remark": "1.南亞5,088股因紙本股票遺失無法辦理信託,刻正尋找並辦理相關程序。(七)存款:第7-11筆種類為電子存單定期存款、電子存單整存整付、電子存單存本取息、電子存單定期存款、電子存單整存整付。 ", 
             "report_at": "2012-10-29", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.副主任委員"
+            "spouse": "紀慧君", 
+            "title": "副主任委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -9136,12 +9180,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.行政院研究發展考核委員會", 
+            "department": "行政院研究發展考核委員會", 
             "name": "戴豪君", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-10-29", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.副主任委員"
+            "spouse": "紀慧君", 
+            "title": "副主任委員"
         }, 
         "stock": [
             {
@@ -9562,12 +9607,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.公務人員保障暨培訓委員會", 
+            "department": "公務人員保障暨培訓委員會", 
             "name": "蔡璧煌", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-19", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.主任委員"
+            "spouse": "李美利", 
+            "title": "主任委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -9620,12 +9666,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.公務人員保障暨培訓委員會", 
+            "department": "公務人員保障暨培訓委員會", 
             "name": "蔡璧煌", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-19", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.主任委員"
+            "spouse": "李美利", 
+            "title": "主任委員"
         }, 
         "stock": [
             {
@@ -9832,12 +9879,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.公務人員保障暨培訓委員會", 
+            "department": "公務人員保障暨培訓委員會", 
             "name": "李嵩賢", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-19", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.副主任委員"
+            "spouse": "李紹琴", 
+            "title": "副主任委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -9913,12 +9961,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.公務人員保障暨培訓委員會", 
+            "department": "公務人員保障暨培訓委員會", 
             "name": "李嵩賢", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-19", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.副主任委員"
+            "spouse": "李紹琴", 
+            "title": "副主任委員"
         }, 
         "stock": [
             {
@@ -10185,12 +10234,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.公務人員保障暨培訓委員會", 
+            "department": "公務人員保障暨培訓委員會", 
             "name": "邱華君", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-21", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.委員"
+            "spouse": "吳彩雲", 
+            "title": "委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -10505,12 +10555,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.公務人員保障暨培訓委員會", 
+            "department": "公務人員保障暨培訓委員會", 
             "name": "陳淑芳", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-10-23", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.委員"
+            "spouse": "配偶及未成年子女", 
+            "title": "委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -10594,12 +10645,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.公務人員保障暨培訓委員會", 
+            "department": "公務人員保障暨培訓委員會", 
             "name": "張桐銳", 
+            "remark": "申報人配偶吳昭儀所有座落彰化市阿夷段阿夷小段土地一筆,因屬農地無法信託,爰於本表申報。 申報人所有土地、建物為自住,無須信託,爰於本表申報。 申報人101/03/14貸款,多數用以清償購屋時向私人借貸之債務。 ", 
             "report_at": "2012-10-31", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.委員"
+            "spouse": "吳昭儀", 
+            "title": "委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -10626,12 +10678,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.公務人員保障暨培訓委員會", 
+            "department": "公務人員保障暨培訓委員會", 
             "name": "張桐銳", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-10-31", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.委員"
+            "spouse": "吳昭儀", 
+            "title": "委員"
         }, 
         "stock": [
             {
@@ -10839,12 +10892,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.公務人員保障暨培訓委員會", 
+            "department": "公務人員保障暨培訓委員會", 
             "name": "楊仁煌", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-03", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.委員"
+            "spouse": "林靜玉", 
+            "title": "委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -10920,12 +10974,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.公務人員保障暨培訓委員會", 
+            "department": "公務人員保障暨培訓委員會", 
             "name": "楊仁煌", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-03", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.委員"
+            "spouse": "林靜玉", 
+            "title": "委員"
         }, 
         "stock": []
     }, 
@@ -11403,12 +11458,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.公務人員保障暨培訓委員會", 
+            "department": "公務人員保障暨培訓委員會", 
             "name": "劉昊洲", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-25", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.委員"
+            "spouse": "林素對", 
+            "title": "委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -11645,12 +11701,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.公務人員保障暨培訓委員會", 
+            "department": "公務人員保障暨培訓委員會", 
             "name": "劉昊洲", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-25", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.委員"
+            "spouse": "林素對", 
+            "title": "委員"
         }, 
         "stock": []
     }, 
@@ -11871,12 +11928,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.公務人員保障暨培訓委員會", 
+            "department": "公務人員保障暨培訓委員會", 
             "name": "賴來焜", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-03", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.委員"
+            "spouse": "任立雯", 
+            "title": "委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -11944,12 +12002,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.公務人員保障暨培訓委員會", 
+            "department": "公務人員保障暨培訓委員會", 
             "name": "賴來焜", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-03", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.委員"
+            "spouse": "任立雯", 
+            "title": "委員"
         }, 
         "stock": []
     }, 
@@ -12484,12 +12543,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.行政院", 
+            "department": "行政院", 
             "name": "陳冲", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-11-30", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.院長"
+            "spouse": "柯長珠", 
+            "title": "院長"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -12598,12 +12658,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.行政院", 
+            "department": "行政院", 
             "name": "陳冲", 
+            "remark": "1.合作金庫商業銀行受託信託財產專戶-陳冲存款餘額13,854元。 2.合作金庫商業銀行受託信託財產專戶-柯長珠存款餘額3,270,159元。 ", 
             "report_at": "2012-11-30", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.院長"
+            "spouse": "柯長珠", 
+            "title": "院長"
         }, 
         "stock": [
             {
@@ -12748,12 +12809,13 @@
         "land": [], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.行政院", 
+            "department": "行政院", 
             "name": "陳冲", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-25", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.院長"
+            "spouse": "柯長珠", 
+            "title": "院長"
         }, 
         "stock": [
             {
@@ -12938,12 +13000,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.行政院", 
+            "department": "行政院", 
             "name": "江宜樺", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-20", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.副院長"
+            "spouse": "李淑珍", 
+            "title": "副院長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -13346,12 +13409,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.行政院", 
+            "department": "行政院", 
             "name": "陳士魁", 
+            "remark": "1.申報表上有關「美金」換算「新臺幣」部分,係以臺灣銀行101年12月3日即期賣匯「美金」1元換算「新臺幣」29.125元為準,小數點後四捨五入。 2.另檢附委由第一商業銀行信託處信託代管之財產申報表乙份。 ", 
             "report_at": "2012-12-03", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.秘書長"
+            "spouse": "黃玲美", 
+            "title": "秘書長"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -13412,12 +13476,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.行政院", 
+            "department": "行政院", 
             "name": "陳士魁", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-03", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.秘書長"
+            "spouse": "黃玲美", 
+            "title": "秘書長"
         }, 
         "stock": [
             {
@@ -13581,12 +13646,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.行政院", 
+            "department": "行政院", 
             "name": "林政則", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-11-09", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.政務委員"
+            "spouse": "林曾妙美", 
+            "title": "政務委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -13596,12 +13662,13 @@
         "land": [], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.行政院", 
+            "department": "行政院", 
             "name": "張善政", 
+            "remark": "本欄空白 ", 
             "report_at": "2013-02-07", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.政務委員"
+            "spouse": "張琦雅", 
+            "title": "政務委員"
         }, 
         "stock": [
             {
@@ -13808,12 +13875,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.行政院", 
+            "department": "行政院", 
             "name": "薛承泰", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-04", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.政務委員"
+            "spouse": "涂秀連", 
+            "title": "政務委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -13832,12 +13900,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.行政院", 
+            "department": "行政院", 
             "name": "薛承泰", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-04", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.政務委員"
+            "spouse": "涂秀連", 
+            "title": "政務委員"
         }, 
         "stock": [
             {
@@ -14341,12 +14410,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.行政院", 
+            "department": "行政院", 
             "name": "黃敏恭", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-17", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.副秘書長"
+            "spouse": "杜美娥", 
+            "title": "副秘書長"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -14439,12 +14509,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.行政院", 
+            "department": "行政院", 
             "name": "黃敏恭", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-17", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.副秘書長"
+            "spouse": "杜美娥", 
+            "title": "副秘書長"
         }, 
         "stock": [
             {
@@ -14621,12 +14692,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.外交部", 
+            "department": "外交部", 
             "name": "王豫元", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-10", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.大使"
+            "spouse": "李琦", 
+            "title": "大使"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -15017,12 +15089,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.外交部", 
+            "department": "外交部", 
             "name": "林義夫", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-11-22", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.常任代表"
+            "spouse": "林美秀", 
+            "title": "常任代表"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -15155,12 +15228,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.外交部", 
+            "department": "外交部", 
             "name": "林義夫", 
+            "remark": "台北市大安區仁愛段四小段0329-0000地號土地為自用,無須辦理信託。 桃園縣大園鄉五塊厝段大埔小段1392-0000地號土地因受限於使用地類別為農牧用地,信託業無法受理為信託財產。 台北市大安區仁愛段四小段00524-000建號建物為自用,無須辦理信託。 ", 
             "report_at": "2012-11-22", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.常任代表"
+            "spouse": "林美秀", 
+            "title": "常任代表"
         }, 
         "stock": []
     }, 
@@ -15724,12 +15798,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.外交部", 
+            "department": "外交部", 
             "name": "夏立言", 
+            "remark": "台幣兌美金 1:0.0344 澳幣兌台幣 1:30.631 印尼盾兌台幣 1:0.0030152 ", 
             "report_at": "2012-12-18", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.大使"
+            "spouse": "鄭麗園", 
+            "title": "大使"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -16014,12 +16089,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.外交部", 
+            "department": "外交部", 
             "name": "夏立言", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-18", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.大使"
+            "spouse": "鄭麗園", 
+            "title": "大使"
         }, 
         "stock": []
     }, 
@@ -16234,12 +16310,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.外交部", 
+            "department": "外交部", 
             "name": "孫大成", 
+            "remark": "本人並無「儲蓄型壽險」、「投資型壽險」及「年金型保險」。 ", 
             "report_at": "2012-12-06", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.大使"
+            "spouse": "孫素敏", 
+            "title": "大使"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -16267,12 +16344,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.外交部", 
+            "department": "外交部", 
             "name": "孫大成", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-06", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.大使"
+            "spouse": "孫素敏", 
+            "title": "大使"
         }, 
         "stock": []
     }, 
@@ -16501,12 +16579,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.外交部", 
+            "department": "外交部", 
             "name": "烏元彥", 
+            "remark": "外幣信託 荷蘭市鎮銀行南非幣零息債券 南非幣ZAR68,600.00 換算台幣總額226,380.00 ", 
             "report_at": "2012-12-24", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.大使"
+            "spouse": "黃鴻端", 
+            "title": "大使"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -16550,12 +16629,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.外交部", 
+            "department": "外交部", 
             "name": "烏元彥", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-24", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.大使"
+            "spouse": "黃鴻端", 
+            "title": "大使"
         }, 
         "stock": []
     }, 
@@ -16838,12 +16918,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.外交部", 
+            "department": "外交部", 
             "name": "張小月", 
+            "remark": "匯率 美金29.06, 英鎊46.45, 澳幣30.33 ", 
             "report_at": "2012-11-21", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.大使"
+            "spouse": "配偶及未成年子女", 
+            "title": "大使"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -16871,12 +16952,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.外交部", 
+            "department": "外交部", 
             "name": "張小月", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-11-21", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.大使"
+            "spouse": "配偶及未成年子女", 
+            "title": "大使"
         }, 
         "stock": []
     }, 
@@ -17157,12 +17239,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.外交部", 
+            "department": "外交部", 
             "name": "張良任", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-11-30", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.大使"
+            "spouse": "陳麗慎", 
+            "title": "大使"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -17189,12 +17272,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.外交部", 
+            "department": "外交部", 
             "name": "張良任", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-11-30", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.大使"
+            "spouse": "陳麗慎", 
+            "title": "大使"
         }, 
         "stock": []
     }, 
@@ -17347,12 +17431,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.外交部", 
+            "department": "外交部", 
             "name": "劉志攻", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-11-20", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.大使"
+            "spouse": "宋惠萍", 
+            "title": "大使"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -17436,12 +17521,13 @@
         "land": [], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.外交部", 
+            "department": "外交部", 
             "name": "賴幸媛", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-16", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.常任代表"
+            "spouse": "配偶及未成年子女", 
+            "title": "常任代表"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -17683,12 +17769,13 @@
         "land": [], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.外交部", 
+            "department": "外交部", 
             "name": "魏武煉", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-11-07", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.大使"
+            "spouse": "胡靜玉", 
+            "title": "大使"
         }, 
         "otherbonds": [
             {
@@ -17828,12 +17915,13 @@
         "land": [], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.外交部", 
+            "department": "外交部", 
             "name": "魏武煉", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-11-07", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.大使"
+            "spouse": "胡靜玉", 
+            "title": "大使"
         }, 
         "stock": [
             {
@@ -18073,12 +18161,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.外交部", 
+            "department": "外交部", 
             "name": "林永樂", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-11", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.部長"
+            "spouse": "余坤慈", 
+            "title": "部長"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -18187,12 +18276,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.外交部", 
+            "department": "外交部", 
             "name": "林永樂", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-17", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.部長"
+            "spouse": "余坤慈", 
+            "title": "部長"
         }, 
         "stock": []
     }, 
@@ -18324,12 +18414,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.外交部", 
+            "department": "外交部", 
             "name": "柯森耀", 
+            "remark": "申報人配偶持有於婚前由其父母給予位於南美巴拉圭之Panorama S.A.公司之部分股票,據告當時價值約200萬美元,但因已經過時20多年,加上距離遙遠,對該公司目前經營情況並不清楚,且因該國匯率變動,實際價值估算困難,致無法申報 ", 
             "report_at": "2012-11-12", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.政務次長"
+            "spouse": "廖珮吟", 
+            "title": "政務次長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -18918,12 +19009,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.金融監督管理委員會", 
+            "department": "金融監督管理委員會", 
             "name": "陳裕璋", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-11-30", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.主任委員"
+            "spouse": "陳佳欣", 
+            "title": "主任委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -19087,12 +19179,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.金融監督管理委員會", 
+            "department": "金融監督管理委員會", 
             "name": "陳裕璋", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-11-30", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.主任委員"
+            "spouse": "陳佳欣", 
+            "title": "主任委員"
         }, 
         "stock": []
     }, 
@@ -19544,12 +19637,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.金融監督管理委員會", 
+            "department": "金融監督管理委員會", 
             "name": "李紀珠", 
+            "remark": "1.土地十六筆係同一房屋之座落基地,為自住之用;「台北市文山區博嘉段四小段242地號建號628」為建號614房屋之停車位。  2.由於美國的BOA已不服務海外個人客戶,惟因公繁忙,未去辦理結束手續,故未再接獲對帳資料,而自前次申報後,本人皆未異動該銀行之活存與定存的內容,故暫以之前申報資料與數據呈現,俟有新資料再補正。  3.美金、澳幣、南非幣、港幣與歐元匯率為12月26日臺灣銀行之現金賣出牌告匯率,分別為29.227、30.46、3.34(即期賣出匯率)、3.786與38.7。  4.本人保險種類為防癌險及終身看護險,均非屬「儲蓄型壽險」、「投資型壽險」及「年金型保險」之保險契約類型,無須申報。  5.本人去年申報存款中有關新光銀行(新台幣593元)與富邦銀行(新台幣177元)存款部份,因找不到存摺,亦因公繁忙未去辦理結清手續;而自去年申報後,本仁皆未異動於該銀行之活存與定存的內容,故暫以之前申報資料與數據呈現,俟有新資料再補正。  (二)不動產1.土地:同一房屋之座落基地;該房屋取得價額1260萬元。2.建物:建號628是建號614之停車位;與房屋一併取得,故其價額已含在房價內。 ", 
             "report_at": "2012-12-26", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.副主任委員"
+            "spouse": "配偶及未成年子女", 
+            "title": "副主任委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -19731,12 +19825,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.金融監督管理委員會", 
+            "department": "金融監督管理委員會", 
             "name": "林建智", 
+            "remark": "申報人配偶李慧玲，於富邦保險公司，持有「富邦員工持股信託」21,921單位，累計金額新台幣583,110元，因未持有任何有價證券或憑證，故備註說明。 ", 
             "report_at": "2012-12-06", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.委員"
+            "spouse": "李慧玲", 
+            "title": "委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -19836,12 +19931,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.金融監督管理委員會", 
+            "department": "金融監督管理委員會", 
             "name": "林建智", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-06", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.委員"
+            "spouse": "李慧玲", 
+            "title": "委員"
         }, 
         "stock": []
     }, 
@@ -19972,12 +20068,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.金融監督管理委員會", 
+            "department": "金融監督管理委員會", 
             "name": "楊雅惠", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-03", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.委員"
+            "spouse": "配偶及未成年子女", 
+            "title": "委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -20054,12 +20151,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.金融監督管理委員會", 
+            "department": "金融監督管理委員會", 
             "name": "楊雅惠", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-12-03", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.委員"
+            "spouse": "配偶及未成年子女", 
+            "title": "委員"
         }, 
         "stock": []
     }, 
@@ -20583,12 +20681,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.北美事務協調委員會", 
+            "department": "北美事務協調委員會", 
             "name": "李大維", 
+            "remark": "(九)台北高球場球證係2008年1月繼承 ", 
             "report_at": "2012-11-30", 
             "report_type": "定期申報", 
-            "spouse": "姓名", 
-            "title": "1.主任委員"
+            "spouse": "池琳", 
+            "title": "主任委員"
         }, 
         "otherbonds": [], 
         "stock": [

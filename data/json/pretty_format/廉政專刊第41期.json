@@ -181,12 +181,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "王金平", 
+            "remark": "註一:停車位坐落基地。註二:停車位。 ", 
             "report_at": "2012-03-20", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.院長"
+            "spouse": "王陳彩蓮", 
+            "title": "院長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -501,12 +502,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "王金平", 
+            "remark": "註一、註二:100.11.25高雄大寮地政事務所逕為分割登記。 ", 
             "report_at": "2012-03-20", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.院長"
+            "spouse": "王陳彩蓮", 
+            "title": "院長"
         }, 
         "stock": [
             {
@@ -603,12 +605,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "王金平", 
+            "remark": "註一、註二:原林園區清水巖段0836地號面積5847.31平方公尺,經大寮地政事務所土地複丈結果面積為5840.66平方公尺,並經大寮地政事務所土地逕為分割如上開面積,業於101.05.14登記完成。註三、註四:原林園區清水巖段0903地號面積1,269.17平方公尺,經大寮地政事務所土地逕為分割如上開面積,業於101.05.14登記完成。 ", 
             "report_at": "2012-06-08", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.院長"
+            "spouse": "王陳彩蓮", 
+            "title": "院長"
         }, 
         "stock": []
     }, 
@@ -754,12 +757,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "洪秀柱", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-04-30", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.副院長"
+            "spouse": "配偶及未成年子女", 
+            "title": "副院長"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -795,12 +799,13 @@
         ], 
         "meta": {
             "category": "公職人員信託財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "洪秀柱", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-05-01", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.副院長"
+            "spouse": "配偶及未成年子女", 
+            "title": "副院長"
         }, 
         "stock": [
             {
@@ -1133,12 +1138,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "丁守中", 
+            "remark": "溫子苓聯邦銀行士東分行活儲1611733元 為富貴一路中國國際花園管委會公款,溫子苓擔任管委會財委至100年12月31日 ", 
             "report_at": "2012-04-02", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "溫子苓", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -1305,12 +1311,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "孔文吉", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-04-26", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "陳秋月", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -2154,12 +2161,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "尤美女", 
+            "remark": "★項目資料係申報人於101年6月22日依法自動申請更正部分。 ", 
             "report_at": "2012-04-20", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "黃瑞明", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -2512,12 +2520,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "王廷升", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-04-30", 
             "report_type": "就到職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "謝逸萍", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -2766,12 +2775,13 @@
         "land": [], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "王育敏", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-04-12", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "楊明哲", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -3153,12 +3163,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "王進士", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-04-26", 
             "report_type": "就到職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "周麗容", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -3440,12 +3451,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "田秋堇", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-04-10", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "劉守成", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -3959,12 +3971,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "江啟臣", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-04-20", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "劉姿伶", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -4276,12 +4289,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "江惠貞", 
+            "remark": "土地所有權人江惠貞土城區永寧段203地號（持分範圍63/4000）其中1/3為101.04.25受贈所得 ", 
             "report_at": "2012-04-27", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "曹永央", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -4504,12 +4518,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "何欣純", 
+            "remark": "(二)不動產－2.建物之補充說明：台中市清水區秀水段秀水小段60建號的土地是謝俊雄所提供 要保人謝俊雄，保險名稱：國泰富泰保本三福終生壽險，保險期間86/11/21~終身，繳10年，繳費方式及金額：年繳49637元 ", 
             "report_at": "2012-04-30", 
             "report_type": "就到職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "謝俊雄", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -4750,12 +4765,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "吳宜臻", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-02-01", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "楊元榮", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -5191,12 +5207,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "吳秉叡", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-04-09", 
             "report_type": "就到職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "詹文馨", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -5477,12 +5494,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "呂學樟", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-04-16", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "程桂琴", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -5761,12 +5779,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "李昆澤", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-04-27", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "廖翊百", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -6025,12 +6044,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "李貴敏", 
+            "remark": "關於國際通商法律事務所之合夥比例係依民國99年數據估算。 ", 
             "report_at": "2012-04-27", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "配偶及未成年子女", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -6339,12 +6359,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "李慶華", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-04-19", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "配偶及未成年子女", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -6797,12 +6818,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "李鴻鈞", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-04-23", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "劉素幸", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -7169,12 +7191,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "邱文彥", 
+            "remark": "1.屏東縣內埔鄉嘉應路平房屋(稅籍13090250000及稅籍13095117000)無權狀。 2.艾群科技公司股票(已下市),無法信託或處分。 3.(七)存款第13筆種類為信託基金存摺。 ", 
             "report_at": "2012-04-30", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "黃淑芬", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -7682,12 +7705,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "林佳龍", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-04-09", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "廖婉如", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -7939,12 +7963,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "林國正", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-04-06", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "吳美惠", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -8322,12 +8347,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "林德福", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-03-14", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "曾月桂", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -8761,12 +8787,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "林鴻池", 
+            "remark": "一、本人於82年6月25日與中央信託局(今改為台灣銀行信託部)簽訂\"信託人指定用途信託契約\"，將國民大會支給本人之報酬與費用，開設\"林鴻池指定用途信託專戶\"(契約編號:11982000202002)，迄101年4月26日止，該專戶尚存餘額新台幣238201元，本信託基金之給付，限公益團體或公益、慈善、文教活動，不得提現，特此補充說明。 二、第8屆立法委員擬參選人林鴻池政治獻金專戶(郵政劃撥捐款帳號:50191945)，迄101年4月26日止，該專戶尚存餘額新台幣1850000元。  三、有關不動產土地部分，土地座落台北縣新店市青潭段楣子寮小段96-2、97-1、97-2、97-99、97-100、97-107地號等 6筆土地，皆為公設。 四、有關汽車之所有權人為\"景玉鳳律師事務所\"。 ", 
             "report_at": "2012-04-26", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "景玉鳳", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -9045,12 +9072,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "柯建銘", 
+            "remark": "保險 要保人: 林道春 保險公司:南山人壽 契約名稱:南山80終身保險 保險期間:88/10/28~108/10/28(繳費20終身保障) 繳費方式:年繳30000  要保人: 林道春 保險公司:南山人壽 契約名稱:新金美滿還本終身保險(柯韋任) 保險期間:88/7/7~109/7/7(繳費21年終身保障) 繳費方式:月繳5554元  要保人: 林道春 保險公司:南山人壽 契約名稱:新金美滿還本終身保險(柯釣耀) 保險期間:88/7/7~109/7/7(繳費21年終身保障) 繳費方式:月繳5491  要保人: 林道春 保險公司:南山人壽 契約名稱:年年春還本終身保險(柯韋任) 保險期間:88/7/7~108/7/7 (繳費20年終身還本) 繳費方式:月繳5766  要保人: 林道春 保險公司:南山人壽 契約名稱:年年春還本終身保險(柯鈞耀) 保險期間:88/7/7~108/7/7( 繳20年終身還本) 繳費方式:月繳5692 ", 
             "report_at": "2012-04-25", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "林道春", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -9277,12 +9305,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "段宜康", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-04-24", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "陳麗雯", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -9653,12 +9682,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "孫大千", 
+            "remark": "保險- 1.要保人：孫大千，保險公司富邦人壽，保險契約名稱：富邦人壽六年期繳費圓滿終身壽險丙型，繳費期滿，保險期間：終身 2.要保人：孫大千，保險公司富邦人壽，保險契約名稱：富邦人壽重大疾病終身保險，年繳NT$21,787，繳費期間：20年，保險期間：終身，投保日期：96.1.8 3.要保人：孫大千，保險公司富邦人壽，保險契約名稱：富邦人壽分紅養老保險，年繳NT$35,785，繳費期間：15年，保險期間：終身，投保日期：96.1.22  4.要保人：陳端梅，被保險人：孫○揚，保險公司富邦人壽，保險契約名稱：富邦人壽雙福還本分紅終身壽險，年繳NT$50,835，繳費期間：20年，保險期間：終身，投保日期：96.4.3 5.要保人：陳端梅，被保險人：孫○揚，保險公司富邦人壽，保險契約名稱：富邦人壽全福還本分紅終身壽險，年繳NT$35,788，繳費期間：20年，保險期間：終身，投保日期：96.4.3  6.要保人：陳端梅，被保險人：孫○揚，保險公司保德信人壽，保險契約名稱：保德信教育終身壽險，年繳NT$110,997，繳費期間：18年，保險期間：終身，投保日期：96.3.30  7.要保人：陳端梅，被保險人：孫○揚，保險公司保德信人壽，保險契約名稱：保德信特定傷病終身健康保險，年繳NT$8,244，繳費期間：20年，保險期間：終身，投保日期：96.3.30 8.要保人：陳端梅，被保險人：孫○揚，保險公司保德信人壽，保險契約名稱：保德信癌症終身健康保險，年繳NT$2,859，繳費期間：20年保險期間：終身，投保日期：96.3.30 ", 
             "report_at": "2012-03-03", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "陳端梅", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -10236,12 +10266,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "徐少萍", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-04-30", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "林水木", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -10529,12 +10560,13 @@
         "land": [], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "徐欣瑩", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-04-30", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "配偶及未成年子女", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -10754,12 +10786,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "徐耀昌", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-04-24", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "蔡麗卿", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -11110,12 +11143,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "陳其邁", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-04-25", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "吳虹", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -11180,12 +11214,13 @@
         "land": [], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "陳亭妃", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-05-01", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "配偶及未成年子女", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -11337,12 +11372,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "陳唐山", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-03-28", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "林純純", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -11622,12 +11658,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "陳根德", 
+            "remark": "(八)有價證券1.股票:長鴻(上櫃)由台新股務代理,景岳(上市)、雙美(上櫃)皆由日盛證券。 ", 
             "report_at": "2012-02-29", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "蔡慧敏", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -12327,12 +12364,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "陳淑慧", 
+            "remark": "有關申報人及申報人之配偶的債務全已進入法院執行程序,有些債務已不可知。 ", 
             "report_at": "2012-04-27", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "林南生", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -12825,12 +12863,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "陳超明", 
+            "remark": "★項目資料係申報人於101年5月18日依法自動申請更正部分。  ", 
             "report_at": "2012-04-20", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "吳麗利", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -13373,12 +13412,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "陳節如", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-04-20", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "李薰楓", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -13662,12 +13702,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "陳碧涵", 
+            "remark": "於99年購入位於台中市預售屋一戶,已繳：3,232,000,尚應付：6,473,000.預計101年底102年初完工交屋. ", 
             "report_at": "2012-04-25", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "廖賢哲", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -14045,12 +14086,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "陳歐珀", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-05-01", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "徐慧諭", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -14403,12 +14445,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "陳學聖", 
+            "remark": "1.不動產土地:2-12為同一宗土地、不同地號。 2.不動產建物:1-3及4-5為同一地址、不同建號。 3.台北縣新店市華城一段0033地號、00384建號為自用住宅。 4.存款11-19項次:依監察院(98)院台申字第0981804605號為申報依據。 5.存款第10筆(第一銀行吉林分行)係大鑑禪學會公款。 ", 
             "report_at": "2012-04-25", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "梁寒衣", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -14642,12 +14685,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "陳鎮湘", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-04-05", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "黃吉妹", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -14974,12 +15018,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "高志鵬", 
+            "remark": "★項目資料係申報人於101年5月14日依法自動申請更正部分。 ", 
             "report_at": "2012-04-30", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "配偶及未成年子女", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -16690,12 +16735,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "張慶忠", 
+            "remark": "1.新北市永和區水源段704地號及水源段39建號已售未辦理過戶.  2.新北市中和區安邦段974.975.977.978.979.980.981.1072等九筆地號土地信託予土地銀行仁愛分行. ", 
             "report_at": "2012-04-19", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "陳錦錠", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -17035,12 +17081,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "張曉風", 
+            "remark": "★項目資料係申報人於101年5月18日依法自動申請更正部分。 ", 
             "report_at": "2012-04-30", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "林治平", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -17497,12 +17544,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "黃志雄", 
+            "remark": "★項目資料係申報人於101年6月13日依法自動申請更正部分。 ", 
             "report_at": "2012-03-30", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "洪佳君", 
+            "title": "立法委員"
         }, 
         "otherbonds": [
             {
@@ -18029,12 +18077,13 @@
         "land": [], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "黃昭順", 
+            "remark": "因配偶王崇儀任職海巡署副署長土地13筆、建物5筆均已交付信託(如附件)。 ", 
             "report_at": "2012-04-26", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "王崇儀", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -18608,12 +18657,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "黃偉哲", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-05-01", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "劉育菁", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -19050,12 +19100,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "費鴻泰", 
+            "remark": "(1)國內土地第4筆1735萬元與已登記建物第5筆、第7筆加總後的金額，不能分開計價。  (2)國內土地第5筆1735萬元與已登記建物第6筆、第8筆加總後的金額，不能分開計價。 ", 
             "report_at": "2012-04-20", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "王怡心", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -19224,12 +19275,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "楊玉欣", 
+            "remark": "(1)不動產土地及建物部分（含公設），總取得價額為３４３５萬元。  (2)預售屋一間：新北市板橋區中山段598-10、598-16、598-36、598-37、598-42、669、669-1、670、670-1、670-2、671-4、671-7、672、672-3地號土地共14筆，土地權利範圍各地號各持分約為199/10000，土地持分面積約為77.67平方公尺，目前共繳1641萬元。簽約日期為2011/1月，預計交屋日期為2013/12月  (3)證劵融資：於100/05/12至101/04/20間，以新光証券融資取得興勤及遠雄建設事業兩家上市股票，共44筆交易記錄，詳如附件資料。(該紙本附件資料將另行掛號郵寄至監察院公職人員財產申報處) ", 
             "report_at": "2012-04-24", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "孫效智", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -19508,12 +19560,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "楊麗環", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-04-30", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "配偶及未成年子女", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -20051,12 +20104,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "詹凱臣", 
+            "remark": "債務第三、四筆之債務人為詹凱臣及詹蔡碧蘭 ", 
             "report_at": "2012-04-25", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "詹蔡碧蘭", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -20346,12 +20400,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "廖正井", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-04-20", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "楊啟津", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -20690,12 +20745,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "廖國棟", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-03-06", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "陳姿伶", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -21088,12 +21144,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "蔡其昌", 
+            "remark": "91年4月4日於安泰銀行豐原分行辦理之房屋貸款，係由親友以蔡其昌名義共同向銀行借貸 ", 
             "report_at": "2012-04-24", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "黃玉廷", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -21712,12 +21769,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "蔡錦隆", 
+            "remark": "新日光股票融資融券60% ", 
             "report_at": "2012-04-30", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "盧素蘭", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -21944,12 +22002,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "蔣乃辛", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-04-20", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "楊際英", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -22342,12 +22401,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "鄭天財", 
+            "remark": "★項目資料係申報人於101年6月29日依法自動申請更正部分。 ", 
             "report_at": "2012-04-30", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "王慧玲", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -22804,12 +22864,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "鄭麗君", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-04-30", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "沈學榮", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -23173,12 +23234,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "潘維剛", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-03-26", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "田正超", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -23424,12 +23486,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "盧秀燕", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-02-10", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "廖述嘉", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -23619,12 +23682,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "盧嘉辰", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-04-12", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "吳麗香", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -23966,12 +24030,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "蕭美琴", 
+            "remark": "2010.01開立之第七屆花蓮縣立法委員補選擬參選人蕭美琴政治獻金專戶之賸餘政治獻金 ", 
             "report_at": "2012-04-30", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "配偶及未成年子女", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -24173,12 +24238,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "賴士葆", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-04-19", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "林良娥", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -24413,12 +24479,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "謝國樑", 
+            "remark": "(九)-2的保險欄位空白,無符合需申報之項目 ", 
             "report_at": "2012-05-01", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "配偶及未成年子女", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -24690,12 +24757,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "顏清標", 
+            "remark": "債務第1.2.3.5.6.7.8.9項申報金額為本金,不含利息違約金. ", 
             "report_at": "2012-04-10", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "黃美貴", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": []
@@ -24863,12 +24931,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "羅明才", 
+            "remark": "本欄空白 ", 
             "report_at": "2012-04-30", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "黃靜秋", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -25517,12 +25586,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "羅淑蕾", 
+            "remark": "羅淑蕾會計師事務所所長 會計師公會全國聯合會理事長 ", 
             "report_at": "2012-05-01", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "配偶及未成年子女", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -26762,12 +26832,13 @@
         ], 
         "meta": {
             "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
+            "department": "立法院", 
             "name": "蘇清泉", 
+            "remark": "★項目資料係申報人於101年5月9日依法自動申請更正部分。 ★★項目資料係申報人於101年5月18日依法自動申請更正部分。 ", 
             "report_at": "2012-04-27", 
             "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
+            "spouse": "蘇主榮", 
+            "title": "立法委員"
         }, 
         "otherbonds": [], 
         "stock": [
@@ -26876,262 +26947,5 @@
                 "total": "204,870"
             }
         ]
-    }, 
-    {
-        "aircraft": [], 
-        "antique": [
-            {
-                "name": "台鳳高爾夫球場會員證", 
-                "owner": "蘇震清", 
-                "quantity": "1", 
-                "total": "760,000"
-            }
-        ], 
-        "boat": [], 
-        "bonds": [], 
-        "building": [
-            {
-                "acquire_value": "(超過五年)", 
-                "area": "96.66", 
-                "name": "屏東縣屏東市溝美段一小段00875-000建號", 
-                "owner": "廖靖汝", 
-                "register_date": "87年11月03日", 
-                "register_reason": "買賣", 
-                "share_portion": "全部"
-            }, 
-            {
-                "acquire_value": "3,785,143", 
-                "area": "481.98", 
-                "name": "嘉義市遠東段00064-000建號", 
-                "owner": "蘇震清", 
-                "register_date": "94年04月08日", 
-                "register_reason": "拍賣", 
-                "share_portion": "7分之4"
-            }
-        ], 
-        "car": [
-            {
-                "acquire_value": "830,000", 
-                "capacity": "1,997", 
-                "name": "三陽本田", 
-                "owner": "廖靖汝", 
-                "register_date": "97年05月06日", 
-                "register_reason": "買賣"
-            }
-        ], 
-        "cash": [], 
-        "claim": [], 
-        "debt": [
-            {
-                "debtor": "蘇震清", 
-                "owner": "台灣銀行屏東分行 屏東縣屏東市中山路", 
-                "register_date": "100年03月28日", 
-                "register_reason": "貸款－中期擔保放款", 
-                "species": "綜合存款存摺(透支)", 
-                "total": "4,766,183"
-            }, 
-            {
-                "debtor": "廖靖汝", 
-                "owner": "台灣土地銀行 屏東縣屏東市逢甲路", 
-                "register_date": "87年11月03日", 
-                "register_reason": "房貸", 
-                "species": "長期擔保放款", 
-                "total": "616,200"
-            }, 
-            {
-                "debtor": "蘇震清", 
-                "owner": "台灣銀行屏東分行 屏東縣屏東市中山路", 
-                "register_date": "100年03月28日", 
-                "register_reason": "貸款－治家成長貸款", 
-                "species": "綜合存款存摺(透支)", 
-                "total": "27,993"
-            }
-        ], 
-        "deposit": [
-            {
-                "bank": "彰化商業銀行嘉義分行", 
-                "currency": "新臺幣", 
-                "currency_total": "", 
-                "deposit_type": "活期儲蓄存款", 
-                "owner": "廖靖汝", 
-                "total": "269,520"
-            }, 
-            {
-                "bank": "大眾商業銀行屏東分行", 
-                "currency": "新臺幣", 
-                "currency_total": "", 
-                "deposit_type": "活期儲蓄存款", 
-                "owner": "廖靖汝", 
-                "total": "3,747,491"
-            }, 
-            {
-                "bank": "屏東繁華郵局（第２３支局）", 
-                "currency": "新臺幣", 
-                "currency_total": "", 
-                "deposit_type": "活期儲蓄存款", 
-                "owner": "廖靖汝", 
-                "total": "672,116"
-            }, 
-            {
-                "bank": "大眾商業銀行屏東分行", 
-                "currency": "新臺幣", 
-                "currency_total": "", 
-                "deposit_type": "活期儲蓄存款", 
-                "owner": "蘇○淳", 
-                "total": "69,737"
-            }, 
-            {
-                "bank": "嘉義後湖郵局（第１５支局）", 
-                "currency": "新臺幣", 
-                "currency_total": "", 
-                "deposit_type": "活期儲蓄存款", 
-                "owner": "蘇○淳", 
-                "total": "451,418"
-            }, 
-            {
-                "bank": "大眾商業銀行屏東分行", 
-                "currency": "新臺幣", 
-                "currency_total": "", 
-                "deposit_type": "活期儲蓄存款", 
-                "owner": "蘇○婕", 
-                "total": "143,415"
-            }, 
-            {
-                "bank": "屏東廣東路郵局（第１９支局）", 
-                "currency": "新臺幣", 
-                "currency_total": "", 
-                "deposit_type": "活期儲蓄存款", 
-                "owner": "蘇○婕", 
-                "total": "367,316"
-            }
-        ], 
-        "fund": [], 
-        "insurance": [
-            {
-                "company": "富邦人壽", 
-                "name": "20LPL安泰分紅終身壽險", 
-                "owner": "蘇震清"
-            }, 
-            {
-                "company": "富邦人壽", 
-                "name": "20LPL安泰分紅終身壽險", 
-                "owner": "廖靖汝"
-            }, 
-            {
-                "company": "富邦人壽", 
-                "name": "20LPL安泰分紅終身壽險", 
-                "owner": "蘇震清"
-            }, 
-            {
-                "company": "富邦人壽", 
-                "name": "20LPL安泰分紅終身壽險", 
-                "owner": "蘇震清"
-            }, 
-            {
-                "company": "富邦人壽", 
-                "name": "安泰喬壽還本終身壽險", 
-                "owner": "蘇震清"
-            }, 
-            {
-                "company": "富邦人壽", 
-                "name": "安泰喬壽還本終身壽險", 
-                "owner": "蘇震清"
-            }
-        ], 
-        "investment": [
-            {
-                "address": "高雄市精富路148號", 
-                "company": "南島休閒育樂股份有限公司", 
-                "owner": "廖靖汝", 
-                "register_date": "95年08月23日", 
-                "register_reason": "投資", 
-                "total": "1,000,000"
-            }
-        ], 
-        "land": [
-            {
-                "acquire_value": "(超過五年)", 
-                "area": "487", 
-                "name": "屏東縣屏東市溝美段一小段0148-0000地號", 
-                "owner": "廖靖汝", 
-                "register_date": "87年11月03日", 
-                "register_reason": "買賣", 
-                "share_portion": "1000分之53"
-            }, 
-            {
-                "acquire_value": "2,797,714", 
-                "area": "289", 
-                "name": "嘉義市遠東段0377-0002地號", 
-                "owner": "蘇震清", 
-                "register_date": "95年08月01日", 
-                "register_reason": "共有物分割", 
-                "share_portion": "全部"
-            }, 
-            {
-                "acquire_value": "1,645,714", 
-                "area": "189", 
-                "name": "嘉義市遠東段0630-0000地號", 
-                "owner": "蘇震清", 
-                "register_date": "94年04月08日", 
-                "register_reason": "拍賣", 
-                "share_portion": "7分之4"
-            }, 
-            {
-                "acquire_value": "493,714", 
-                "area": "59", 
-                "name": "嘉義市遠東段0631-0000地號", 
-                "owner": "蘇震清", 
-                "register_date": "94年04月08日", 
-                "register_reason": "拍賣", 
-                "share_portion": "7分之4"
-            }, 
-            {
-                "acquire_value": "8,228,571", 
-                "area": "976", 
-                "name": "嘉義市遠東段0632-0000地號", 
-                "owner": "蘇震清", 
-                "register_date": "94年04月08日", 
-                "register_reason": "拍賣", 
-                "share_portion": "7分之4"
-            }, 
-            {
-                "acquire_value": "1,480,000", 
-                "area": "1,756", 
-                "name": "屏東縣內埔鄉新東勢段0461-0000地號", 
-                "owner": "廖靖汝", 
-                "register_date": "100年09月13日", 
-                "register_reason": "買賣", 
-                "share_portion": "全部"
-            }, 
-            {
-                "acquire_value": "1,750,000", 
-                "area": "2,505", 
-                "name": "屏東縣萬巒鄉五溝水段0215-0007地號", 
-                "owner": "廖靖汝", 
-                "register_date": "100年11月16日", 
-                "register_reason": "買賣", 
-                "share_portion": "全部"
-            }, 
-            {
-                "acquire_value": "800,000", 
-                "area": "6,797", 
-                "name": "屏東縣內埔鄉新東勢段0217-0012地號", 
-                "owner": "廖靖汝", 
-                "register_date": "100年11月17日", 
-                "register_reason": "買賣", 
-                "share_portion": "10000分之399"
-            }
-        ], 
-        "meta": {
-            "category": "公職人員財產申報表", 
-            "department": "1.立法院", 
-            "name": "蘇震清", 
-            "report_at": "2012-04-30", 
-            "report_type": "就(到)職申報", 
-            "spouse": "姓名", 
-            "title": "1.立法委員"
-        }, 
-        "otherbonds": [], 
-        "stock": []
     }
 ]

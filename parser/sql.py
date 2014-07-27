@@ -23,20 +23,22 @@ def upsert_journals(c, dataset):
         WHERE NOT EXISTS (SELECT 1 FROM journals_journals WHERE name = %(name)s)
     ''', dataset)
 
-def upsert_reports(c, dataset):
+def upsert_reports(c, data):
     c.execute('''
         SELECT id
         FROM reports_reports
-        WHERE journal_id = %(journal_id)s AND category = %(category)s AND name = %(name)s AND report_at = %(report_at)s AND report_type = %(report_type)s
-    ''', dataset)
+        WHERE journal_id = %(journal_id)s AND category = %(category)s AND name = %(name)s AND report_at = %(report_at)s
+    ''', data)
     r = c.fetchone()
     if r:
         return r[0], False
+    for key in ['report_type', 'spouse']:
+        data.update({key: data.get(key, '')})
     c.execute('''
         INSERT INTO reports_reports(journal_id, category, name, department, title, report_at, report_type, spouse)
         SELECT %(journal_id)s, %(category)s, %(name)s, %(department)s, %(title)s, %(report_at)s, %(report_type)s, %(spouse)s
-        WHERE NOT EXISTS (SELECT 1 FROM reports_reports WHERE journal_id = %(journal_id)s AND category = %(category)s AND name = %(name)s AND report_at = %(report_at)s AND report_type = %(report_type)s) RETURNING id
-    ''', dataset)
+        WHERE NOT EXISTS (SELECT 1 FROM reports_reports WHERE journal_id = %(journal_id)s AND category = %(category)s AND name = %(name)s AND report_at = %(report_at)s) RETURNING id
+    ''', data)
     r = c.fetchone()
     if r:
         return r[0], True
@@ -59,10 +61,14 @@ def upsert_property_building(c, dataset):
     for data in dataset:
         for key in ['trust', 'register_reason', 'acquire_value']:
             data.update({key: data.get(key, '')})
-        for key in ['area']:
-            data[key] = float(re.sub('[^\d.]', '', data[key])) if data[key] else 0.0
-        data['portion'] = get_portion(data['share_portion'])
-        data['total'] = data['area'] * data['portion']
+        try:
+            data['area'] = float(re.sub('[^\d.]', '', data['area'])) if data['area'] else 0.0
+            data['portion'] = get_portion(data['share_portion'])
+            data['total'] = data['area'] * data['portion']
+        except:
+            data['area'] = data['area']
+            data['portion'] = 0.0
+            data['total'] = 0.0
     c.executemany('''
         INSERT INTO property_building(report_id, name, area, share_portion, portion, owner, register_date, register_reason, acquire_value, total, trust)
         VALUES ( %(report_id)s, %(name)s, %(area)s, %(share_portion)s, %(portion)s, %(owner)s, %(register_date)s, %(register_reason)s, %(acquire_value)s, %(total)s, %(trust)s)
@@ -103,26 +109,33 @@ def upsert_property_cash(c, dataset):
 
 def upsert_property_deposit(c, dataset):
     for data in dataset:
-        for key in ['total']:
-            data[key] = float(re.sub('[^\d.]', '', data[key])) if data[key] else 0.0
-    c.executemany('''
-        INSERT INTO property_deposit(report_id, bank, deposit_type, currency, owner, currency_total, total)
-        VALUES ( %(report_id)s, %(bank)s, %(deposit_type)s, %(currency)s, %(owner)s, %(currency_total)s, %(total)s)
-    ''', dataset)
+        try:
+            data['total'] = float(re.sub('[^\d.]', '', data['total'])) if data['total'] else 0.0
+        except:
+            print data['total']
+            continue
+        c.execute('''
+            INSERT INTO property_deposit(report_id, bank, deposit_type, currency, owner, currency_total, total)
+            VALUES ( %(report_id)s, %(bank)s, %(deposit_type)s, %(currency)s, %(owner)s, %(currency_total)s, %(total)s)
+        ''', data)
 
 def upsert_property_stock(c, dataset):
     for data in dataset:
+        print data
+        try:
+            data['total'] = float(re.sub('[^\d.]', '', data['total'])) if data['total'] else 0.0
+        except:
+            continue
         for key in ['trust', 'trust_at', 'currency']:
-            data.update({key: data.get(key, '')})
-        for key in ['quantity', 'face_value', 'total']:
-            data[key] = re.sub('[^\d.]', '', data[key])
-    c.executemany('''
-        INSERT INTO property_stock(report_id, name, owner, quantity, face_value, currency, total, trust, trust_at)
-        VALUES ( %(report_id)s, %(name)s, %(owner)s, %(quantity)s, %(face_value)s, %(currency)s, %(total)s, %(trust)s, %(trust_at)s)
-    ''', dataset)
+            data.update({key: data.get(key, None)})
+        c.execute('''
+            INSERT INTO property_stock(report_id, name, owner, quantity, face_value, currency, total, trust, trust_at)
+            VALUES ( %(report_id)s, %(name)s, %(owner)s, %(quantity)s, %(face_value)s, %(currency)s, %(total)s, %(trust)s, %(trust_at)s)
+        ''', data)
 
 def upsert_property_bonds(c, dataset):
     for data in dataset:
+        print data
         for key in ['total']:
             data[key] = float(re.sub('[^\d.]', '', data[key])) if data[key] else 0.0
     c.executemany('''
@@ -133,6 +146,7 @@ def upsert_property_bonds(c, dataset):
 def upsert_property_fund(c, dataset):
     for data in dataset:
         for key in ['total']:
+            print data[key]
             data[key] = float(re.sub('[^\d.]', '', data[key])) if data[key] else 0.0
     c.executemany('''
         INSERT INTO property_fund(report_id, name, owner, dealer, quantity, face_value, currency, total)
@@ -171,6 +185,7 @@ def upsert_property_claim(c, dataset):
 
 def upsert_property_debt(c, dataset):
     for data in dataset:
+        print data
         for key in ['total']:
             data[key] = float(re.sub('[^\d.]', '', data[key])) if data[key] else 0.0
     c.executemany('''
@@ -180,9 +195,12 @@ def upsert_property_debt(c, dataset):
 
 def upsert_property_investment(c, dataset):
     for data in dataset:
-        for key in ['total']:
-            data[key] = float(re.sub('[^\d.]', '', data[key])) if data[key] else 0.0
-    c.executemany('''
-        INSERT INTO property_investment(report_id, owner, company, address, register_date, register_reason, total)
-        VALUES ( %(report_id)s, %(owner)s, %(company)s, %(address)s, %(register_date)s, %(register_reason)s, %(total)s)
-    ''', dataset)
+        try:
+            data['total'] = float(re.sub('[^\d.]', '', data['total'])) if data['total'] else 0.0
+        except:
+            print data['total']
+            continue
+        c.execute('''
+            INSERT INTO property_investment(report_id, owner, company, address, register_date, register_reason, total)
+            VALUES ( %(report_id)s, %(owner)s, %(company)s, %(address)s, %(register_date)s, %(register_reason)s, %(total)s)
+        ''', data)

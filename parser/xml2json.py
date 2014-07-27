@@ -11,24 +11,30 @@ import common
 
 def profile(table, category):
     item = {}
-    trs = table.xpath('TR')
-    cells = [tr.xpath('TD/P/text()').extract() for tr in trs]
     item['category'] = category
-    item['name'] = cells[0][1].rstrip()
-    item['department'] = re.sub('[\d.]', '', cells[0][3].rstrip())
-    item['title'] = re.sub('[\d.]', '', cells[0][5].rstrip())
-    item['report_at'] = common.ROC2AD(cells[2][1])
-    item['report_type'] = cells[2][3].rstrip()
-    item['spouse'] = cells[5][1].rstrip()
+    cells = table.xpath('TR/TD/P/text()').extract()
+    for i in range(0, len(cells), 2):
+        if re.search(u'申報人姓名', re.sub('\s', '', cells[i])):
+            item['name'] = re.sub('\s', '', cells[i+1])
+        if re.search(u'服務機關', re.sub('\s', '', cells[i])):
+            item['department'] = re.sub('[\s\d.]', '', cells[i+1])
+        if re.search(u'職稱', re.sub('\s', '', cells[i])):
+            item['title'] = re.sub('[\s\d.]', '', cells[i+1])
+        if re.search(u'申報日', re.sub('\s', '', cells[i])):
+            item['report_at'] = common.ROC2AD(re.sub('\s', '', cells[i+1]))
+        if re.search(u'申報類別', re.sub('\s', '', cells[i])):
+            item['report_type'] = re.sub('\s', '', cells[i+1])
+        if re.search(u'配偶', re.sub('\s', '', cells[i])):
+            item['spouse'] = re.sub('\s', '', cells[i+1])
     return item
 
 def rows(table, items, attr):
     trs = table.xpath('TR')
     for tr in trs:
-        if tr.xpath('TD/P/text()').re(u'(本欄空白|未達申報標準)'):
-            continue
-        tds = [td.rstrip() for td in tr.xpath('TD/P/text()').extract()]
-        if len(tds) > (len(attr['columns'])-2):
+        if tr.xpath('TD/P/text()').re(u'(本欄空白|未達申報標準)') :
+            return []
+        tds = [''.join(td.xpath('P/text()').extract()).rstrip() for td in tr.xpath('TD')]
+        if len([item for item in tds if item != '']) > (len(attr['columns'])-2):
             items.append(dict(zip(attr['columns'], tds)))
 #       #--> 同一列的資料換頁被切開
 #       elif tr == trs[0] and items:
@@ -44,11 +50,23 @@ for f in files:
     x = Selector(text=f.read(), type='xml')
     tables = x.xpath('//Part/Sect/Table')
     model = {}
-    items = []
+    items, item = [], {}
     for table in tables:
-        print table
-        p = re.sub('\s', '', table.xpath('preceding-sibling::P[1]/text()').extract()[0])
-        if re.search(u'公職人員', p):
+        pre_p = table.xpath('preceding-sibling::P[1]/text()').extract()
+        if pre_p:
+            p = re.sub('\s', '', pre_p[0])
+        else:
+            continue
+        if re.search(u'^公職人員', p):
+            if item.get('meta'):
+                for category, rowdata in item.items():
+                    print rowdata
+                    if category != 'meta' and rowdata:
+                        del rowdata[0]
+                for category, attr in model.items():
+                    if item.get(attr.get('name')):
+                        del item[attr['name']][0]
+                items.append(item)
             model = models.get(p, {})
             item = {}
             if model:
@@ -56,13 +74,15 @@ for f in files:
         for category, attr in model.items():
             if re.search(category, p) and attr.get('name'):
                 item.update({attr['name']: rows(table, item.get(attr['name'], []), attr)})
-        if re.search(u'備註', p):
-            for category, attr in model.items():
-                if item.get(attr.get('name')):
-                    del item[attr['name']][0]
-            if item:
-                items.append(item)
-            item, model = {}, {}
+        if item.get('meta') and re.search(u'備註', p):
+            item['meta'].update({'remark': ''.join(table.xpath('TR/TD/P/text()').extract())})
+#       if re.search(u'備註', p):
+#           for category, attr in model.items():
+#               if item.get(attr.get('name')):
+#                   del item[attr['name']][0]
+#           if item:
+#               items.append(item)
+#           item, model = {}, {}
     dump_data = json.dumps(items, sort_keys=True, indent=4, ensure_ascii=False)
     common.write_file(dump_data, '../data/json/pretty_format/%s.json' % fileName)
     dump_data = json.dumps(items)

@@ -127,6 +127,7 @@ INSTALLED_APPS = (
     'reports',
     'property',
     'people',
+    'ranking',
     'search',
     'commontag',
 )
