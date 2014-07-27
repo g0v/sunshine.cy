@@ -1,0 +1,38 @@
+﻿{% extends "base.html" %}
+
+{% block title %}
+    {% if reports and cht %}
+        <title>{{reports.0.name}}的{{cht}}申報紀錄</title>
+        <meta property="og:title" content="{{reports.0.name}}的{{cht}}申報紀錄"/>
+        <meta itemprop="name" content="{{reports.0.name}}的{{cht}}申報紀錄">
+    {% else %}
+        <title>財產申報紀錄</title>
+        <meta property="og:title" content="財產申報紀錄"/>
+        <meta itemprop="name" content="財產申報紀錄">
+    {% endif %}
+{% endblock title %}
+
+{% block right %}
+    <div class="row-fluid">
+        <div class="span2">
+        </div>
+        <div class="span8">
+            {% regroup objs by department as departments %}
+            <ul>
+            {% for department in departments %}
+                <br>
+                <li style="padding-top: 50px; margin-top: -50px;" id="{{department.grouper}}"><h3>{{department.grouper}}</h3></li>
+                <ul>
+                {% for person in department.list %}
+                    <li>{{person.title}} - <a href="{% url 'people:personal_property' name=person.name index='overview' %}">{{person.name}}</a></li>
+                {% endfor %}
+                </ul>
+            {% endfor %}
+            </ul>
+        </div>
+        <div class="span2">
+        </div>
+{% endblock right %}
+
+{% block script %}
+{% endblock script %}

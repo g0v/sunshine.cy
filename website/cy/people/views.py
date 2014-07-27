@@ -6,6 +6,10 @@ from reports.models import Reports
 from property.models import Stock, Land, Building, Car, Cash, Deposit, Bonds, Fund, OtherBonds, Antique, Insurance, Claim, Debt, Investment
 
 
+def departments(request):
+    objs = Reports.objects.values('department', 'name', 'title').distinct().order_by('department', 'name', 'title')
+    return render(request,'people/departments.html', {'objs': objs})
+
 def personal_property(request, name, index):
     attribute = {
         'land': {
