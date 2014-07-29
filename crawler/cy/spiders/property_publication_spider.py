@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+import os
 import re
 import subprocess
 from scrapy.http import Request, FormRequest
@@ -24,7 +25,9 @@ class Spider(BaseSpider):
                 item['date'] = re.sub('/', '-', tds[2].xpath('text()').extract()[0])
                 item['download_url'] = ['http://sunshine.cy.gov.tw/GipOpenWeb/wSite/%s' % link for link in tds[3].xpath('div/a/@href').extract()]
                 for link in item['download_url']:
-                    cmd = 'wget -c -O data/pdf/journal/%s.pdf %s' % (item['journal'], link)
+                    if os.path.exists('../data/pdf/journal/%s.pdf' % item['name']):
+                        continue
+                    cmd = 'wget -c -O ../data/pdf/journal/%s.pdf %s' % (item['name'], link)
                     retcode = subprocess.call(cmd, shell=True)
                 items.append(item)
         return items

@@ -4,11 +4,10 @@ from django.db.models import F
 from search.models import Keyword
 
 
-def keyword_list(category):
-    # bills, ...
+def hot_keywords(category=''):
     return list(Keyword.objects.filter(category=category, valid=True).order_by('-hits').values_list('content', flat=True))
 
-def keyword_been_searched(keyword, category):
+def keyword_been_searched(keyword, category=''):
     keyword_obj = Keyword.objects.filter(category=category, content=keyword)
     if keyword_obj:
         keyword_obj.update(hits=F('hits')+1)
@@ -17,5 +16,5 @@ def keyword_been_searched(keyword, category):
         k.save()
 
 def keyword_normalize(GET):
-    if 'keyword' in GET:
-        return re.sub(u'[，。／＼、；］［＝－＜＞？：＂｛｝｜＋＿（）！＠＃％＄︿＆＊～~`!@#$%^&*_+\-=,./<>?;:\'\"\[\]{}\|()]', ' ', GET['keyword']).strip()
+    if 'search' in GET:
+        return re.sub(u'[，。／＼、；］［＝－＜＞？：＂｛｝｜＋＿（）！＠＃％＄︿＆＊～~`!@#$%^&*_+\-=,./<>?;:\'\"\[\]{}\|()\s]', '', GET['search'])

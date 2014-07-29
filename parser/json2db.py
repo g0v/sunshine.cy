@@ -18,8 +18,6 @@ conn.commit()
 
 files = [open(f) for f in glob.glob('../data/json/*期.json')]
 for f in files:
-    if 1:
-        break
     reports = json.load(f)
     fileName, fileExt = os.path.splitext(os.path.basename(f.name))
     for report in reports:
@@ -39,7 +37,7 @@ for f in files:
                 getattr(sql, 'upsert_property_%s' % category)(c, dataset)
 conn.commit()
 
-# Export auto-complete json file of legislator name & county
+# Export auto-complete json file
 from pandas import *
 import pandas.io.sql as psql
 from pandas.tools.merge import concat

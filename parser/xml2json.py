@@ -5,6 +5,7 @@ import re
 import json
 import glob
 import codecs
+import unicodedata
 from scrapy.selector import Selector
 import common
 
@@ -47,7 +48,8 @@ files = [codecs.open(f, 'r', encoding='utf-8') for f in glob.glob('../data/xml/*
 for f in files:
     print f.name
     fileName, fileExt = os.path.splitext(os.path.basename(f.name))
-    x = Selector(text=f.read(), type='xml')
+    xml_text = unicodedata.normalize('NFC', f.read())
+    x = Selector(text=xml_text, type='xml')
     tables = x.xpath('//Part/Sect/Table')
     model = {}
     items, item = [], {}
@@ -57,10 +59,9 @@ for f in files:
             p = re.sub('\s', '', pre_p[0])
         else:
             continue
-        if re.search(u'^公職人員', p):
+        if re.search(u'^公職人員', p) or re.search(u'備註', p):
             if item.get('meta'):
                 for category, rowdata in item.items():
-                    print rowdata
                     if category != 'meta' and rowdata:
                         del rowdata[0]
                 for category, attr in model.items():

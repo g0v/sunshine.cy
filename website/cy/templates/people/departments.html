@@ -1,15 +1,9 @@
 ﻿{% extends "base.html" %}
 
 {% block title %}
-    {% if reports and cht %}
-        <title>{{reports.0.name}}的{{cht}}申報紀錄</title>
-        <meta property="og:title" content="{{reports.0.name}}的{{cht}}申報紀錄"/>
-        <meta itemprop="name" content="{{reports.0.name}}的{{cht}}申報紀錄">
-    {% else %}
-        <title>財產申報紀錄</title>
-        <meta property="og:title" content="財產申報紀錄"/>
-        <meta itemprop="name" content="財產申報紀錄">
-    {% endif %}
+    <title>金錢報:各部會組織</title>
+    <meta property="og:title" content="金錢報:各部會組織"/>
+    <meta itemprop="name" content="金錢報:各部會組織">
 {% endblock title %}
 
 {% block right %}
