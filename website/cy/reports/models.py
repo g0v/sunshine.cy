@@ -8,11 +8,11 @@ class Reports(models.Model):
     name = models.TextField()
     department = models.TextField()
     title = models.TextField()
-    report_at = models.DateField()
-    report_type = models.TextField()
-    spouse = models.TextField()
+    report_at = models.DateField(blank=True, null=True)
+    report_type = models.TextField(blank=True, null=True)
+    spouse = models.TextField(blank=True, null=True)
+    download_url = models.TextField(blank=True, null=True)
+    at_page = models.TextField(blank=True, null=True)
+    file_id = models.TextField(blank=True, null=True)
     def __unicode__(self):
         return self.name
-
-    class Meta:
-        unique_together = ('journal', 'category', 'name', 'report_at', 'report_type',)

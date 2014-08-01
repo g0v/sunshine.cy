@@ -59,6 +59,7 @@ class Spider(BaseSpider):
                     item['file_id'] = tds[1].xpath('a/@href').re(u"javascript[:]redirectFileDownload[(](\d+)[)]")[0]
                     item['download_url'] = 'http://sunshine.cy.gov.tw/GipOpenWeb/wSite/SpecialPublication/fileDownload.jsp?id=%s' % item['file_id']
                 except:
+                    item['file_id'] = ''
                     item['download_url'] = ''
                 item['seq'] = re.sub(u'\D', '', tds[0].xpath('text()').extract()[0])
                 item['name'] = tds[1].xpath('a/text()').re(u'\s*(\S+)\s*')[0]

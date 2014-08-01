@@ -44,7 +44,7 @@ def rows(table, items, attr):
     return items
 
 models = json.load(open('models.json'))
-files = [codecs.open(f, 'r', encoding='utf-8') for f in glob.glob('../data/xml/*.xml')]
+files = [codecs.open(f, 'r', encoding='utf-8') for f in glob.glob('../data/xml/processed/*.xml')]
 for f in files:
     print f.name
     fileName, fileExt = os.path.splitext(os.path.basename(f.name))
@@ -64,9 +64,6 @@ for f in files:
                 for category, rowdata in item.items():
                     if category != 'meta' and rowdata:
                         del rowdata[0]
-                for category, attr in model.items():
-                    if item.get(attr.get('name')):
-                        del item[attr['name']][0]
                 items.append(item)
             model = models.get(p, {})
             item = {}
@@ -87,4 +84,4 @@ for f in files:
     dump_data = json.dumps(items, sort_keys=True, indent=4, ensure_ascii=False)
     common.write_file(dump_data, '../data/json/pretty_format/%s.json' % fileName)
     dump_data = json.dumps(items)
-    common.write_file(dump_data, '../data/json/%s.json' % fileName)
+    common.write_file(dump_data, '../data/json/processed/%s.json' % fileName)

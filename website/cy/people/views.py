@@ -83,16 +83,18 @@ def personal_property(request, name, index):
     }
     summaries = []
     reports = Reports.objects.filter(name=name).order_by('-report_at')
-    date_union = reports.values_list('report_at', flat=True).distinct()
+    reports_can_calc = reports.filter(report_at__isnull=False)
+    person = reports_can_calc[0]
+    date_union = reports_can_calc.values_list('report_at', flat=True).distinct()
     if index == 'overview':
         for key, value in attribute.items():
             if value.get('sum'):
-                objs = value.get('model').objects.filter(report_id__in=reports.values_list('id', flat=True))\
+                objs = value.get('model').objects.filter(report_id__in=reports_can_calc.values_list('id', flat=True))\
                                                  .order_by('-report__report_at')\
                                                  .values('report__report_at')\
                                                  .annotate(total=Sum(value.get('sum')), count=Count('id'))
             else:
-                objs = value.get('model').objects.filter(report_id__in=reports.values_list('id', flat=True))\
+                objs = value.get('model').objects.filter(report_id__in=reports_can_calc.values_list('id', flat=True))\
                                                  .order_by('-report__report_at')\
                                                  .values('report__report_at')\
                                                  .annotate(count=Count('id'))
@@ -107,9 +109,9 @@ def personal_property(request, name, index):
                 if date not in date_exist:
                     category.append({'report__report_at': date, 'totol': None, 'index': key})
             category.sort(key = lambda x: x['report__report_at'], reverse=True)
-        return render(request,'people/personal_property_overview.html', {'reports': reports, 'summaries': summaries, 'date_union': date_union, 'index': index})
+        return render(request,'people/personal_property_overview.html', {'reports': reports, 'person': person,  'summaries': summaries, 'date_union': date_union, 'index': index})
     else:
-        objs = attribute.get(index).get('model').objects.filter(report_id__in=reports.values_list('id', flat=True)).order_by('-report__report_at')
+        objs = attribute.get(index).get('model').objects.filter(report_id__in=reports_can_calc.values_list('id', flat=True)).order_by('-report__report_at')
         if attribute.get(index).get('sum'):
             summaries = objs.values('report__report_at').annotate(total=Sum(attribute.get(index).get('sum')), count=Count('id'))
         else:

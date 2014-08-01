@@ -3,9 +3,9 @@
 
 {% block title %}
     {% if reports and cht %}
-        <title>{{reports.0.name}}的{{cht}}申報紀錄</title>
-        <meta property="og:title" content="{{reports.0.name}}的{{cht}}申報紀錄"/>
-        <meta itemprop="name" content="{{reports.0.name}}的{{cht}}申報紀錄">
+        <title>{{person.name}}的{{cht}}申報紀錄</title>
+        <meta property="og:title" content="{{person.name}}的{{cht}}申報紀錄"/>
+        <meta itemprop="name" content="{{person.name}}的{{cht}}申報紀錄">
     {% else %}
         <title>財產申報紀錄</title>
         <meta property="og:title" content="財產申報紀錄"/>

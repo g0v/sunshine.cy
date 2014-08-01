@@ -46,20 +46,25 @@ def upsert_reports(c, data):
 
 def upsert_property_land(c, dataset):
     for data in dataset:
-        for key in ['trust', 'register_reason', 'acquire_value']:
+        print data
+        for key in ['area', 'trust', 'register_date', 'register_reason', 'acquire_value']:
             data.update({key: data.get(key, '')})
-        for key in ['area']:
-            data[key] = float(re.sub('[^\d.]', '', data[key])) if data[key] else 0.0
-        data['portion'] = get_portion(data['share_portion'])
-        data['total'] = data['area'] * data['portion']
-    c.executemany('''
-        INSERT INTO property_land(report_id, name, area, share_portion, portion, owner, register_date, register_reason, acquire_value, total, trust)
-        VALUES ( %(report_id)s, %(name)s, %(area)s, %(share_portion)s, %(portion)s, %(owner)s, %(register_date)s, %(register_reason)s, %(acquire_value)s, %(total)s, %(trust)s)
-    ''', dataset)
+        try:
+            data['area'] = float(re.sub('[^\d.]', '', data['area'])) if data['area'] else 0.0
+            data['portion'] = get_portion(data['share_portion'])
+            data['total'] = data['area'] * data['portion']
+        except:
+            data['area'] = data['area']
+            data['portion'] = 0.0
+            data['total'] = 0.0
+        c.execute('''
+            INSERT INTO property_land(report_id, name, area, share_portion, portion, owner, register_date, register_reason, acquire_value, total, trust)
+            VALUES ( %(report_id)s, %(name)s, %(area)s, %(share_portion)s, %(portion)s, %(owner)s, %(register_date)s, %(register_reason)s, %(acquire_value)s, %(total)s, %(trust)s)
+        ''', data)
 
 def upsert_property_building(c, dataset):
     for data in dataset:
-        for key in ['trust', 'register_reason', 'acquire_value']:
+        for key in ['area', 'trust', 'register_date', 'register_reason', 'acquire_value']:
             data.update({key: data.get(key, '')})
         try:
             data['area'] = float(re.sub('[^\d.]', '', data['area'])) if data['area'] else 0.0
@@ -100,6 +105,8 @@ def upsert_property_aircraft(c, dataset):
 
 def upsert_property_cash(c, dataset):
     for data in dataset:
+        for key in ['currency_total']:
+            data.update({key: data.get(key, '')})
         for key in ['total']:
             data[key] = float(re.sub('[^\d.]', '', data[key])) if data[key] else 0.0
     c.executemany('''
@@ -114,6 +121,8 @@ def upsert_property_deposit(c, dataset):
         except:
             print data['total']
             continue
+        for key in ['currency_total']:
+            data.update({key: data.get(key, '')})
         c.execute('''
             INSERT INTO property_deposit(report_id, bank, deposit_type, currency, owner, currency_total, total)
             VALUES ( %(report_id)s, %(bank)s, %(deposit_type)s, %(currency)s, %(owner)s, %(currency_total)s, %(total)s)
@@ -121,7 +130,6 @@ def upsert_property_deposit(c, dataset):
 
 def upsert_property_stock(c, dataset):
     for data in dataset:
-        print data
         try:
             data['total'] = float(re.sub('[^\d.]', '', data['total'])) if data['total'] else 0.0
         except:
@@ -135,7 +143,8 @@ def upsert_property_stock(c, dataset):
 
 def upsert_property_bonds(c, dataset):
     for data in dataset:
-        print data
+        for key in ['symbol']:
+            data.update({key: data.get(key, '')})
         for key in ['total']:
             data[key] = float(re.sub('[^\d.]', '', data[key])) if data[key] else 0.0
     c.executemany('''
@@ -145,9 +154,10 @@ def upsert_property_bonds(c, dataset):
 
 def upsert_property_fund(c, dataset):
     for data in dataset:
-        for key in ['total']:
-            print data[key]
-            data[key] = float(re.sub('[^\d.]', '', data[key])) if data[key] else 0.0
+        print data
+        for key in ['quantity']:
+            data.update({key: data.get(key, None)})
+        data['total'] = float(re.sub('[^\d.]', '', data['total'])) if data['total'] else 0.0
     c.executemany('''
         INSERT INTO property_fund(report_id, name, owner, dealer, quantity, face_value, currency, total)
         VALUES ( %(report_id)s, %(name)s, %(owner)s, %(dealer)s, %(quantity)s, %(face_value)s, %(currency)s, %(total)s)
@@ -155,6 +165,9 @@ def upsert_property_fund(c, dataset):
 
 def upsert_property_otherbonds(c, dataset):
     for data in dataset:
+        print data
+        for key in ['quantity', 'face_value']:
+            data.update({key: data.get(key, None)})
         for key in ['total']:
             data[key] = float(re.sub('[^\d.]', '', data[key])) if data[key] else 0.0
     c.executemany('''
@@ -185,7 +198,8 @@ def upsert_property_claim(c, dataset):
 
 def upsert_property_debt(c, dataset):
     for data in dataset:
-        print data
+        for key in ['register_reason']:
+            data.update({key: data.get(key, None)})
         for key in ['total']:
             data[key] = float(re.sub('[^\d.]', '', data[key])) if data[key] else 0.0
     c.executemany('''

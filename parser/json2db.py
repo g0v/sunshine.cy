@@ -16,7 +16,7 @@ journals = json.load(open('../data/json/property_journal.json'))
 sql.upsert_journals(c, journals)
 conn.commit()
 
-files = [open(f) for f in glob.glob('../data/json/*期.json')]
+files = [open(f) for f in glob.glob('../data/json/processed/*期.json')]
 for f in files:
     reports = json.load(f)
     fileName, fileExt = os.path.splitext(os.path.basename(f.name))

@@ -2,81 +2,124 @@
     "公職人員財產申報表": {
         "土地": {
             "name": "land",
-            "columns": ["name", "area", "share_portion", "owner", "register_date", "register_reason", "acquire_value"]
+            "columns": ["name", "area", "share_portion", "owner", "register_date", "register_reason", "acquire_value"],
+            "columns_shortage": {
+                "6": ["name", "share_portion", "owner", "register_date", "register_reason", "acquire_value"],
+                "4": ["name", "area", "share_portion", "owner"]
+            },
+            "columns_cht": "土地坐落"
         },
         "建物": {
             "name": "building",
-            "columns": ["name", "area", "share_portion", "owner", "register_date", "register_reason", "acquire_value"]
+            "columns": ["name", "area", "share_portion", "owner", "register_date", "register_reason", "acquire_value"],
+            "columns_shortage": {
+                "6": ["name", "share_portion", "owner", "register_date", "register_reason", "acquire_value"],
+                "4": ["name", "area", "share_portion", "owner"]
+            },
+            "columns_cht": "建物標示"
         },
         "船舶": {
             "name": "boat",
-            "columns": ["name", "tonnage", "homeport", "owner", "register_date", "register_reason", "acquire_value"]
+            "columns": ["name", "tonnage", "homeport", "owner", "register_date", "register_reason", "acquire_value"],
+            "columns_cht": "種類總噸數"
         },
         "汽車": {
             "name": "car",
-            "columns": ["name", "capacity", "owner", "register_date", "register_reason", "acquire_value"]
+            "columns": ["name", "capacity", "owner", "register_date", "register_reason", "acquire_value"],
+            "columns_cht": "廠牌型號"
         },
         "航空器": {
             "name": "aircraft",
-            "columns": ["name", "maker", "number", "owner", "register_date", "register_reason", "acquire_value"]
+            "columns": ["name", "maker", "number", "owner", "register_date", "register_reason", "acquire_value"],
+            "columns_cht": "型式製造廠名稱"
         },
         "現金": {
             "name": "cash",
-            "columns": ["currency", "owner", "currency_total", "total"]
+            "columns": ["currency", "owner", "currency_total", "total"],
+            "columns_shortage": {
+                "3": ["currency", "owner", "total"]
+            },
+            "columns_cht": "幣別所有人外幣總額"
         },
         "存款": {
             "name": "deposit",
-            "columns": ["bank", "deposit_type", "currency", "owner", "currency_total", "total"]
+            "columns": ["bank", "deposit_type", "currency", "owner", "currency_total", "total"],
+            "columns_shortage": {
+                "5": ["bank", "deposit_type", "currency", "owner", "total"]
+            },
+            "columns_cht": "存放機構"
         },
         "股票": {
             "name": "stock",
-            "columns": ["name", "owner", "quantity", "face_value", "currency", "total"]
+            "columns": ["name", "owner", "quantity", "face_value", "currency", "total"],
+            "columns_cht": "名稱所有人股數"
         },
         "債券": {
             "name": "bonds",
-            "columns": ["name", "symbol", "owner", "dealer", "quantity", "face_value", "currency", "total"]
+            "columns": ["name", "symbol", "owner", "dealer", "quantity", "face_value", "currency", "total"],
+            "columns_shortage": {
+                "7": ["name", "owner", "dealer", "quantity", "face_value", "currency", "total"]
+            },
+            "columns_cht": "名稱代碼所有人"
         },
         "基金受益憑證": {
             "name": "fund",
-            "columns": ["name", "owner", "dealer", "quantity", "face_value", "currency", "total"]
+            "columns": ["name", "owner", "dealer", "quantity", "face_value", "currency", "total"],
+            "columns_shortage": {
+                "6": ["name", "owner", "dealer", "face_value", "currency", "total"]
+            },
+            "columns_cht": "名稱所有人受託投資機構"
         },
         "其他有價證券": {
             "name": "otherbonds",
-            "columns": ["name", "owner", "quantity", "face_value", "currency", "total"]
+            "columns": ["name", "owner", "quantity", "face_value", "currency", "total"],
+            "columns_shortage": {
+                "5": ["name", "owner", "face_value", "currency", "total"],
+                "4": ["name", "owner", "currency", "total"]
+            },
+            "columns_cht": "名稱所有人單位數價額"
         },
         "具有相當價值之財產": {
             "name": "antique",
-            "columns": ["name", "quantity", "owner", "total"]
+            "columns": ["name", "quantity", "owner", "total"],
+            "columns_cht": "財產種類項"
         },
         "保險": {
             "name": "insurance",
-            "columns": ["company", "name", "owner"]
+            "columns": ["company", "name", "owner"],
+            "columns_cht": "保險公司保險名稱"
         },
         "債權": {
             "name": "claim",
-            "columns": ["species", "owner", "debtor", "total", "register_date", "register_reason"]
+            "columns": ["species", "owner", "debtor", "total", "register_date", "register_reason"],
+            "columns_cht": "種類債權人"
         },
         "債務": {
             "name": "debt",
-            "columns": ["species", "debtor", "owner", "total", "register_date", "register_reason"]
+            "columns": ["species", "debtor", "owner", "total", "register_date", "register_reason"],
+            "columns_cht": "種類債務人"
         },
         "事業投資": {
             "name": "investment",
-            "columns": ["owner", "company", "address", "total", "register_date", "register_reason"]
+            "columns": ["owner", "company", "address", "total", "register_date", "register_reason"],
+            "columns_cht": "投資人投資事業"
         }
     },
     "公職人員信託財產申報表": {
         "土地": {
             "name": "land",
-            "columns": ["name", "area", "share_portion", "owner", "trust", "register_date"]
+            "columns": ["name", "area", "share_portion", "owner", "trust", "register_date"],
+            "columns_cht": "土地坐落"
         },
         "建物": {
             "name": "building",
-            "columns": ["name", "area", "share_portion", "owner", "trust", "register_date"]
+            "columns": ["name", "area", "share_portion", "owner", "trust", "register_date"],
+            "columns_cht": "建物標示"
         },
         "股票": {
             "name": "stock",
-            "columns": ["name", "quantity", "owner", "trust", "trust_at", "face_value", "total"]
+            "columns": ["name", "quantity", "owner", "trust", "trust_at", "face_value", "total"],
+            "columns_cht": "名稱股數"
         }
     }
 }
