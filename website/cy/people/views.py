@@ -84,7 +84,10 @@ def personal_property(request, name, index):
     summaries = []
     reports = Reports.objects.filter(name=name).order_by('-report_at')
     reports_can_calc = reports.filter(report_at__isnull=False)
-    person = reports_can_calc[0]
+    if reports_can_calc:
+        person = reports_can_calc[0]
+    else:
+        person = reports[0]
     date_union = reports_can_calc.values_list('report_at', flat=True).distinct()
     if index == 'overview':
         for key, value in attribute.items():
