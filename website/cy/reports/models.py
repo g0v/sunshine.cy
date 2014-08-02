@@ -3,7 +3,7 @@ from django.db import models
 
 
 class Reports(models.Model):
-    journal = models.ForeignKey('journals.Journals', to_field="name")
+    journal = models.ForeignKey('journals.Journals', to_field="name", blank=True, null=True)
     category = models.TextField()
     name = models.TextField()
     department = models.TextField()
