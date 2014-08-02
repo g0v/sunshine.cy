@@ -2,11 +2,11 @@
 {% load extras %}
 
 {% block title %}
-    {% if reports and cht %}
+    {% if person and cht %}
         <title>{{person.name}}的{{cht}}申報紀錄</title>
         <meta property="og:title" content="{{person.name}}的{{cht}}申報紀錄"/>
         <meta itemprop="name" content="{{person.name}}的{{cht}}申報紀錄">
-    {% elif reports %}
+    {% elif person %}
         <title>{{person.name}}的財產申報總覽</title>
         <meta property="og:title" content="{{person.name}}的財產申報總覽"/>
         <meta itemprop="name" content="{{person.name}}的財產申報總覽">
@@ -106,6 +106,9 @@
     <script src="https://s3-ap-northeast-1.amazonaws.com/twly.tw/zhutil.min.js"></script>
     <script>
         $(document).ready( function() {
+            {% if not summaries %}
+                $("#nonresponse").addClass("in")
+            {% endif %}
             $('#datatable').dataTable({
                 "sDom": "<'row'<'span6'f><'span6'i>r>t",
                 "sPaginationType": "bootstrap",
