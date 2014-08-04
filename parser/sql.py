@@ -134,6 +134,8 @@ def upsert_property_stock(c, dataset):
             data['total'] = float(re.sub('[^\d.]', '', data['total'])) if data['total'] else 0.0
         except:
             continue
+        data['name'] = re.sub(u'[★]', '', data['name'])
+        data['quantity'] = float(re.sub('[^\d.]', '', data['quantity'])) if data['quantity'] else None
         for key in ['trust', 'trust_at', 'currency']:
             data.update({key: data.get(key, None)})
         c.execute('''

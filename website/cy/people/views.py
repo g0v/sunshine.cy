@@ -119,5 +119,5 @@ def personal_property(request, name, index):
             summaries = objs.values('report__report_at').annotate(total=Sum(attribute.get(index).get('sum')), count=Count('id'))
         else:
             summaries = objs.values('report__report_at').annotate(count=Count('id'))
-        return render(request,'people/personal_property.html', {'reports': reports, 'objs': objs, 'summaries': summaries, 'index': index, 'cht': attribute.get(index).get('cht')})
+        return render(request,'people/personal_property.html', {'reports': reports, 'person': person, 'objs': objs, 'summaries': summaries, 'index': index, 'cht': attribute.get(index).get('cht')})
 

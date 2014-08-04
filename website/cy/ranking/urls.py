@@ -3,5 +3,5 @@ from django.conf.urls import patterns, url
 from ranking import views
 
 urlpatterns = patterns('',
-    url(r'^(?P<index>stock|land|building|car|cash|deposit|bonds|fund|otherbonds|antique|insurance|claim|debt|investment)/$', views.ranking_by_property, name='ranking_by_property'),
+    url(r'^people/(?P<index>stock|land|building|car|cash|deposit|bonds|fund|otherbonds|antique|insurance|claim|debt|investment)/$', views.ranking_people_by_property, name='ranking_people_by_property'),
 )

@@ -7,7 +7,6 @@ from os.path import expanduser
 import db_settings
 
 
-
 def insert_journals(data):
     c.execute('''
         INSERT INTO journals_journals(name, date)

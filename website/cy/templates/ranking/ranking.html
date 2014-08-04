@@ -1,0 +1,77 @@
+﻿{% extends "base.html" %}
+{% load extras %}
+
+{% block title %}
+    {% if cht %}
+        <title>{{cht}}申報 - 富豪榜</title>
+        <meta property="og:title" content="{{cht}}申報 - 富豪榜"/>
+        <meta itemprop="name" content="{{cht}}申報 - 富豪榜">
+    {% else %}
+        <title>財產申報百大富豪</title>
+        <meta property="og:title" content="財產申報富豪榜"/>
+        <meta itemprop="name" content="財產申報富豪榜">
+    {% endif %}
+{% endblock title %}
+
+{% block right %}
+    <div class="row-fluid">
+        <div class="span2">
+        </div>
+        <div class="span8">
+            <h3 class="text-center">{{cht}}申報 - 富豪榜</h3>
+            <p class="text-center">（監察院廉政專刊電子報目前只開放2009-05-25之後的資料）</p>
+            {% load pagination_tags %}
+            {% autopaginate objs 10 %}
+            {% paginate %}
+            <table class="table table-bordered sortable" >
+                <thead>
+                    <tr>
+                        <th style="background-color: #CCFFCC;width: 10%">申報年度</th>
+                        <th style="background-color: #CCFFCC;width: 20%">申報人</th>
+                        <th style="background-color: #CCFFCC;width: 70%">財產總數</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for obj in objs %}
+                        <tr>
+                            <td style="text-align:center; vertical-align:middle;">{{obj.year|floatformat:0}}年</td>
+                            <td style="text-align:center; vertical-align:middle;">
+                                <a href="{% url 'people:personal_property' name=obj.report__name index='overview' %}">{{obj.report__name}}</a></td>
+                            <td style="text-align:center; vertical-align:middle;">
+                                {{obj.count}}{{index|personal_property_summary:'count_unit'}}
+                                {% if obj.total %}
+                                    <br><abbr title="{{ obj.total|floatformat }}"><span class="{{index|personal_property_summary:'zhutil_unit'}}">{{obj.total}}</span></abbr>{{index|personal_property_summary:'total_unit'}}
+                                {% endif %}
+                                {% if index|personal_property_summary:'remark' %}
+                                    &nbsp;({{obj.total|multiply:0.3025|floatformat}}坪)
+                                {% endif %}
+                            </td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+            {% paginate %}
+        </div>
+        <div class="span2">
+        </div>
+    </div>
+{% endblock right %}
+
+{% block script %}
+    <script src="https://s3-ap-northeast-1.amazonaws.com/twly.tw/zhutil.min.js"></script>
+    <script>
+        $(document).ready( function() {
+            $('.price').each(function(index,ele){
+                var number = $(ele).text()
+                zh_number = zhutil.approximate(number, {base: '億', extra_decimal: 2});
+                $(ele).replaceWith(zh_number)
+            })
+            $('.area').each(function(index,ele){
+                var number = $(ele).text()
+                , zh_number = zhutil.approximate(number, {base: '萬', extra_decimal: 2});
+                $(ele).replaceWith(zh_number)
+            })
+        });
+    </script>
+    {{ block.super }}
+{% endblock script %}

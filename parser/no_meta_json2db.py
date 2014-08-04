@@ -1,9 +1,6 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
-import os
-import re
 import json
-from os.path import expanduser
 import db_settings
 
 
@@ -34,3 +31,18 @@ for report in reports:
         continue
     upsert_reports(report)
 conn.commit()
+
+
+# Export auto-complete json file
+import codecs
+from pandas import *
+import pandas.io.sql as psql
+from pandas.tools.merge import concat
+
+
+df1 = psql.frame_query("SELECT DISTINCT(name) as label, '人名' as category FROM reports_reports ORDER BY name", conn)
+df2 = psql.frame_query("SELECT DISTINCT(department) as label, '部會' as category FROM reports_reports ORDER BY department", conn)
+df = concat([df1, df2])
+f = codecs.open('../website/cy/templates/common/search.json', 'w', encoding='utf-8')
+f.write(df.to_json(orient='records'))
+f.close()
