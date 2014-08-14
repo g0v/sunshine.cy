@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 import re
 import urllib
+import scrapy
 from scrapy.http import Request, FormRequest
 from scrapy.selector import Selector
-from scrapy.spider import BaseSpider
 from cy.items import PropertyItem
 
 
@@ -18,7 +18,7 @@ def GetDate(text):
     else:
         return None
 
-class Spider(BaseSpider):
+class Spider(scrapy.Spider):
     name = "individual_property"
     allowed_domains = ["sunshine.cy.gov.tw"]
     start_urls = ['http://sunshine.cy.gov.tw/GipOpenWeb/wSite/sp?xdUrl=/wSite/SpecialPublication/SpecificLP.jsp&ctNode=']

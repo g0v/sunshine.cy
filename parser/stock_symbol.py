@@ -14,12 +14,12 @@ def stock():
     ''')
     return c.fetchall()
 
-def update_symbol(symbol, id):
+def update_symbol(symbol, fullname, id):
     c.execute('''
         UPDATE property_stock
-        SET symbol = %s
+        SET symbol = %s, fullname = %s
         WHERE id = %s
-    ''', (symbol, id))
+    ''', (symbol, fullname, id))
 
 def name2symbol(name):
     name = name.decode('utf-8')
@@ -39,9 +39,7 @@ conn = db_settings.con()
 c = conn.cursor()
 df = pd.read_excel(u'../data/xlsx/stock_symbol.xlsx', u'工作表1', index_col=0)
 for id, name in stock():
-    print id, name
     symbol = name2symbol(name)
-    print symbol
     if symbol:
-        update_symbol(str(symbol), id)
+        update_symbol(str(symbol), df[u'全稱'][symbol], id)
 conn.commit()

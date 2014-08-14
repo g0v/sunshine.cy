@@ -92,3 +92,11 @@ def ranking_people_by_property(request, index):
                                              .annotate(count=Count('id'))\
                                              .order_by('-count')
         return render(request, 'ranking/ranking.html', {'objs': objs, 'index': index, 'cht': attr.get(index).get('cht')})
+
+def ranking_property(request, index):
+    objs = Stock.objects.filter(report__report_at__isnull=False, symbol__isnull=False)\
+                        .extra(select={'year': "EXTRACT(year FROM report_at)"})\
+                        .values('symbol', 'year')\
+                        .annotate(total=Sum('quantity'), count=Count('id'))\
+                        .order_by('-total')
+    return render(request, 'ranking/ranking_property.html', {'objs': objs, 'index': index})

@@ -2,13 +2,13 @@
 import os
 import re
 import subprocess
+import scrapy
 from scrapy.http import Request, FormRequest
 from scrapy.selector import Selector
-from scrapy.spider import BaseSpider
 from cy.items import PropertyItem
 
 
-class Spider(BaseSpider):
+class Spider(scrapy.Spider):
     name = "property"
     allowed_domains = ["sunshine.cy.gov.tw"]
     start_urls = ['http://sunshine.cy.gov.tw/GipOpenWeb/wSite/lp?ctNode=442&mp=2&nowPage=1&pagesize=300']

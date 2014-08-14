@@ -74,13 +74,6 @@ for f in files:
                 item.update({attr['name']: rows(table, item.get(attr['name'], []), attr)})
         if item.get('meta') and re.search(u'備註', p):
             item['meta'].update({'remark': ''.join(table.xpath('TR/TD/P/text()').extract())})
-#       if re.search(u'備註', p):
-#           for category, attr in model.items():
-#               if item.get(attr.get('name')):
-#                   del item[attr['name']][0]
-#           if item:
-#               items.append(item)
-#           item, model = {}, {}
     dump_data = json.dumps(items, sort_keys=True, indent=4, ensure_ascii=False)
     common.write_file(dump_data, '../data/json/pretty_format/%s.json' % fileName)
     dump_data = json.dumps(items)

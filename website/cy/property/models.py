@@ -95,6 +95,7 @@ class Stock(models.Model):
     report = models.ForeignKey('reports.Reports')
     name = models.TextField()
     symbol = models.TextField(blank=True, null=True)
+    fullname = models.TextField(blank=True, null=True)
     owner = models.TextField(blank=True, null=True)
     trust = models.TextField(blank=True, null=True)
     trust_at = models.TextField(blank=True, null=True)
