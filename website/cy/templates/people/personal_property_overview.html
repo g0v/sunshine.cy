@@ -24,13 +24,15 @@
         <button type="button" class="btn btn-danger" data-toggle="collapse" data-target="#nonresponse">展開官方下載連結 <b class="caret"></b></button>
         <div id="nonresponse" class="collapse">
             <br>
+            <p>因監察院可能已銷毀檔案，可點選<b>下載備份檔</b>（於2014-07-21由監察院下載）</p>
             <table class="table table-bordered zebra" >
                 <thead>
                     <tr>
                         <th style="background-color: #CCFFCC;width: 20%">申報日期</th>
-                        <th style="background-color: #CCFFCC;width: 20%">部會</th>
-                        <th style="background-color: #CCFFCC;width: 20%">職稱</th>
+                        <th style="background-color: #CCFFCC;width: 10%">部會</th>
+                        <th style="background-color: #CCFFCC;width: 10%">職稱</th>
                         <th style="background-color: #CCFFCC;width: 20%">申報種類</th>
+                        <th style="background-color: #CCFFCC;width: 20%">官方載點</th>
                         <th style="background-color: #CCFFCC;width: 20%">下載連結</th>
                     </tr>
                 </thead>
@@ -45,11 +47,16 @@
                             <td style="text-align:center; vertical-align:middle;">{{report.department}}</td>
                             <td style="text-align:center; vertical-align:middle;">{{report.title}}</td>
                             <td style="text-align:center; vertical-align:middle;">{{report.category}}</td>
-                            <td style="text-align:center; vertical-align:middle;">
                             {% if report.download_url %}
-                                <a href="{{report.download_url}}" target="_blank">下載檔案</a>
+                                <td style="text-align:center; vertical-align:middle;">
+                                    <a href="{{report.download_url}}" target="_blank">官方載點（檔案可能已遭銷毀）</a>
+                                </td>
                             {% endif %}
-                            </td>
+                            {% if report.file_id %}
+                                <td style="text-align:center; vertical-align:middle;">
+                                    <a href="https://s3-ap-northeast-1.amazonaws.com/cy.tw/asset/pdf/individual/{{report.file_id}}.pdf" target="_blank"><b>下載備份檔</b></a>
+                                </td>
+                            {% endif %}
                         </tr>
                     {% endfor %}
                 </tbody>

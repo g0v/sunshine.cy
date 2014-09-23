@@ -1,0 +1,16 @@
+﻿{% extends "common/person_info.html" %}
+{% load extras %}
+
+{% block title %}
+    <title>無申報紀錄</title>
+    <meta property="og:title" content="無申報紀錄"/>
+    <meta itemprop="name" content="無申報紀錄">
+{% endblock title %}
+
+{% block person_detail %}
+    <h3>{{name}}沒有申報紀錄，可至<a href="http://sunshine.cy.gov.tw/GipOpenWeb/wSite/sp?xdUrl=/wSite/SpecialPublication/baseQuery.jsp" target="_blank">官網</a>查證</h3>
+{% endblock person_detail %}
+
+{% block script %}
+    {{ block.super }}
+{% endblock script %}
