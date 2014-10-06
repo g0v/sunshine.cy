@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-from django.shortcuts import render
-from django.shortcuts import redirect
+from django.shortcuts import render, redirect
 from django.core.urlresolvers import reverse
 from reports.models import Reports
 from search.views import hot_keywords, keyword_been_searched, keyword_normalize

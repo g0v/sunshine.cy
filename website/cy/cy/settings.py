@@ -76,9 +76,6 @@ STATICFILES_FINDERS = (
 #    'django.contrib.staticfiles.finders.DefaultStorageFinder',
 )
 
-# Make this unique, and don't share it with anybody.
-SECRET_KEY = '+g)3x-ik$n@%@=jgci52(&#cx*=z(vm=@zc-bv*bd$tr3x9lyj'
-
 # List of callables that know how to import templates from various sources.
 TEMPLATE_LOADERS = (
     'django.template.loaders.filesystem.Loader',
@@ -134,8 +131,18 @@ INSTALLED_APPS = (
     'search',
     'commontag',
     'pagination',
+    'rest_framework',
     'south',
 )
+
+REST_FRAMEWORK = {
+    'DEFAULT_FILTER_BACKENDS': ('rest_framework.filters.DjangoFilterBackend',),
+    'PAGINATE_BY': 10,
+    'DEFAULT_RENDERER_CLASSES': (
+        'rest_framework.renderers.UnicodeJSONRenderer',
+        'rest_framework.renderers.BrowsableAPIRenderer',
+    )
+}
 
 SESSION_SERIALIZER = 'django.contrib.sessions.serializers.JSONSerializer'
 
@@ -174,7 +181,7 @@ TEMPLATE_CONTEXT_PROCESSORS = (
     #"django.core.context_processors.i18n",
     "django.core.context_processors.media",
     #"django.core.context_processors.static",
-    #"django.contrib.messages.context_processors.messages")
+    #"django.contrib.messages.context_processors.messages",
     "django.core.context_processors.request",
     "cy.context_processor.current_url",
 )
