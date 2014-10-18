@@ -37,7 +37,7 @@ def name2symbol(name):
 
 conn = db_settings.con()
 c = conn.cursor()
-df = pd.read_excel(u'../data/xlsx/stock_symbol.xlsx', u'工作表1', index_col=0)
+df = pd.read_excel(u'../../data/xlsx/stock_symbol.xlsx', u'工作表1', index_col=0)
 for id, name in stock():
     symbol = name2symbol(name)
     if symbol:

@@ -41,7 +41,7 @@ def upsert_reports(data):
 conn = db_settings.con()
 c = conn.cursor()
 
-reports = json.load(open('../data/json/property_individual.json'))
+reports = json.load(open('../../data/json/property_individual.json'))
 for report in reports:
 #   if report.get('file_id'):
 #       if os.path.exists(expanduser('~/pdf/individual/%s.pdf' % report['file_id'])):

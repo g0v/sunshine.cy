@@ -37,9 +37,9 @@ def profile(table, i):
 
 items = []
 for i in range(1, 17428):
-    if not os.path.exists('../data/xml/no_meta/%s.xml' % i):
+    if not os.path.exists('../../data/xml/no_meta/%s.xml' % i):
         continue
-    f = codecs.open('../data/xml/no_meta/%s.xml' % i, 'r', encoding='utf-8')
+    f = codecs.open('../../data/xml/no_meta/%s.xml' % i, 'r', encoding='utf-8')
     print f.name
     fileName, fileExt = os.path.splitext(os.path.basename(f.name))
     xml_text = unicodedata.normalize('NFC', f.read())
@@ -51,6 +51,6 @@ for i in range(1, 17428):
     items.append(item)
     f.close()
 dump_data = json.dumps(items, sort_keys=True, indent=4, ensure_ascii=False)
-common.write_file(dump_data, '../data/json/pretty_format/no_meta_individual_info.json')
+common.write_file(dump_data, '../../data/json/pretty_format/no_meta_individual_info.json')
 dump_data = json.dumps(items)
-common.write_file(dump_data, '../data/json/no_meta_individual_info.json')
+common.write_file(dump_data, '../../data/json/no_meta_individual_info.json')
