@@ -37,7 +37,7 @@ for f in files:
             for i in range(0, len(tds)):
                 for key, value in maps.iteritems():
                     if re.match(value, tds[i]):
-                        item[key] = re.sub('[^\d.]', '', tds[i+1])
+                        item[key] = int(re.sub('[^\d.]', '', tds[i+1]))
                         break
             items.append(item)
     dump_data = json.dumps(items, sort_keys=True, indent=4, ensure_ascii=False)
