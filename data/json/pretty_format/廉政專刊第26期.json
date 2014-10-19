@@ -1,6 +1,6 @@
 [
     {
-        "balance": 723312, 
+        "balance": -723312, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -24,7 +24,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 944633, 
+        "balance": -944633, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 79100, 
@@ -48,7 +48,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 138856, 
+        "balance": -138856, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 110000, 
@@ -72,7 +72,7 @@
         "out_travel": 17673
     }, 
     {
-        "balance": 3049, 
+        "balance": -3049, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 111, 
@@ -96,7 +96,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 915040, 
+        "balance": -915040, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 7999, 
@@ -144,7 +144,7 @@
         "out_travel": 263065
     }, 
     {
-        "balance": 367636, 
+        "balance": -367636, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 65200, 
@@ -168,7 +168,7 @@
         "out_travel": 11062
     }, 
     {
-        "balance": 75213, 
+        "balance": -75213, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 4770, 
@@ -216,7 +216,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 83407, 
+        "balance": -83407, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 209370, 
@@ -240,7 +240,7 @@
         "out_travel": 261381
     }, 
     {
-        "balance": 60007, 
+        "balance": -60007, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 10000, 
@@ -360,7 +360,7 @@
         "out_travel": 162324
     }, 
     {
-        "balance": 31061, 
+        "balance": -31061, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 55087, 
@@ -384,7 +384,7 @@
         "out_travel": 11474
     }, 
     {
-        "balance": 215020, 
+        "balance": -215020, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -408,7 +408,7 @@
         "out_travel": 178175
     }, 
     {
-        "balance": 155589, 
+        "balance": -155589, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 25000, 
@@ -432,7 +432,7 @@
         "out_travel": 29335
     }, 
     {
-        "balance": 126358, 
+        "balance": -126358, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 10000, 
@@ -456,7 +456,7 @@
         "out_travel": 6000
     }, 
     {
-        "balance": 687142, 
+        "balance": -687142, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 500, 
@@ -504,7 +504,7 @@
         "out_travel": 149942
     }, 
     {
-        "balance": 566673, 
+        "balance": -566673, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -552,7 +552,7 @@
         "out_travel": 120
     }, 
     {
-        "balance": 364186, 
+        "balance": -364186, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -576,7 +576,7 @@
         "out_travel": 53731
     }, 
     {
-        "balance": 1168841, 
+        "balance": -1168841, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -600,7 +600,7 @@
         "out_travel": 60100
     }, 
     {
-        "balance": 97840, 
+        "balance": -97840, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 11100, 
@@ -624,7 +624,7 @@
         "out_travel": 373681
     }, 
     {
-        "balance": 547259, 
+        "balance": -547259, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 8600, 
@@ -672,7 +672,7 @@
         "out_travel": 6900
     }, 
     {
-        "balance": 111118, 
+        "balance": -111118, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 10000, 
@@ -696,7 +696,7 @@
         "out_travel": 133164
     }, 
     {
-        "balance": 839456, 
+        "balance": -839456, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 28000, 
@@ -720,7 +720,7 @@
         "out_travel": 152343
     }, 
     {
-        "balance": 5987, 
+        "balance": -5987, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -792,7 +792,7 @@
         "out_travel": 10690
     }, 
     {
-        "balance": 155071, 
+        "balance": -155071, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 8350, 
@@ -816,7 +816,7 @@
         "out_travel": 52701
     }, 
     {
-        "balance": 497, 
+        "balance": -497, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -864,7 +864,7 @@
         "out_travel": 43633
     }, 
     {
-        "balance": 41331, 
+        "balance": -41331, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 38000, 
@@ -888,7 +888,7 @@
         "out_travel": 92666
     }, 
     {
-        "balance": 889905, 
+        "balance": -889905, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 149000, 
@@ -912,7 +912,7 @@
         "out_travel": 57696
     }, 
     {
-        "balance": 27, 
+        "balance": -27, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -960,7 +960,7 @@
         "out_travel": 233105
     }, 
     {
-        "balance": 4765624, 
+        "balance": -4765624, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 6400, 
@@ -984,7 +984,7 @@
         "out_travel": 30957
     }, 
     {
-        "balance": 895044, 
+        "balance": -895044, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -1008,7 +1008,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 364388, 
+        "balance": -364388, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 126000, 
@@ -1032,7 +1032,7 @@
         "out_travel": 40329
     }, 
     {
-        "balance": 860570, 
+        "balance": -860570, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -1056,7 +1056,7 @@
         "out_travel": 83476
     }, 
     {
-        "balance": 2626139, 
+        "balance": -2626139, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 16000, 
@@ -1104,7 +1104,7 @@
         "out_travel": 277612
     }, 
     {
-        "balance": 79900, 
+        "balance": -79900, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 8000, 
@@ -1128,7 +1128,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 47612, 
+        "balance": -47612, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 1300, 
@@ -1200,7 +1200,7 @@
         "out_travel": 68712
     }, 
     {
-        "balance": 175418, 
+        "balance": -175418, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 1000, 
@@ -1224,7 +1224,7 @@
         "out_travel": 16195
     }, 
     {
-        "balance": 603, 
+        "balance": -603, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -1248,7 +1248,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 1045959, 
+        "balance": -1045959, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 800, 
@@ -1272,7 +1272,7 @@
         "out_travel": 93905
     }, 
     {
-        "balance": 449188, 
+        "balance": -449188, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 48000, 
@@ -1296,7 +1296,7 @@
         "out_travel": 1478
     }, 
     {
-        "balance": 750000, 
+        "balance": -750000, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -1320,7 +1320,7 @@
         "out_travel": 50000
     }, 
     {
-        "balance": 160447, 
+        "balance": -160447, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 21900, 
@@ -1368,7 +1368,7 @@
         "out_travel": 9683
     }, 
     {
-        "balance": 918771, 
+        "balance": -918771, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 25000, 
@@ -1392,7 +1392,7 @@
         "out_travel": 171154
     }, 
     {
-        "balance": 29640, 
+        "balance": -29640, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 20000, 
@@ -1440,7 +1440,7 @@
         "out_travel": 115870
     }, 
     {
-        "balance": 1107111, 
+        "balance": -1107111, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 31800, 
@@ -1464,7 +1464,7 @@
         "out_travel": 65096
     }, 
     {
-        "balance": 15835, 
+        "balance": -15835, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -1488,7 +1488,7 @@
         "out_travel": 97997
     }, 
     {
-        "balance": 651318, 
+        "balance": -651318, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 207600, 
@@ -1512,7 +1512,7 @@
         "out_travel": 101960
     }, 
     {
-        "balance": 145010, 
+        "balance": -145010, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 3000, 
@@ -1584,7 +1584,7 @@
         "out_travel": 191669
     }, 
     {
-        "balance": 476688, 
+        "balance": -476688, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 10000, 
@@ -1608,7 +1608,7 @@
         "out_travel": 157378
     }, 
     {
-        "balance": 69016, 
+        "balance": -69016, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 22000, 
@@ -1632,7 +1632,7 @@
         "out_travel": 71299
     }, 
     {
-        "balance": 156793, 
+        "balance": -156793, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 5000, 
@@ -1656,7 +1656,7 @@
         "out_travel": 70023
     }, 
     {
-        "balance": 1208026, 
+        "balance": -1208026, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -1680,7 +1680,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 2354425, 
+        "balance": -2354425, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 39000, 
@@ -1728,7 +1728,7 @@
         "out_travel": 86587
     }, 
     {
-        "balance": 54433, 
+        "balance": -54433, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -1752,7 +1752,7 @@
         "out_travel": 57245
     }, 
     {
-        "balance": 27574, 
+        "balance": -27574, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 22990, 
@@ -1776,7 +1776,7 @@
         "out_travel": 329454
     }, 
     {
-        "balance": 36846, 
+        "balance": -36846, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 5000, 
@@ -1824,7 +1824,7 @@
         "out_travel": 68080
     }, 
     {
-        "balance": 185187, 
+        "balance": -185187, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -1848,7 +1848,7 @@
         "out_travel": 122581
     }, 
     {
-        "balance": 11124, 
+        "balance": -11124, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -1896,7 +1896,7 @@
         "out_travel": 44608
     }, 
     {
-        "balance": 1684200, 
+        "balance": -1684200, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 50200, 
@@ -1920,7 +1920,7 @@
         "out_travel": 107939
     }, 
     {
-        "balance": 489260, 
+        "balance": -489260, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -1944,7 +1944,7 @@
         "out_travel": 5043
     }, 
     {
-        "balance": 761723, 
+        "balance": -761723, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 17000, 
@@ -2112,7 +2112,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 5999495, 
+        "balance": -5999495, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 4900, 
@@ -2160,7 +2160,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 887516, 
+        "balance": -887516, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 14500, 
@@ -2184,7 +2184,7 @@
         "out_travel": 74116
     }, 
     {
-        "balance": 19892, 
+        "balance": -19892, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -2232,7 +2232,7 @@
         "out_travel": 5425
     }, 
     {
-        "balance": 32171, 
+        "balance": -32171, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 4000, 
@@ -2256,7 +2256,7 @@
         "out_travel": 39438
     }, 
     {
-        "balance": 4121, 
+        "balance": -4121, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 129000, 
@@ -2304,7 +2304,7 @@
         "out_travel": 41011
     }, 
     {
-        "balance": 160193, 
+        "balance": -160193, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 768, 
@@ -2448,7 +2448,7 @@
         "out_travel": 144894
     }, 
     {
-        "balance": 1287289, 
+        "balance": -1287289, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -2520,7 +2520,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 1495699, 
+        "balance": -1495699, 
         "county": "臺北市", 
         "election_year": "2010", 
         "in_anonymous": 60725, 
@@ -2544,7 +2544,7 @@
         "out_travel": 43499
     }, 
     {
-        "balance": 138377, 
+        "balance": -138377, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -2592,7 +2592,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 1331152, 
+        "balance": -1331152, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 28000, 
@@ -2616,7 +2616,7 @@
         "out_travel": 65812
     }, 
     {
-        "balance": 5948739, 
+        "balance": -5948739, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 6500, 
@@ -2664,7 +2664,7 @@
         "out_travel": 10538
     }, 
     {
-        "balance": 657605, 
+        "balance": -657605, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -2688,7 +2688,7 @@
         "out_travel": 8138
     }, 
     {
-        "balance": 100521, 
+        "balance": -100521, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 12200, 
@@ -2712,7 +2712,7 @@
         "out_travel": 70218
     }, 
     {
-        "balance": 929183, 
+        "balance": -929183, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 21036, 
@@ -2736,7 +2736,7 @@
         "out_travel": 114969
     }, 
     {
-        "balance": 121393, 
+        "balance": -121393, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 57700, 
@@ -2760,7 +2760,7 @@
         "out_travel": 18033
     }, 
     {
-        "balance": 721838, 
+        "balance": -721838, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -2784,7 +2784,7 @@
         "out_travel": 24840
     }, 
     {
-        "balance": 1641527, 
+        "balance": -1641527, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 23000, 
@@ -2808,7 +2808,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 36132, 
+        "balance": -36132, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -2832,7 +2832,7 @@
         "out_travel": 5472
     }, 
     {
-        "balance": 101615, 
+        "balance": -101615, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 255400, 
@@ -2856,7 +2856,7 @@
         "out_travel": 31209
     }, 
     {
-        "balance": 2516091, 
+        "balance": -2516091, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 2000, 
@@ -2880,7 +2880,7 @@
         "out_travel": 67104
     }, 
     {
-        "balance": 23393, 
+        "balance": -23393, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -2904,7 +2904,7 @@
         "out_travel": 846
     }, 
     {
-        "balance": 883883, 
+        "balance": -883883, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -2928,7 +2928,7 @@
         "out_travel": 92019
     }, 
     {
-        "balance": 2564229, 
+        "balance": -2564229, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 7000, 
@@ -2952,7 +2952,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 163970, 
+        "balance": -163970, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -2976,7 +2976,7 @@
         "out_travel": 72921
     }, 
     {
-        "balance": 583643, 
+        "balance": -583643, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -3000,7 +3000,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 3359004, 
+        "balance": -3359004, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -3024,7 +3024,7 @@
         "out_travel": 18250
     }, 
     {
-        "balance": 339462, 
+        "balance": -339462, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -3048,7 +3048,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 754560, 
+        "balance": -754560, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 4500, 
@@ -3072,7 +3072,7 @@
         "out_travel": 44678
     }, 
     {
-        "balance": 6431594, 
+        "balance": -6431594, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 1000, 
@@ -3096,7 +3096,7 @@
         "out_travel": 84707
     }, 
     {
-        "balance": 26952, 
+        "balance": -26952, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -3144,7 +3144,7 @@
         "out_travel": 23100
     }, 
     {
-        "balance": 695373, 
+        "balance": -695373, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 5000, 
@@ -3168,7 +3168,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 1240798, 
+        "balance": -1240798, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -3192,7 +3192,7 @@
         "out_travel": 270
     }, 
     {
-        "balance": 66759, 
+        "balance": -66759, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -3216,7 +3216,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 1107967, 
+        "balance": -1107967, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 10000, 
@@ -3240,7 +3240,7 @@
         "out_travel": 67557
     }, 
     {
-        "balance": 2052514, 
+        "balance": -2052514, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -3264,7 +3264,7 @@
         "out_travel": 74111
     }, 
     {
-        "balance": 128786, 
+        "balance": -128786, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -3288,7 +3288,7 @@
         "out_travel": 54900
     }, 
     {
-        "balance": 26080, 
+        "balance": -26080, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -3312,7 +3312,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 597572, 
+        "balance": -597572, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -3336,7 +3336,7 @@
         "out_travel": 64818
     }, 
     {
-        "balance": 3072114, 
+        "balance": -3072114, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 33000, 
@@ -3384,7 +3384,7 @@
         "out_travel": 39113
     }, 
     {
-        "balance": 1380768, 
+        "balance": -1380768, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 8173, 
@@ -3408,7 +3408,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 80753, 
+        "balance": -80753, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -3432,7 +3432,7 @@
         "out_travel": 141162
     }, 
     {
-        "balance": 200000, 
+        "balance": -200000, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -3456,7 +3456,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 1762555, 
+        "balance": -1762555, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -3480,7 +3480,7 @@
         "out_travel": 73582
     }, 
     {
-        "balance": 85609, 
+        "balance": -85609, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 9168, 
@@ -3504,7 +3504,7 @@
         "out_travel": 258486
     }, 
     {
-        "balance": 35418, 
+        "balance": -35418, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 13000, 
@@ -3528,7 +3528,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 201974, 
+        "balance": -201974, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -3552,7 +3552,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 326178, 
+        "balance": -326178, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -3576,7 +3576,7 @@
         "out_travel": 7617
     }, 
     {
-        "balance": 2754286, 
+        "balance": -2754286, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -3600,7 +3600,7 @@
         "out_travel": 103285
     }, 
     {
-        "balance": 60, 
+        "balance": -60, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -3648,7 +3648,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 1308901, 
+        "balance": -1308901, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 10025, 
@@ -3672,7 +3672,7 @@
         "out_travel": 19160
     }, 
     {
-        "balance": 1515877, 
+        "balance": -1515877, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -3696,7 +3696,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 6064779, 
+        "balance": -6064779, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -3720,7 +3720,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 476272, 
+        "balance": -476272, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 1000, 
@@ -3744,7 +3744,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 54035, 
+        "balance": -54035, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -3768,7 +3768,7 @@
         "out_travel": 1215
     }, 
     {
-        "balance": 917345, 
+        "balance": -917345, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 13940, 
@@ -3792,7 +3792,7 @@
         "out_travel": 42257
     }, 
     {
-        "balance": 1456798, 
+        "balance": -1456798, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 4100, 
@@ -3816,7 +3816,7 @@
         "out_travel": 58396
     }, 
     {
-        "balance": 4640688, 
+        "balance": -4640688, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 5200, 
@@ -3864,7 +3864,7 @@
         "out_travel": 194412
     }, 
     {
-        "balance": 2202490, 
+        "balance": -2202490, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -3888,7 +3888,7 @@
         "out_travel": 320
     }, 
     {
-        "balance": 86971, 
+        "balance": -86971, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 36100, 
@@ -3912,7 +3912,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 822734, 
+        "balance": -822734, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 3000, 
@@ -3936,7 +3936,7 @@
         "out_travel": 8563
     }, 
     {
-        "balance": 110142, 
+        "balance": -110142, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -4008,7 +4008,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 43624, 
+        "balance": -43624, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -4056,7 +4056,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 279531, 
+        "balance": -279531, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 6889, 
@@ -4080,7 +4080,7 @@
         "out_travel": 62979
     }, 
     {
-        "balance": 624909, 
+        "balance": -624909, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -4104,7 +4104,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 771795, 
+        "balance": -771795, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -4128,7 +4128,7 @@
         "out_travel": 119937
     }, 
     {
-        "balance": 3367033, 
+        "balance": -3367033, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -4152,7 +4152,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 2572879, 
+        "balance": -2572879, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -4176,7 +4176,7 @@
         "out_travel": 119168
     }, 
     {
-        "balance": 575932, 
+        "balance": -575932, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 87780, 
@@ -4200,7 +4200,7 @@
         "out_travel": 62441
     }, 
     {
-        "balance": 4984044, 
+        "balance": -4984044, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -4224,7 +4224,7 @@
         "out_travel": 20004
     }, 
     {
-        "balance": 367565, 
+        "balance": -367565, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 28000, 
@@ -4248,7 +4248,7 @@
         "out_travel": 10048
     }, 
     {
-        "balance": 1820678, 
+        "balance": -1820678, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -4272,7 +4272,7 @@
         "out_travel": 118574
     }, 
     {
-        "balance": 195, 
+        "balance": -195, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -4320,7 +4320,7 @@
         "out_travel": 276548
     }, 
     {
-        "balance": 645639, 
+        "balance": -645639, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -4344,7 +4344,7 @@
         "out_travel": 169873
     }, 
     {
-        "balance": 841578, 
+        "balance": -841578, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -4416,7 +4416,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 888659, 
+        "balance": -888659, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 7500, 
@@ -4440,7 +4440,7 @@
         "out_travel": 19000
     }, 
     {
-        "balance": 159168, 
+        "balance": -159168, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -4464,7 +4464,7 @@
         "out_travel": 96826
     }, 
     {
-        "balance": 394283, 
+        "balance": -394283, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 16600, 
@@ -4488,7 +4488,7 @@
         "out_travel": 33314
     }, 
     {
-        "balance": 1324037, 
+        "balance": -1324037, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 12000, 
@@ -4512,7 +4512,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 3, 
+        "balance": -3, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 1000, 
@@ -4536,7 +4536,7 @@
         "out_travel": 4299
     }, 
     {
-        "balance": 200000, 
+        "balance": -200000, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -4560,7 +4560,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 2399364, 
+        "balance": -2399364, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 1000, 
@@ -4584,7 +4584,7 @@
         "out_travel": 690
     }, 
     {
-        "balance": 4267804, 
+        "balance": -4267804, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 500, 
@@ -4608,7 +4608,7 @@
         "out_travel": 15250
     }, 
     {
-        "balance": 3481483, 
+        "balance": -3481483, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -4632,7 +4632,7 @@
         "out_travel": 11072
     }, 
     {
-        "balance": 94082, 
+        "balance": -94082, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -4656,7 +4656,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 878616, 
+        "balance": -878616, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 5000, 
@@ -4680,7 +4680,7 @@
         "out_travel": 127080
     }, 
     {
-        "balance": 327359, 
+        "balance": -327359, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 49025, 
@@ -4704,7 +4704,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 1700246, 
+        "balance": -1700246, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -4728,7 +4728,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 686062, 
+        "balance": -686062, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 18000, 
@@ -4752,7 +4752,7 @@
         "out_travel": 9026
     }, 
     {
-        "balance": 121624, 
+        "balance": -121624, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -4776,7 +4776,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 247360, 
+        "balance": -247360, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -4800,7 +4800,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 132098, 
+        "balance": -132098, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 15300, 
@@ -4824,7 +4824,7 @@
         "out_travel": 83686
     }, 
     {
-        "balance": 4298482, 
+        "balance": -4298482, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -4848,7 +4848,7 @@
         "out_travel": 775184
     }, 
     {
-        "balance": 1507517, 
+        "balance": -1507517, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -4872,7 +4872,7 @@
         "out_travel": 4268
     }, 
     {
-        "balance": 3639, 
+        "balance": -3639, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -4920,7 +4920,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 865386, 
+        "balance": -865386, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -4944,7 +4944,7 @@
         "out_travel": 30663
     }, 
     {
-        "balance": 212090, 
+        "balance": -212090, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 29774, 
@@ -4968,7 +4968,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 116453, 
+        "balance": -116453, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 10825, 
@@ -4992,7 +4992,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 1345908, 
+        "balance": -1345908, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 3200, 
@@ -5016,7 +5016,7 @@
         "out_travel": 112500
     }, 
     {
-        "balance": 1306, 
+        "balance": -1306, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -5040,7 +5040,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 661696, 
+        "balance": -661696, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 8600, 
@@ -5088,7 +5088,7 @@
         "out_travel": 45671
     }, 
     {
-        "balance": 147376, 
+        "balance": -147376, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 40000, 
@@ -5112,7 +5112,7 @@
         "out_travel": 48590
     }, 
     {
-        "balance": 574395, 
+        "balance": -574395, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -5136,7 +5136,7 @@
         "out_travel": 10319
     }, 
     {
-        "balance": 6577174, 
+        "balance": -6577174, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -5160,7 +5160,7 @@
         "out_travel": 55521
     }, 
     {
-        "balance": 186, 
+        "balance": -186, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -5184,7 +5184,7 @@
         "out_travel": 10675
     }, 
     {
-        "balance": 2575978, 
+        "balance": -2575978, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -5208,7 +5208,7 @@
         "out_travel": 72393
     }, 
     {
-        "balance": 2370032, 
+        "balance": -2370032, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 69300, 
@@ -5256,7 +5256,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 69932, 
+        "balance": -69932, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 8000, 
@@ -5280,7 +5280,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 700, 
+        "balance": -700, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -5304,7 +5304,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 320431, 
+        "balance": -320431, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -5328,7 +5328,7 @@
         "out_travel": 7942
     }, 
     {
-        "balance": 804795, 
+        "balance": -804795, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -5352,7 +5352,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 1999, 
+        "balance": -1999, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -5376,7 +5376,7 @@
         "out_travel": 12000
     }, 
     {
-        "balance": 5759668, 
+        "balance": -5759668, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -5400,7 +5400,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 260324, 
+        "balance": -260324, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 200, 
@@ -5424,7 +5424,7 @@
         "out_travel": 50021
     }, 
     {
-        "balance": 1143940, 
+        "balance": -1143940, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 270, 
@@ -5448,7 +5448,7 @@
         "out_travel": 42931
     }, 
     {
-        "balance": 150374, 
+        "balance": -150374, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 6168, 
@@ -5472,7 +5472,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 837782, 
+        "balance": -837782, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 24000, 
@@ -5496,7 +5496,7 @@
         "out_travel": 5557
     }, 
     {
-        "balance": 1467899, 
+        "balance": -1467899, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -5544,7 +5544,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 810880, 
+        "balance": -810880, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -5568,7 +5568,7 @@
         "out_travel": 222402
     }, 
     {
-        "balance": 2225651, 
+        "balance": -2225651, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 29000, 
@@ -5592,7 +5592,7 @@
         "out_travel": 214467
     }, 
     {
-        "balance": 223738, 
+        "balance": -223738, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -5640,7 +5640,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 69609, 
+        "balance": -69609, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -5664,7 +5664,7 @@
         "out_travel": 5724
     }, 
     {
-        "balance": 322090, 
+        "balance": -322090, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -5688,7 +5688,7 @@
         "out_travel": 5690
     }, 
     {
-        "balance": 2344246, 
+        "balance": -2344246, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 550, 
@@ -5712,7 +5712,7 @@
         "out_travel": 51245
     }, 
     {
-        "balance": 74323, 
+        "balance": -74323, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 2000, 
@@ -5736,7 +5736,7 @@
         "out_travel": 21100
     }, 
     {
-        "balance": 74826, 
+        "balance": -74826, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 77100, 
@@ -5784,7 +5784,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 4339, 
+        "balance": -4339, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 1000, 
@@ -5808,7 +5808,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 185880, 
+        "balance": -185880, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -5856,7 +5856,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 167535, 
+        "balance": -167535, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 0, 
@@ -5880,7 +5880,7 @@
         "out_travel": 18775
     }, 
     {
-        "balance": 778016, 
+        "balance": -778016, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 10500, 
@@ -5904,7 +5904,7 @@
         "out_travel": 0
     }, 
     {
-        "balance": 287190, 
+        "balance": -287190, 
         "county": "新北市", 
         "election_year": "2010", 
         "in_anonymous": 18000, 
