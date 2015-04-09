@@ -82,7 +82,7 @@ def personal_property(request, name, index):
         }
     }
     summaries = []
-    reports = Reports.objects.filter(name=name).order_by('-report_at')
+    reports = Reports.objects.filter(name=name).select_related('journal').order_by('-report_at')
     if not reports:
         return render(request,'people/not_exist.html', {'name': name})
     reports_can_calc = reports.filter(report_at__isnull=False)
