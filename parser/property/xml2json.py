@@ -44,7 +44,7 @@ def rows(table, items, attr):
     return items
 
 models = json.load(open('models.json'))
-files = [codecs.open(f, 'r', encoding='utf-8') for f in glob.glob('../../data/xml/processed/*.xml')]
+files = [codecs.open(f, 'r', encoding='utf-8') for f in glob.glob('../../data/xml/*.xml')]
 for f in files:
     print f.name
     fileName, fileExt = os.path.splitext(os.path.basename(f.name))

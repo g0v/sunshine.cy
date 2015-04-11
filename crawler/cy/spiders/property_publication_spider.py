@@ -25,9 +25,8 @@ class Spider(scrapy.Spider):
                 item['date'] = re.sub('/', '-', tds[2].xpath('text()').extract()[0])
                 item['download_url'] = ['http://sunshine.cy.gov.tw/GipOpenWeb/wSite/%s' % link for link in tds[3].xpath('div/a/@href').extract()]
                 for link in item['download_url']:
-                    if os.path.exists('../data/pdf/journal/%s.pdf' % item['name']):
-                        continue
-                    cmd = 'wget -c -O ../data/pdf/journal/%s.pdf %s' % (item['name'], link)
+                    # -N for ignoring existed files
+                    cmd = 'wget -Nc -O ../data/pdf/journal/%s.pdf %s' % (item['name'], link)
                     retcode = subprocess.call(cmd, shell=True)
                 items.append(item)
         return items
