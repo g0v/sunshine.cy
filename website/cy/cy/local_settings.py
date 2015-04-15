@@ -12,4 +12,4 @@ DATABASES = {
 }
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'gully45t$pha@!dx8@a)1vg9jt!gd**wnr48_5uv(^h1n191nj'
+SECRET_KEY = '@!*_oth(-2$r4-=03lpgv4_$06516hr!+pnba3tvfs#g$d@nwk'

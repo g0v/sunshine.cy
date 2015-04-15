@@ -96,6 +96,15 @@ STATIC_URL = '/static/'
 
 SITE_DOMAIN = 'http://sunshine.cy.g0v.tw'
 
+REST_FRAMEWORK = {
+    'DEFAULT_FILTER_BACKENDS': ('rest_framework.filters.DjangoFilterBackend',),
+    'PAGINATE_BY': 10,
+    'DEFAULT_RENDERER_CLASSES': (
+        'rest_framework.renderers.JSONRenderer',
+        'rest_framework.renderers.BrowsableAPIRenderer',
+    )
+}
+
 from local_settings import *
 
 TEMPLATE_DEBUG = DEBUG
