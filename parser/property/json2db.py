@@ -20,7 +20,6 @@ conn.commit()
 
 files = [open(f) for f in glob.glob('../../data/json/processed/*期.json')]
 for f in files:
-    break
     reports = json.load(f)
     fileName, fileExt = os.path.splitext(os.path.basename(f.name))
     for report in reports:

@@ -47,11 +47,13 @@
                             <td style="text-align:center; vertical-align:middle;">{{report.department}}</td>
                             <td style="text-align:center; vertical-align:middle;">{{report.title}}</td>
                             <td style="text-align:center; vertical-align:middle;">{{report.category}}</td>
+                            <td style="text-align:center; vertical-align:middle;">
                             {% if report.download_url %}
-                                <td style="text-align:center; vertical-align:middle;">
-                                    <a href="{{report.download_url}}" target="_blank">官方載點（檔案可能已遭銷毀）</a>
-                                </td>
+                                <a href="{{report.download_url}}" target="_blank">官方載點（檔案可能已遭銷毀）</a>
+                            {% else %}
+                                <a href="{{report.journal.download_url}}" target="_blank">官方載點（檔案可能已遭銷毀）</a>
                             {% endif %}
+                            </td>
                             {% if report.file_id %}
                                 <td style="text-align:center; vertical-align:middle;">
                                     <a href="https://s3-ap-northeast-1.amazonaws.com/cy.tw/asset/pdf/individual/{{report.file_id}}.pdf" target="_blank"><b>下載備份檔</b></a>
@@ -82,7 +84,7 @@
                 {% with index=summary.index %}
                 {% ifchanged index %}
                 </tr><tr>
-                    <td style="text-align:center; vertical-align:middle;"><a href="{% url 'people:personal_property' name=person.name index=index %}"><h4>{{index|personal_property_summary:'cht'}}</h4></a></td>
+                <td style="text-align:center; vertical-align:middle;"><a href="{% url 'people:personal_property' name=person.name index=index %}"><h4>{{index|personal_property_summary:'cht'}}</h4><small>（看細項）</small></a></td>
                 {% endifchanged %}
                 {% if summary.count %}
                     <td style="text-align:center; vertical-align:middle;">

@@ -9,7 +9,7 @@
     </tr>
 </thead>
 <tbody>
-    {% for obj in objs %}
+    {% for obj in report.list %}
     <tr>
         <td width="15%">{{obj.report.report_at|date:"Y-m-d"}}</td>
         <td width="15%"><p class="price text-right">{{obj.total|floatformat}}</p>元</td>
