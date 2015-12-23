@@ -44,13 +44,13 @@ def rows(table, items, attr):
     return items
 
 models = json.load(open('models.json'))
-files = [codecs.open(f, 'r', encoding='utf-8') for f in glob.glob('../../data/xml/*.xml')]
+files = [codecs.open(f, 'r', encoding='utf-8') for f in glob.glob(u'../../data/xml/*.xml')]
 for f in files:
     print f.name
     fileName, fileExt = os.path.splitext(os.path.basename(f.name))
     xml_text = unicodedata.normalize('NFC', f.read())
     x = Selector(text=xml_text, type='xml')
-    tables = x.xpath('//Part/Sect/Table')
+    tables = x.xpath('//Part/*/Table')
     model = {}
     items, item = [], {}
     for table in tables:
