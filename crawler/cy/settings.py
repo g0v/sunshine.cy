@@ -11,5 +11,8 @@ BOT_NAME = 'cy'
 SPIDER_MODULES = ['cy.spiders']
 NEWSPIDER_MODULE = 'cy.spiders'
 
+#LOG_FILE = 'log.txt'
+FEED_EXPORT_ENCODING = 'utf-8'
+
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'cy (+http://www.yourdomain.com)'
