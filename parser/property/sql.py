@@ -11,17 +11,17 @@ def get_portion(value):
     print value
     return 0.5
 
-def upsert_journals(c, dataset):
-    c.executemany('''
+def upsert_journals(c, data):
+    c.execute('''
         UPDATE journals_journals
         SET date = %(date)s, download_url = %(download_url)s
         WHERE name = %(name)s
-    ''', dataset)
-    c.executemany('''
+    ''', data)
+    c.execute('''
         INSERT INTO journals_journals(name, date, download_url)
         SELECT %(name)s, %(date)s, %(download_url)s
         WHERE NOT EXISTS (SELECT 1 FROM journals_journals WHERE name = %(name)s)
-    ''', dataset)
+    ''', data)
 
 def upsert_reports(c, data):
     c.execute('''

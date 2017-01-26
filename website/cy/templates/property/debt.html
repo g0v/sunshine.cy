@@ -10,7 +10,7 @@
     </tr>
 </thead>
 <tbody>
-    {% for obj in objs %}
+    {% for obj in report.list %}
     <tr>
         <td width="10%">{{obj.report.report_at|date:"Y-m-d"}}</td>
         <td width="15%">{{obj.species}}</td>

@@ -30,7 +30,7 @@ for f in files:
             item['county'] = county.xpath('@title').extract()[0]
             item['name'] = people.xpath('@title').extract()[0]
             item['name'] = re.sub(u'[。˙・•．.]', u'‧', item['name'])
-            item['name'] = re.sub(u'[　\s]', '', item['name'])
+            item['name'] = re.sub(u'[　\s()（）]', '', item['name'])
             item['name'] = item['name'].title()
             print item['name']
             structID = people.xpath('destination/@structID').extract()[0]

@@ -116,7 +116,7 @@ def personal_property(request, name, index):
             category.sort(key = lambda x: x['report__report_at'], reverse=True)
         return render(request,'people/personal_property_overview.html', {'reports': reports, 'person': person,  'summaries': summaries, 'date_union': date_union, 'index': index})
     else:
-        objs = attribute.get(index).get('model').objects.filter(report_id__in=reports_can_calc.values_list('id', flat=True)).order_by('-report__report_at')
+        objs = attribute.get(index).get('model').objects.filter(report_id__in=reports_can_calc.values_list('id', flat=True)).select_related('report').order_by('-report__report_at')
         if attribute.get(index).get('sum'):
             summaries = objs.values('report__report_at').annotate(total=Sum(attribute.get(index).get('sum')), count=Count('id'))
         else:
