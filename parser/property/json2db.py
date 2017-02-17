@@ -18,7 +18,7 @@ for journal in journals:
     sql.upsert_journals(c, journal)
 conn.commit()
 
-files = [open(f) for f in glob.glob('../../data/json/processed/*期.json')]
+files = [open(f) for f in glob.glob('../../data/json/not_processed/*期.json')]
 for f in files:
     reports = json.load(f)
     fileName, fileExt = os.path.splitext(os.path.basename(f.name))
@@ -39,7 +39,7 @@ for f in files:
                     getattr(sql, 'upsert_property_%s' % category)(c, dataset)
         except:
             print fileName, fileExt
-            for k, v in report.items():
-                print k, v
+#           for k, v in report.items():
+#               print k, v
             raise
 conn.commit()

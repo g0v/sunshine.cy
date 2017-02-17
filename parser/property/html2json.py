@@ -30,13 +30,16 @@ def profile(table, category):
     return item
 
 def rows(report, item):
-    p_tags = report.xpath('ancestor-or-self::p/following-sibling::p[string-length(text()) > 0]')
+    p_tags = report.xpath('ancestor-or-self::p/following::p[string-length(text()) > 0]')
     for p_tag in p_tags:
         p_text = p_tag.xpath('text()').extract_first().strip()
         for category, attr in model.items():
             rows = []
-            if re.search(category, p_text):
+            if re.search(category, p_text) and item.get(attr['name']) == None:
                 table = p_tag.xpath('following-sibling::table[1]')
+                pre_p_tags = p_tag.xpath('following-sibling::table[1]/preceding-sibling::p[string-length(text()) > 0]')
+                pre_p_tags_num = len(pre_p_tags) if pre_p_tags else 0
+                # first following table
                 for tr in table.xpath('tr[position()>1]'):
                     if tr.xpath('td//text()').re(u'(本欄空白|未達申報標準)') :
                         break
@@ -53,6 +56,28 @@ def rows(report, item):
                         tds.append(td_text)
                     if len([td for td in tds if td != '']) > (len(attr['columns'])-2):
                         rows.append(dict(zip(attr['columns'], tds)))
+                # process next table if it's the same category
+                next_tables = p_tag.xpath('following-sibling::table[position()>1]')
+                for table in next_tables:
+                    if pre_p_tags_num != len(table.xpath('preceding-sibling::p[string-length(text()) > 0]')) or len(table.xpath('tr[1]/td')) == 1 or len(table.xpath('tr[1]/td[contains(@style, "border-right-style:solid")]')) == 1:
+                        break
+                    for tr in table.xpath('tr'):
+                        if tr.xpath('td//text()').re(u'(本欄空白|未達申報標準)') :
+                            break
+                        tds, need_merge = [], []
+                        for i, td in enumerate(tr.xpath('td'), 1):
+                            td_text = re.sub('\s', '', td.xpath('string()').extract_first())
+                            if tr.xpath('td[%d][not(contains(@style, "border-right-style:solid"))]' % i):
+                                need_merge.append(td_text)
+                                continue
+                            if need_merge:
+                                need_merge.append(td_text)
+                                td_text = ''.join(need_merge)
+                                need_merge = []
+                            tds.append(td_text)
+                        if len([td for td in tds if td != '']) > (len(attr['columns'])-2):
+                            rows.append(dict(zip(attr['columns'], tds)))
+
                 item.update({attr['name']: rows})
                 break
         if item.get('meta') and p_tag.xpath(u'preceding-sibling::p[1][re:test(text(), "備\s*註")]'):
@@ -62,7 +87,7 @@ def rows(report, item):
     return item
 
 models = json.load(open('models.json'))
-files = [codecs.open(f, 'r', encoding='utf-8') for f in glob.glob(u'../../data/html/*.html')]
+files = [codecs.open(f, 'r', encoding='utf-8') for f in glob.glob(u'../../data/html/*115*.html')]
 for f in files:
     print f.name
     fileName, fileExt = os.path.splitext(os.path.basename(f.name))
