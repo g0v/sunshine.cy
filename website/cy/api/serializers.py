@@ -10,10 +10,6 @@ class JournalsSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
         model = Journals
 
-class ReportsSerializer(serializers.HyperlinkedModelSerializer):
-    class Meta:
-        model = Reports
-
 class StockSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
         model = Stock
@@ -77,3 +73,22 @@ class DebtSerializer(serializers.HyperlinkedModelSerializer):
 class InvestmentSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
         model = Investment
+
+class ReportsSerializer(serializers.HyperlinkedModelSerializer):
+    land_set = LandSerializer(many=True, read_only=True)
+    building_set = BuildingSerializer(many=True, read_only=True)
+    boat_set = BoatSerializer(many=True, read_only=True)
+    car_set = CarSerializer(many=True, read_only=True)
+    aircraft_set = AircraftSerializer(many=True, read_only=True)
+    cash_set = CashSerializer(many=True, read_only=True)
+    deposit_set = DepositSerializer(many=True, read_only=True)
+    bonds_set = BondsSerializer(many=True, read_only=True)
+    fund_set = FundSerializer(many=True, read_only=True)
+    otherbonds_set = OtherBondsSerializer(many=True, read_only=True)
+    antique_set = AntiqueSerializer(many=True, read_only=True)
+    insurance_set = InsuranceSerializer(many=True, read_only=True)
+    claim_set = ClaimSerializer(many=True, read_only=True)
+    debt_set = DebtSerializer(many=True, read_only=True)
+    investment_set = InvestmentSerializer(many=True, read_only=True)
+    class Meta:
+        model = Reports

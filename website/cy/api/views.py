@@ -14,9 +14,9 @@ class JournalsViewSet(viewsets.ReadOnlyModelViewSet):
     filter_fields = ('name', 'date')
 
 class ReportsViewSet(viewsets.ReadOnlyModelViewSet):
-    queryset = Reports.objects.all()
+    queryset = Reports.objects.all().prefetch_related('land_set', 'building_set', 'boat_set', 'car_set', 'aircraft_set', 'cash_set', 'deposit_set', 'bonds_set', 'fund_set', 'otherbonds_set', 'antique_set', 'insurance_set', 'claim_set', 'debt_set', 'investment_set', )
     serializer_class = ReportsSerializer
-    filter_fields = ('journal', 'category', 'name', 'department', 'title', 'report_at', 'report_type', 'spouse', 'at_page', 'file_id')
+    filter_fields = ('journal', 'category', 'name', 'department', 'title', 'report_at', 'report_type', 'spouse', 'at_page', 'file_id', )
 
 class StockViewSet(viewsets.ReadOnlyModelViewSet):
     queryset = Stock.objects.all()
