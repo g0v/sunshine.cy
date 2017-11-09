@@ -1,6 +1,6 @@
 #from django.contrib.auth.models import User, Group
 from rest_framework import serializers
-from . import fields
+
 from journals.models import Journals
 from reports.models import Reports
 from property.models import Stock, Land, Building, Car, Cash, Deposit, Aircraft, Boat, Bonds, Fund, OtherBonds, Antique, Insurance, Claim, Debt, Investment

@@ -78,7 +78,7 @@ class Cash(models.Model):
     currency_total = models.TextField(blank=True, null=True)
     total = models.FloatField()
     def __unicode__(self):
-        return self.total
+        return self.owner
 
 class Deposit(models.Model):
     report = models.ForeignKey('reports.Reports')
@@ -89,7 +89,7 @@ class Deposit(models.Model):
     currency_total = models.TextField(blank=True, null=True)
     total = models.FloatField()
     def __unicode__(self):
-        return self.total
+        return self.owner
 
 class Stock(models.Model):
     report = models.ForeignKey('reports.Reports')
@@ -176,7 +176,7 @@ class Claim(models.Model):
     register_reason = models.TextField(blank=True, null=True)
     total = models.FloatField()
     def __unicode__(self):
-        return self.name
+        return self.owner
 
 class Debt(models.Model):
     report = models.ForeignKey('reports.Reports')
@@ -187,7 +187,7 @@ class Debt(models.Model):
     register_reason = models.TextField(blank=True, null=True)
     total = models.FloatField()
     def __unicode__(self):
-        return self.name
+        return self.owner
 
 class Investment(models.Model):
     report = models.ForeignKey('reports.Reports')
@@ -198,4 +198,4 @@ class Investment(models.Model):
     register_reason = models.TextField(blank=True, null=True)
     total = models.FloatField()
     def __unicode__(self):
-        return self.name
+        return self.owner
