@@ -11,7 +11,7 @@ import common
 
 
 maps = dict(zip(['in_individual', 'in_profit', 'in_party', 'in_civil', 'in_anonymous', 'in_others', 'in_total', 'out_personnel', 'out_propagate', 'out_campaign_vehicle', 'out_campaign_office', 'out_rally', 'out_travel', 'out_miscellaneous', 'out_return', 'out_exchequer', 'out_public_relation', 'out_total', 'balance'], [u'個人捐贈收入', u'營利事業捐贈收入', u'政黨捐贈收入', u'人民團體捐贈收入', u'匿名捐贈收入', u'其他收入', u'收入合計', u'人事費用支出', u'宣傳支出', u'租用宣傳車輛支出', u'租用競選辦事處支出', u'集會支出', u'交通旅運支出', u'雜支支出', u'返還捐贈支出', u'繳庫支出', u'公共關係費用支出', u'支出合計', u'收支結存金額']))
-files = [codecs.open(f, 'r', encoding='utf-8') for f in glob.glob('../../data/xml/processed/*.xml')]
+files = [codecs.open(f, 'r', encoding='utf-8') for f in glob.glob('../../data/xml/*.xml')]
 for f in files:
     print f.name
     fileName, fileExt = os.path.splitext(os.path.basename(f.name))
@@ -24,6 +24,7 @@ for f in files:
     model = {}
     items = []
     for county in counties:
+        print('councilors: %s' % county)
         for people in county.xpath('bookmark'):
             item = {}
             item['election_year'] = year
@@ -44,7 +45,7 @@ for f in files:
             items.append(item)
     # legislators
     reports = x.xpath(u'//*[contains(text(), "立法委員選舉")]')
-    print len(reports)
+    print('legislators: %d' % len(reports))
     model = {}
     items = []
     for report in reports:
