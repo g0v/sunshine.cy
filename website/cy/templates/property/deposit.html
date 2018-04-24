@@ -2,9 +2,9 @@
     <tr style="background-color: #FFEEFF;">
         <th width="15%">申報日期</th>
         <th width="15%">折合新臺幣總額</th>
-        <th width="15%">幣別</th>
         <th width="25%">存放機構</th>
         <th width="15%">種類</th>
+        <th width="15%">幣別</th>
         <th width="15%">所有人</th>
     </tr>
 </thead>
@@ -13,9 +13,9 @@
     <tr>
         <td width="15%">{{obj.report.report_at|date:"Y-m-d"}}</td>
         <td width="15%"><p class="price text-right">{{obj.total|floatformat}}</p>元</td>
-        <td width="15%">{{obj.currency}}</td>
         <td width="25%">{{obj.bank}}</td>
         <td width="15%">{{obj.deposit_type}}</td>
+        <td width="15%">{{obj.currency}}</td>
         <td width="15%">{{obj.owner}}</td>
     </tr>
     {% endfor %}
@@ -24,9 +24,9 @@
     <tr style="background-color: #FFEEFF;">
         <th width="15%">申報日期</th>
         <th width="15%">折合新臺幣總額</th>
-        <th width="15%">幣別</th>
         <th width="25%">存放機構</th>
         <th width="15%">種類</th>
+        <th width="15%">幣別</th>
         <th width="15%">所有人</th>
     </tr>
 </tfoot>
