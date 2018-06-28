@@ -40,7 +40,6 @@ INSTALLED_APPS = (
     'ranking',
     'search',
     'commontag',
-    'pagination',
     'rest_framework',
     'debug_toolbar',
 )

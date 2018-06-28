@@ -20,9 +20,7 @@
         <div class="span8">
             <h3 class="text-center">{{cht}}申報 - 富豪榜</h3>
             <p class="text-center">（監察院廉政專刊電子報目前只開放2009-05-25之後的資料）</p>
-            {% load pagination_tags %}
-            {% autopaginate objs 10 %}
-            {% paginate %}
+            {% include "common/pagination.html" with items=objs page_size=0 %}
             <table class="table table-bordered sortable" >
                 <thead>
                     <tr>
@@ -50,7 +48,7 @@
                     {% endfor %}
                 </tbody>
             </table>
-            {% paginate %}
+            {% include "common/pagination.html" with items=objs page_size=0 %}
         </div>
         <div class="span2">
         </div>

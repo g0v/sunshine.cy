@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
-import json
 from django.shortcuts import render
 from django.db.models import Count, Sum, F, Q
+
 from reports.models import Reports
 from property.models import Stock, Land, Building, Car, Cash, Deposit, Bonds, Fund, OtherBonds, Antique, Insurance, Claim, Debt, Investment
+from commontag.views import paginate
 
 
 def ranking_people_by_property(request, index):
@@ -91,6 +92,7 @@ def ranking_people_by_property(request, index):
                                              .values('report__name', 'year')\
                                              .annotate(count=Count('id'))\
                                              .order_by('-count')
+        objs = paginate(request, objs)
         return render(request, 'ranking/ranking.html', {'objs': objs, 'index': index, 'cht': attr.get(index).get('cht')})
 
 def ranking_property(request, index):
@@ -99,4 +101,5 @@ def ranking_property(request, index):
                         .values('symbol', 'year')\
                         .annotate(total=Sum('quantity'), count=Count('id'))\
                         .order_by('-total')
+    objs = paginate(request, objs)
     return render(request, 'ranking/ranking_property.html', {'objs': objs, 'index': index})

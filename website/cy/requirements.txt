@@ -18,5 +18,4 @@ elasticsearch==1.6.0
 django-haystack==2.4.0
 
 # others
-django-pagination==1.0.7
 django-debug-toolbar==1.5
