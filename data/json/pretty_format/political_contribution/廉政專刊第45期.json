@@ -3,6 +3,7 @@
         "ad": "8", 
         "balance": 42408903, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 8100, 
         "in_civil": 480000, 
         "in_individual": 27955099, 
@@ -21,12 +22,14 @@
         "out_rally": 0, 
         "out_return": 1270000, 
         "out_total": 14348178, 
-        "out_travel": 199643
+        "out_travel": 199643, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -1364797, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 5000, 
         "in_civil": 30000, 
         "in_individual": 1851800, 
@@ -45,12 +48,14 @@
         "out_rally": 0, 
         "out_return": 310000, 
         "out_total": 8698597, 
-        "out_travel": 588262
+        "out_travel": 588262, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -271776, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 0, 
@@ -69,12 +74,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 271776, 
-        "out_travel": 322
+        "out_travel": 322, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 0, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 0, 
@@ -93,12 +100,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 0, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 0, 
@@ -117,12 +126,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -720, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 13000, 
@@ -141,12 +152,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 213720, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -9082, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 17000, 
@@ -165,12 +178,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 26082, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -32036, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 237362, 
         "in_civil": 120000, 
         "in_individual": 6285352, 
@@ -189,12 +204,14 @@
         "out_rally": 616675, 
         "out_return": 100000, 
         "out_total": 8196075, 
-        "out_travel": 209494
+        "out_travel": 209494, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -1160222, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 25000, 
         "in_civil": 0, 
         "in_individual": 2566378, 
@@ -213,12 +230,14 @@
         "out_rally": 669974, 
         "out_return": 250000, 
         "out_total": 5580607, 
-        "out_travel": 121373
+        "out_travel": 121373, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 1260920, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 46200, 
         "in_civil": 680000, 
         "in_individual": 21925618, 
@@ -237,12 +256,14 @@
         "out_rally": 236995, 
         "out_return": 4685000, 
         "out_total": 51916527, 
-        "out_travel": 505004
+        "out_travel": 505004, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -22700, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 183500, 
@@ -261,12 +282,14 @@
         "out_rally": 0, 
         "out_return": 8200, 
         "out_total": 208200, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 7830423, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 5100, 
         "in_civil": 395000, 
         "in_individual": 16500647, 
@@ -285,12 +308,14 @@
         "out_rally": 561880, 
         "out_return": 1187000, 
         "out_total": 23480909, 
-        "out_travel": 6455
+        "out_travel": 6455, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 0, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 0, 
@@ -309,12 +334,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 0, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 0, 
@@ -333,12 +360,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -270184, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 182764, 
         "in_civil": 90000, 
         "in_individual": 14419608, 
@@ -357,12 +386,14 @@
         "out_rally": 2614438, 
         "out_return": 1686000, 
         "out_total": 21253305, 
-        "out_travel": 523313
+        "out_travel": 523313, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 0, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 0, 
@@ -381,12 +412,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -10829, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 30500, 
         "in_civil": 13000, 
         "in_individual": 229988, 
@@ -405,12 +438,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 285317, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -128, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 573000, 
@@ -429,12 +464,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 2153128, 
-        "out_travel": 83847
+        "out_travel": 83847, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -28983, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 130000, 
@@ -453,12 +490,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 258983, 
-        "out_travel": 39392
+        "out_travel": 39392, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 33802, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 13315, 
         "in_civil": 0, 
         "in_individual": 164300, 
@@ -477,12 +516,14 @@
         "out_rally": 15232, 
         "out_return": 0, 
         "out_total": 143824, 
-        "out_travel": 10109
+        "out_travel": 10109, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 0, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 0, 
@@ -501,12 +542,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -1797098, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 742600, 
@@ -525,12 +568,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 2739698, 
-        "out_travel": 3810
+        "out_travel": 3810, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -75177, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 1056600, 
@@ -549,12 +594,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 1302840, 
-        "out_travel": 11870
+        "out_travel": 11870, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -172386, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 215200, 
         "in_civil": 105000, 
         "in_individual": 20601830, 
@@ -573,12 +620,14 @@
         "out_rally": 942721, 
         "out_return": 1840000, 
         "out_total": 41872750, 
-        "out_travel": 812523
+        "out_travel": 812523, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -68176, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 12000, 
         "in_civil": 100000, 
         "in_individual": 6696808, 
@@ -597,12 +646,14 @@
         "out_rally": 464145, 
         "out_return": 1565000, 
         "out_total": 13288266, 
-        "out_travel": 435609
+        "out_travel": 435609, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -76, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 39500, 
@@ -621,12 +672,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 39582, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -216259, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 44800, 
         "in_civil": 0, 
         "in_individual": 2910700, 
@@ -645,12 +698,14 @@
         "out_rally": 1365425, 
         "out_return": 150000, 
         "out_total": 3724822, 
-        "out_travel": 107019
+        "out_travel": 107019, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 0, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 0, 
@@ -669,12 +724,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 0, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 0, 
@@ -693,12 +750,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -506379, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 25700, 
         "in_civil": 0, 
         "in_individual": 3328552, 
@@ -717,12 +776,14 @@
         "out_rally": 154571, 
         "out_return": 315600, 
         "out_total": 7737533, 
-        "out_travel": 171560
+        "out_travel": 171560, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -370579, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 54340, 
         "in_civil": 65000, 
         "in_individual": 1543781, 
@@ -741,12 +802,14 @@
         "out_rally": 128167, 
         "out_return": 0, 
         "out_total": 2370762, 
-        "out_travel": 10630
+        "out_travel": 10630, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 8118710, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 73200, 
         "in_civil": 268000, 
         "in_individual": 8386100, 
@@ -765,12 +828,14 @@
         "out_rally": 124405, 
         "out_return": 358600, 
         "out_total": 8639565, 
-        "out_travel": 76926
+        "out_travel": 76926, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -13491679, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 32000, 
         "in_civil": 300000, 
         "in_individual": 3601650, 
@@ -789,12 +854,14 @@
         "out_rally": 3139464, 
         "out_return": 0, 
         "out_total": 27464929, 
-        "out_travel": 3923
+        "out_travel": 3923, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -27400, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 8000, 
@@ -813,12 +880,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 35400, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 3150107, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 5000, 
         "in_civil": 50000, 
         "in_individual": 14641054, 
@@ -837,12 +906,14 @@
         "out_rally": 3644815, 
         "out_return": 161000, 
         "out_total": 24814985, 
-        "out_travel": 502675
+        "out_travel": 502675, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 0, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 0, 
@@ -861,12 +932,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -150196, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 15900, 
         "in_civil": 0, 
         "in_individual": 214900, 
@@ -885,12 +958,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 381000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -247014, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 932704, 
         "in_civil": 10000, 
         "in_individual": 12310718, 
@@ -909,12 +984,14 @@
         "out_rally": 647550, 
         "out_return": 142000, 
         "out_total": 13942236, 
-        "out_travel": 390958
+        "out_travel": 390958, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -3569814, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 38328, 
         "in_civil": 0, 
         "in_individual": 1336050, 
@@ -933,12 +1010,14 @@
         "out_rally": 279930, 
         "out_return": 0, 
         "out_total": 5593215, 
-        "out_travel": 85796
+        "out_travel": 85796, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 8623190, 
         "county": "臺北市", 
+        "election_name": "臺北市立法委員選舉", 
         "in_anonymous": 52000, 
         "in_civil": 4675000, 
         "in_individual": 14578300, 
@@ -957,12 +1036,14 @@
         "out_rally": 2327340, 
         "out_return": 920000, 
         "out_total": 18617646, 
-        "out_travel": 37527
+        "out_travel": 37527, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -139524, 
         "county": "基隆市", 
+        "election_name": "基隆市立法委員選舉", 
         "in_anonymous": 128300, 
         "in_civil": 155000, 
         "in_individual": 5385600, 
@@ -981,12 +1062,14 @@
         "out_rally": 499461, 
         "out_return": 130000, 
         "out_total": 9983601, 
-        "out_travel": 156506
+        "out_travel": 156506, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -3412079, 
         "county": "基隆市", 
+        "election_name": "基隆市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 425000, 
@@ -1005,12 +1088,14 @@
         "out_rally": 18200, 
         "out_return": 0, 
         "out_total": 4047166, 
-        "out_travel": 2295
+        "out_travel": 2295, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -6283, 
         "county": "基隆市", 
+        "election_name": "基隆市立法委員選舉", 
         "in_anonymous": 4800, 
         "in_civil": 52000, 
         "in_individual": 218900, 
@@ -1029,12 +1114,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 281990, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -466177, 
         "county": "基隆市", 
+        "election_name": "基隆市立法委員選舉", 
         "in_anonymous": 10000, 
         "in_civil": 0, 
         "in_individual": 5573600, 
@@ -1053,12 +1140,14 @@
         "out_rally": 752174, 
         "out_return": 2200000, 
         "out_total": 18350045, 
-        "out_travel": 12560
+        "out_travel": 12560, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 0, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 0, 
@@ -1077,12 +1166,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 200000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -134448, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 2000, 
@@ -1101,12 +1192,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 136448, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -6473, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 117383, 
         "in_civil": 0, 
         "in_individual": 383315, 
@@ -1125,12 +1218,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 517171, 
-        "out_travel": 37179
+        "out_travel": 37179, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -4514209, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 9100, 
         "in_civil": 92000, 
         "in_individual": 3481000, 
@@ -1149,12 +1244,14 @@
         "out_rally": 1399073, 
         "out_return": 100000, 
         "out_total": 9964481, 
-        "out_travel": 103828
+        "out_travel": 103828, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 0, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 0, 
@@ -1173,12 +1270,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -17351, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 2000, 
         "in_civil": 226000, 
         "in_individual": 8421900, 
@@ -1197,12 +1296,14 @@
         "out_rally": 2929453, 
         "out_return": 0, 
         "out_total": 16975098, 
-        "out_travel": 14499
+        "out_travel": 14499, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -78404, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 950801, 
         "in_civil": 109000, 
         "in_individual": 13720094, 
@@ -1221,12 +1322,14 @@
         "out_rally": 391754, 
         "out_return": 332800, 
         "out_total": 15507160, 
-        "out_travel": 342035
+        "out_travel": 342035, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -124470, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 13000, 
@@ -1245,12 +1348,14 @@
         "out_rally": 10000, 
         "out_return": 0, 
         "out_total": 247470, 
-        "out_travel": 734
+        "out_travel": 734, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 22253564, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 303700, 
         "in_civil": 246000, 
         "in_individual": 24298975, 
@@ -1269,12 +1374,14 @@
         "out_rally": 1433090, 
         "out_return": 1520000, 
         "out_total": 27631173, 
-        "out_travel": 772250
+        "out_travel": 772250, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -222178, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 15700, 
         "in_civil": 200000, 
         "in_individual": 6322842, 
@@ -1293,12 +1400,14 @@
         "out_rally": 4087438, 
         "out_return": 2020000, 
         "out_total": 30612722, 
-        "out_travel": 193696
+        "out_travel": 193696, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 1341927, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 10000, 
         "in_civil": 460000, 
         "in_individual": 6470000, 
@@ -1317,12 +1426,14 @@
         "out_rally": 533490, 
         "out_return": 1700000, 
         "out_total": 16279687, 
-        "out_travel": 534961
+        "out_travel": 534961, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -1986746, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 300000, 
         "in_individual": 5261636, 
@@ -1341,12 +1452,14 @@
         "out_rally": 738500, 
         "out_return": 0, 
         "out_total": 22259456, 
-        "out_travel": 78654
+        "out_travel": 78654, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -145622, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 16000, 
         "in_civil": 300000, 
         "in_individual": 3666290, 
@@ -1365,12 +1478,14 @@
         "out_rally": 352300, 
         "out_return": 20000, 
         "out_total": 5273225, 
-        "out_travel": 223356
+        "out_travel": 223356, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -670979, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 13400, 
         "in_civil": 0, 
         "in_individual": 3554000, 
@@ -1389,12 +1504,14 @@
         "out_rally": 965605, 
         "out_return": 15000, 
         "out_total": 4878633, 
-        "out_travel": 121397
+        "out_travel": 121397, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -76711, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 750000, 
@@ -1413,12 +1530,14 @@
         "out_rally": 55875, 
         "out_return": 0, 
         "out_total": 926730, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -4063443, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 372213, 
         "in_civil": 300000, 
         "in_individual": 4994460, 
@@ -1437,12 +1556,14 @@
         "out_rally": 180050, 
         "out_return": 671600, 
         "out_total": 13166724, 
-        "out_travel": 14570
+        "out_travel": 14570, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -7771, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 250, 
         "in_civil": 109000, 
         "in_individual": 6643250, 
@@ -1461,12 +1582,14 @@
         "out_rally": 1795553, 
         "out_return": 1000000, 
         "out_total": 16115652, 
-        "out_travel": 750
+        "out_travel": 750, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -1306526, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 11000, 
         "in_civil": 50000, 
         "in_individual": 5057540, 
@@ -1485,12 +1608,14 @@
         "out_rally": 966935, 
         "out_return": 537000, 
         "out_total": 11097840, 
-        "out_travel": 84182
+        "out_travel": 84182, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 1907790, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 184000, 
         "in_individual": 11737880, 
@@ -1509,12 +1634,14 @@
         "out_rally": 1510170, 
         "out_return": 320000, 
         "out_total": 18538400, 
-        "out_travel": 113863
+        "out_travel": 113863, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -194874, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 21900, 
@@ -1533,12 +1660,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 216774, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -1589353, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 26117, 
         "in_civil": 10000, 
         "in_individual": 4585488, 
@@ -1557,12 +1686,14 @@
         "out_rally": 1318641, 
         "out_return": 1200000, 
         "out_total": 11895837, 
-        "out_travel": 135791
+        "out_travel": 135791, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 0, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 0, 
@@ -1581,12 +1712,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -507937, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 216458, 
         "in_civil": 30000, 
         "in_individual": 3574778, 
@@ -1605,12 +1738,14 @@
         "out_rally": 1336327, 
         "out_return": 5000, 
         "out_total": 4501957, 
-        "out_travel": 296902
+        "out_travel": 296902, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -580126, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 52600, 
         "in_civil": 100000, 
         "in_individual": 9128600, 
@@ -1629,12 +1764,14 @@
         "out_rally": 2074450, 
         "out_return": 650000, 
         "out_total": 19797867, 
-        "out_travel": 3980
+        "out_travel": 3980, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -2675905, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 10600, 
         "in_civil": 20000, 
         "in_individual": 3420070, 
@@ -1653,12 +1790,14 @@
         "out_rally": 360740, 
         "out_return": 55000, 
         "out_total": 7744742, 
-        "out_travel": 201223
+        "out_travel": 201223, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -32417, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 158000, 
@@ -1677,12 +1816,14 @@
         "out_rally": 31340, 
         "out_return": 0, 
         "out_total": 420518, 
-        "out_travel": 13964
+        "out_travel": 13964, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -8798019, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 2000, 
         "in_civil": 250000, 
         "in_individual": 2391600, 
@@ -1701,12 +1842,14 @@
         "out_rally": 1230692, 
         "out_return": 150000, 
         "out_total": 15655550, 
-        "out_travel": 5599
+        "out_travel": 5599, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -3613230, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 140218, 
         "in_civil": 150000, 
         "in_individual": 5496177, 
@@ -1725,12 +1868,14 @@
         "out_rally": 1255993, 
         "out_return": 1080800, 
         "out_total": 12108767, 
-        "out_travel": 580
+        "out_travel": 580, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -797501, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 295563, 
         "in_civil": 0, 
         "in_individual": 3980750, 
@@ -1749,12 +1894,14 @@
         "out_rally": 115844, 
         "out_return": 0, 
         "out_total": 7031383, 
-        "out_travel": 150835
+        "out_travel": 150835, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 0, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 1500, 
         "in_civil": 0, 
         "in_individual": 0, 
@@ -1773,12 +1920,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 1500, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -9672617, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 77800, 
         "in_civil": 60000, 
         "in_individual": 3824700, 
@@ -1797,12 +1946,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 14813263, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -89159, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 29899, 
         "in_civil": 155000, 
         "in_individual": 8073200, 
@@ -1821,12 +1972,14 @@
         "out_rally": 120150, 
         "out_return": 180000, 
         "out_total": 20058445, 
-        "out_travel": 429702
+        "out_travel": 429702, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -229120, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 5000, 
         "in_civil": 0, 
         "in_individual": 20000, 
@@ -1845,12 +1998,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 254125, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 0, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 0, 
@@ -1869,12 +2024,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 200000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -5663408, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 47500, 
         "in_civil": 0, 
         "in_individual": 3615894, 
@@ -1893,12 +2050,14 @@
         "out_rally": 304482, 
         "out_return": 1040000, 
         "out_total": 13516679, 
-        "out_travel": 218637
+        "out_travel": 218637, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -4463483, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 37500, 
         "in_civil": 400000, 
         "in_individual": 7542700, 
@@ -1917,12 +2076,14 @@
         "out_rally": 2503440, 
         "out_return": 608000, 
         "out_total": 15558836, 
-        "out_travel": 357303
+        "out_travel": 357303, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 0, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 0, 
@@ -1941,12 +2102,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -1994276, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 17100, 
         "in_civil": 203000, 
         "in_individual": 3530000, 
@@ -1965,12 +2128,14 @@
         "out_rally": 1286678, 
         "out_return": 400000, 
         "out_total": 11413324, 
-        "out_travel": 161403
+        "out_travel": 161403, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 557, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 10200, 
         "in_civil": 0, 
         "in_individual": 4755192, 
@@ -1989,12 +2154,14 @@
         "out_rally": 221586, 
         "out_return": 50000, 
         "out_total": 13717345, 
-        "out_travel": 327631
+        "out_travel": 327631, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -284449, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 20100, 
         "in_civil": 450000, 
         "in_individual": 3034200, 
@@ -2013,12 +2180,14 @@
         "out_rally": 932780, 
         "out_return": 800000, 
         "out_total": 16859892, 
-        "out_travel": 59804
+        "out_travel": 59804, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -1056379, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 2200505, 
         "in_civil": 311000, 
         "in_individual": 10286204, 
@@ -2037,12 +2206,14 @@
         "out_rally": 167147, 
         "out_return": 563000, 
         "out_total": 17628148, 
-        "out_travel": 407410
+        "out_travel": 407410, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -47988, 
         "county": "新北市", 
+        "election_name": "新北市立法委員選舉", 
         "in_anonymous": 15000, 
         "in_civil": 50000, 
         "in_individual": 140500, 
@@ -2061,12 +2232,14 @@
         "out_rally": 24008, 
         "out_return": 0, 
         "out_total": 253511, 
-        "out_travel": 1512
+        "out_travel": 1512, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -1913231, 
         "county": "宜蘭縣", 
+        "election_name": "宜蘭縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 552000, 
         "in_individual": 8756000, 
@@ -2085,12 +2258,14 @@
         "out_rally": 2460046, 
         "out_return": 0, 
         "out_total": 23597599, 
-        "out_travel": 53504
+        "out_travel": 53504, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 0, 
         "county": "宜蘭縣", 
+        "election_name": "宜蘭縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 0, 
@@ -2109,12 +2284,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -2902461, 
         "county": "宜蘭縣", 
+        "election_name": "宜蘭縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 280000, 
         "in_individual": 7116100, 
@@ -2133,12 +2310,14 @@
         "out_rally": 884679, 
         "out_return": 0, 
         "out_total": 12572469, 
-        "out_travel": 290050
+        "out_travel": 290050, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -99607, 
         "county": "桃園縣", 
+        "election_name": "桃園縣立法委員選舉", 
         "in_anonymous": 3600, 
         "in_civil": 0, 
         "in_individual": 1720000, 
@@ -2157,12 +2336,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 1823359, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -10938, 
         "county": "桃園縣", 
+        "election_name": "桃園縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 30000, 
         "in_individual": 367000, 
@@ -2181,12 +2362,14 @@
         "out_rally": 0, 
         "out_return": 216000, 
         "out_total": 1231438, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -1240763, 
         "county": "桃園縣", 
+        "election_name": "桃園縣立法委員選舉", 
         "in_anonymous": 14000, 
         "in_civil": 230000, 
         "in_individual": 2572000, 
@@ -2205,12 +2388,14 @@
         "out_rally": 3892627, 
         "out_return": 160000, 
         "out_total": 8478056, 
-        "out_travel": 472675
+        "out_travel": 472675, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -11234, 
         "county": "桃園縣", 
+        "election_name": "桃園縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 427200, 
@@ -2229,12 +2414,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 538434, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -2786457, 
         "county": "桃園縣", 
+        "election_name": "桃園縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 2457100, 
@@ -2253,12 +2440,14 @@
         "out_rally": 311980, 
         "out_return": 0, 
         "out_total": 5319672, 
-        "out_travel": 37700
+        "out_travel": 37700, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 668273, 
         "county": "桃園縣", 
+        "election_name": "桃園縣立法委員選舉", 
         "in_anonymous": 5000, 
         "in_civil": 0, 
         "in_individual": 1555000, 
@@ -2277,12 +2466,14 @@
         "out_rally": 731293, 
         "out_return": 850000, 
         "out_total": 12115258, 
-        "out_travel": 488757
+        "out_travel": 488757, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -4345994, 
         "county": "桃園縣", 
+        "election_name": "桃園縣立法委員選舉", 
         "in_anonymous": 11300, 
         "in_civil": 120000, 
         "in_individual": 7955200, 
@@ -2301,12 +2492,14 @@
         "out_rally": 591880, 
         "out_return": 300000, 
         "out_total": 17347319, 
-        "out_travel": 497231
+        "out_travel": 497231, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -100774, 
         "county": "桃園縣", 
+        "election_name": "桃園縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 100000, 
@@ -2325,12 +2518,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 200774, 
-        "out_travel": 160
+        "out_travel": 160, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -1561271, 
         "county": "桃園縣", 
+        "election_name": "桃園縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 520000, 
         "in_individual": 6334300, 
@@ -2349,12 +2544,14 @@
         "out_rally": 783115, 
         "out_return": 805000, 
         "out_total": 20752836, 
-        "out_travel": 372446
+        "out_travel": 372446, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -28889, 
         "county": "桃園縣", 
+        "election_name": "桃園縣立法委員選舉", 
         "in_anonymous": 12000, 
         "in_civil": 443000, 
         "in_individual": 4937912, 
@@ -2373,12 +2570,14 @@
         "out_rally": 195600, 
         "out_return": 0, 
         "out_total": 15833801, 
-        "out_travel": 541840
+        "out_travel": 541840, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -1967465, 
         "county": "桃園縣", 
+        "election_name": "桃園縣立法委員選舉", 
         "in_anonymous": 30000, 
         "in_civil": 120000, 
         "in_individual": 1907200, 
@@ -2397,12 +2596,14 @@
         "out_rally": 175350, 
         "out_return": 651000, 
         "out_total": 5825794, 
-        "out_travel": 40199
+        "out_travel": 40199, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -2238571, 
         "county": "桃園縣", 
+        "election_name": "桃園縣立法委員選舉", 
         "in_anonymous": 4000, 
         "in_civil": 138000, 
         "in_individual": 4240400, 
@@ -2421,12 +2622,14 @@
         "out_rally": 925989, 
         "out_return": 157000, 
         "out_total": 7951743, 
-        "out_travel": 229125
+        "out_travel": 229125, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -2712508, 
         "county": "桃園縣", 
+        "election_name": "桃園縣立法委員選舉", 
         "in_anonymous": 58864, 
         "in_civil": 200000, 
         "in_individual": 4684016, 
@@ -2445,12 +2648,14 @@
         "out_rally": 707300, 
         "out_return": 120000, 
         "out_total": 10266056, 
-        "out_travel": 240343
+        "out_travel": 240343, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -18743, 
         "county": "桃園縣", 
+        "election_name": "桃園縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 694000, 
         "in_individual": 11562100, 
@@ -2469,12 +2674,14 @@
         "out_rally": 167700, 
         "out_return": 1660000, 
         "out_total": 24127741, 
-        "out_travel": 431421
+        "out_travel": 431421, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -806772, 
         "county": "桃園縣", 
+        "election_name": "桃園縣立法委員選舉", 
         "in_anonymous": 1000, 
         "in_civil": 200000, 
         "in_individual": 3404100, 
@@ -2493,12 +2700,14 @@
         "out_rally": 3405032, 
         "out_return": 60000, 
         "out_total": 19998857, 
-        "out_travel": 168554
+        "out_travel": 168554, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -2261565, 
         "county": "桃園縣", 
+        "election_name": "桃園縣立法委員選舉", 
         "in_anonymous": 26500, 
         "in_civil": 0, 
         "in_individual": 624000, 
@@ -2517,12 +2726,14 @@
         "out_rally": 131600, 
         "out_return": 0, 
         "out_total": 3162161, 
-        "out_travel": 19253
+        "out_travel": 19253, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -893789, 
         "county": "桃園縣", 
+        "election_name": "桃園縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 202000, 
@@ -2541,12 +2752,14 @@
         "out_rally": 37775, 
         "out_return": 0, 
         "out_total": 1351793, 
-        "out_travel": 50512
+        "out_travel": 50512, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -3315509, 
         "county": "桃園縣", 
+        "election_name": "桃園縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 120000, 
         "in_individual": 9756720, 
@@ -2565,12 +2778,14 @@
         "out_rally": 3473475, 
         "out_return": 1050020, 
         "out_total": 19753277, 
-        "out_travel": 210004
+        "out_travel": 210004, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -185000, 
         "county": "桃園縣", 
+        "election_name": "桃園縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 5000, 
@@ -2589,12 +2804,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 190000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -136818, 
         "county": "新竹市", 
+        "election_name": "新竹市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 273000, 
@@ -2613,12 +2830,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 509818, 
-        "out_travel": 12423
+        "out_travel": 12423, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -4035559, 
         "county": "新竹市", 
+        "election_name": "新竹市立法委員選舉", 
         "in_anonymous": 21500, 
         "in_civil": 594000, 
         "in_individual": 6626800, 
@@ -2637,12 +2856,14 @@
         "out_rally": 580066, 
         "out_return": 100000, 
         "out_total": 17466881, 
-        "out_travel": 169264
+        "out_travel": 169264, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -4588595, 
         "county": "新竹市", 
+        "election_name": "新竹市立法委員選舉", 
         "in_anonymous": 11000, 
         "in_civil": 120000, 
         "in_individual": 7501166, 
@@ -2661,12 +2882,14 @@
         "out_rally": 840068, 
         "out_return": 0, 
         "out_total": 15144097, 
-        "out_travel": 132842
+        "out_travel": 132842, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 0, 
         "county": "新竹市", 
+        "election_name": "新竹市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 0, 
@@ -2685,12 +2908,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -254330, 
         "county": "新竹市", 
+        "election_name": "新竹市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 0, 
@@ -2709,12 +2934,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 254330, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -2373984, 
         "county": "新竹縣", 
+        "election_name": "新竹縣立法委員選舉", 
         "in_anonymous": 91240, 
         "in_civil": 227000, 
         "in_individual": 7852343, 
@@ -2733,12 +2960,14 @@
         "out_rally": 8094782, 
         "out_return": 70000, 
         "out_total": 24002079, 
-        "out_travel": 1767070
+        "out_travel": 1767070, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 0, 
         "county": "新竹縣", 
+        "election_name": "新竹縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 0, 
@@ -2757,12 +2986,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 10000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -148368, 
         "county": "新竹縣", 
+        "election_name": "新竹縣立法委員選舉", 
         "in_anonymous": 48000, 
         "in_civil": 145000, 
         "in_individual": 1917600, 
@@ -2781,12 +3012,14 @@
         "out_rally": 264265, 
         "out_return": 0, 
         "out_total": 3014530, 
-        "out_travel": 171803
+        "out_travel": 171803, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -2092812, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣立法委員選舉", 
         "in_anonymous": 153800, 
         "in_civil": 0, 
         "in_individual": 1111600, 
@@ -2805,12 +3038,14 @@
         "out_rally": 147200, 
         "out_return": 0, 
         "out_total": 3803212, 
-        "out_travel": 280199
+        "out_travel": 280199, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -1462821, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣立法委員選舉", 
         "in_anonymous": 41000, 
         "in_civil": 660000, 
         "in_individual": 7871300, 
@@ -2829,12 +3064,14 @@
         "out_rally": 8746324, 
         "out_return": 1600000, 
         "out_total": 27316359, 
-        "out_travel": 139488
+        "out_travel": 139488, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -51233, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣立法委員選舉", 
         "in_anonymous": 7000, 
         "in_civil": 363000, 
         "in_individual": 7529000, 
@@ -2853,12 +3090,14 @@
         "out_rally": 3938047, 
         "out_return": 300000, 
         "out_total": 20946033, 
-        "out_travel": 845969
+        "out_travel": 845969, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -703858, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣立法委員選舉", 
         "in_anonymous": 98519, 
         "in_civil": 85000, 
         "in_individual": 3251900, 
@@ -2877,12 +3116,14 @@
         "out_rally": 715480, 
         "out_return": 0, 
         "out_total": 5165702, 
-        "out_travel": 166660
+        "out_travel": 166660, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -1033730, 
         "county": "臺中市", 
+        "election_name": "臺中市立法委員選舉", 
         "in_anonymous": 3037, 
         "in_civil": 135000, 
         "in_individual": 5666785, 
@@ -2901,12 +3142,14 @@
         "out_rally": 642577, 
         "out_return": 0, 
         "out_total": 14601689, 
-        "out_travel": 58268
+        "out_travel": 58268, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 0, 
         "county": "臺中市", 
+        "election_name": "臺中市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 0, 
@@ -2925,12 +3168,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -499962, 
         "county": "臺中市", 
+        "election_name": "臺中市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 181000, 
         "in_individual": 9761400, 
@@ -2949,12 +3194,14 @@
         "out_rally": 1720864, 
         "out_return": 0, 
         "out_total": 12527621, 
-        "out_travel": 92540
+        "out_travel": 92540, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -2191046, 
         "county": "臺中市", 
+        "election_name": "臺中市立法委員選舉", 
         "in_anonymous": 9200, 
         "in_civil": 85000, 
         "in_individual": 1767836, 
@@ -2973,12 +3220,14 @@
         "out_rally": 63950, 
         "out_return": 0, 
         "out_total": 4433190, 
-        "out_travel": 8843
+        "out_travel": 8843, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -2685116, 
         "county": "臺中市", 
+        "election_name": "臺中市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 326000, 
@@ -2997,12 +3246,14 @@
         "out_rally": 154791, 
         "out_return": 0, 
         "out_total": 3224115, 
-        "out_travel": 137788
+        "out_travel": 137788, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 0, 
         "county": "臺中市", 
+        "election_name": "臺中市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 0, 
@@ -3021,12 +3272,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -1271357, 
         "county": "臺中市", 
+        "election_name": "臺中市立法委員選舉", 
         "in_anonymous": 287392, 
         "in_civil": 526000, 
         "in_individual": 19558027, 
@@ -3045,12 +3298,14 @@
         "out_rally": 2662718, 
         "out_return": 765000, 
         "out_total": 28672905, 
-        "out_travel": 237424
+        "out_travel": 237424, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 0, 
         "county": "臺中市", 
+        "election_name": "臺中市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 0, 
@@ -3069,12 +3324,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -2507749, 
         "county": "臺中市", 
+        "election_name": "臺中市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 1080500, 
@@ -3093,12 +3350,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 3808268, 
-        "out_travel": 239225
+        "out_travel": 239225, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 3859358, 
         "county": "臺中市", 
+        "election_name": "臺中市立法委員選舉", 
         "in_anonymous": 24000, 
         "in_civil": 203000, 
         "in_individual": 15886378, 
@@ -3117,12 +3376,14 @@
         "out_rally": 309852, 
         "out_return": 303000, 
         "out_total": 17501363, 
-        "out_travel": 422633
+        "out_travel": 422633, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -1741190, 
         "county": "臺中市", 
+        "election_name": "臺中市立法委員選舉", 
         "in_anonymous": 18000, 
         "in_civil": 385000, 
         "in_individual": 10716200, 
@@ -3141,12 +3402,14 @@
         "out_rally": 1163705, 
         "out_return": 200000, 
         "out_total": 17863127, 
-        "out_travel": 454132
+        "out_travel": 454132, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -1597929, 
         "county": "臺中市", 
+        "election_name": "臺中市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 75000, 
         "in_individual": 1104600, 
@@ -3165,12 +3428,14 @@
         "out_rally": 222460, 
         "out_return": 0, 
         "out_total": 6777758, 
-        "out_travel": 19003
+        "out_travel": 19003, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -1540122, 
         "county": "臺中市", 
+        "election_name": "臺中市立法委員選舉", 
         "in_anonymous": 4000, 
         "in_civil": 110000, 
         "in_individual": 3658000, 
@@ -3189,12 +3454,14 @@
         "out_rally": 371196, 
         "out_return": 150000, 
         "out_total": 5782182, 
-        "out_travel": 62723
+        "out_travel": 62723, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -560780, 
         "county": "臺中市", 
+        "election_name": "臺中市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 400000, 
@@ -3213,12 +3480,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 960780, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -7881439, 
         "county": "臺中市", 
+        "election_name": "臺中市立法委員選舉", 
         "in_anonymous": 79000, 
         "in_civil": 75000, 
         "in_individual": 4044711, 
@@ -3237,12 +3506,14 @@
         "out_rally": 1572710, 
         "out_return": 200000, 
         "out_total": 12670500, 
-        "out_travel": 12763
+        "out_travel": 12763, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 1510570, 
         "county": "臺中市", 
+        "election_name": "臺中市立法委員選舉", 
         "in_anonymous": 267640, 
         "in_civil": 510000, 
         "in_individual": 15089168, 
@@ -3261,12 +3532,14 @@
         "out_rally": 6400, 
         "out_return": 970000, 
         "out_total": 29354176, 
-        "out_travel": 359668
+        "out_travel": 359668, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -220000, 
         "county": "臺中市", 
+        "election_name": "臺中市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 0, 
@@ -3285,12 +3558,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 220000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -2720140, 
         "county": "臺中市", 
+        "election_name": "臺中市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 321000, 
         "in_individual": 17464500, 
@@ -3309,12 +3584,14 @@
         "out_rally": 3191576, 
         "out_return": 1681000, 
         "out_total": 37735577, 
-        "out_travel": 111698
+        "out_travel": 111698, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -2022575, 
         "county": "臺中市", 
+        "election_name": "臺中市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 54900, 
         "in_individual": 2475800, 
@@ -3333,12 +3610,14 @@
         "out_rally": 21000, 
         "out_return": 0, 
         "out_total": 6553275, 
-        "out_travel": 254850
+        "out_travel": 254850, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 6241881, 
         "county": "臺中市", 
+        "election_name": "臺中市立法委員選舉", 
         "in_anonymous": 15500, 
         "in_civil": 135000, 
         "in_individual": 13455138, 
@@ -3357,12 +3636,14 @@
         "out_rally": 1330345, 
         "out_return": 0, 
         "out_total": 15401970, 
-        "out_travel": 681253
+        "out_travel": 681253, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -925, 
         "county": "臺中市", 
+        "election_name": "臺中市立法委員選舉", 
         "in_anonymous": 25000, 
         "in_civil": 0, 
         "in_individual": 160800, 
@@ -3381,12 +3662,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 188725, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -860396, 
         "county": "臺中市", 
+        "election_name": "臺中市立法委員選舉", 
         "in_anonymous": 3000, 
         "in_civil": 516000, 
         "in_individual": 9252400, 
@@ -3405,12 +3688,14 @@
         "out_rally": 1211790, 
         "out_return": 0, 
         "out_total": 18948075, 
-        "out_travel": 226132
+        "out_travel": 226132, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -302735, 
         "county": "臺中市", 
+        "election_name": "臺中市立法委員選舉", 
         "in_anonymous": 65423, 
         "in_civil": 125000, 
         "in_individual": 6285000, 
@@ -3429,12 +3714,14 @@
         "out_rally": 1094673, 
         "out_return": 2210000, 
         "out_total": 24246387, 
-        "out_travel": 142797
+        "out_travel": 142797, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 2254922, 
         "county": "臺中市", 
+        "election_name": "臺中市立法委員選舉", 
         "in_anonymous": 5115, 
         "in_civil": 419600, 
         "in_individual": 15329428, 
@@ -3453,12 +3740,14 @@
         "out_rally": 917449, 
         "out_return": 1903000, 
         "out_total": 30207624, 
-        "out_travel": 305226
+        "out_travel": 305226, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -560141, 
         "county": "臺中市", 
+        "election_name": "臺中市立法委員選舉", 
         "in_anonymous": 27000, 
         "in_civil": 279600, 
         "in_individual": 6127250, 
@@ -3477,12 +3766,14 @@
         "out_rally": 478284, 
         "out_return": 0, 
         "out_total": 8546826, 
-        "out_travel": 114475
+        "out_travel": 114475, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -69, 
         "county": "臺中市", 
+        "election_name": "臺中市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 60000, 
@@ -3501,12 +3792,14 @@
         "out_rally": 0, 
         "out_return": 60000, 
         "out_total": 60088, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 14165273, 
         "county": "臺中市", 
+        "election_name": "臺中市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 961000, 
         "in_individual": 10943560, 
@@ -3525,12 +3818,14 @@
         "out_rally": 270380, 
         "out_return": 2200000, 
         "out_total": 15479122, 
-        "out_travel": 538697
+        "out_travel": 538697, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -377325, 
         "county": "彰化縣", 
+        "election_name": "彰化縣立法委員選舉", 
         "in_anonymous": 53681, 
         "in_civil": 123000, 
         "in_individual": 12470600, 
@@ -3549,12 +3844,14 @@
         "out_rally": 927500, 
         "out_return": 1180000, 
         "out_total": 30270191, 
-        "out_travel": 1265297
+        "out_travel": 1265297, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -170243, 
         "county": "彰化縣", 
+        "election_name": "彰化縣立法委員選舉", 
         "in_anonymous": 11000, 
         "in_civil": 100000, 
         "in_individual": 5056115, 
@@ -3573,12 +3870,14 @@
         "out_rally": 354618, 
         "out_return": 140000, 
         "out_total": 6770144, 
-        "out_travel": 66331
+        "out_travel": 66331, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 0, 
         "county": "彰化縣", 
+        "election_name": "彰化縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 0, 
@@ -3597,12 +3896,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -14816926, 
         "county": "彰化縣", 
+        "election_name": "彰化縣立法委員選舉", 
         "in_anonymous": 1500, 
         "in_civil": 0, 
         "in_individual": 4000945, 
@@ -3621,12 +3922,14 @@
         "out_rally": 699586, 
         "out_return": 586000, 
         "out_total": 25585704, 
-        "out_travel": 782628
+        "out_travel": 782628, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 8764999, 
         "county": "彰化縣", 
+        "election_name": "彰化縣立法委員選舉", 
         "in_anonymous": 1100, 
         "in_civil": 1720000, 
         "in_individual": 9131200, 
@@ -3645,12 +3948,14 @@
         "out_rally": 860905, 
         "out_return": 438000, 
         "out_total": 16855000, 
-        "out_travel": 613359
+        "out_travel": 613359, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -11100, 
         "county": "彰化縣", 
+        "election_name": "彰化縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 12000, 
@@ -3669,12 +3974,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 32100, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -187520, 
         "county": "彰化縣", 
+        "election_name": "彰化縣立法委員選舉", 
         "in_anonymous": 9200, 
         "in_civil": 100000, 
         "in_individual": 2104800, 
@@ -3693,12 +4000,14 @@
         "out_rally": 16000, 
         "out_return": 0, 
         "out_total": 3972561, 
-        "out_travel": 250348
+        "out_travel": 250348, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -263584, 
         "county": "彰化縣", 
+        "election_name": "彰化縣立法委員選舉", 
         "in_anonymous": 15000, 
         "in_civil": 105000, 
         "in_individual": 3752317, 
@@ -3717,12 +4026,14 @@
         "out_rally": 168400, 
         "out_return": 30000, 
         "out_total": 5239995, 
-        "out_travel": 71322
+        "out_travel": 71322, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -805620, 
         "county": "彰化縣", 
+        "election_name": "彰化縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 100000, 
@@ -3741,12 +4052,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 905620, 
-        "out_travel": 29952
+        "out_travel": 29952, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -763106, 
         "county": "彰化縣", 
+        "election_name": "彰化縣立法委員選舉", 
         "in_anonymous": 1000, 
         "in_civil": 150000, 
         "in_individual": 9653000, 
@@ -3765,12 +4078,14 @@
         "out_rally": 5468085, 
         "out_return": 400000, 
         "out_total": 18700931, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -233130, 
         "county": "彰化縣", 
+        "election_name": "彰化縣立法委員選舉", 
         "in_anonymous": 11000, 
         "in_civil": 0, 
         "in_individual": 1706500, 
@@ -3789,12 +4104,14 @@
         "out_rally": 2484795, 
         "out_return": 90000, 
         "out_total": 5731266, 
-        "out_travel": 2520
+        "out_travel": 2520, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -795746, 
         "county": "彰化縣", 
+        "election_name": "彰化縣立法委員選舉", 
         "in_anonymous": 23500, 
         "in_civil": 100000, 
         "in_individual": 5688617, 
@@ -3813,12 +4130,14 @@
         "out_rally": 1062570, 
         "out_return": 20000, 
         "out_total": 8468248, 
-        "out_travel": 107453
+        "out_travel": 107453, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -796065, 
         "county": "南投縣", 
+        "election_name": "南投縣立法委員選舉", 
         "in_anonymous": 13000, 
         "in_civil": 28600, 
         "in_individual": 1882066, 
@@ -3837,12 +4156,14 @@
         "out_rally": 178228, 
         "out_return": 0, 
         "out_total": 2921770, 
-        "out_travel": 165201
+        "out_travel": 165201, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 1919416, 
         "county": "南投縣", 
+        "election_name": "南投縣立法委員選舉", 
         "in_anonymous": 22600, 
         "in_civil": 160000, 
         "in_individual": 7612000, 
@@ -3861,12 +4182,14 @@
         "out_rally": 123300, 
         "out_return": 1366000, 
         "out_total": 16396470, 
-        "out_travel": 226869
+        "out_travel": 226869, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 2690868, 
         "county": "南投縣", 
+        "election_name": "南投縣立法委員選舉", 
         "in_anonymous": 1000, 
         "in_civil": 600000, 
         "in_individual": 4409488, 
@@ -3885,12 +4208,14 @@
         "out_rally": 203500, 
         "out_return": 670000, 
         "out_total": 8071837, 
-        "out_travel": 396439
+        "out_travel": 396439, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -263770, 
         "county": "南投縣", 
+        "election_name": "南投縣立法委員選舉", 
         "in_anonymous": 29399, 
         "in_civil": 600000, 
         "in_individual": 3062580, 
@@ -3909,12 +4234,14 @@
         "out_rally": 303826, 
         "out_return": 200000, 
         "out_total": 5515749, 
-        "out_travel": 380840
+        "out_travel": 380840, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -138435, 
         "county": "南投縣", 
+        "election_name": "南投縣立法委員選舉", 
         "in_anonymous": 1200, 
         "in_civil": 100000, 
         "in_individual": 1817999, 
@@ -3933,12 +4260,14 @@
         "out_rally": 498375, 
         "out_return": 0, 
         "out_total": 2744819, 
-        "out_travel": 51678
+        "out_travel": 51678, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -123133, 
         "county": "嘉義市", 
+        "election_name": "嘉義市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 180000, 
         "in_individual": 3129850, 
@@ -3957,12 +4286,14 @@
         "out_rally": 1764002, 
         "out_return": 205000, 
         "out_total": 9165275, 
-        "out_travel": 79439
+        "out_travel": 79439, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -2134445, 
         "county": "嘉義市", 
+        "election_name": "嘉義市立法委員選舉", 
         "in_anonymous": 19500, 
         "in_civil": 190000, 
         "in_individual": 10549954, 
@@ -3981,12 +4312,14 @@
         "out_rally": 1256270, 
         "out_return": 428000, 
         "out_total": 13934075, 
-        "out_travel": 270569
+        "out_travel": 270569, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 13991894, 
         "county": "嘉義縣", 
+        "election_name": "嘉義縣立法委員選舉", 
         "in_anonymous": 37000, 
         "in_civil": 150000, 
         "in_individual": 16880600, 
@@ -4005,12 +4338,14 @@
         "out_rally": 876246, 
         "out_return": 1345000, 
         "out_total": 19352130, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -3556028, 
         "county": "嘉義縣", 
+        "election_name": "嘉義縣立法委員選舉", 
         "in_anonymous": 12940, 
         "in_civil": 100000, 
         "in_individual": 5754236, 
@@ -4029,12 +4364,14 @@
         "out_rally": 126640, 
         "out_return": 50060, 
         "out_total": 15615810, 
-        "out_travel": 34301
+        "out_travel": 34301, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 1534165, 
         "county": "嘉義縣", 
+        "election_name": "嘉義縣立法委員選舉", 
         "in_anonymous": 109117, 
         "in_civil": 310000, 
         "in_individual": 10490488, 
@@ -4053,12 +4390,14 @@
         "out_rally": 3725506, 
         "out_return": 1535000, 
         "out_total": 18127026, 
-        "out_travel": 411442
+        "out_travel": 411442, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -3370648, 
         "county": "嘉義縣", 
+        "election_name": "嘉義縣立法委員選舉", 
         "in_anonymous": 52600, 
         "in_civil": 110000, 
         "in_individual": 4890320, 
@@ -4077,12 +4416,14 @@
         "out_rally": 1492770, 
         "out_return": 0, 
         "out_total": 10673592, 
-        "out_travel": 373809
+        "out_travel": 373809, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -75470, 
         "county": "雲林縣", 
+        "election_name": "雲林縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 100000, 
@@ -4101,12 +4442,14 @@
         "out_rally": 1250, 
         "out_return": 0, 
         "out_total": 175470, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 583824, 
         "county": "雲林縣", 
+        "election_name": "雲林縣立法委員選舉", 
         "in_anonymous": 197700, 
         "in_civil": 120000, 
         "in_individual": 6756100, 
@@ -4125,12 +4468,14 @@
         "out_rally": 0, 
         "out_return": 600000, 
         "out_total": 11654910, 
-        "out_travel": 3880
+        "out_travel": 3880, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -1462280, 
         "county": "雲林縣", 
+        "election_name": "雲林縣立法委員選舉", 
         "in_anonymous": 5000, 
         "in_civil": 2103000, 
         "in_individual": 8022100, 
@@ -4149,12 +4494,14 @@
         "out_rally": 4141300, 
         "out_return": 1086000, 
         "out_total": 21415987, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -724282, 
         "county": "雲林縣", 
+        "election_name": "雲林縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 320000, 
         "in_individual": 5627388, 
@@ -4173,12 +4520,14 @@
         "out_rally": 239251, 
         "out_return": 1009200, 
         "out_total": 16141096, 
-        "out_travel": 317680
+        "out_travel": 317680, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 0, 
         "county": "雲林縣", 
+        "election_name": "雲林縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 150000, 
@@ -4197,12 +4546,14 @@
         "out_rally": 0, 
         "out_return": 150000, 
         "out_total": 150000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -678369, 
         "county": "雲林縣", 
+        "election_name": "雲林縣立法委員選舉", 
         "in_anonymous": 16240, 
         "in_civil": 70000, 
         "in_individual": 9688401, 
@@ -4221,12 +4572,14 @@
         "out_rally": 3134602, 
         "out_return": 60000, 
         "out_total": 14731811, 
-        "out_travel": 142945
+        "out_travel": 142945, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -1777209, 
         "county": "臺南市", 
+        "election_name": "臺南市立法委員選舉", 
         "in_anonymous": 26500, 
         "in_civil": 100000, 
         "in_individual": 6078100, 
@@ -4245,12 +4598,14 @@
         "out_rally": 1753787, 
         "out_return": 940000, 
         "out_total": 20926283, 
-        "out_travel": 565599
+        "out_travel": 565599, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -72716, 
         "county": "臺南市", 
+        "election_name": "臺南市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 3443100, 
@@ -4269,12 +4624,14 @@
         "out_rally": 569059, 
         "out_return": 0, 
         "out_total": 3665826, 
-        "out_travel": 1420
+        "out_travel": 1420, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -243518, 
         "county": "臺南市", 
+        "election_name": "臺南市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 1557000, 
@@ -4293,12 +4650,14 @@
         "out_rally": 118050, 
         "out_return": 100000, 
         "out_total": 5360518, 
-        "out_travel": 250417
+        "out_travel": 250417, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -10022, 
         "county": "臺南市", 
+        "election_name": "臺南市立法委員選舉", 
         "in_anonymous": 3000, 
         "in_civil": 0, 
         "in_individual": 132500, 
@@ -4317,12 +4676,14 @@
         "out_rally": 0, 
         "out_return": 1000, 
         "out_total": 145522, 
-        "out_travel": 2250
+        "out_travel": 2250, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -373000, 
         "county": "臺南市", 
+        "election_name": "臺南市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 50000, 
@@ -4341,12 +4702,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 423000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 7239363, 
         "county": "臺南市", 
+        "election_name": "臺南市立法委員選舉", 
         "in_anonymous": 62300, 
         "in_civil": 40000, 
         "in_individual": 11746428, 
@@ -4365,12 +4728,14 @@
         "out_rally": 377300, 
         "out_return": 315000, 
         "out_total": 11927579, 
-        "out_travel": 242173
+        "out_travel": 242173, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 2240082, 
         "county": "臺南市", 
+        "election_name": "臺南市立法委員選舉", 
         "in_anonymous": 86911, 
         "in_civil": 144000, 
         "in_individual": 13273772, 
@@ -4389,12 +4754,14 @@
         "out_rally": 1298748, 
         "out_return": 732000, 
         "out_total": 17836092, 
-        "out_travel": 272850
+        "out_travel": 272850, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -403537, 
         "county": "臺南市", 
+        "election_name": "臺南市立法委員選舉", 
         "in_anonymous": 5000, 
         "in_civil": 120000, 
         "in_individual": 6600600, 
@@ -4413,12 +4780,14 @@
         "out_rally": 2025420, 
         "out_return": 405000, 
         "out_total": 12815950, 
-        "out_travel": 232087
+        "out_travel": 232087, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 0, 
         "county": "臺南市", 
+        "election_name": "臺南市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 0, 
@@ -4437,12 +4806,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -200983, 
         "county": "臺南市", 
+        "election_name": "臺南市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 125000, 
         "in_individual": 6059800, 
@@ -4461,12 +4832,14 @@
         "out_rally": 259950, 
         "out_return": 0, 
         "out_total": 11651218, 
-        "out_travel": 1092232
+        "out_travel": 1092232, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 3638906, 
         "county": "臺南市", 
+        "election_name": "臺南市立法委員選舉", 
         "in_anonymous": 43700, 
         "in_civil": 723000, 
         "in_individual": 6277536, 
@@ -4485,12 +4858,14 @@
         "out_rally": 1243161, 
         "out_return": 222700, 
         "out_total": 7198490, 
-        "out_travel": 203440
+        "out_travel": 203440, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -152651, 
         "county": "臺南市", 
+        "election_name": "臺南市立法委員選舉", 
         "in_anonymous": 86142, 
         "in_civil": 0, 
         "in_individual": 2519588, 
@@ -4509,12 +4884,14 @@
         "out_rally": 17980, 
         "out_return": 0, 
         "out_total": 7909393, 
-        "out_travel": 149300
+        "out_travel": 149300, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -1903323, 
         "county": "臺南市", 
+        "election_name": "臺南市立法委員選舉", 
         "in_anonymous": 34000, 
         "in_civil": 0, 
         "in_individual": 5885112, 
@@ -4533,12 +4910,14 @@
         "out_rally": 4769284, 
         "out_return": 60000, 
         "out_total": 17412770, 
-        "out_travel": 198228
+        "out_travel": 198228, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -26887, 
         "county": "臺南市", 
+        "election_name": "臺南市立法委員選舉", 
         "in_anonymous": 210995, 
         "in_civil": 0, 
         "in_individual": 8424545, 
@@ -4557,12 +4936,14 @@
         "out_rally": 3085858, 
         "out_return": 130000, 
         "out_total": 18906421, 
-        "out_travel": 136026
+        "out_travel": 136026, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -335074, 
         "county": "高雄市", 
+        "election_name": "高雄市立法委員選舉", 
         "in_anonymous": 10000, 
         "in_civil": 936000, 
         "in_individual": 6135780, 
@@ -4581,12 +4962,14 @@
         "out_rally": 379738, 
         "out_return": 60000, 
         "out_total": 14147008, 
-        "out_travel": 211001
+        "out_travel": 211001, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -1335761, 
         "county": "高雄市", 
+        "election_name": "高雄市立法委員選舉", 
         "in_anonymous": 546000, 
         "in_civil": 388000, 
         "in_individual": 16951800, 
@@ -4605,12 +4988,14 @@
         "out_rally": 1672286, 
         "out_return": 545000, 
         "out_total": 24272470, 
-        "out_travel": 322195
+        "out_travel": 322195, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 0, 
         "county": "高雄市", 
+        "election_name": "高雄市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 0, 
@@ -4629,12 +5014,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -1906381, 
         "county": "高雄市", 
+        "election_name": "高雄市立法委員選舉", 
         "in_anonymous": 1100, 
         "in_civil": 676000, 
         "in_individual": 15207110, 
@@ -4653,12 +5040,14 @@
         "out_rally": 1846350, 
         "out_return": 635000, 
         "out_total": 27818484, 
-        "out_travel": 366000
+        "out_travel": 366000, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -820052, 
         "county": "高雄市", 
+        "election_name": "高雄市立法委員選舉", 
         "in_anonymous": 82000, 
         "in_civil": 990000, 
         "in_individual": 9510500, 
@@ -4677,12 +5066,14 @@
         "out_rally": 4883970, 
         "out_return": 1270000, 
         "out_total": 30219603, 
-        "out_travel": 842010
+        "out_travel": 842010, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -3935186, 
         "county": "高雄市", 
+        "election_name": "高雄市立法委員選舉", 
         "in_anonymous": 3300, 
         "in_civil": 176000, 
         "in_individual": 2330550, 
@@ -4701,12 +5092,14 @@
         "out_rally": 889127, 
         "out_return": 50000, 
         "out_total": 16526779, 
-        "out_travel": 24820
+        "out_travel": 24820, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -2148135, 
         "county": "高雄市", 
+        "election_name": "高雄市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 1000, 
@@ -4725,12 +5118,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 2149135, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -5087977, 
         "county": "高雄市", 
+        "election_name": "高雄市立法委員選舉", 
         "in_anonymous": 35800, 
         "in_civil": 308000, 
         "in_individual": 5498488, 
@@ -4749,12 +5144,14 @@
         "out_rally": 285932, 
         "out_return": 890000, 
         "out_total": 13586751, 
-        "out_travel": 202090
+        "out_travel": 202090, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -95277, 
         "county": "高雄市", 
+        "election_name": "高雄市立法委員選舉", 
         "in_anonymous": 23348, 
         "in_civil": 0, 
         "in_individual": 294030, 
@@ -4773,12 +5170,14 @@
         "out_rally": 16000, 
         "out_return": 10000, 
         "out_total": 422678, 
-        "out_travel": 28488
+        "out_travel": 28488, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -1143506, 
         "county": "高雄市", 
+        "election_name": "高雄市立法委員選舉", 
         "in_anonymous": 24913, 
         "in_civil": 10000, 
         "in_individual": 187200, 
@@ -4797,12 +5196,14 @@
         "out_rally": 356873, 
         "out_return": 0, 
         "out_total": 4866244, 
-        "out_travel": 440914
+        "out_travel": 440914, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -919694, 
         "county": "高雄市", 
+        "election_name": "高雄市立法委員選舉", 
         "in_anonymous": 50500, 
         "in_civil": 216000, 
         "in_individual": 6505612, 
@@ -4821,12 +5222,14 @@
         "out_rally": 2115436, 
         "out_return": 0, 
         "out_total": 11111903, 
-        "out_travel": 261741
+        "out_travel": 261741, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -6134269, 
         "county": "高雄市", 
+        "election_name": "高雄市立法委員選舉", 
         "in_anonymous": 34000, 
         "in_civil": 792000, 
         "in_individual": 6384600, 
@@ -4845,12 +5248,14 @@
         "out_rally": 1343719, 
         "out_return": 3150000, 
         "out_total": 27175369, 
-        "out_travel": 799213
+        "out_travel": 799213, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -149227, 
         "county": "高雄市", 
+        "election_name": "高雄市立法委員選舉", 
         "in_anonymous": 7200, 
         "in_civil": 750000, 
         "in_individual": 8558000, 
@@ -4869,12 +5274,14 @@
         "out_rally": 1707000, 
         "out_return": 1061000, 
         "out_total": 15005809, 
-        "out_travel": 846969
+        "out_travel": 846969, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -5977922, 
         "county": "高雄市", 
+        "election_name": "高雄市立法委員選舉", 
         "in_anonymous": 9600, 
         "in_civil": 1345200, 
         "in_individual": 17003700, 
@@ -4893,12 +5300,14 @@
         "out_rally": 6320250, 
         "out_return": 850000, 
         "out_total": 44807586, 
-        "out_travel": 101701
+        "out_travel": 101701, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -257465, 
         "county": "高雄市", 
+        "election_name": "高雄市立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 1000000, 
@@ -4917,12 +5326,14 @@
         "out_rally": 247576, 
         "out_return": 1000000, 
         "out_total": 5257769, 
-        "out_travel": 82487
+        "out_travel": 82487, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -91146, 
         "county": "高雄市", 
+        "election_name": "高雄市立法委員選舉", 
         "in_anonymous": 55306, 
         "in_civil": 756000, 
         "in_individual": 6299380, 
@@ -4941,12 +5352,14 @@
         "out_rally": 833870, 
         "out_return": 1150000, 
         "out_total": 12274198, 
-        "out_travel": 80500
+        "out_travel": 80500, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -2608105, 
         "county": "高雄市", 
+        "election_name": "高雄市立法委員選舉", 
         "in_anonymous": 100, 
         "in_civil": 555200, 
         "in_individual": 4047902, 
@@ -4965,12 +5378,14 @@
         "out_rally": 495498, 
         "out_return": 205000, 
         "out_total": 10601421, 
-        "out_travel": 222044
+        "out_travel": 222044, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -199, 
         "county": "高雄市", 
+        "election_name": "高雄市立法委員選舉", 
         "in_anonymous": 186986, 
         "in_civil": 0, 
         "in_individual": 11012224, 
@@ -4989,12 +5404,14 @@
         "out_rally": 756138, 
         "out_return": 10000, 
         "out_total": 11338487, 
-        "out_travel": 102141
+        "out_travel": 102141, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -921106, 
         "county": "高雄市", 
+        "election_name": "高雄市立法委員選舉", 
         "in_anonymous": 21500, 
         "in_civil": 1932500, 
         "in_individual": 17577816, 
@@ -5013,12 +5430,14 @@
         "out_rally": 4155709, 
         "out_return": 582000, 
         "out_total": 34602754, 
-        "out_travel": 249563
+        "out_travel": 249563, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 2437328, 
         "county": "高雄市", 
+        "election_name": "高雄市立法委員選舉", 
         "in_anonymous": 2975139, 
         "in_civil": 827200, 
         "in_individual": 14051328, 
@@ -5037,12 +5456,14 @@
         "out_rally": 3081699, 
         "out_return": 1755000, 
         "out_total": 25802058, 
-        "out_travel": 476307
+        "out_travel": 476307, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 1160117, 
         "county": "高雄市", 
+        "election_name": "高雄市立法委員選舉", 
         "in_anonymous": 219599, 
         "in_civil": 236000, 
         "in_individual": 18003958, 
@@ -5061,12 +5482,14 @@
         "out_rally": 3232745, 
         "out_return": 330000, 
         "out_total": 23511329, 
-        "out_travel": 236163
+        "out_travel": 236163, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -1265232, 
         "county": "高雄市", 
+        "election_name": "高雄市立法委員選舉", 
         "in_anonymous": 82350, 
         "in_civil": 0, 
         "in_individual": 333000, 
@@ -5085,12 +5508,14 @@
         "out_rally": 173626, 
         "out_return": 200000, 
         "out_total": 2680606, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -161099, 
         "county": "高雄市", 
+        "election_name": "高雄市立法委員選舉", 
         "in_anonymous": 99000, 
         "in_civil": 510000, 
         "in_individual": 6182300, 
@@ -5109,12 +5534,14 @@
         "out_rally": 1009685, 
         "out_return": 202000, 
         "out_total": 17835217, 
-        "out_travel": 982776
+        "out_travel": 982776, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -1991982, 
         "county": "高雄市", 
+        "election_name": "高雄市立法委員選舉", 
         "in_anonymous": 60900, 
         "in_civil": 916000, 
         "in_individual": 8887500, 
@@ -5133,12 +5560,14 @@
         "out_rally": 659390, 
         "out_return": 1550000, 
         "out_total": 19665382, 
-        "out_travel": 400787
+        "out_travel": 400787, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -7850873, 
         "county": "屏東縣", 
+        "election_name": "屏東縣立法委員選舉", 
         "in_anonymous": 4000, 
         "in_civil": 646000, 
         "in_individual": 6817600, 
@@ -5157,12 +5586,14 @@
         "out_rally": 2179413, 
         "out_return": 529000, 
         "out_total": 23727862, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -393199, 
         "county": "屏東縣", 
+        "election_name": "屏東縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 275000, 
         "in_individual": 5082400, 
@@ -5181,12 +5612,14 @@
         "out_rally": 704805, 
         "out_return": 130000, 
         "out_total": 6810799, 
-        "out_travel": 1620
+        "out_travel": 1620, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -24557, 
         "county": "屏東縣", 
+        "election_name": "屏東縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 50000, 
         "in_individual": 869000, 
@@ -5205,12 +5638,14 @@
         "out_rally": 494680, 
         "out_return": 0, 
         "out_total": 3089557, 
-        "out_travel": 404751
+        "out_travel": 404751, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 4038826, 
         "county": "屏東縣", 
+        "election_name": "屏東縣立法委員選舉", 
         "in_anonymous": 500, 
         "in_civil": 56000, 
         "in_individual": 12036600, 
@@ -5229,12 +5664,14 @@
         "out_rally": 615038, 
         "out_return": 340000, 
         "out_total": 14602089, 
-        "out_travel": 354345
+        "out_travel": 354345, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -2516376, 
         "county": "屏東縣", 
+        "election_name": "屏東縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 66000, 
         "in_individual": 312000, 
@@ -5253,12 +5690,14 @@
         "out_rally": 1076784, 
         "out_return": 0, 
         "out_total": 6295014, 
-        "out_travel": 310777
+        "out_travel": 310777, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -99455, 
         "county": "屏東縣", 
+        "election_name": "屏東縣立法委員選舉", 
         "in_anonymous": 11000, 
         "in_civil": 259000, 
         "in_individual": 2622500, 
@@ -5277,12 +5716,14 @@
         "out_rally": 819500, 
         "out_return": 315500, 
         "out_total": 11167807, 
-        "out_travel": 336284
+        "out_travel": 336284, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 2863552, 
         "county": "屏東縣", 
+        "election_name": "屏東縣立法委員選舉", 
         "in_anonymous": 60000, 
         "in_civil": 292000, 
         "in_individual": 16842500, 
@@ -5301,12 +5742,14 @@
         "out_rally": 6208337, 
         "out_return": 780000, 
         "out_total": 21105320, 
-        "out_travel": 1342863
+        "out_travel": 1342863, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -2202649, 
         "county": "屏東縣", 
+        "election_name": "屏東縣立法委員選舉", 
         "in_anonymous": 119800, 
         "in_civil": 56000, 
         "in_individual": 5776816, 
@@ -5325,12 +5768,14 @@
         "out_rally": 1182562, 
         "out_return": 186000, 
         "out_total": 13553391, 
-        "out_travel": 253155
+        "out_travel": 253155, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -935581, 
         "county": "花蓮縣", 
+        "election_name": "花蓮縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 80000, 
         "in_individual": 2406000, 
@@ -5349,12 +5794,14 @@
         "out_rally": 1214201, 
         "out_return": 650000, 
         "out_total": 11507447, 
-        "out_travel": 125243
+        "out_travel": 125243, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -455515, 
         "county": "花蓮縣", 
+        "election_name": "花蓮縣立法委員選舉", 
         "in_anonymous": 146000, 
         "in_civil": 160000, 
         "in_individual": 679000, 
@@ -5373,12 +5820,14 @@
         "out_rally": 176378, 
         "out_return": 0, 
         "out_total": 1790515, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -877292, 
         "county": "花蓮縣", 
+        "election_name": "花蓮縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 523100, 
@@ -5397,12 +5846,14 @@
         "out_rally": 54100, 
         "out_return": 0, 
         "out_total": 1433392, 
-        "out_travel": 71091
+        "out_travel": 71091, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -2178, 
         "county": "花蓮縣", 
+        "election_name": "花蓮縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 100, 
@@ -5421,12 +5872,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 2278, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -1398182, 
         "county": "花蓮縣", 
+        "election_name": "花蓮縣立法委員選舉", 
         "in_anonymous": 10000, 
         "in_civil": 70000, 
         "in_individual": 3399120, 
@@ -5445,12 +5898,14 @@
         "out_rally": 883833, 
         "out_return": 50000, 
         "out_total": 9047954, 
-        "out_travel": 235254
+        "out_travel": 235254, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -1259831, 
         "county": "花蓮縣", 
+        "election_name": "花蓮縣立法委員選舉", 
         "in_anonymous": 108888, 
         "in_civil": 70000, 
         "in_individual": 6544500, 
@@ -5469,12 +5924,14 @@
         "out_rally": 949346, 
         "out_return": 565000, 
         "out_total": 9954298, 
-        "out_travel": 363094
+        "out_travel": 363094, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 0, 
         "county": "花蓮縣", 
+        "election_name": "花蓮縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 10000, 
         "in_individual": 26000, 
@@ -5493,12 +5950,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 36000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -688020, 
         "county": "臺東縣", 
+        "election_name": "臺東縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 20000, 
         "in_individual": 2830000, 
@@ -5517,12 +5976,14 @@
         "out_rally": 800510, 
         "out_return": 1320000, 
         "out_total": 5558101, 
-        "out_travel": 211613
+        "out_travel": 211613, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -836618, 
         "county": "臺東縣", 
+        "election_name": "臺東縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 6000, 
         "in_individual": 282000, 
@@ -5541,12 +6002,14 @@
         "out_rally": 546119, 
         "out_return": 50000, 
         "out_total": 2905120, 
-        "out_travel": 132588
+        "out_travel": 132588, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -763896, 
         "county": "臺東縣", 
+        "election_name": "臺東縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 1150000, 
@@ -5565,12 +6028,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 2371929, 
-        "out_travel": 121007
+        "out_travel": 121007, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -341013, 
         "county": "臺東縣", 
+        "election_name": "臺東縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 700000, 
         "in_individual": 4912000, 
@@ -5589,12 +6054,14 @@
         "out_rally": 156003, 
         "out_return": 1950000, 
         "out_total": 12303216, 
-        "out_travel": 95388
+        "out_travel": 95388, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -124223, 
         "county": "臺東縣", 
+        "election_name": "臺東縣立法委員選舉", 
         "in_anonymous": 53500, 
         "in_civil": 130000, 
         "in_individual": 3512536, 
@@ -5613,12 +6080,14 @@
         "out_rally": 178100, 
         "out_return": 145000, 
         "out_total": 6599029, 
-        "out_travel": 119329
+        "out_travel": 119329, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -71857, 
         "county": "臺東縣", 
+        "election_name": "臺東縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 130000, 
@@ -5637,12 +6106,14 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 701857, 
-        "out_travel": 39787
+        "out_travel": 39787, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 1474417, 
         "county": "臺東縣", 
+        "election_name": "臺東縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 50000, 
         "in_individual": 8216200, 
@@ -5661,12 +6132,14 @@
         "out_rally": 140925, 
         "out_return": 6000, 
         "out_total": 15299000, 
-        "out_travel": 119574
+        "out_travel": 119574, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -2945288, 
         "county": "澎湖縣", 
+        "election_name": "澎湖縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 800000, 
         "in_individual": 4570000, 
@@ -5685,12 +6158,14 @@
         "out_rally": 875347, 
         "out_return": 0, 
         "out_total": 11285288, 
-        "out_travel": 558429
+        "out_travel": 558429, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -248904, 
         "county": "澎湖縣", 
+        "election_name": "澎湖縣立法委員選舉", 
         "in_anonymous": 5000, 
         "in_civil": 230000, 
         "in_individual": 5552300, 
@@ -5709,12 +6184,14 @@
         "out_rally": 347953, 
         "out_return": 10000, 
         "out_total": 6546566, 
-        "out_travel": 76233
+        "out_travel": 76233, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -2966420, 
         "county": "金門縣", 
+        "election_name": "金門縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 1759700, 
@@ -5733,12 +6210,14 @@
         "out_rally": 530630, 
         "out_return": 0, 
         "out_total": 5226120, 
-        "out_travel": 175166
+        "out_travel": 175166, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -672445, 
         "county": "金門縣", 
+        "election_name": "金門縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 915666, 
@@ -5757,12 +6236,14 @@
         "out_rally": 155000, 
         "out_return": 0, 
         "out_total": 1588220, 
-        "out_travel": 20100
+        "out_travel": 20100, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -311655, 
         "county": "金門縣", 
+        "election_name": "金門縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 1636000, 
@@ -5781,12 +6262,14 @@
         "out_rally": 519572, 
         "out_return": 480000, 
         "out_total": 3757686, 
-        "out_travel": 98770
+        "out_travel": 98770, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -5705135, 
         "county": "金門縣", 
+        "election_name": "金門縣立法委員選舉", 
         "in_anonymous": 22000, 
         "in_civil": 0, 
         "in_individual": 1077000, 
@@ -5805,12 +6288,14 @@
         "out_rally": 1023936, 
         "out_return": 0, 
         "out_total": 10404662, 
-        "out_travel": 209506
+        "out_travel": 209506, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": 123356, 
         "county": "連江縣", 
+        "election_name": "連江縣立法委員選舉", 
         "in_anonymous": 2000, 
         "in_civil": 0, 
         "in_individual": 2587000, 
@@ -5829,12 +6314,14 @@
         "out_rally": 218787, 
         "out_return": 400000, 
         "out_total": 7625992, 
-        "out_travel": 255586
+        "out_travel": 255586, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -179936, 
         "county": "連江縣", 
+        "election_name": "連江縣立法委員選舉", 
         "in_anonymous": 16888, 
         "in_civil": 0, 
         "in_individual": 97426, 
@@ -5853,12 +6340,14 @@
         "out_rally": 12170, 
         "out_return": 50000, 
         "out_total": 344265, 
-        "out_travel": 44750
+        "out_travel": 44750, 
+        "title": "legislators"
     }, 
     {
         "ad": "8", 
         "balance": -1201061, 
         "county": "連江縣", 
+        "election_name": "連江縣立法委員選舉", 
         "in_anonymous": 0, 
         "in_civil": 0, 
         "in_individual": 460000, 
@@ -5877,6 +6366,7 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 1661061, 
-        "out_travel": 24581
+        "out_travel": 24581, 
+        "title": "legislators"
     }
 ]

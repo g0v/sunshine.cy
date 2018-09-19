@@ -2,6 +2,7 @@
     {
         "balance": -30390, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -21,11 +22,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 230390, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -180600, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -45,11 +48,13 @@
         "out_rally": 47000, 
         "out_return": 0, 
         "out_total": 453900, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -949632, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -69,11 +74,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 1009632, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -170490, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 500, 
         "in_civil": 0, 
@@ -93,11 +100,13 @@
         "out_rally": 27100, 
         "out_return": 0, 
         "out_total": 512014, 
-        "out_travel": 1346
+        "out_travel": 1346, 
+        "title": "councilors"
     }, 
     {
         "balance": -274243, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -117,11 +126,13 @@
         "out_rally": 83994, 
         "out_return": 0, 
         "out_total": 507246, 
-        "out_travel": 31350
+        "out_travel": 31350, 
+        "title": "councilors"
     }, 
     {
         "balance": -42454, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 1000, 
@@ -141,11 +152,13 @@
         "out_rally": 54850, 
         "out_return": 0, 
         "out_total": 670254, 
-        "out_travel": 50000
+        "out_travel": 50000, 
+        "title": "councilors"
     }, 
     {
         "balance": -6000, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -165,11 +178,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 36000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -425669, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -189,11 +204,13 @@
         "out_rally": 30000, 
         "out_return": 0, 
         "out_total": 665669, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -539682, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 10000, 
@@ -213,11 +230,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 994696, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -1201079, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -237,11 +256,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 1461082, 
-        "out_travel": 8229
+        "out_travel": 8229, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -261,11 +282,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -617, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 35015, 
         "in_civil": 35000, 
@@ -285,11 +308,13 @@
         "out_rally": 0, 
         "out_return": 20000, 
         "out_total": 1094632, 
-        "out_travel": 12565
+        "out_travel": 12565, 
+        "title": "councilors"
     }, 
     {
         "balance": -5718, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -309,11 +334,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 423718, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -35722, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 12000, 
         "in_civil": 16600, 
@@ -333,11 +360,13 @@
         "out_rally": 127700, 
         "out_return": 0, 
         "out_total": 812360, 
-        "out_travel": 24318
+        "out_travel": 24318, 
+        "title": "councilors"
     }, 
     {
         "balance": -127000, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -357,11 +386,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 135000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -625326, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -381,11 +412,13 @@
         "out_rally": 43000, 
         "out_return": 0, 
         "out_total": 908338, 
-        "out_travel": 48809
+        "out_travel": 48809, 
+        "title": "councilors"
     }, 
     {
         "balance": -713623, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 2000, 
@@ -405,11 +438,13 @@
         "out_rally": 6000, 
         "out_return": 0, 
         "out_total": 865628, 
-        "out_travel": 130000
+        "out_travel": 130000, 
+        "title": "councilors"
     }, 
     {
         "balance": -286821, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -429,11 +464,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 336821, 
-        "out_travel": 7474
+        "out_travel": 7474, 
+        "title": "councilors"
     }, 
     {
         "balance": -454103, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -453,11 +490,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 781303, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -22138, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -477,11 +516,13 @@
         "out_rally": 237570, 
         "out_return": 0, 
         "out_total": 2180163, 
-        "out_travel": 4174
+        "out_travel": 4174, 
+        "title": "councilors"
     }, 
     {
         "balance": -34000, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -501,11 +542,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 64000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -941062, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 28900, 
         "in_civil": 0, 
@@ -525,11 +568,13 @@
         "out_rally": 0, 
         "out_return": 20000, 
         "out_total": 1363675, 
-        "out_travel": 3000
+        "out_travel": 3000, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -549,11 +594,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -1088885, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -573,11 +620,13 @@
         "out_rally": 68700, 
         "out_return": 0, 
         "out_total": 1189585, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -240000, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 2000, 
         "in_civil": 0, 
@@ -597,11 +646,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 430000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -816472, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -621,11 +672,13 @@
         "out_rally": 36800, 
         "out_return": 0, 
         "out_total": 1014472, 
-        "out_travel": 3210
+        "out_travel": 3210, 
+        "title": "councilors"
     }, 
     {
         "balance": -393557, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 30000, 
@@ -645,11 +698,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 592566, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -462889, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -669,11 +724,13 @@
         "out_rally": 36221, 
         "out_return": 5000, 
         "out_total": 1534248, 
-        "out_travel": 81562
+        "out_travel": 81562, 
+        "title": "councilors"
     }, 
     {
         "balance": -22000, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 9000, 
         "in_civil": 0, 
@@ -693,11 +750,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 441600, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -303428, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -717,11 +776,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 493434, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -34137, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -741,11 +802,13 @@
         "out_rally": 15000, 
         "out_return": 0, 
         "out_total": 300943, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -78000, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 2000, 
         "in_civil": 0, 
@@ -765,11 +828,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 945000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -23254, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -789,11 +854,13 @@
         "out_rally": 153854, 
         "out_return": 0, 
         "out_total": 937898, 
-        "out_travel": 8816
+        "out_travel": 8816, 
+        "title": "councilors"
     }, 
     {
         "balance": -533317, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 10000, 
@@ -813,11 +880,13 @@
         "out_rally": 171460, 
         "out_return": 0, 
         "out_total": 713319, 
-        "out_travel": 1906
+        "out_travel": 1906, 
+        "title": "councilors"
     }, 
     {
         "balance": -1047430, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -837,11 +906,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 1309430, 
-        "out_travel": 70867
+        "out_travel": 70867, 
+        "title": "councilors"
     }, 
     {
         "balance": -440998, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 100000, 
@@ -861,11 +932,13 @@
         "out_rally": 25000, 
         "out_return": 0, 
         "out_total": 2859548, 
-        "out_travel": 21081
+        "out_travel": 21081, 
+        "title": "councilors"
     }, 
     {
         "balance": -276135, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 72100, 
         "in_civil": 10000, 
@@ -885,11 +958,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 701235, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -507624, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -909,11 +984,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 757624, 
-        "out_travel": 7665
+        "out_travel": 7665, 
+        "title": "councilors"
     }, 
     {
         "balance": -532149, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -933,11 +1010,13 @@
         "out_rally": 26750, 
         "out_return": 0, 
         "out_total": 632149, 
-        "out_travel": 4610
+        "out_travel": 4610, 
+        "title": "councilors"
     }, 
     {
         "balance": -271137, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 2000, 
         "in_civil": 30000, 
@@ -957,11 +1036,13 @@
         "out_rally": 83961, 
         "out_return": 0, 
         "out_total": 2316546, 
-        "out_travel": 2756
+        "out_travel": 2756, 
+        "title": "councilors"
     }, 
     {
         "balance": -277670, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 5000, 
@@ -981,11 +1062,13 @@
         "out_rally": 21000, 
         "out_return": 0, 
         "out_total": 550672, 
-        "out_travel": 6675
+        "out_travel": 6675, 
+        "title": "councilors"
     }, 
     {
         "balance": -174194, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 14150, 
         "in_civil": 60000, 
@@ -1005,11 +1088,13 @@
         "out_rally": 221422, 
         "out_return": 0, 
         "out_total": 820977, 
-        "out_travel": 39940
+        "out_travel": 39940, 
+        "title": "councilors"
     }, 
     {
         "balance": -56884, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 38870, 
         "in_civil": 0, 
@@ -1029,11 +1114,13 @@
         "out_rally": 23700, 
         "out_return": 0, 
         "out_total": 265755, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -86582, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1053,11 +1140,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 436582, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -12652, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 27000, 
         "in_civil": 3000, 
@@ -1077,11 +1166,13 @@
         "out_rally": 41000, 
         "out_return": 0, 
         "out_total": 746852, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 22000, 
         "in_civil": 0, 
@@ -1101,11 +1192,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 88000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -652359, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1125,11 +1218,13 @@
         "out_rally": 24000, 
         "out_return": 0, 
         "out_total": 1051359, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -103250, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1149,11 +1244,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 177750, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -283683, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 26000, 
         "in_civil": 0, 
@@ -1173,11 +1270,13 @@
         "out_rally": 26000, 
         "out_return": 0, 
         "out_total": 419683, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -237840, 
         "county": "基隆市", 
+        "election_name": "基隆市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1197,11 +1296,13 @@
         "out_rally": 51000, 
         "out_return": 0, 
         "out_total": 564443, 
-        "out_travel": 15576
+        "out_travel": 15576, 
+        "title": "councilors"
     }, 
     {
         "balance": -4230, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1221,11 +1322,13 @@
         "out_rally": 195400, 
         "out_return": 0, 
         "out_total": 557230, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -596727, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1245,11 +1348,13 @@
         "out_rally": 123008, 
         "out_return": 0, 
         "out_total": 1482732, 
-        "out_travel": 350
+        "out_travel": 350, 
+        "title": "councilors"
     }, 
     {
         "balance": -97517, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1269,11 +1374,13 @@
         "out_rally": 259520, 
         "out_return": 0, 
         "out_total": 627523, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -2663712, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1293,11 +1400,13 @@
         "out_rally": 92250, 
         "out_return": 0, 
         "out_total": 3271712, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1317,11 +1426,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -1743707, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1341,11 +1452,13 @@
         "out_rally": 268910, 
         "out_return": 0, 
         "out_total": 2752707, 
-        "out_travel": 49620
+        "out_travel": 49620, 
+        "title": "councilors"
     }, 
     {
         "balance": -27100, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1365,11 +1478,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 261100, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -173916, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 22200, 
         "in_civil": 1000, 
@@ -1389,11 +1504,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 1173650, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -438971, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 43360, 
         "in_civil": 25000, 
@@ -1413,11 +1530,13 @@
         "out_rally": 718901, 
         "out_return": 0, 
         "out_total": 2291931, 
-        "out_travel": 16436
+        "out_travel": 16436, 
+        "title": "councilors"
     }, 
     {
         "balance": -38069, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1437,11 +1556,13 @@
         "out_rally": 29095, 
         "out_return": 0, 
         "out_total": 493069, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -204820, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 10000, 
@@ -1461,11 +1582,13 @@
         "out_rally": 184460, 
         "out_return": 0, 
         "out_total": 2095617, 
-        "out_travel": 72154
+        "out_travel": 72154, 
+        "title": "councilors"
     }, 
     {
         "balance": -490719, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1485,11 +1608,13 @@
         "out_rally": 1185640, 
         "out_return": 0, 
         "out_total": 2523719, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -1304571, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1509,11 +1634,13 @@
         "out_rally": 539089, 
         "out_return": 0, 
         "out_total": 1608571, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -844836, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1533,11 +1660,13 @@
         "out_rally": 82500, 
         "out_return": 0, 
         "out_total": 1146844, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -376325, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1557,11 +1686,13 @@
         "out_rally": 1089204, 
         "out_return": 60000, 
         "out_total": 4898069, 
-        "out_travel": 25267
+        "out_travel": 25267, 
+        "title": "councilors"
     }, 
     {
         "balance": -405687, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 20000, 
@@ -1581,11 +1712,13 @@
         "out_rally": 92810, 
         "out_return": 0, 
         "out_total": 1150693, 
-        "out_travel": 23270
+        "out_travel": 23270, 
+        "title": "councilors"
     }, 
     {
         "balance": -410045, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1605,11 +1738,13 @@
         "out_rally": 204100, 
         "out_return": 0, 
         "out_total": 1255045, 
-        "out_travel": 26990
+        "out_travel": 26990, 
+        "title": "councilors"
     }, 
     {
         "balance": -2264946, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1629,11 +1764,13 @@
         "out_rally": 279500, 
         "out_return": 0, 
         "out_total": 2431946, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -1549225, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 1000, 
         "in_civil": 0, 
@@ -1653,11 +1790,13 @@
         "out_rally": 832455, 
         "out_return": 0, 
         "out_total": 2909243, 
-        "out_travel": 22479
+        "out_travel": 22479, 
+        "title": "councilors"
     }, 
     {
         "balance": -736896, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1677,11 +1816,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 983896, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -620389, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 3000, 
         "in_civil": 16000, 
@@ -1701,11 +1842,13 @@
         "out_rally": 543213, 
         "out_return": 0, 
         "out_total": 2271030, 
-        "out_travel": 21000
+        "out_travel": 21000, 
+        "title": "councilors"
     }, 
     {
         "balance": -221010, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1725,11 +1868,13 @@
         "out_rally": 68600, 
         "out_return": 0, 
         "out_total": 1397821, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -669610, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 15000, 
@@ -1749,11 +1894,13 @@
         "out_rally": 211500, 
         "out_return": 0, 
         "out_total": 4228100, 
-        "out_travel": 6333
+        "out_travel": 6333, 
+        "title": "councilors"
     }, 
     {
         "balance": -191362, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1773,11 +1920,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 271762, 
-        "out_travel": 1205
+        "out_travel": 1205, 
+        "title": "councilors"
     }, 
     {
         "balance": -729775, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1797,11 +1946,13 @@
         "out_rally": 2000, 
         "out_return": 0, 
         "out_total": 1522775, 
-        "out_travel": 22279
+        "out_travel": 22279, 
+        "title": "councilors"
     }, 
     {
         "balance": -536150, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1821,11 +1972,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 941151, 
-        "out_travel": 21695
+        "out_travel": 21695, 
+        "title": "councilors"
     }, 
     {
         "balance": -224729, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1845,11 +1998,13 @@
         "out_rally": 970710, 
         "out_return": 0, 
         "out_total": 4627729, 
-        "out_travel": 22863
+        "out_travel": 22863, 
+        "title": "councilors"
     }, 
     {
         "balance": -2102133, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1869,11 +2024,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 2792133, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 15000, 
         "in_civil": 0, 
@@ -1893,11 +2050,13 @@
         "out_rally": 82910, 
         "out_return": 0, 
         "out_total": 1073100, 
-        "out_travel": 24875
+        "out_travel": 24875, 
+        "title": "councilors"
     }, 
     {
         "balance": -756907, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 4000, 
@@ -1917,11 +2076,13 @@
         "out_rally": 5000, 
         "out_return": 0, 
         "out_total": 1036408, 
-        "out_travel": 76398
+        "out_travel": 76398, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1941,11 +2102,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -290747, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1965,11 +2128,13 @@
         "out_rally": 98390, 
         "out_return": 0, 
         "out_total": 1119523, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -769830, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1989,11 +2154,13 @@
         "out_rally": 297493, 
         "out_return": 0, 
         "out_total": 2796588, 
-        "out_travel": 17861
+        "out_travel": 17861, 
+        "title": "councilors"
     }, 
     {
         "balance": -70956, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2013,11 +2180,13 @@
         "out_rally": 401895, 
         "out_return": 0, 
         "out_total": 1584607, 
-        "out_travel": 16800
+        "out_travel": 16800, 
+        "title": "councilors"
     }, 
     {
         "balance": -172427, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2037,11 +2206,13 @@
         "out_rally": 256480, 
         "out_return": 0, 
         "out_total": 2555927, 
-        "out_travel": 9308
+        "out_travel": 9308, 
+        "title": "councilors"
     }, 
     {
         "balance": -297782, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2061,11 +2232,13 @@
         "out_rally": 65700, 
         "out_return": 0, 
         "out_total": 553737, 
-        "out_travel": 5706
+        "out_travel": 5706, 
+        "title": "councilors"
     }, 
     {
         "balance": -290939, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 30000, 
@@ -2085,11 +2258,13 @@
         "out_rally": 467920, 
         "out_return": 0, 
         "out_total": 1248539, 
-        "out_travel": 17940
+        "out_travel": 17940, 
+        "title": "councilors"
     }, 
     {
         "balance": -20029, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 30000, 
@@ -2109,11 +2284,13 @@
         "out_rally": 526184, 
         "out_return": 0, 
         "out_total": 2597296, 
-        "out_travel": 48577
+        "out_travel": 48577, 
+        "title": "councilors"
     }, 
     {
         "balance": -1015441, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 200, 
         "in_civil": 11000, 
@@ -2133,11 +2310,13 @@
         "out_rally": 200297, 
         "out_return": 0, 
         "out_total": 2454523, 
-        "out_travel": 1345
+        "out_travel": 1345, 
+        "title": "councilors"
     }, 
     {
         "balance": -83415, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2157,11 +2336,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 863415, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -23578, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2181,11 +2362,13 @@
         "out_rally": 182700, 
         "out_return": 0, 
         "out_total": 1721606, 
-        "out_travel": 7256
+        "out_travel": 7256, 
+        "title": "councilors"
     }, 
     {
         "balance": -486129, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 96000, 
         "in_civil": 0, 
@@ -2205,11 +2388,13 @@
         "out_rally": 244800, 
         "out_return": 0, 
         "out_total": 1935129, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -3027411, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2229,11 +2414,13 @@
         "out_rally": 647216, 
         "out_return": 0, 
         "out_total": 3288424, 
-        "out_travel": 88876
+        "out_travel": 88876, 
+        "title": "councilors"
     }, 
     {
         "balance": -1264936, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 3000, 
         "in_civil": 0, 
@@ -2253,11 +2440,13 @@
         "out_rally": 348410, 
         "out_return": 0, 
         "out_total": 3597736, 
-        "out_travel": 72620
+        "out_travel": 72620, 
+        "title": "councilors"
     }, 
     {
         "balance": -333169, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 23000, 
         "in_civil": 0, 
@@ -2277,11 +2466,13 @@
         "out_rally": 5800, 
         "out_return": 0, 
         "out_total": 817171, 
-        "out_travel": 151304
+        "out_travel": 151304, 
+        "title": "councilors"
     }, 
     {
         "balance": -26316, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 12000, 
@@ -2301,11 +2492,13 @@
         "out_rally": 24900, 
         "out_return": 0, 
         "out_total": 204316, 
-        "out_travel": 2906
+        "out_travel": 2906, 
+        "title": "councilors"
     }, 
     {
         "balance": -130446, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 10000, 
@@ -2325,11 +2518,13 @@
         "out_rally": 155000, 
         "out_return": 0, 
         "out_total": 676446, 
-        "out_travel": 44134
+        "out_travel": 44134, 
+        "title": "councilors"
     }, 
     {
         "balance": -289908, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2349,11 +2544,13 @@
         "out_rally": 76000, 
         "out_return": 0, 
         "out_total": 827908, 
-        "out_travel": 32552
+        "out_travel": 32552, 
+        "title": "councilors"
     }, 
     {
         "balance": -1306468, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2373,11 +2570,13 @@
         "out_rally": 272500, 
         "out_return": 0, 
         "out_total": 1958072, 
-        "out_travel": 28123
+        "out_travel": 28123, 
+        "title": "councilors"
     }, 
     {
         "balance": -303852, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 20000, 
@@ -2397,11 +2596,13 @@
         "out_rally": 71150, 
         "out_return": 0, 
         "out_total": 1692852, 
-        "out_travel": 14974
+        "out_travel": 14974, 
+        "title": "councilors"
     }, 
     {
         "balance": -575968, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2421,11 +2622,13 @@
         "out_rally": 28400, 
         "out_return": 0, 
         "out_total": 2787730, 
-        "out_travel": 19880
+        "out_travel": 19880, 
+        "title": "councilors"
     }, 
     {
         "balance": -2197608, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2445,11 +2648,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 2685608, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -22752, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2469,11 +2674,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 612752, 
-        "out_travel": 29020
+        "out_travel": 29020, 
+        "title": "councilors"
     }, 
     {
         "balance": -1793213, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 10700, 
         "in_civil": 0, 
@@ -2493,11 +2700,13 @@
         "out_rally": 229860, 
         "out_return": 0, 
         "out_total": 2048413, 
-        "out_travel": 109551
+        "out_travel": 109551, 
+        "title": "councilors"
     }, 
     {
         "balance": -1752557, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2517,11 +2726,13 @@
         "out_rally": 449273, 
         "out_return": 0, 
         "out_total": 2872566, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -5249, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 6000, 
         "in_civil": 0, 
@@ -2541,11 +2752,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 502249, 
-        "out_travel": 37342
+        "out_travel": 37342, 
+        "title": "councilors"
     }, 
     {
         "balance": -1564487, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 10000, 
         "in_civil": 0, 
@@ -2565,11 +2778,13 @@
         "out_rally": 568940, 
         "out_return": 0, 
         "out_total": 2451598, 
-        "out_travel": 5692
+        "out_travel": 5692, 
+        "title": "councilors"
     }, 
     {
         "balance": -738560, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2589,11 +2804,13 @@
         "out_rally": 294900, 
         "out_return": 0, 
         "out_total": 1311560, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -1048286, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2613,11 +2830,13 @@
         "out_rally": 343050, 
         "out_return": 0, 
         "out_total": 1248286, 
-        "out_travel": 14214
+        "out_travel": 14214, 
+        "title": "councilors"
     }, 
     {
         "balance": -716946, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 30000, 
@@ -2637,11 +2856,13 @@
         "out_rally": 89550, 
         "out_return": 12000, 
         "out_total": 2622746, 
-        "out_travel": 22817
+        "out_travel": 22817, 
+        "title": "councilors"
     }, 
     {
         "balance": -403490, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2661,11 +2882,13 @@
         "out_rally": 252107, 
         "out_return": 200000, 
         "out_total": 1840726, 
-        "out_travel": 14792
+        "out_travel": 14792, 
+        "title": "councilors"
     }, 
     {
         "balance": -409450, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 10000, 
@@ -2685,11 +2908,13 @@
         "out_rally": 77320, 
         "out_return": 0, 
         "out_total": 3084742, 
-        "out_travel": 21121
+        "out_travel": 21121, 
+        "title": "councilors"
     }, 
     {
         "balance": -762454, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2709,11 +2934,13 @@
         "out_rally": 72900, 
         "out_return": 0, 
         "out_total": 1519040, 
-        "out_travel": 17812
+        "out_travel": 17812, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2733,11 +2960,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -2419650, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2757,11 +2986,13 @@
         "out_rally": 404300, 
         "out_return": 0, 
         "out_total": 3365750, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -825941, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2781,11 +3012,13 @@
         "out_rally": 123370, 
         "out_return": 0, 
         "out_total": 3968580, 
-        "out_travel": 31283
+        "out_travel": 31283, 
+        "title": "councilors"
     }, 
     {
         "balance": -37951, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 34700, 
         "in_civil": 0, 
@@ -2805,11 +3038,13 @@
         "out_rally": 20000, 
         "out_return": 0, 
         "out_total": 589511, 
-        "out_travel": 9450
+        "out_travel": 9450, 
+        "title": "councilors"
     }, 
     {
         "balance": -775038, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 1200, 
         "in_civil": 0, 
@@ -2829,11 +3064,13 @@
         "out_rally": 493205, 
         "out_return": 0, 
         "out_total": 2692418, 
-        "out_travel": 27624
+        "out_travel": 27624, 
+        "title": "councilors"
     }, 
     {
         "balance": -306002, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2853,11 +3090,13 @@
         "out_rally": 25000, 
         "out_return": 0, 
         "out_total": 538805, 
-        "out_travel": 30000
+        "out_travel": 30000, 
+        "title": "councilors"
     }, 
     {
         "balance": -303605, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 30000, 
@@ -2877,11 +3116,13 @@
         "out_rally": 19380, 
         "out_return": 0, 
         "out_total": 440105, 
-        "out_travel": 31483
+        "out_travel": 31483, 
+        "title": "councilors"
     }, 
     {
         "balance": -138190, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2901,11 +3142,13 @@
         "out_rally": 142400, 
         "out_return": 0, 
         "out_total": 2913298, 
-        "out_travel": 20619
+        "out_travel": 20619, 
+        "title": "councilors"
     }, 
     {
         "balance": -646953, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2925,11 +3168,13 @@
         "out_rally": 436590, 
         "out_return": 0, 
         "out_total": 1515963, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -3150625, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 6300, 
         "in_civil": 0, 
@@ -2949,11 +3194,13 @@
         "out_rally": 422300, 
         "out_return": 0, 
         "out_total": 3910972, 
-        "out_travel": 680
+        "out_travel": 680, 
+        "title": "councilors"
     }, 
     {
         "balance": -394417, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2973,11 +3220,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 1234417, 
-        "out_travel": 58546
+        "out_travel": 58546, 
+        "title": "councilors"
     }, 
     {
         "balance": -371370, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2997,11 +3246,13 @@
         "out_rally": 167140, 
         "out_return": 0, 
         "out_total": 1259910, 
-        "out_travel": 57817
+        "out_travel": 57817, 
+        "title": "councilors"
     }, 
     {
         "balance": -198519, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3021,11 +3272,13 @@
         "out_rally": 538600, 
         "out_return": 0, 
         "out_total": 1893519, 
-        "out_travel": 34517
+        "out_travel": 34517, 
+        "title": "councilors"
     }, 
     {
         "balance": -2154287, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3045,11 +3298,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 2197287, 
-        "out_travel": 2000
+        "out_travel": 2000, 
+        "title": "councilors"
     }, 
     {
         "balance": -33759, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3069,11 +3324,13 @@
         "out_rally": 43480, 
         "out_return": 250000, 
         "out_total": 1286447, 
-        "out_travel": 50219
+        "out_travel": 50219, 
+        "title": "councilors"
     }, 
     {
         "balance": -191881, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3093,11 +3350,13 @@
         "out_rally": 665907, 
         "out_return": 1876000, 
         "out_total": 5085961, 
-        "out_travel": 77465
+        "out_travel": 77465, 
+        "title": "councilors"
     }, 
     {
         "balance": -3820, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3117,11 +3376,13 @@
         "out_rally": 6000, 
         "out_return": 0, 
         "out_total": 939820, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3141,11 +3402,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 30000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -1717290, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 29600, 
         "in_civil": 0, 
@@ -3165,11 +3428,13 @@
         "out_rally": 90200, 
         "out_return": 0, 
         "out_total": 2894140, 
-        "out_travel": 110782
+        "out_travel": 110782, 
+        "title": "councilors"
     }, 
     {
         "balance": -128621, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 9600, 
@@ -3189,11 +3454,13 @@
         "out_rally": 2000, 
         "out_return": 0, 
         "out_total": 716021, 
-        "out_travel": 59548
+        "out_travel": 59548, 
+        "title": "councilors"
     }, 
     {
         "balance": -2399649, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 20500, 
         "in_civil": 0, 
@@ -3213,11 +3480,13 @@
         "out_rally": 574600, 
         "out_return": 0, 
         "out_total": 3476149, 
-        "out_travel": 26386
+        "out_travel": 26386, 
+        "title": "councilors"
     }, 
     {
         "balance": -3057863, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 5000, 
         "in_civil": 2000, 
@@ -3237,11 +3506,13 @@
         "out_rally": 160045, 
         "out_return": 0, 
         "out_total": 4231951, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -201349, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 62750, 
         "in_civil": 0, 
@@ -3261,11 +3532,13 @@
         "out_rally": 80430, 
         "out_return": 0, 
         "out_total": 657857, 
-        "out_travel": 35000
+        "out_travel": 35000, 
+        "title": "councilors"
     }, 
     {
         "balance": -884985, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3285,11 +3558,13 @@
         "out_rally": 264670, 
         "out_return": 0, 
         "out_total": 1284985, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -536970, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 25000, 
@@ -3309,11 +3584,13 @@
         "out_rally": 382020, 
         "out_return": 0, 
         "out_total": 1652138, 
-        "out_travel": 45022
+        "out_travel": 45022, 
+        "title": "councilors"
     }, 
     {
         "balance": -40400, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 128500, 
         "in_civil": 0, 
@@ -3333,11 +3610,13 @@
         "out_rally": 30000, 
         "out_return": 0, 
         "out_total": 600100, 
-        "out_travel": 6200
+        "out_travel": 6200, 
+        "title": "councilors"
     }, 
     {
         "balance": -879907, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3357,11 +3636,13 @@
         "out_rally": 607240, 
         "out_return": 0, 
         "out_total": 2585487, 
-        "out_travel": 18996
+        "out_travel": 18996, 
+        "title": "councilors"
     }, 
     {
         "balance": -1623856, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3381,11 +3662,13 @@
         "out_rally": 367450, 
         "out_return": 0, 
         "out_total": 2308469, 
-        "out_travel": 1893
+        "out_travel": 1893, 
+        "title": "councilors"
     }, 
     {
         "balance": -2500, 
         "county": "桃園縣", 
+        "election_name": "桃園縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3405,11 +3688,13 @@
         "out_rally": 32500, 
         "out_return": 0, 
         "out_total": 32500, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -863949, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3429,11 +3714,13 @@
         "out_rally": 25000, 
         "out_return": 0, 
         "out_total": 1018956, 
-        "out_travel": 39517
+        "out_travel": 39517, 
+        "title": "councilors"
     }, 
     {
         "balance": -1371269, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3453,11 +3740,13 @@
         "out_rally": 1254504, 
         "out_return": 252000, 
         "out_total": 4649249, 
-        "out_travel": 83431
+        "out_travel": 83431, 
+        "title": "councilors"
     }, 
     {
         "balance": -242701, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3477,11 +3766,13 @@
         "out_rally": 61080, 
         "out_return": 0, 
         "out_total": 1117706, 
-        "out_travel": 7450
+        "out_travel": 7450, 
+        "title": "councilors"
     }, 
     {
         "balance": -429706, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3501,11 +3792,13 @@
         "out_rally": 9260, 
         "out_return": 0, 
         "out_total": 2, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -95558, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 6250, 
         "in_civil": 0, 
@@ -3525,11 +3818,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 423408, 
-        "out_travel": 19695
+        "out_travel": 19695, 
+        "title": "councilors"
     }, 
     {
         "balance": -1679853, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 32000, 
         "in_civil": 3000, 
@@ -3549,11 +3844,13 @@
         "out_rally": 382140, 
         "out_return": 0, 
         "out_total": 3430119, 
-        "out_travel": 29707
+        "out_travel": 29707, 
+        "title": "councilors"
     }, 
     {
         "balance": -935712, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 8000, 
@@ -3573,11 +3870,13 @@
         "out_rally": 42201, 
         "out_return": 0, 
         "out_total": 1348312, 
-        "out_travel": 94657
+        "out_travel": 94657, 
+        "title": "councilors"
     }, 
     {
         "balance": -354428, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3597,11 +3896,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 404430, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -368614, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 9000, 
         "in_civil": 65000, 
@@ -3621,11 +3922,13 @@
         "out_rally": 308837, 
         "out_return": 0, 
         "out_total": 1295626, 
-        "out_travel": 61434
+        "out_travel": 61434, 
+        "title": "councilors"
     }, 
     {
         "balance": -93838, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3645,11 +3948,13 @@
         "out_rally": 540825, 
         "out_return": 0, 
         "out_total": 1493838, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -389760, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3669,11 +3974,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 672760, 
-        "out_travel": 10420
+        "out_travel": 10420, 
+        "title": "councilors"
     }, 
     {
         "balance": -620415, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 21000, 
         "in_civil": 2000, 
@@ -3693,11 +4000,13 @@
         "out_rally": 480310, 
         "out_return": 0, 
         "out_total": 1527415, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -3807317, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 12000, 
         "in_civil": 0, 
@@ -3717,11 +4026,13 @@
         "out_rally": 473983, 
         "out_return": 0, 
         "out_total": 5063117, 
-        "out_travel": 2532
+        "out_travel": 2532, 
+        "title": "councilors"
     }, 
     {
         "balance": -75090, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3741,11 +4052,13 @@
         "out_rally": 512300, 
         "out_return": 0, 
         "out_total": 799090, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -304596, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3765,11 +4078,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 374596, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -13800, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3789,11 +4104,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 103800, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -97035, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 46000, 
         "in_civil": 23000, 
@@ -3813,11 +4130,13 @@
         "out_rally": 1131272, 
         "out_return": 0, 
         "out_total": 3928597, 
-        "out_travel": 402399
+        "out_travel": 402399, 
+        "title": "councilors"
     }, 
     {
         "balance": -118081, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3837,11 +4156,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 240086, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -344366, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 368488, 
@@ -3861,11 +4182,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 1495454, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -1080, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3885,11 +4208,13 @@
         "out_rally": 159880, 
         "out_return": 0, 
         "out_total": 261080, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -41061, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3909,11 +4234,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 391061, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -100035, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3933,11 +4260,13 @@
         "out_rally": 178000, 
         "out_return": 0, 
         "out_total": 658293, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -18897, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3957,11 +4286,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 122900, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -272888, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 2000, 
         "in_civil": 47000, 
@@ -3981,11 +4312,13 @@
         "out_rally": 388070, 
         "out_return": 0, 
         "out_total": 1281788, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -42344, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4005,11 +4338,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 72344, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -416989, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 62000, 
         "in_civil": 0, 
@@ -4029,11 +4364,13 @@
         "out_rally": 110600, 
         "out_return": 0, 
         "out_total": 681989, 
-        "out_travel": 11894
+        "out_travel": 11894, 
+        "title": "councilors"
     }, 
     {
         "balance": -1060523, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4053,11 +4390,13 @@
         "out_rally": 463000, 
         "out_return": 0, 
         "out_total": 1765550, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -52933, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4077,11 +4416,13 @@
         "out_rally": 1890, 
         "out_return": 0, 
         "out_total": 1102933, 
-        "out_travel": 13554
+        "out_travel": 13554, 
+        "title": "councilors"
     }, 
     {
         "balance": -18147, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4101,11 +4442,13 @@
         "out_rally": 115000, 
         "out_return": 0, 
         "out_total": 768147, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4125,11 +4468,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -116177, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4149,11 +4494,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 216180, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -75286, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4173,11 +4520,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 185286, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -941369, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 3000, 
@@ -4197,11 +4546,13 @@
         "out_rally": 107905, 
         "out_return": 0, 
         "out_total": 1796876, 
-        "out_travel": 49205
+        "out_travel": 49205, 
+        "title": "councilors"
     }, 
     {
         "balance": -241660, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4221,11 +4572,13 @@
         "out_rally": 4000, 
         "out_return": 0, 
         "out_total": 765660, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -165978, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4245,11 +4598,13 @@
         "out_rally": 14000, 
         "out_return": 0, 
         "out_total": 315978, 
-        "out_travel": 19639
+        "out_travel": 19639, 
+        "title": "councilors"
     }, 
     {
         "balance": -117367, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4269,11 +4624,13 @@
         "out_rally": 48000, 
         "out_return": 0, 
         "out_total": 323367, 
-        "out_travel": 5211
+        "out_travel": 5211, 
+        "title": "councilors"
     }, 
     {
         "balance": -307141, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4293,11 +4650,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 854000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -73559, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4317,11 +4676,13 @@
         "out_rally": 153200, 
         "out_return": 0, 
         "out_total": 1295559, 
-        "out_travel": 11019
+        "out_travel": 11019, 
+        "title": "councilors"
     }, 
     {
         "balance": -376593, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4341,11 +4702,13 @@
         "out_rally": 309428, 
         "out_return": 0, 
         "out_total": 700093, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -565244, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4365,11 +4728,13 @@
         "out_rally": 603050, 
         "out_return": 400000, 
         "out_total": 2051244, 
-        "out_travel": 11070
+        "out_travel": 11070, 
+        "title": "councilors"
     }, 
     {
         "balance": -1718311, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4389,11 +4754,13 @@
         "out_rally": 270230, 
         "out_return": 0, 
         "out_total": 2459041, 
-        "out_travel": 22975
+        "out_travel": 22975, 
+        "title": "councilors"
     }, 
     {
         "balance": -1502041, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4413,11 +4780,13 @@
         "out_rally": 366000, 
         "out_return": 0, 
         "out_total": 1886041, 
-        "out_travel": 36467
+        "out_travel": 36467, 
+        "title": "councilors"
     }, 
     {
         "balance": -1090059, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4437,11 +4806,13 @@
         "out_rally": 241800, 
         "out_return": 0, 
         "out_total": 1615059, 
-        "out_travel": 16624
+        "out_travel": 16624, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4461,11 +4832,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -43254, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4485,11 +4858,13 @@
         "out_rally": 70134, 
         "out_return": 0, 
         "out_total": 459254, 
-        "out_travel": 6450
+        "out_travel": 6450, 
+        "title": "councilors"
     }, 
     {
         "balance": -446755, 
         "county": "新竹縣", 
+        "election_name": "新竹縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4509,11 +4884,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 532755, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -1898, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4533,11 +4910,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 123898, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 722328, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4557,11 +4936,13 @@
         "out_rally": 257490, 
         "out_return": 0, 
         "out_total": 1237972, 
-        "out_travel": 31550
+        "out_travel": 31550, 
+        "title": "councilors"
     }, 
     {
         "balance": -97586, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 5000, 
@@ -4581,11 +4962,13 @@
         "out_rally": 112200, 
         "out_return": 0, 
         "out_total": 1147194, 
-        "out_travel": 31262
+        "out_travel": 31262, 
+        "title": "councilors"
     }, 
     {
         "balance": -271383, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4605,11 +4988,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 281383, 
-        "out_travel": 59781
+        "out_travel": 59781, 
+        "title": "councilors"
     }, 
     {
         "balance": -131541, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4629,11 +5014,13 @@
         "out_rally": 39000, 
         "out_return": 0, 
         "out_total": 571545, 
-        "out_travel": 22333
+        "out_travel": 22333, 
+        "title": "councilors"
     }, 
     {
         "balance": -229390, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4653,11 +5040,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 396794, 
-        "out_travel": 26980
+        "out_travel": 26980, 
+        "title": "councilors"
     }, 
     {
         "balance": -591453, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4677,11 +5066,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 1750496, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -368582, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 48100, 
         "in_civil": 0, 
@@ -4701,11 +5092,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 1027496, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -1641275, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 6000, 
         "in_civil": 55000, 
@@ -4725,11 +5118,13 @@
         "out_rally": 7600, 
         "out_return": 0, 
         "out_total": 2263125, 
-        "out_travel": 17135
+        "out_travel": 17135, 
+        "title": "councilors"
     }, 
     {
         "balance": -460421, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 12000, 
         "in_civil": 0, 
@@ -4749,11 +5144,13 @@
         "out_rally": 87268, 
         "out_return": 0, 
         "out_total": 1019422, 
-        "out_travel": 76743
+        "out_travel": 76743, 
+        "title": "councilors"
     }, 
     {
         "balance": -17887, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4773,11 +5170,13 @@
         "out_rally": 53000, 
         "out_return": 0, 
         "out_total": 1027887, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -351211, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4797,11 +5196,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 351211, 
-        "out_travel": 20591
+        "out_travel": 20591, 
+        "title": "councilors"
     }, 
     {
         "balance": -190835, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 5000, 
         "in_civil": 0, 
@@ -4821,11 +5222,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 2123914, 
-        "out_travel": 5058
+        "out_travel": 5058, 
+        "title": "councilors"
     }, 
     {
         "balance": -338559, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 60000, 
         "in_civil": 0, 
@@ -4845,11 +5248,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 1108559, 
-        "out_travel": 59499
+        "out_travel": 59499, 
+        "title": "councilors"
     }, 
     {
         "balance": -49723, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 1000, 
         "in_civil": 0, 
@@ -4869,11 +5274,13 @@
         "out_rally": 96000, 
         "out_return": 0, 
         "out_total": 544730, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -63745, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4893,11 +5300,13 @@
         "out_rally": 4800, 
         "out_return": 0, 
         "out_total": 451752, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -393427, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 26000, 
@@ -4917,11 +5326,13 @@
         "out_rally": 42120, 
         "out_return": 0, 
         "out_total": 591451, 
-        "out_travel": 39140
+        "out_travel": 39140, 
+        "title": "councilors"
     }, 
     {
         "balance": -26318, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 17000, 
         "in_civil": 0, 
@@ -4941,11 +5352,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 982361, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -322354, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 67200, 
         "in_civil": 8000, 
@@ -4965,11 +5378,13 @@
         "out_rally": 97650, 
         "out_return": 0, 
         "out_total": 1370605, 
-        "out_travel": 41972
+        "out_travel": 41972, 
+        "title": "councilors"
     }, 
     {
         "balance": -959612, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4989,11 +5404,13 @@
         "out_rally": 554300, 
         "out_return": 0, 
         "out_total": 1753224, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -976164, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 5600, 
         "in_civil": 2000, 
@@ -5013,11 +5430,13 @@
         "out_rally": 110400, 
         "out_return": 0, 
         "out_total": 1246764, 
-        "out_travel": 30325
+        "out_travel": 30325, 
+        "title": "councilors"
     }, 
     {
         "balance": -155455, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 10000, 
         "in_civil": 0, 
@@ -5037,11 +5456,13 @@
         "out_rally": 160794, 
         "out_return": 0, 
         "out_total": 1076875, 
-        "out_travel": 18530
+        "out_travel": 18530, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5061,11 +5482,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -103454, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 16000, 
         "in_civil": 0, 
@@ -5085,11 +5508,13 @@
         "out_rally": 51295, 
         "out_return": 0, 
         "out_total": 306455, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5109,11 +5534,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -121496, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5133,11 +5560,13 @@
         "out_rally": 54450, 
         "out_return": 0, 
         "out_total": 451523, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -157237, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 26020, 
         "in_civil": 2000, 
@@ -5157,11 +5586,13 @@
         "out_rally": 0, 
         "out_return": 2000, 
         "out_total": 756033, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -187593, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 3000, 
         "in_civil": 0, 
@@ -5181,11 +5612,13 @@
         "out_rally": 3000, 
         "out_return": 10000, 
         "out_total": 1199343, 
-        "out_travel": 40616
+        "out_travel": 40616, 
+        "title": "councilors"
     }, 
     {
         "balance": -2575, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5205,11 +5638,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 355599, 
-        "out_travel": 44864
+        "out_travel": 44864, 
+        "title": "councilors"
     }, 
     {
         "balance": -122109, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5229,11 +5664,13 @@
         "out_rally": 83432, 
         "out_return": 0, 
         "out_total": 634316, 
-        "out_travel": 21401
+        "out_travel": 21401, 
+        "title": "councilors"
     }, 
     {
         "balance": -447166, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 110000, 
@@ -5253,11 +5690,13 @@
         "out_rally": 11100, 
         "out_return": 0, 
         "out_total": 968166, 
-        "out_travel": 973
+        "out_travel": 973, 
+        "title": "councilors"
     }, 
     {
         "balance": -227362, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5277,11 +5716,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 495370, 
-        "out_travel": 37619
+        "out_travel": 37619, 
+        "title": "councilors"
     }, 
     {
         "balance": -1205155, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 26000, 
         "in_civil": 0, 
@@ -5301,11 +5742,13 @@
         "out_rally": 25662, 
         "out_return": 0, 
         "out_total": 2326696, 
-        "out_travel": 17730
+        "out_travel": 17730, 
+        "title": "councilors"
     }, 
     {
         "balance": -93673, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5325,11 +5768,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 565677, 
-        "out_travel": 18815
+        "out_travel": 18815, 
+        "title": "councilors"
     }, 
     {
         "balance": -709709, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 17000, 
         "in_civil": 0, 
@@ -5349,11 +5794,13 @@
         "out_rally": 166571, 
         "out_return": 0, 
         "out_total": 3139713, 
-        "out_travel": 64051
+        "out_travel": 64051, 
+        "title": "councilors"
     }, 
     {
         "balance": -2309954, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 18000, 
@@ -5373,11 +5820,13 @@
         "out_rally": 439810, 
         "out_return": 20000, 
         "out_total": 3989842, 
-        "out_travel": 45350
+        "out_travel": 45350, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5397,11 +5846,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -129924, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 10000, 
         "in_civil": 10000, 
@@ -5421,11 +5872,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 249928, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -47070, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5445,11 +5898,13 @@
         "out_rally": 77000, 
         "out_return": 0, 
         "out_total": 684070, 
-        "out_travel": 11918
+        "out_travel": 11918, 
+        "title": "councilors"
     }, 
     {
         "balance": -3388, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 3000, 
         "in_civil": 10000, 
@@ -5469,11 +5924,13 @@
         "out_rally": 20000, 
         "out_return": 0, 
         "out_total": 622327, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -308742, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 1600, 
         "in_civil": 0, 
@@ -5493,11 +5950,13 @@
         "out_rally": 167957, 
         "out_return": 0, 
         "out_total": 1156965, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -28919, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 28200, 
         "in_civil": 7000, 
@@ -5517,11 +5976,13 @@
         "out_rally": 175030, 
         "out_return": 0, 
         "out_total": 1279149, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -226765, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 10000, 
         "in_civil": 0, 
@@ -5541,11 +6002,13 @@
         "out_rally": 58630, 
         "out_return": 300000, 
         "out_total": 2304777, 
-        "out_travel": 38131
+        "out_travel": 38131, 
+        "title": "councilors"
     }, 
     {
         "balance": -43678, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5565,11 +6028,13 @@
         "out_rally": 1356, 
         "out_return": 0, 
         "out_total": 287678, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -685421, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 50000, 
@@ -5589,11 +6054,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 805430, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -391416, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 10000, 
         "in_civil": 0, 
@@ -5613,11 +6080,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 524416, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "新竹市", 
+        "election_name": "新竹市議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5637,11 +6106,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -206045, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5661,11 +6132,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 286054, 
-        "out_travel": 2000
+        "out_travel": 2000, 
+        "title": "councilors"
     }, 
     {
         "balance": -30749, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 90800, 
         "in_civil": 122000, 
@@ -5685,11 +6158,13 @@
         "out_rally": 1000, 
         "out_return": 152000, 
         "out_total": 2011849, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -59809, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5709,11 +6184,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 183809, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -1409293, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 10000, 
         "in_civil": 3000, 
@@ -5733,11 +6210,13 @@
         "out_rally": 262974, 
         "out_return": 0, 
         "out_total": 1824095, 
-        "out_travel": 49319
+        "out_travel": 49319, 
+        "title": "councilors"
     }, 
     {
         "balance": -108437, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5757,11 +6236,13 @@
         "out_rally": 23122, 
         "out_return": 0, 
         "out_total": 477637, 
-        "out_travel": 7309
+        "out_travel": 7309, 
+        "title": "councilors"
     }, 
     {
         "balance": -18400, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5781,11 +6262,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 501400, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -226235, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 5000, 
@@ -5805,11 +6288,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 689235, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5829,11 +6314,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -93849, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5853,11 +6340,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 303849, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -442537, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5877,11 +6366,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 602537, 
-        "out_travel": 12899
+        "out_travel": 12899, 
+        "title": "councilors"
     }, 
     {
         "balance": -474970, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5901,11 +6392,13 @@
         "out_rally": 127524, 
         "out_return": 0, 
         "out_total": 775474, 
-        "out_travel": 5046
+        "out_travel": 5046, 
+        "title": "councilors"
     }, 
     {
         "balance": -691256, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5925,11 +6418,13 @@
         "out_rally": 78770, 
         "out_return": 0, 
         "out_total": 1251268, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -334630, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5949,11 +6444,13 @@
         "out_rally": 52760, 
         "out_return": 0, 
         "out_total": 334630, 
-        "out_travel": 2440
+        "out_travel": 2440, 
+        "title": "councilors"
     }, 
     {
         "balance": -516242, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 30000, 
         "in_civil": 0, 
@@ -5973,11 +6470,13 @@
         "out_rally": 73860, 
         "out_return": 0, 
         "out_total": 1553242, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -132699, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5997,11 +6496,13 @@
         "out_rally": 86200, 
         "out_return": 0, 
         "out_total": 802699, 
-        "out_travel": 51450
+        "out_travel": 51450, 
+        "title": "councilors"
     }, 
     {
         "balance": 53294, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 21000, 
@@ -6021,11 +6522,13 @@
         "out_rally": 177948, 
         "out_return": 0, 
         "out_total": 875372, 
-        "out_travel": 7881
+        "out_travel": 7881, 
+        "title": "councilors"
     }, 
     {
         "balance": -226909, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6045,11 +6548,13 @@
         "out_rally": 87620, 
         "out_return": 0, 
         "out_total": 278109, 
-        "out_travel": 37356
+        "out_travel": 37356, 
+        "title": "councilors"
     }, 
     {
         "balance": -247865, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6069,11 +6574,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 340865, 
-        "out_travel": 16628
+        "out_travel": 16628, 
+        "title": "councilors"
     }, 
     {
         "balance": -606316, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 16200, 
         "in_civil": 0, 
@@ -6093,11 +6600,13 @@
         "out_rally": 122640, 
         "out_return": 0, 
         "out_total": 905736, 
-        "out_travel": 50584
+        "out_travel": 50584, 
+        "title": "councilors"
     }, 
     {
         "balance": -909656, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6117,11 +6626,13 @@
         "out_rally": 245380, 
         "out_return": 0, 
         "out_total": 1565480, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -121778, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6141,11 +6652,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 347778, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -290126, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 100000, 
@@ -6165,11 +6678,13 @@
         "out_rally": 100240, 
         "out_return": 0, 
         "out_total": 1116366, 
-        "out_travel": 81465
+        "out_travel": 81465, 
+        "title": "councilors"
     }, 
     {
         "balance": -1342074, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6189,11 +6704,13 @@
         "out_rally": 236070, 
         "out_return": 0, 
         "out_total": 1482074, 
-        "out_travel": 88016
+        "out_travel": 88016, 
+        "title": "councilors"
     }, 
     {
         "balance": -295600, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6213,11 +6730,13 @@
         "out_rally": 21000, 
         "out_return": 0, 
         "out_total": 295600, 
-        "out_travel": 23063
+        "out_travel": 23063, 
+        "title": "councilors"
     }, 
     {
         "balance": -479912, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 100000, 
@@ -6237,11 +6756,13 @@
         "out_rally": 86400, 
         "out_return": 0, 
         "out_total": 1537579, 
-        "out_travel": 53827
+        "out_travel": 53827, 
+        "title": "councilors"
     }, 
     {
         "balance": -79962, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6261,11 +6782,13 @@
         "out_rally": 117500, 
         "out_return": 0, 
         "out_total": 1238462, 
-        "out_travel": 38499
+        "out_travel": 38499, 
+        "title": "councilors"
     }, 
     {
         "balance": -32345, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6285,11 +6808,13 @@
         "out_rally": 207990, 
         "out_return": 0, 
         "out_total": 1388355, 
-        "out_travel": 34442
+        "out_travel": 34442, 
+        "title": "councilors"
     }, 
     {
         "balance": -390896, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 7030, 
         "in_civil": 0, 
@@ -6309,11 +6834,13 @@
         "out_rally": 61993, 
         "out_return": 0, 
         "out_total": 576927, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6333,11 +6860,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 682000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -26747, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6357,11 +6886,13 @@
         "out_rally": 254800, 
         "out_return": 0, 
         "out_total": 1245747, 
-        "out_travel": 27737
+        "out_travel": 27737, 
+        "title": "councilors"
     }, 
     {
         "balance": -2375, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6381,11 +6912,13 @@
         "out_rally": 7500, 
         "out_return": 0, 
         "out_total": 102375, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -70867, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6405,11 +6938,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 670867, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -8045, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6429,11 +6964,13 @@
         "out_rally": 24500, 
         "out_return": 0, 
         "out_total": 140045, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -334492, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6453,11 +6990,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 434492, 
-        "out_travel": 28515
+        "out_travel": 28515, 
+        "title": "councilors"
     }, 
     {
         "balance": -757680, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6477,11 +7016,13 @@
         "out_rally": 322829, 
         "out_return": 0, 
         "out_total": 1488298, 
-        "out_travel": 75323
+        "out_travel": 75323, 
+        "title": "councilors"
     }, 
     {
         "balance": -502856, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6501,11 +7042,13 @@
         "out_rally": 110769, 
         "out_return": 0, 
         "out_total": 542857, 
-        "out_travel": 8311
+        "out_travel": 8311, 
+        "title": "councilors"
     }, 
     {
         "balance": -61282, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 34000, 
         "in_civil": 0, 
@@ -6525,11 +7068,13 @@
         "out_rally": 30850, 
         "out_return": 0, 
         "out_total": 854282, 
-        "out_travel": 12915
+        "out_travel": 12915, 
+        "title": "councilors"
     }, 
     {
         "balance": -486744, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 20000, 
@@ -6549,11 +7094,13 @@
         "out_rally": 10500, 
         "out_return": 0, 
         "out_total": 935644, 
-        "out_travel": 45973
+        "out_travel": 45973, 
+        "title": "councilors"
     }, 
     {
         "balance": -57781, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6573,11 +7120,13 @@
         "out_rally": 44630, 
         "out_return": 0, 
         "out_total": 343781, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -4749, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6597,11 +7146,13 @@
         "out_rally": 25380, 
         "out_return": 0, 
         "out_total": 897349, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -1652140, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6621,11 +7172,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 1845540, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -594662, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6645,11 +7198,13 @@
         "out_rally": 190440, 
         "out_return": 0, 
         "out_total": 1732546, 
-        "out_travel": 58952
+        "out_travel": 58952, 
+        "title": "councilors"
     }, 
     {
         "balance": 93971, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 8000, 
         "in_civil": 0, 
@@ -6669,11 +7224,13 @@
         "out_rally": 78550, 
         "out_return": 0, 
         "out_total": 1142579, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -263676, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6693,11 +7250,13 @@
         "out_rally": 109189, 
         "out_return": 0, 
         "out_total": 483176, 
-        "out_travel": 10920
+        "out_travel": 10920, 
+        "title": "councilors"
     }, 
     {
         "balance": -651296, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6717,11 +7276,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 701296, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -852738, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 27500, 
         "in_civil": 0, 
@@ -6741,11 +7302,13 @@
         "out_rally": 406526, 
         "out_return": 0, 
         "out_total": 1633958, 
-        "out_travel": 20934
+        "out_travel": 20934, 
+        "title": "councilors"
     }, 
     {
         "balance": -86787, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6765,11 +7328,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 696987, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -320579, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6789,11 +7354,13 @@
         "out_rally": 148100, 
         "out_return": 0, 
         "out_total": 1138579, 
-        "out_travel": 6677
+        "out_travel": 6677, 
+        "title": "councilors"
     }, 
     {
         "balance": -284067, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 4500, 
         "in_civil": 0, 
@@ -6813,11 +7380,13 @@
         "out_rally": 525160, 
         "out_return": 0, 
         "out_total": 1368567, 
-        "out_travel": 14591
+        "out_travel": 14591, 
+        "title": "councilors"
     }, 
     {
         "balance": -343826, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6837,11 +7406,13 @@
         "out_rally": 67000, 
         "out_return": 0, 
         "out_total": 1182302, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "苗栗縣", 
+        "election_name": "苗栗縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6861,11 +7432,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 116000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -118662, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 10000, 
         "in_civil": 1000, 
@@ -6885,11 +7458,13 @@
         "out_rally": 294835, 
         "out_return": 50000, 
         "out_total": 1555989, 
-        "out_travel": 15596
+        "out_travel": 15596, 
+        "title": "councilors"
     }, 
     {
         "balance": -30142, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6909,11 +7484,13 @@
         "out_rally": 50700, 
         "out_return": 0, 
         "out_total": 1151158, 
-        "out_travel": 7609
+        "out_travel": 7609, 
+        "title": "councilors"
     }, 
     {
         "balance": -321928, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6933,11 +7510,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 341928, 
-        "out_travel": 18050
+        "out_travel": 18050, 
+        "title": "councilors"
     }, 
     {
         "balance": -44739, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 6000, 
         "in_civil": 0, 
@@ -6957,11 +7536,13 @@
         "out_rally": 43100, 
         "out_return": 0, 
         "out_total": 209739, 
-        "out_travel": 3000
+        "out_travel": 3000, 
+        "title": "councilors"
     }, 
     {
         "balance": -134161, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6981,11 +7562,13 @@
         "out_rally": 337392, 
         "out_return": 0, 
         "out_total": 1992393, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -581785, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7005,11 +7588,13 @@
         "out_rally": 33400, 
         "out_return": 0, 
         "out_total": 1587093, 
-        "out_travel": 93175
+        "out_travel": 93175, 
+        "title": "councilors"
     }, 
     {
         "balance": -357063, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7029,11 +7614,13 @@
         "out_rally": 665102, 
         "out_return": 0, 
         "out_total": 3483741, 
-        "out_travel": 24732
+        "out_travel": 24732, 
+        "title": "councilors"
     }, 
     {
         "balance": -240484, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 25600, 
         "in_civil": 0, 
@@ -7053,11 +7640,13 @@
         "out_rally": 29420, 
         "out_return": 0, 
         "out_total": 2366364, 
-        "out_travel": 36482
+        "out_travel": 36482, 
+        "title": "councilors"
     }, 
     {
         "balance": -1318630, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7077,11 +7666,13 @@
         "out_rally": 216425, 
         "out_return": 0, 
         "out_total": 2070630, 
-        "out_travel": 16716
+        "out_travel": 16716, 
+        "title": "councilors"
     }, 
     {
         "balance": -211975, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 86000, 
@@ -7101,11 +7692,13 @@
         "out_rally": 243580, 
         "out_return": 0, 
         "out_total": 3583674, 
-        "out_travel": 35806
+        "out_travel": 35806, 
+        "title": "councilors"
     }, 
     {
         "balance": -31777, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7125,11 +7718,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 1243777, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -137648, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7149,11 +7744,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 492248, 
-        "out_travel": 68317
+        "out_travel": 68317, 
+        "title": "councilors"
     }, 
     {
         "balance": -144946, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7173,11 +7770,13 @@
         "out_rally": 170927, 
         "out_return": 0, 
         "out_total": 2963497, 
-        "out_travel": 64009
+        "out_travel": 64009, 
+        "title": "councilors"
     }, 
     {
         "balance": -1162674, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7197,11 +7796,13 @@
         "out_rally": 64730, 
         "out_return": 0, 
         "out_total": 1512274, 
-        "out_travel": 96677
+        "out_travel": 96677, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7221,11 +7822,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -251187, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 24000, 
         "in_civil": 0, 
@@ -7245,11 +7848,13 @@
         "out_rally": 53100, 
         "out_return": 0, 
         "out_total": 1748087, 
-        "out_travel": 40402
+        "out_travel": 40402, 
+        "title": "councilors"
     }, 
     {
         "balance": -60386, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7269,11 +7874,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 720386, 
-        "out_travel": 102323
+        "out_travel": 102323, 
+        "title": "councilors"
     }, 
     {
         "balance": -258178, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 31000, 
         "in_civil": 0, 
@@ -7293,11 +7900,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 810181, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -611298, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7317,11 +7926,13 @@
         "out_rally": 88900, 
         "out_return": 0, 
         "out_total": 909298, 
-        "out_travel": 33186
+        "out_travel": 33186, 
+        "title": "councilors"
     }, 
     {
         "balance": -162077, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7341,11 +7952,13 @@
         "out_rally": 10250, 
         "out_return": 0, 
         "out_total": 431077, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -899172, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 20000, 
@@ -7365,11 +7978,13 @@
         "out_rally": 210800, 
         "out_return": 0, 
         "out_total": 1930173, 
-        "out_travel": 24957
+        "out_travel": 24957, 
+        "title": "councilors"
     }, 
     {
         "balance": -861, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 120, 
         "in_civil": 0, 
@@ -7389,11 +8004,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 898581, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -164787, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7413,11 +8030,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 2487811, 
-        "out_travel": 3296
+        "out_travel": 3296, 
+        "title": "councilors"
     }, 
     {
         "balance": -889662, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7437,11 +8056,13 @@
         "out_rally": 516920, 
         "out_return": 0, 
         "out_total": 3172968, 
-        "out_travel": 25646
+        "out_travel": 25646, 
+        "title": "councilors"
     }, 
     {
         "balance": -67763, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 16600, 
         "in_civil": 4000, 
@@ -7461,11 +8082,13 @@
         "out_rally": 292000, 
         "out_return": 0, 
         "out_total": 2116070, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -175336, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7485,11 +8108,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 1701367, 
-        "out_travel": 186127
+        "out_travel": 186127, 
+        "title": "councilors"
     }, 
     {
         "balance": -319867, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7509,11 +8134,13 @@
         "out_rally": 21900, 
         "out_return": 0, 
         "out_total": 385867, 
-        "out_travel": 13001
+        "out_travel": 13001, 
+        "title": "councilors"
     }, 
     {
         "balance": -868, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7533,11 +8160,13 @@
         "out_rally": 35225, 
         "out_return": 0, 
         "out_total": 403476, 
-        "out_travel": 25526
+        "out_travel": 25526, 
+        "title": "councilors"
     }, 
     {
         "balance": -4207, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7557,11 +8186,13 @@
         "out_rally": 1020, 
         "out_return": 0, 
         "out_total": 830210, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -383639, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7581,11 +8212,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 843641, 
-        "out_travel": 8608
+        "out_travel": 8608, 
+        "title": "councilors"
     }, 
     {
         "balance": -172490, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 141300, 
         "in_civil": 0, 
@@ -7605,11 +8238,13 @@
         "out_rally": 183000, 
         "out_return": 0, 
         "out_total": 3359786, 
-        "out_travel": 91211
+        "out_travel": 91211, 
+        "title": "councilors"
     }, 
     {
         "balance": -300577, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7629,11 +8264,13 @@
         "out_rally": 84500, 
         "out_return": 0, 
         "out_total": 627595, 
-        "out_travel": 24546
+        "out_travel": 24546, 
+        "title": "councilors"
     }, 
     {
         "balance": -533658, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7653,11 +8290,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 663661, 
-        "out_travel": 30386
+        "out_travel": 30386, 
+        "title": "councilors"
     }, 
     {
         "balance": -493617, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 11000, 
         "in_civil": 0, 
@@ -7677,11 +8316,13 @@
         "out_rally": 227028, 
         "out_return": 0, 
         "out_total": 1987617, 
-        "out_travel": 56069
+        "out_travel": 56069, 
+        "title": "councilors"
     }, 
     {
         "balance": -403166, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7701,11 +8342,13 @@
         "out_rally": 427280, 
         "out_return": 0, 
         "out_total": 2098546, 
-        "out_travel": 83625
+        "out_travel": 83625, 
+        "title": "councilors"
     }, 
     {
         "balance": -9784, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 4150, 
         "in_civil": 0, 
@@ -7725,11 +8368,13 @@
         "out_rally": 45000, 
         "out_return": 0, 
         "out_total": 1520938, 
-        "out_travel": 10060
+        "out_travel": 10060, 
+        "title": "councilors"
     }, 
     {
         "balance": -266110, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 20000, 
         "in_civil": 5000, 
@@ -7749,11 +8394,13 @@
         "out_rally": 822193, 
         "out_return": 100000, 
         "out_total": 3197154, 
-        "out_travel": 2960
+        "out_travel": 2960, 
+        "title": "councilors"
     }, 
     {
         "balance": -514684, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 20100, 
         "in_civil": 0, 
@@ -7773,11 +8420,13 @@
         "out_rally": 98223, 
         "out_return": 0, 
         "out_total": 1267320, 
-        "out_travel": 50721
+        "out_travel": 50721, 
+        "title": "councilors"
     }, 
     {
         "balance": -514684, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 20100, 
         "in_civil": 0, 
@@ -7797,11 +8446,13 @@
         "out_rally": 98223, 
         "out_return": 0, 
         "out_total": 1267320, 
-        "out_travel": 50721
+        "out_travel": 50721, 
+        "title": "councilors"
     }, 
     {
         "balance": -84284, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7821,11 +8472,13 @@
         "out_rally": 28800, 
         "out_return": 0, 
         "out_total": 695908, 
-        "out_travel": 49010
+        "out_travel": 49010, 
+        "title": "councilors"
     }, 
     {
         "balance": -374662, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7845,11 +8498,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 426162, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -103577, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7869,11 +8524,13 @@
         "out_rally": 15000, 
         "out_return": 0, 
         "out_total": 1773609, 
-        "out_travel": 24686
+        "out_travel": 24686, 
+        "title": "councilors"
     }, 
     {
         "balance": -83960, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7893,11 +8550,13 @@
         "out_rally": 74400, 
         "out_return": 30000, 
         "out_total": 1889978, 
-        "out_travel": 11996
+        "out_travel": 11996, 
+        "title": "councilors"
     }, 
     {
         "balance": -64, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7917,11 +8576,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 640080, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -841722, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7941,11 +8602,13 @@
         "out_rally": 13400, 
         "out_return": 0, 
         "out_total": 1878341, 
-        "out_travel": 90331
+        "out_travel": 90331, 
+        "title": "councilors"
     }, 
     {
         "balance": -171760, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7965,11 +8628,13 @@
         "out_rally": 159200, 
         "out_return": 0, 
         "out_total": 943360, 
-        "out_travel": 22376
+        "out_travel": 22376, 
+        "title": "councilors"
     }, 
     {
         "balance": -352977, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 10000, 
         "in_civil": 0, 
@@ -7989,11 +8654,13 @@
         "out_rally": 83720, 
         "out_return": 20000, 
         "out_total": 1314192, 
-        "out_travel": 68200
+        "out_travel": 68200, 
+        "title": "councilors"
     }, 
     {
         "balance": -295330, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -8013,11 +8680,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 574330, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -41063, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 14200, 
         "in_civil": 0, 
@@ -8037,11 +8706,13 @@
         "out_rally": 28800, 
         "out_return": 0, 
         "out_total": 1515271, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -109800, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -8061,11 +8732,13 @@
         "out_rally": 9936, 
         "out_return": 35856, 
         "out_total": 292912, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -183128, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -8085,11 +8758,13 @@
         "out_rally": 50100, 
         "out_return": 0, 
         "out_total": 222128, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -55860, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 3100, 
         "in_civil": 9000, 
@@ -8109,11 +8784,13 @@
         "out_rally": 9700, 
         "out_return": 0, 
         "out_total": 2522660, 
-        "out_travel": 29951
+        "out_travel": 29951, 
+        "title": "councilors"
     }, 
     {
         "balance": -557443, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -8133,11 +8810,13 @@
         "out_rally": 105220, 
         "out_return": 0, 
         "out_total": 1855843, 
-        "out_travel": 19646
+        "out_travel": 19646, 
+        "title": "councilors"
     }, 
     {
         "balance": -60608, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -8157,11 +8836,13 @@
         "out_rally": 4000, 
         "out_return": 0, 
         "out_total": 1048612, 
-        "out_travel": 73359
+        "out_travel": 73359, 
+        "title": "councilors"
     }, 
     {
         "balance": -44520, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -8181,11 +8862,13 @@
         "out_rally": 12000, 
         "out_return": 0, 
         "out_total": 94520, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -820700, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 536000, 
@@ -8205,11 +8888,13 @@
         "out_rally": 882964, 
         "out_return": 0, 
         "out_total": 6263515, 
-        "out_travel": 16500
+        "out_travel": 16500, 
+        "title": "councilors"
     }, 
     {
         "balance": -290645, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -8229,11 +8914,13 @@
         "out_rally": 12800, 
         "out_return": 0, 
         "out_total": 324459, 
-        "out_travel": 30171
+        "out_travel": 30171, 
+        "title": "councilors"
     }, 
     {
         "balance": -72918, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -8253,11 +8940,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 262918, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -8277,11 +8966,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 71000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -351022, 
         "county": "彰化縣", 
+        "election_name": "彰化縣議員選舉", 
         "election_year": "2009", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -8301,6 +8992,7 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 973039, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }
 ]

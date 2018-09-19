@@ -2,6 +2,7 @@
     {
         "balance": -90650, 
         "county": "花蓮縣", 
+        "election_name": "花蓮縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 105100, 
         "in_civil": 6000, 
@@ -21,11 +22,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 967650, 
-        "out_travel": 27398
+        "out_travel": 27398, 
+        "title": "councilors"
     }, 
     {
         "balance": -96656, 
         "county": "花蓮縣", 
+        "election_name": "花蓮縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -45,11 +48,13 @@
         "out_rally": 50094, 
         "out_return": 0, 
         "out_total": 896656, 
-        "out_travel": 13552
+        "out_travel": 13552, 
+        "title": "councilors"
     }, 
     {
         "balance": -211118, 
         "county": "花蓮縣", 
+        "election_name": "花蓮縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -69,11 +74,13 @@
         "out_rally": 195820, 
         "out_return": 50000, 
         "out_total": 2566747, 
-        "out_travel": 25420
+        "out_travel": 25420, 
+        "title": "councilors"
     }, 
     {
         "balance": -193450, 
         "county": "花蓮縣", 
+        "election_name": "花蓮縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -93,11 +100,13 @@
         "out_rally": 173600, 
         "out_return": 0, 
         "out_total": 876450, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -154000, 
         "county": "花蓮縣", 
+        "election_name": "花蓮縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -117,11 +126,13 @@
         "out_rally": 66000, 
         "out_return": 0, 
         "out_total": 184000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -12708, 
         "county": "花蓮縣", 
+        "election_name": "花蓮縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 15000, 
         "in_civil": 0, 
@@ -141,11 +152,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 71310, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -18000, 
         "county": "花蓮縣", 
+        "election_name": "花蓮縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -165,11 +178,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 68000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -87456, 
         "county": "花蓮縣", 
+        "election_name": "花蓮縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -189,11 +204,13 @@
         "out_rally": 87990, 
         "out_return": 0, 
         "out_total": 417456, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -130000, 
         "county": "花蓮縣", 
+        "election_name": "花蓮縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -213,11 +230,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 300000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -5860, 
         "county": "花蓮縣", 
+        "election_name": "花蓮縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 50000, 
@@ -237,11 +256,13 @@
         "out_rally": 3020, 
         "out_return": 0, 
         "out_total": 1065533, 
-        "out_travel": 24067
+        "out_travel": 24067, 
+        "title": "councilors"
     }, 
     {
         "balance": -2198247, 
         "county": "花蓮縣", 
+        "election_name": "花蓮縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -261,11 +282,13 @@
         "out_rally": 26706, 
         "out_return": 0, 
         "out_total": 2318047, 
-        "out_travel": 40259
+        "out_travel": 40259, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "花蓮縣", 
+        "election_name": "花蓮縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 57500, 
         "in_civil": 6000, 
@@ -285,11 +308,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 791500, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -309,11 +334,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -8950, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -333,11 +360,13 @@
         "out_rally": 58350, 
         "out_return": 0, 
         "out_total": 228950, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -23019, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -357,11 +386,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 443019, 
-        "out_travel": 7513
+        "out_travel": 7513, 
+        "title": "councilors"
     }, 
     {
         "balance": -522515, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -381,11 +412,13 @@
         "out_rally": 129862, 
         "out_return": 0, 
         "out_total": 602515, 
-        "out_travel": 480
+        "out_travel": 480, 
+        "title": "councilors"
     }, 
     {
         "balance": -497981, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -405,11 +438,13 @@
         "out_rally": 135000, 
         "out_return": 0, 
         "out_total": 943981, 
-        "out_travel": 46134
+        "out_travel": 46134, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -429,11 +464,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -44615, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 2000, 
@@ -453,11 +490,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 216615, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -175074, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 11000, 
         "in_civil": 0, 
@@ -477,11 +516,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 371076, 
-        "out_travel": 79194
+        "out_travel": 79194, 
+        "title": "councilors"
     }, 
     {
         "balance": -69000, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -501,11 +542,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 99000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -12423, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -525,11 +568,13 @@
         "out_rally": 41700, 
         "out_return": 0, 
         "out_total": 1040445, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -758153, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -549,11 +594,13 @@
         "out_rally": 63000, 
         "out_return": 0, 
         "out_total": 1068153, 
-        "out_travel": 18187
+        "out_travel": 18187, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -573,11 +620,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 50000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -178285, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -597,11 +646,13 @@
         "out_rally": 12090, 
         "out_return": 0, 
         "out_total": 753885, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -146428, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -621,11 +672,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 186428, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -645,11 +698,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 30000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -220223, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -669,11 +724,13 @@
         "out_rally": 90000, 
         "out_return": 0, 
         "out_total": 326223, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -693,11 +750,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -58060, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -717,11 +776,13 @@
         "out_rally": 36000, 
         "out_return": 0, 
         "out_total": 148060, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -15849, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 16000, 
         "in_civil": 1200, 
@@ -741,11 +802,13 @@
         "out_rally": 7000, 
         "out_return": 0, 
         "out_total": 400049, 
-        "out_travel": 3000
+        "out_travel": 3000, 
+        "title": "councilors"
     }, 
     {
         "balance": -304469, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -765,11 +828,13 @@
         "out_rally": 49845, 
         "out_return": 0, 
         "out_total": 374469, 
-        "out_travel": 8838
+        "out_travel": 8838, 
+        "title": "councilors"
     }, 
     {
         "balance": -15000, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -789,11 +854,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 58000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -75511, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -813,11 +880,13 @@
         "out_rally": 118400, 
         "out_return": 0, 
         "out_total": 1041511, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -414921, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -837,11 +906,13 @@
         "out_rally": 14080, 
         "out_return": 0, 
         "out_total": 644921, 
-        "out_travel": 35533
+        "out_travel": 35533, 
+        "title": "councilors"
     }, 
     {
         "balance": -87850, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -861,11 +932,13 @@
         "out_rally": 45950, 
         "out_return": 0, 
         "out_total": 167950, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -8300, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -885,11 +958,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 38300, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -4316, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -909,11 +984,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 254316, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -240481, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -933,11 +1010,13 @@
         "out_rally": 35300, 
         "out_return": 0, 
         "out_total": 1210481, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -17614, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -957,11 +1036,13 @@
         "out_rally": 68120, 
         "out_return": 0, 
         "out_total": 337614, 
-        "out_travel": 41567
+        "out_travel": 41567, 
+        "title": "councilors"
     }, 
     {
         "balance": -146, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -981,11 +1062,13 @@
         "out_rally": 29000, 
         "out_return": 0, 
         "out_total": 68146, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -1540, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1005,11 +1088,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 336360, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -128296, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1029,11 +1114,13 @@
         "out_rally": 48350, 
         "out_return": 0, 
         "out_total": 304296, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -629201, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1053,11 +1140,13 @@
         "out_rally": 34500, 
         "out_return": 0, 
         "out_total": 679204, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1077,11 +1166,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 50000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -36000, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1101,11 +1192,13 @@
         "out_rally": 36000, 
         "out_return": 0, 
         "out_total": 66000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -80, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1125,11 +1218,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 30080, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 1827674, 
         "county": "臺東縣", 
+        "election_name": "臺東縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 50000, 
@@ -1149,11 +1244,13 @@
         "out_rally": 475000, 
         "out_return": 0, 
         "out_total": 1858127, 
-        "out_travel": 13660
+        "out_travel": 13660, 
+        "title": "councilors"
     }, 
     {
         "balance": -9998, 
         "county": "澎湖縣", 
+        "election_name": "澎湖縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1173,11 +1270,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 60000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -16681, 
         "county": "澎湖縣", 
+        "election_name": "澎湖縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1197,11 +1296,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 66690, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -2151, 
         "county": "澎湖縣", 
+        "election_name": "澎湖縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1221,11 +1322,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 374800, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "澎湖縣", 
+        "election_name": "澎湖縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1245,11 +1348,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -61470, 
         "county": "澎湖縣", 
+        "election_name": "澎湖縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 200000, 
@@ -1269,11 +1374,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 261475, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -147271, 
         "county": "澎湖縣", 
+        "election_name": "澎湖縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 3000, 
         "in_civil": 0, 
@@ -1293,11 +1400,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 377071, 
-        "out_travel": 22973
+        "out_travel": 22973, 
+        "title": "councilors"
     }, 
     {
         "balance": -167355, 
         "county": "澎湖縣", 
+        "election_name": "澎湖縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1317,11 +1426,13 @@
         "out_rally": 23200, 
         "out_return": 0, 
         "out_total": 337355, 
-        "out_travel": 300
+        "out_travel": 300, 
+        "title": "councilors"
     }, 
     {
         "balance": -383535, 
         "county": "澎湖縣", 
+        "election_name": "澎湖縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1341,11 +1452,13 @@
         "out_rally": 7864, 
         "out_return": 0, 
         "out_total": 987227, 
-        "out_travel": 71530
+        "out_travel": 71530, 
+        "title": "councilors"
     }, 
     {
         "balance": -888415, 
         "county": "澎湖縣", 
+        "election_name": "澎湖縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 30000, 
@@ -1365,11 +1478,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 968415, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -79711, 
         "county": "澎湖縣", 
+        "election_name": "澎湖縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1389,11 +1504,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 276411, 
-        "out_travel": 15819
+        "out_travel": 15819, 
+        "title": "councilors"
     }, 
     {
         "balance": -95659, 
         "county": "澎湖縣", 
+        "election_name": "澎湖縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 6000, 
         "in_civil": 0, 
@@ -1413,11 +1530,13 @@
         "out_rally": 3200, 
         "out_return": 300000, 
         "out_total": 1384716, 
-        "out_travel": 52553
+        "out_travel": 52553, 
+        "title": "councilors"
     }, 
     {
         "balance": -5425, 
         "county": "澎湖縣", 
+        "election_name": "澎湖縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 200000, 
@@ -1437,11 +1556,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 285475, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -16695, 
         "county": "澎湖縣", 
+        "election_name": "澎湖縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1461,11 +1582,13 @@
         "out_rally": 7200, 
         "out_return": 0, 
         "out_total": 176695, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -29000, 
         "county": "金門縣", 
+        "election_name": "金門縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1485,11 +1608,13 @@
         "out_rally": 42000, 
         "out_return": 0, 
         "out_total": 203000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -717746, 
         "county": "金門縣", 
+        "election_name": "金門縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 13000, 
         "in_civil": 0, 
@@ -1509,11 +1634,13 @@
         "out_rally": 15360, 
         "out_return": 0, 
         "out_total": 1654746, 
-        "out_travel": 114601
+        "out_travel": 114601, 
+        "title": "councilors"
     }, 
     {
         "balance": -270546, 
         "county": "金門縣", 
+        "election_name": "金門縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1533,11 +1660,13 @@
         "out_rally": 39000, 
         "out_return": 0, 
         "out_total": 746098, 
-        "out_travel": 31067
+        "out_travel": 31067, 
+        "title": "councilors"
     }, 
     {
         "balance": -147700, 
         "county": "金門縣", 
+        "election_name": "金門縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1557,11 +1686,13 @@
         "out_rally": 104040, 
         "out_return": 0, 
         "out_total": 277900, 
-        "out_travel": 2500
+        "out_travel": 2500, 
+        "title": "councilors"
     }, 
     {
         "balance": -44396, 
         "county": "金門縣", 
+        "election_name": "金門縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1581,11 +1712,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 78950, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -40480, 
         "county": "金門縣", 
+        "election_name": "金門縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1605,11 +1738,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 70480, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -85721, 
         "county": "金門縣", 
+        "election_name": "金門縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1629,11 +1764,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 115725, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -694419, 
         "county": "金門縣", 
+        "election_name": "金門縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1653,11 +1790,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 744419, 
-        "out_travel": 7888
+        "out_travel": 7888, 
+        "title": "councilors"
     }, 
     {
         "balance": -1223462, 
         "county": "金門縣", 
+        "election_name": "金門縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1677,11 +1816,13 @@
         "out_rally": 226000, 
         "out_return": 0, 
         "out_total": 1345462, 
-        "out_travel": 7790
+        "out_travel": 7790, 
+        "title": "councilors"
     }, 
     {
         "balance": 35, 
         "county": "金門縣", 
+        "election_name": "金門縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1701,11 +1842,13 @@
         "out_rally": 0, 
         "out_return": 60000, 
         "out_total": 165000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -250210, 
         "county": "金門縣", 
+        "election_name": "金門縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1725,11 +1868,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 480210, 
-        "out_travel": 44040
+        "out_travel": 44040, 
+        "title": "councilors"
     }, 
     {
         "balance": -43600, 
         "county": "金門縣", 
+        "election_name": "金門縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1749,11 +1894,13 @@
         "out_rally": 28900, 
         "out_return": 0, 
         "out_total": 293600, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -307944, 
         "county": "金門縣", 
+        "election_name": "金門縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1773,11 +1920,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 567944, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -411301, 
         "county": "金門縣", 
+        "election_name": "金門縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 12688, 
         "in_civil": 0, 
@@ -1797,11 +1946,13 @@
         "out_rally": 20795, 
         "out_return": 0, 
         "out_total": 917841, 
-        "out_travel": 76765
+        "out_travel": 76765, 
+        "title": "councilors"
     }, 
     {
         "balance": -216225, 
         "county": "金門縣", 
+        "election_name": "金門縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1821,11 +1972,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 276225, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -86525, 
         "county": "金門縣", 
+        "election_name": "金門縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 1000, 
         "in_civil": 0, 
@@ -1845,11 +1998,13 @@
         "out_rally": 21000, 
         "out_return": 100000, 
         "out_total": 641983, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -285140, 
         "county": "金門縣", 
+        "election_name": "金門縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1869,11 +2024,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 315140, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -29000, 
         "county": "金門縣", 
+        "election_name": "金門縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 12000, 
         "in_civil": 0, 
@@ -1893,11 +2050,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 120000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "金門縣", 
+        "election_name": "金門縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1917,11 +2076,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 30000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -4354, 
         "county": "金門縣", 
+        "election_name": "金門縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1941,11 +2102,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 874354, 
-        "out_travel": 24324
+        "out_travel": 24324, 
+        "title": "councilors"
     }, 
     {
         "balance": -20000, 
         "county": "金門縣", 
+        "election_name": "金門縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1965,11 +2128,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 50000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -163470, 
         "county": "連江縣", 
+        "election_name": "連江縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1989,11 +2154,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 313470, 
-        "out_travel": 1575
+        "out_travel": 1575, 
+        "title": "councilors"
     }, 
     {
         "balance": -2000, 
         "county": "連江縣", 
+        "election_name": "連江縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2013,11 +2180,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 52000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -31760, 
         "county": "連江縣", 
+        "election_name": "連江縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2037,11 +2206,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 61760, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -1000, 
         "county": "連江縣", 
+        "election_name": "連江縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2061,11 +2232,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 51000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -10000, 
         "county": "連江縣", 
+        "election_name": "連江縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2085,11 +2258,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 50000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -2000, 
         "county": "連江縣", 
+        "election_name": "連江縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2109,11 +2284,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 32000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -3560, 
         "county": "連江縣", 
+        "election_name": "連江縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2133,11 +2310,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 33560, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -760, 
         "county": "連江縣", 
+        "election_name": "連江縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2157,11 +2336,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 30760, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -3900, 
         "county": "連江縣", 
+        "election_name": "連江縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2181,11 +2362,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 33900, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -690, 
         "county": "連江縣", 
+        "election_name": "連江縣議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2205,6 +2388,7 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 30690, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }
 ]

@@ -2,6 +2,7 @@
     {
         "balance": -293410, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 47884, 
         "in_civil": 50000, 
@@ -21,11 +22,13 @@
         "out_rally": 32800, 
         "out_return": 6000, 
         "out_total": 3436636, 
-        "out_travel": 90252
+        "out_travel": 90252, 
+        "title": "councilors"
     }, 
     {
         "balance": -2403279, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 34988, 
         "in_civil": 60000, 
@@ -45,11 +48,13 @@
         "out_rally": 182868, 
         "out_return": 100000, 
         "out_total": 6362403, 
-        "out_travel": 282411
+        "out_travel": 282411, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -69,11 +74,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -121400, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -93,11 +100,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 163000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -617373, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 12000, 
         "in_civil": 20000, 
@@ -117,11 +126,13 @@
         "out_rally": 16902, 
         "out_return": 100000, 
         "out_total": 5845462, 
-        "out_travel": 51935
+        "out_travel": 51935, 
+        "title": "councilors"
     }, 
     {
         "balance": -116994, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 8000, 
         "in_civil": 22000, 
@@ -141,11 +152,13 @@
         "out_rally": 8575, 
         "out_return": 53600, 
         "out_total": 6109559, 
-        "out_travel": 114468
+        "out_travel": 114468, 
+        "title": "councilors"
     }, 
     {
         "balance": -8939, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 16300, 
         "in_civil": 105000, 
@@ -165,11 +178,13 @@
         "out_rally": 307232, 
         "out_return": 770000, 
         "out_total": 10553012, 
-        "out_travel": 376756
+        "out_travel": 376756, 
+        "title": "councilors"
     }, 
     {
         "balance": -5321, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -189,11 +204,13 @@
         "out_rally": 0, 
         "out_return": 91000, 
         "out_total": 489351, 
-        "out_travel": 28961
+        "out_travel": 28961, 
+        "title": "councilors"
     }, 
     {
         "balance": -367723, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 33000, 
@@ -213,11 +230,13 @@
         "out_rally": 133754, 
         "out_return": 720000, 
         "out_total": 8610079, 
-        "out_travel": 216050
+        "out_travel": 216050, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -237,11 +256,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -261,11 +282,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -285,11 +308,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 5000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 381823, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 183200, 
         "in_civil": 0, 
@@ -309,11 +334,13 @@
         "out_rally": 329455, 
         "out_return": 5000, 
         "out_total": 4752365, 
-        "out_travel": 148798
+        "out_travel": 148798, 
+        "title": "councilors"
     }, 
     {
         "balance": -67094, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 37000, 
         "in_civil": 6000, 
@@ -333,11 +360,13 @@
         "out_rally": 0, 
         "out_return": 160000, 
         "out_total": 13163213, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 3480872, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 33500, 
         "in_civil": 236000, 
@@ -357,11 +386,13 @@
         "out_rally": 880750, 
         "out_return": 312000, 
         "out_total": 7875704, 
-        "out_travel": 131516
+        "out_travel": 131516, 
+        "title": "councilors"
     }, 
     {
         "balance": 2200829, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -381,11 +412,13 @@
         "out_rally": 0, 
         "out_return": 200000, 
         "out_total": 11775171, 
-        "out_travel": 127843
+        "out_travel": 127843, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -405,11 +438,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -728506, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 24000, 
         "in_civil": 6000, 
@@ -429,11 +464,13 @@
         "out_rally": 106075, 
         "out_return": 0, 
         "out_total": 1872582, 
-        "out_travel": 82353
+        "out_travel": 82353, 
+        "title": "councilors"
     }, 
     {
         "balance": -392110, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -453,11 +490,13 @@
         "out_rally": 0, 
         "out_return": 100000, 
         "out_total": 1282125, 
-        "out_travel": 66313
+        "out_travel": 66313, 
+        "title": "councilors"
     }, 
     {
         "balance": 1639556, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 54600, 
         "in_civil": 94000, 
@@ -477,11 +516,13 @@
         "out_rally": 11700, 
         "out_return": 515000, 
         "out_total": 8085602, 
-        "out_travel": 151095
+        "out_travel": 151095, 
+        "title": "councilors"
     }, 
     {
         "balance": 7820250, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 8000, 
         "in_civil": 356000, 
@@ -501,11 +542,13 @@
         "out_rally": 543490, 
         "out_return": 2725000, 
         "out_total": 11173518, 
-        "out_travel": 359105
+        "out_travel": 359105, 
+        "title": "councilors"
     }, 
     {
         "balance": -4000, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -525,11 +568,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 34000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -67582, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 2000, 
         "in_civil": 0, 
@@ -549,11 +594,13 @@
         "out_rally": 450477, 
         "out_return": 226000, 
         "out_total": 5997845, 
-        "out_travel": 662712
+        "out_travel": 662712, 
+        "title": "councilors"
     }, 
     {
         "balance": 2340108, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 65000, 
@@ -573,11 +620,13 @@
         "out_rally": 808706, 
         "out_return": 100000, 
         "out_total": 13430013, 
-        "out_travel": 163945
+        "out_travel": 163945, 
+        "title": "councilors"
     }, 
     {
         "balance": -544678, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 2000, 
         "in_civil": 107000, 
@@ -597,11 +646,13 @@
         "out_rally": 226527, 
         "out_return": 869800, 
         "out_total": 14874377, 
-        "out_travel": 208742
+        "out_travel": 208742, 
+        "title": "councilors"
     }, 
     {
         "balance": 1529081, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 53400, 
         "in_civil": 22000, 
@@ -621,11 +672,13 @@
         "out_rally": 276126, 
         "out_return": 530000, 
         "out_total": 5894532, 
-        "out_travel": 32886
+        "out_travel": 32886, 
+        "title": "councilors"
     }, 
     {
         "balance": -231573, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 10000, 
         "in_civil": 216000, 
@@ -645,11 +698,13 @@
         "out_rally": 554045, 
         "out_return": 365000, 
         "out_total": 6594979, 
-        "out_travel": 249232
+        "out_travel": 249232, 
+        "title": "councilors"
     }, 
     {
         "balance": -678651, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 26000, 
         "in_civil": 40000, 
@@ -669,11 +724,13 @@
         "out_rally": 369307, 
         "out_return": 0, 
         "out_total": 8090154, 
-        "out_travel": 70291
+        "out_travel": 70291, 
+        "title": "councilors"
     }, 
     {
         "balance": -21365, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 64000, 
         "in_civil": 0, 
@@ -693,11 +750,13 @@
         "out_rally": 2871, 
         "out_return": 0, 
         "out_total": 434865, 
-        "out_travel": 56423
+        "out_travel": 56423, 
+        "title": "councilors"
     }, 
     {
         "balance": 892085, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 10000, 
         "in_civil": 185000, 
@@ -717,11 +776,13 @@
         "out_rally": 98890, 
         "out_return": 90000, 
         "out_total": 2592669, 
-        "out_travel": 33586
+        "out_travel": 33586, 
+        "title": "councilors"
     }, 
     {
         "balance": 2960489, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 168000, 
         "in_civil": 6000, 
@@ -741,11 +802,13 @@
         "out_rally": 103858, 
         "out_return": 116000, 
         "out_total": 3581763, 
-        "out_travel": 16729
+        "out_travel": 16729, 
+        "title": "councilors"
     }, 
     {
         "balance": -3225140, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 10000, 
@@ -765,11 +828,13 @@
         "out_rally": 0, 
         "out_return": 112000, 
         "out_total": 5476329, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -143502, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 25600, 
         "in_civil": 0, 
@@ -789,11 +854,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 234102, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -2681055, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 190000, 
         "in_civil": 295600, 
@@ -813,11 +880,13 @@
         "out_rally": 491275, 
         "out_return": 665000, 
         "out_total": 9576866, 
-        "out_travel": 123713
+        "out_travel": 123713, 
+        "title": "councilors"
     }, 
     {
         "balance": -76084, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 48014, 
         "in_civil": 296000, 
@@ -837,11 +906,13 @@
         "out_rally": 396835, 
         "out_return": 992000, 
         "out_total": 10007786, 
-        "out_travel": 84195
+        "out_travel": 84195, 
+        "title": "councilors"
     }, 
     {
         "balance": -2253858, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 6000, 
@@ -861,11 +932,13 @@
         "out_rally": 69910, 
         "out_return": 160000, 
         "out_total": 3267920, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 5155871, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 9500, 
         "in_civil": 200000, 
@@ -885,11 +958,13 @@
         "out_rally": 553775, 
         "out_return": 826000, 
         "out_total": 7412184, 
-        "out_travel": 32064
+        "out_travel": 32064, 
+        "title": "councilors"
     }, 
     {
         "balance": -1163967, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 90000, 
@@ -909,11 +984,13 @@
         "out_rally": 61630, 
         "out_return": 0, 
         "out_total": 6471346, 
-        "out_travel": 186400
+        "out_travel": 186400, 
+        "title": "councilors"
     }, 
     {
         "balance": 11512913, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 47000, 
         "in_civil": 130000, 
@@ -933,11 +1010,13 @@
         "out_rally": 115470, 
         "out_return": 1227000, 
         "out_total": 6973877, 
-        "out_travel": 12632
+        "out_travel": 12632, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -957,11 +1036,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 384200, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -2693491, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 111600, 
         "in_civil": 10000, 
@@ -981,11 +1062,13 @@
         "out_rally": 2162782, 
         "out_return": 190000, 
         "out_total": 11620301, 
-        "out_travel": 3202
+        "out_travel": 3202, 
+        "title": "councilors"
     }, 
     {
         "balance": -3524436, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 20000, 
         "in_civil": 20000, 
@@ -1005,11 +1088,13 @@
         "out_rally": 468855, 
         "out_return": 860000, 
         "out_total": 10771926, 
-        "out_travel": 44704
+        "out_travel": 44704, 
+        "title": "councilors"
     }, 
     {
         "balance": -925510, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 1000, 
         "in_civil": 0, 
@@ -1029,11 +1114,13 @@
         "out_rally": 46450, 
         "out_return": 0, 
         "out_total": 1531522, 
-        "out_travel": 12390
+        "out_travel": 12390, 
+        "title": "councilors"
     }, 
     {
         "balance": 3522414, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 19000, 
         "in_civil": 510000, 
@@ -1053,11 +1140,13 @@
         "out_rally": 1371455, 
         "out_return": 0, 
         "out_total": 10277327, 
-        "out_travel": 190984
+        "out_travel": 190984, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 1000, 
         "in_civil": 0, 
@@ -1077,11 +1166,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 545000, 
-        "out_travel": 7832
+        "out_travel": 7832, 
+        "title": "councilors"
     }, 
     {
         "balance": -97104, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1101,11 +1192,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 897273, 
-        "out_travel": 9449
+        "out_travel": 9449, 
+        "title": "councilors"
     }, 
     {
         "balance": 1021399, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 33700, 
         "in_civil": 20000, 
@@ -1125,11 +1218,13 @@
         "out_rally": 70000, 
         "out_return": 5000, 
         "out_total": 2731296, 
-        "out_travel": 10780
+        "out_travel": 10780, 
+        "title": "councilors"
     }, 
     {
         "balance": -219275, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1149,11 +1244,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 319275, 
-        "out_travel": 8945
+        "out_travel": 8945, 
+        "title": "councilors"
     }, 
     {
         "balance": -1850410, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 104000, 
         "in_civil": 230000, 
@@ -1173,11 +1270,13 @@
         "out_rally": 672195, 
         "out_return": 1195800, 
         "out_total": 10803330, 
-        "out_travel": 48305
+        "out_travel": 48305, 
+        "title": "councilors"
     }, 
     {
         "balance": -470659, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 30000, 
         "in_civil": 0, 
@@ -1197,11 +1296,13 @@
         "out_rally": 104878, 
         "out_return": 105000, 
         "out_total": 2814669, 
-        "out_travel": 65525
+        "out_travel": 65525, 
+        "title": "councilors"
     }, 
     {
         "balance": 2424379, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 66200, 
         "in_civil": 160000, 
@@ -1221,11 +1322,13 @@
         "out_rally": 315339, 
         "out_return": 1137000, 
         "out_total": 7229144, 
-        "out_travel": 10640
+        "out_travel": 10640, 
+        "title": "councilors"
     }, 
     {
         "balance": -598112, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 10000, 
@@ -1245,11 +1348,13 @@
         "out_rally": 216930, 
         "out_return": 200000, 
         "out_total": 1579112, 
-        "out_travel": 65786
+        "out_travel": 65786, 
+        "title": "councilors"
     }, 
     {
         "balance": 72985, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 1000, 
         "in_civil": 135000, 
@@ -1269,11 +1374,13 @@
         "out_rally": 60020, 
         "out_return": 40000, 
         "out_total": 6373259, 
-        "out_travel": 58359
+        "out_travel": 58359, 
+        "title": "councilors"
     }, 
     {
         "balance": -1218662, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 110300, 
         "in_civil": 236000, 
@@ -1293,11 +1400,13 @@
         "out_rally": 204449, 
         "out_return": 0, 
         "out_total": 5877973, 
-        "out_travel": 435697
+        "out_travel": 435697, 
+        "title": "councilors"
     }, 
     {
         "balance": -1814588, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 19000, 
         "in_civil": 0, 
@@ -1317,11 +1426,13 @@
         "out_rally": 0, 
         "out_return": 500000, 
         "out_total": 8085988, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -1050836, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 30000, 
         "in_civil": 30000, 
@@ -1341,11 +1452,13 @@
         "out_rally": 1716946, 
         "out_return": 0, 
         "out_total": 11974484, 
-        "out_travel": 182237
+        "out_travel": 182237, 
+        "title": "councilors"
     }, 
     {
         "balance": -67898, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 11500, 
         "in_civil": 0, 
@@ -1365,11 +1478,13 @@
         "out_rally": 19720, 
         "out_return": 250000, 
         "out_total": 3949180, 
-        "out_travel": 39675
+        "out_travel": 39675, 
+        "title": "councilors"
     }, 
     {
         "balance": -37365, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 20000, 
         "in_civil": 50000, 
@@ -1389,11 +1504,13 @@
         "out_rally": 216500, 
         "out_return": 820000, 
         "out_total": 7597657, 
-        "out_travel": 29893
+        "out_travel": 29893, 
+        "title": "councilors"
     }, 
     {
         "balance": 12123315, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 500, 
         "in_civil": 100800, 
@@ -1413,11 +1530,13 @@
         "out_rally": 685337, 
         "out_return": 870000, 
         "out_total": 12569244, 
-        "out_travel": 161338
+        "out_travel": 161338, 
+        "title": "councilors"
     }, 
     {
         "balance": -589590, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1437,11 +1556,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 756390, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -84547, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 14500, 
         "in_civil": 0, 
@@ -1461,11 +1582,13 @@
         "out_rally": 65640, 
         "out_return": 840000, 
         "out_total": 8293387, 
-        "out_travel": 3440
+        "out_travel": 3440, 
+        "title": "councilors"
     }, 
     {
         "balance": 3214981, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 25000, 
@@ -1485,11 +1608,13 @@
         "out_rally": 0, 
         "out_return": 2166000, 
         "out_total": 8712983, 
-        "out_travel": 96503
+        "out_travel": 96503, 
+        "title": "councilors"
     }, 
     {
         "balance": -52503, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 3000, 
         "in_civil": 0, 
@@ -1509,11 +1634,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 327503, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -332711, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 18000, 
         "in_civil": 10000, 
@@ -1533,11 +1660,13 @@
         "out_rally": 153154, 
         "out_return": 12000, 
         "out_total": 3265910, 
-        "out_travel": 24797
+        "out_travel": 24797, 
+        "title": "councilors"
     }, 
     {
         "balance": 373775, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1557,11 +1686,13 @@
         "out_rally": 262770, 
         "out_return": 2250000, 
         "out_total": 9234574, 
-        "out_travel": 129517
+        "out_travel": 129517, 
+        "title": "councilors"
     }, 
     {
         "balance": -253840, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 16000, 
@@ -1581,11 +1712,13 @@
         "out_rally": 128852, 
         "out_return": 42500, 
         "out_total": 7590330, 
-        "out_travel": 65626
+        "out_travel": 65626, 
+        "title": "councilors"
     }, 
     {
         "balance": -209201, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 10000, 
@@ -1605,11 +1738,13 @@
         "out_rally": 0, 
         "out_return": 20000, 
         "out_total": 4214401, 
-        "out_travel": 2400
+        "out_travel": 2400, 
+        "title": "councilors"
     }, 
     {
         "balance": -103949, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 16000, 
         "in_civil": 100000, 
@@ -1629,11 +1764,13 @@
         "out_rally": 0, 
         "out_return": 225000, 
         "out_total": 3018188, 
-        "out_travel": 80570
+        "out_travel": 80570, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1653,11 +1790,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 500000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -666449, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 1000, 
         "in_civil": 0, 
@@ -1677,11 +1816,13 @@
         "out_rally": 110255, 
         "out_return": 250000, 
         "out_total": 3032528, 
-        "out_travel": 37008
+        "out_travel": 37008, 
+        "title": "councilors"
     }, 
     {
         "balance": -35495, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 10000, 
         "in_civil": 180000, 
@@ -1701,11 +1842,13 @@
         "out_rally": 143740, 
         "out_return": 460000, 
         "out_total": 7144118, 
-        "out_travel": 4964
+        "out_travel": 4964, 
+        "title": "councilors"
     }, 
     {
         "balance": 5150198, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 1000, 
         "in_civil": 200000, 
@@ -1725,11 +1868,13 @@
         "out_rally": 371960, 
         "out_return": 1093000, 
         "out_total": 12793091, 
-        "out_travel": 632683
+        "out_travel": 632683, 
+        "title": "councilors"
     }, 
     {
         "balance": -1852719, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 129600, 
         "in_civil": 0, 
@@ -1749,11 +1894,13 @@
         "out_rally": 69354, 
         "out_return": 0, 
         "out_total": 4446784, 
-        "out_travel": 96837
+        "out_travel": 96837, 
+        "title": "councilors"
     }, 
     {
         "balance": 4428190, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1773,11 +1920,13 @@
         "out_rally": 0, 
         "out_return": 500000, 
         "out_total": 2191811, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -12126, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1797,11 +1946,13 @@
         "out_rally": 0, 
         "out_return": 236000, 
         "out_total": 3336462, 
-        "out_travel": 58613
+        "out_travel": 58613, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1821,11 +1972,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -424019, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 102000, 
         "in_civil": 0, 
@@ -1845,11 +1998,13 @@
         "out_rally": 653310, 
         "out_return": 0, 
         "out_total": 3238341, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -2937793, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 93100, 
         "in_civil": 15000, 
@@ -1869,11 +2024,13 @@
         "out_rally": 524107, 
         "out_return": 455000, 
         "out_total": 6133013, 
-        "out_travel": 201935
+        "out_travel": 201935, 
+        "title": "councilors"
     }, 
     {
         "balance": 2346733, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 120000, 
@@ -1893,11 +2050,13 @@
         "out_rally": 421590, 
         "out_return": 320000, 
         "out_total": 5191325, 
-        "out_travel": 122451
+        "out_travel": 122451, 
+        "title": "councilors"
     }, 
     {
         "balance": -129402, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 604020, 
@@ -1917,11 +2076,13 @@
         "out_rally": 524700, 
         "out_return": 210000, 
         "out_total": 13744867, 
-        "out_travel": 75837
+        "out_travel": 75837, 
+        "title": "councilors"
     }, 
     {
         "balance": -148077, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 2000, 
         "in_civil": 0, 
@@ -1941,11 +2102,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 503077, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 8498421, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 2000, 
         "in_civil": 20000, 
@@ -1965,11 +2128,13 @@
         "out_rally": 398638, 
         "out_return": 50000, 
         "out_total": 5351845, 
-        "out_travel": 126025
+        "out_travel": 126025, 
+        "title": "councilors"
     }, 
     {
         "balance": -177334, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 28445, 
         "in_civil": 0, 
@@ -1989,11 +2154,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 300797, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -244819, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 6600, 
         "in_civil": 0, 
@@ -2013,11 +2180,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 291423, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -3388464, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 14000, 
         "in_civil": 0, 
@@ -2037,11 +2206,13 @@
         "out_rally": 341386, 
         "out_return": 100000, 
         "out_total": 5576464, 
-        "out_travel": 117656
+        "out_travel": 117656, 
+        "title": "councilors"
     }, 
     {
         "balance": -313634, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 25500, 
         "in_civil": 205000, 
@@ -2061,11 +2232,13 @@
         "out_rally": 313605, 
         "out_return": 500000, 
         "out_total": 8941164, 
-        "out_travel": 35557
+        "out_travel": 35557, 
+        "title": "councilors"
     }, 
     {
         "balance": -79827, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 230000, 
@@ -2085,11 +2258,13 @@
         "out_rally": 22500, 
         "out_return": 440000, 
         "out_total": 7835436, 
-        "out_travel": 145087
+        "out_travel": 145087, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2109,11 +2284,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -239888, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 13500, 
         "in_civil": 50000, 
@@ -2133,11 +2310,13 @@
         "out_rally": 231115, 
         "out_return": 2060000, 
         "out_total": 12092286, 
-        "out_travel": 58794
+        "out_travel": 58794, 
+        "title": "councilors"
     }, 
     {
         "balance": -1419978, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 11888, 
         "in_civil": 0, 
@@ -2157,11 +2336,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 2303466, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -93022, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2181,11 +2362,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 1345001, 
-        "out_travel": 68410
+        "out_travel": 68410, 
+        "title": "councilors"
     }, 
     {
         "balance": -404556, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 2500, 
         "in_civil": 30000, 
@@ -2205,11 +2388,13 @@
         "out_rally": 164300, 
         "out_return": 116000, 
         "out_total": 6478789, 
-        "out_travel": 50153
+        "out_travel": 50153, 
+        "title": "councilors"
     }, 
     {
         "balance": -120425, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 80000, 
@@ -2229,11 +2414,13 @@
         "out_rally": 2035540, 
         "out_return": 1010000, 
         "out_total": 11497232, 
-        "out_travel": 64153
+        "out_travel": 64153, 
+        "title": "councilors"
     }, 
     {
         "balance": -42, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 5000, 
         "in_civil": 0, 
@@ -2253,11 +2440,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 211742, 
-        "out_travel": 1140
+        "out_travel": 1140, 
+        "title": "councilors"
     }, 
     {
         "balance": -1071518, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 8200, 
         "in_civil": 26500, 
@@ -2277,11 +2466,13 @@
         "out_rally": 675, 
         "out_return": 124463, 
         "out_total": 5481068, 
-        "out_travel": 43962
+        "out_travel": 43962, 
+        "title": "councilors"
     }, 
     {
         "balance": -183970, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2301,11 +2492,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 661970, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 308771, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 6000, 
         "in_civil": 250000, 
@@ -2325,11 +2518,13 @@
         "out_rally": 163400, 
         "out_return": 530000, 
         "out_total": 10470459, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 1836388, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 212100, 
         "in_civil": 30000, 
@@ -2349,11 +2544,13 @@
         "out_rally": 904585, 
         "out_return": 172000, 
         "out_total": 5534354, 
-        "out_travel": 99282
+        "out_travel": 99282, 
+        "title": "councilors"
     }, 
     {
         "balance": -821088, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2373,11 +2570,13 @@
         "out_rally": 68060, 
         "out_return": 420000, 
         "out_total": 3018255, 
-        "out_travel": 32945
+        "out_travel": 32945, 
+        "title": "councilors"
     }, 
     {
         "balance": -2017167, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 10000, 
         "in_civil": 20000, 
@@ -2397,11 +2596,13 @@
         "out_rally": 0, 
         "out_return": 100000, 
         "out_total": 8461255, 
-        "out_travel": 112601
+        "out_travel": 112601, 
+        "title": "councilors"
     }, 
     {
         "balance": -231, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2421,11 +2622,13 @@
         "out_rally": 66000, 
         "out_return": 0, 
         "out_total": 2510528, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -93791, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 14145, 
         "in_civil": 50000, 
@@ -2445,11 +2648,13 @@
         "out_rally": 141800, 
         "out_return": 40000, 
         "out_total": 2790936, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -341000, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2469,11 +2674,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 457000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -900033, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2493,11 +2700,13 @@
         "out_rally": 133020, 
         "out_return": 0, 
         "out_total": 1810159, 
-        "out_travel": 76947
+        "out_travel": 76947, 
+        "title": "councilors"
     }, 
     {
         "balance": -89657, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 12000, 
         "in_civil": 52257, 
@@ -2517,11 +2726,13 @@
         "out_rally": 291319, 
         "out_return": 101451, 
         "out_total": 5058339, 
-        "out_travel": 55604
+        "out_travel": 55604, 
+        "title": "councilors"
     }, 
     {
         "balance": -1296251, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2541,11 +2752,13 @@
         "out_rally": 377530, 
         "out_return": 0, 
         "out_total": 2008586, 
-        "out_travel": 10123
+        "out_travel": 10123, 
+        "title": "councilors"
     }, 
     {
         "balance": -126118, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 3000, 
         "in_civil": 0, 
@@ -2565,11 +2778,13 @@
         "out_rally": 28000, 
         "out_return": 200000, 
         "out_total": 1512718, 
-        "out_travel": 40257
+        "out_travel": 40257, 
+        "title": "councilors"
     }, 
     {
         "balance": -270810, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2589,11 +2804,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 904610, 
-        "out_travel": 20711
+        "out_travel": 20711, 
+        "title": "councilors"
     }, 
     {
         "balance": -1172821, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2613,11 +2830,13 @@
         "out_rally": 582080, 
         "out_return": 0, 
         "out_total": 3744440, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -830109, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 91300, 
         "in_civil": 0, 
@@ -2637,11 +2856,13 @@
         "out_rally": 214665, 
         "out_return": 0, 
         "out_total": 5025656, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 2217606, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 30000, 
         "in_civil": 82256, 
@@ -2661,11 +2882,13 @@
         "out_rally": 455700, 
         "out_return": 0, 
         "out_total": 7602926, 
-        "out_travel": 212551
+        "out_travel": 212551, 
+        "title": "councilors"
     }, 
     {
         "balance": -49000, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 1000, 
         "in_civil": 6000, 
@@ -2685,11 +2908,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 250000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -276343, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 6000, 
         "in_civil": 0, 
@@ -2709,11 +2934,13 @@
         "out_rally": 99225, 
         "out_return": 0, 
         "out_total": 1365343, 
-        "out_travel": 9955
+        "out_travel": 9955, 
+        "title": "councilors"
     }, 
     {
         "balance": 1517322, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 209768, 
         "in_civil": 0, 
@@ -2733,11 +2960,13 @@
         "out_rally": 310270, 
         "out_return": 1000, 
         "out_total": 3799307, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -13958, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2757,11 +2986,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 547158, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -1522, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 30000, 
@@ -2781,11 +3012,13 @@
         "out_rally": 127200, 
         "out_return": 20000, 
         "out_total": 1882622, 
-        "out_travel": 4484
+        "out_travel": 4484, 
+        "title": "councilors"
     }, 
     {
         "balance": -45478, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 1500, 
         "in_civil": 500000, 
@@ -2805,11 +3038,13 @@
         "out_rally": 78855, 
         "out_return": 0, 
         "out_total": 972778, 
-        "out_travel": 34433
+        "out_travel": 34433, 
+        "title": "councilors"
     }, 
     {
         "balance": -2339166, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2829,11 +3064,13 @@
         "out_rally": 0, 
         "out_return": 50000, 
         "out_total": 5346766, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -16689, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 19168, 
         "in_civil": 95161, 
@@ -2853,11 +3090,13 @@
         "out_rally": 271900, 
         "out_return": 1519032, 
         "out_total": 13578863, 
-        "out_travel": 10564
+        "out_travel": 10564, 
+        "title": "councilors"
     }, 
     {
         "balance": -1166559, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 7000, 
         "in_civil": 80000, 
@@ -2877,11 +3116,13 @@
         "out_rally": 732280, 
         "out_return": 0, 
         "out_total": 8141941, 
-        "out_travel": 189158
+        "out_travel": 189158, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2901,11 +3142,13 @@
         "out_rally": 3605, 
         "out_return": 0, 
         "out_total": 1265000, 
-        "out_travel": 5334
+        "out_travel": 5334, 
+        "title": "councilors"
     }, 
     {
         "balance": -1448392, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 29800, 
         "in_civil": 0, 
@@ -2925,11 +3168,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 3851792, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -115443, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 50900, 
         "in_civil": 0, 
@@ -2949,11 +3194,13 @@
         "out_rally": 23085, 
         "out_return": 0, 
         "out_total": 490119, 
-        "out_travel": 415
+        "out_travel": 415, 
+        "title": "councilors"
     }, 
     {
         "balance": -2332032, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 50000, 
@@ -2973,11 +3220,13 @@
         "out_rally": 428650, 
         "out_return": 80000, 
         "out_total": 5935166, 
-        "out_travel": 32174
+        "out_travel": 32174, 
+        "title": "councilors"
     }, 
     {
         "balance": -1933, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 15000, 
         "in_civil": 0, 
@@ -2997,11 +3246,13 @@
         "out_rally": 162332, 
         "out_return": 485000, 
         "out_total": 13333018, 
-        "out_travel": 81960
+        "out_travel": 81960, 
+        "title": "councilors"
     }, 
     {
         "balance": 2061661, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 36100, 
         "in_civil": 0, 
@@ -3021,11 +3272,13 @@
         "out_rally": 108300, 
         "out_return": 0, 
         "out_total": 3935389, 
-        "out_travel": 85685
+        "out_travel": 85685, 
+        "title": "councilors"
     }, 
     {
         "balance": -3139207, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 250000, 
@@ -3045,11 +3298,13 @@
         "out_rally": 1148440, 
         "out_return": 200000, 
         "out_total": 6319207, 
-        "out_travel": 180000
+        "out_travel": 180000, 
+        "title": "councilors"
     }, 
     {
         "balance": -408449, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 30, 
         "in_civil": 0, 
@@ -3069,11 +3324,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 1496479, 
-        "out_travel": 37000
+        "out_travel": 37000, 
+        "title": "councilors"
     }, 
     {
         "balance": -1291, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 3000, 
         "in_civil": 0, 
@@ -3093,11 +3350,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 388498, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -25162, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 2600, 
         "in_civil": 0, 
@@ -3117,11 +3376,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 124450, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3141,11 +3402,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3165,11 +3428,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -292420, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3189,11 +3454,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 853220, 
-        "out_travel": 16601
+        "out_travel": 16601, 
+        "title": "councilors"
     }, 
     {
         "balance": -221101, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 30, 
         "in_civil": 80000, 
@@ -3213,11 +3480,13 @@
         "out_rally": 104370, 
         "out_return": 100000, 
         "out_total": 4945541, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -329614, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3237,11 +3506,13 @@
         "out_rally": 292100, 
         "out_return": 0, 
         "out_total": 2734593, 
-        "out_travel": 133442
+        "out_travel": 133442, 
+        "title": "councilors"
     }, 
     {
         "balance": -10000, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3261,11 +3532,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 80000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -619236, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3285,11 +3558,13 @@
         "out_rally": 68500, 
         "out_return": 0, 
         "out_total": 1906255, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -2144616, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3309,11 +3584,13 @@
         "out_rally": 342375, 
         "out_return": 200000, 
         "out_total": 5269893, 
-        "out_travel": 23744
+        "out_travel": 23744, 
+        "title": "councilors"
     }, 
     {
         "balance": -2333764, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3333,11 +3610,13 @@
         "out_rally": 60000, 
         "out_return": 0, 
         "out_total": 5275409, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -2881767, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3357,11 +3636,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 5081855, 
-        "out_travel": 311688
+        "out_travel": 311688, 
+        "title": "councilors"
     }, 
     {
         "balance": -213763, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 19800, 
         "in_civil": 0, 
@@ -3381,11 +3662,13 @@
         "out_rally": 248825, 
         "out_return": 0, 
         "out_total": 2022063, 
-        "out_travel": 64160
+        "out_travel": 64160, 
+        "title": "councilors"
     }, 
     {
         "balance": -655379, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 120000, 
         "in_civil": 70000, 
@@ -3405,11 +3688,13 @@
         "out_rally": 485540, 
         "out_return": 0, 
         "out_total": 5281507, 
-        "out_travel": 10398
+        "out_travel": 10398, 
+        "title": "councilors"
     }, 
     {
         "balance": -1475651, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 70000, 
@@ -3429,11 +3714,13 @@
         "out_rally": 92661, 
         "out_return": 0, 
         "out_total": 1783051, 
-        "out_travel": 3100
+        "out_travel": 3100, 
+        "title": "councilors"
     }, 
     {
         "balance": -43028, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 2000, 
         "in_civil": 0, 
@@ -3453,11 +3740,13 @@
         "out_rally": 7000, 
         "out_return": 0, 
         "out_total": 3413249, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -22, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3477,11 +3766,13 @@
         "out_rally": 0, 
         "out_return": 100000, 
         "out_total": 100060, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -2168, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 1030, 
         "in_civil": 0, 
@@ -3501,11 +3792,13 @@
         "out_rally": 40000, 
         "out_return": 0, 
         "out_total": 133200, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -226174, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 8500, 
         "in_civil": 6000, 
@@ -3525,11 +3818,13 @@
         "out_rally": 122155, 
         "out_return": 46000, 
         "out_total": 5124024, 
-        "out_travel": 12645
+        "out_travel": 12645, 
+        "title": "councilors"
     }, 
     {
         "balance": -957433, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3549,11 +3844,13 @@
         "out_rally": 121000, 
         "out_return": 100000, 
         "out_total": 3653033, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -290293, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 13800, 
         "in_civil": 0, 
@@ -3573,11 +3870,13 @@
         "out_rally": 100000, 
         "out_return": 100000, 
         "out_total": 4501181, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -707931, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3597,11 +3896,13 @@
         "out_rally": 140670, 
         "out_return": 0, 
         "out_total": 4594705, 
-        "out_travel": 2520
+        "out_travel": 2520, 
+        "title": "councilors"
     }, 
     {
         "balance": -26621, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3621,11 +3922,13 @@
         "out_rally": 448450, 
         "out_return": 100000, 
         "out_total": 6244821, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -8428, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 20961, 
         "in_civil": 0, 
@@ -3645,11 +3948,13 @@
         "out_rally": 15665, 
         "out_return": 0, 
         "out_total": 620389, 
-        "out_travel": 3480
+        "out_travel": 3480, 
+        "title": "councilors"
     }, 
     {
         "balance": -570490, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3669,11 +3974,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 991490, 
-        "out_travel": 137078
+        "out_travel": 137078, 
+        "title": "councilors"
     }, 
     {
         "balance": -411461, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 91000, 
         "in_civil": 0, 
@@ -3693,11 +4000,13 @@
         "out_rally": 1325110, 
         "out_return": 130000, 
         "out_total": 6191907, 
-        "out_travel": 82424
+        "out_travel": 82424, 
+        "title": "councilors"
     }, 
     {
         "balance": -205935, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 10000, 
         "in_civil": 0, 
@@ -3717,11 +4026,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 370935, 
-        "out_travel": 60
+        "out_travel": 60, 
+        "title": "councilors"
     }, 
     {
         "balance": 3419036, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 13000, 
         "in_civil": 62258, 
@@ -3741,11 +4052,13 @@
         "out_rally": 224110, 
         "out_return": 215000, 
         "out_total": 9910300, 
-        "out_travel": 74797
+        "out_travel": 74797, 
+        "title": "councilors"
     }, 
     {
         "balance": 4295985, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 30000, 
         "in_civil": 58259, 
@@ -3765,11 +4078,13 @@
         "out_rally": 740965, 
         "out_return": 170000, 
         "out_total": 7608307, 
-        "out_travel": 243114
+        "out_travel": 243114, 
+        "title": "councilors"
     }, 
     {
         "balance": -45608, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 54000, 
         "in_civil": 0, 
@@ -3789,11 +4104,13 @@
         "out_rally": 595240, 
         "out_return": 600000, 
         "out_total": 5125608, 
-        "out_travel": 9875
+        "out_travel": 9875, 
+        "title": "councilors"
     }, 
     {
         "balance": -31024, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3813,11 +4130,13 @@
         "out_rally": 20000, 
         "out_return": 0, 
         "out_total": 333030, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -1025011, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 1200, 
         "in_civil": 0, 
@@ -3837,11 +4156,13 @@
         "out_rally": 233650, 
         "out_return": 200000, 
         "out_total": 2041446, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -323133, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 3600, 
         "in_civil": 20000, 
@@ -3861,11 +4182,13 @@
         "out_rally": 257500, 
         "out_return": 0, 
         "out_total": 2311369, 
-        "out_travel": 98694
+        "out_travel": 98694, 
+        "title": "councilors"
     }, 
     {
         "balance": -233154, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3885,11 +4208,13 @@
         "out_rally": 145849, 
         "out_return": 0, 
         "out_total": 3308502, 
-        "out_travel": 15974
+        "out_travel": 15974, 
+        "title": "councilors"
     }, 
     {
         "balance": -308790, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3909,11 +4234,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 408790, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -178752, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 2030, 
         "in_civil": 20000, 
@@ -3933,11 +4260,13 @@
         "out_rally": 912210, 
         "out_return": 65000, 
         "out_total": 5591752, 
-        "out_travel": 124719
+        "out_travel": 124719, 
+        "title": "councilors"
     }, 
     {
         "balance": -143354, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 9680, 
         "in_civil": 0, 
@@ -3957,11 +4286,13 @@
         "out_rally": 181464, 
         "out_return": 0, 
         "out_total": 4503419, 
-        "out_travel": 54383
+        "out_travel": 54383, 
+        "title": "councilors"
     }, 
     {
         "balance": -75874, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3981,11 +4312,13 @@
         "out_rally": 18800, 
         "out_return": 0, 
         "out_total": 539914, 
-        "out_travel": 42320
+        "out_travel": 42320, 
+        "title": "councilors"
     }, 
     {
         "balance": 2705940, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 20030, 
         "in_civil": 0, 
@@ -4005,11 +4338,13 @@
         "out_rally": 541765, 
         "out_return": 510000, 
         "out_total": 5805852, 
-        "out_travel": 141336
+        "out_travel": 141336, 
+        "title": "councilors"
     }, 
     {
         "balance": -287788, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 19388, 
         "in_civil": 0, 
@@ -4029,11 +4364,13 @@
         "out_rally": 43600, 
         "out_return": 0, 
         "out_total": 3755776, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -374, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4053,11 +4390,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 274040, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -276249, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 10000, 
         "in_civil": 6000, 
@@ -4077,11 +4416,13 @@
         "out_rally": 697300, 
         "out_return": 0, 
         "out_total": 9643024, 
-        "out_travel": 37613
+        "out_travel": 37613, 
+        "title": "councilors"
     }, 
     {
         "balance": -67797, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4101,11 +4442,13 @@
         "out_rally": 103856, 
         "out_return": 0, 
         "out_total": 4902090, 
-        "out_travel": 180216
+        "out_travel": 180216, 
+        "title": "councilors"
     }, 
     {
         "balance": -437799, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 5000, 
         "in_civil": 0, 
@@ -4125,11 +4468,13 @@
         "out_rally": 114494, 
         "out_return": 0, 
         "out_total": 12191817, 
-        "out_travel": 135767
+        "out_travel": 135767, 
+        "title": "councilors"
     }, 
     {
         "balance": -250679, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 130000, 
@@ -4149,11 +4494,13 @@
         "out_rally": 372098, 
         "out_return": 459000, 
         "out_total": 4697299, 
-        "out_travel": 74613
+        "out_travel": 74613, 
+        "title": "councilors"
     }, 
     {
         "balance": -263024, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 35000, 
         "in_civil": 0, 
@@ -4173,11 +4520,13 @@
         "out_rally": 21777, 
         "out_return": 0, 
         "out_total": 1546024, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 6679800, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 2000, 
         "in_civil": 70000, 
@@ -4197,11 +4546,13 @@
         "out_rally": 1491113, 
         "out_return": 200000, 
         "out_total": 7850575, 
-        "out_travel": 102594
+        "out_travel": 102594, 
+        "title": "councilors"
     }, 
     {
         "balance": -866343, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 40, 
         "in_civil": 0, 
@@ -4221,11 +4572,13 @@
         "out_rally": 126296, 
         "out_return": 0, 
         "out_total": 1698383, 
-        "out_travel": 63348
+        "out_travel": 63348, 
+        "title": "councilors"
     }, 
     {
         "balance": 3914887, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 50000, 
@@ -4245,11 +4598,13 @@
         "out_rally": 214355, 
         "out_return": 30000, 
         "out_total": 8121600, 
-        "out_travel": 568781
+        "out_travel": 568781, 
+        "title": "councilors"
     }, 
     {
         "balance": -134603, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4269,11 +4624,13 @@
         "out_rally": 16279, 
         "out_return": 0, 
         "out_total": 942403, 
-        "out_travel": 55540
+        "out_travel": 55540, 
+        "title": "councilors"
     }, 
     {
         "balance": -40252, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4293,11 +4650,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 662752, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 2948485, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 32259, 
@@ -4317,11 +4676,13 @@
         "out_rally": 140600, 
         "out_return": 126451, 
         "out_total": 4348102, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -235005, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 20000, 
@@ -4341,11 +4702,13 @@
         "out_rally": 348237, 
         "out_return": 0, 
         "out_total": 6954169, 
-        "out_travel": 218115
+        "out_travel": 218115, 
+        "title": "councilors"
     }, 
     {
         "balance": -1194836, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 30000, 
@@ -4365,11 +4728,13 @@
         "out_rally": 237871, 
         "out_return": 13680, 
         "out_total": 2653717, 
-        "out_travel": 115364
+        "out_travel": 115364, 
+        "title": "councilors"
     }, 
     {
         "balance": -594036, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4389,11 +4754,13 @@
         "out_rally": 42925, 
         "out_return": 0, 
         "out_total": 3456435, 
-        "out_travel": 20000
+        "out_travel": 20000, 
+        "title": "councilors"
     }, 
     {
         "balance": -339591, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 136201, 
         "in_civil": 0, 
@@ -4413,11 +4780,13 @@
         "out_rally": 438464, 
         "out_return": 0, 
         "out_total": 3719625, 
-        "out_travel": 177879
+        "out_travel": 177879, 
+        "title": "councilors"
     }, 
     {
         "balance": -9125, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 3000, 
         "in_civil": 0, 
@@ -4437,11 +4806,13 @@
         "out_rally": 36800, 
         "out_return": 30000, 
         "out_total": 3432360, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -345815, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4461,11 +4832,13 @@
         "out_rally": 0, 
         "out_return": 2000, 
         "out_total": 1168815, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -182946, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 36000, 
         "in_civil": 42000, 
@@ -4485,11 +4858,13 @@
         "out_rally": 192327, 
         "out_return": 0, 
         "out_total": 5007108, 
-        "out_travel": 212243
+        "out_travel": 212243, 
+        "title": "councilors"
     }, 
     {
         "balance": -1910, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4509,11 +4884,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 51910, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -777468, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4533,11 +4910,13 @@
         "out_rally": 5000, 
         "out_return": 0, 
         "out_total": 1212468, 
-        "out_travel": 82910
+        "out_travel": 82910, 
+        "title": "councilors"
     }, 
     {
         "balance": -384998, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4557,11 +4936,13 @@
         "out_rally": 114700, 
         "out_return": 30000, 
         "out_total": 2389158, 
-        "out_travel": 95810
+        "out_travel": 95810, 
+        "title": "councilors"
     }, 
     {
         "balance": -132343, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4581,11 +4962,13 @@
         "out_rally": 676000, 
         "out_return": 10000, 
         "out_total": 3476648, 
-        "out_travel": 14000
+        "out_travel": 14000, 
+        "title": "councilors"
     }, 
     {
         "balance": -1215, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 16000, 
         "in_civil": 0, 
@@ -4605,11 +4988,13 @@
         "out_rally": 0, 
         "out_return": 3600, 
         "out_total": 543719, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -557064, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4629,11 +5014,13 @@
         "out_rally": 144430, 
         "out_return": 50000, 
         "out_total": 2306464, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -199764, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4653,11 +5040,13 @@
         "out_rally": 1525, 
         "out_return": 473000, 
         "out_total": 2132849, 
-        "out_travel": 71252
+        "out_travel": 71252, 
+        "title": "councilors"
     }, 
     {
         "balance": -1200, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 8600, 
         "in_civil": 0, 
@@ -4677,11 +5066,13 @@
         "out_rally": 7500, 
         "out_return": 0, 
         "out_total": 156000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 5000, 
         "in_civil": 0, 
@@ -4701,11 +5092,13 @@
         "out_rally": 171020, 
         "out_return": 102000, 
         "out_total": 4525412, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -1269263, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4725,11 +5118,13 @@
         "out_rally": 72472, 
         "out_return": 0, 
         "out_total": 2891820, 
-        "out_travel": 13820
+        "out_travel": 13820, 
+        "title": "councilors"
     }, 
     {
         "balance": -432208, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 100, 
         "in_civil": 0, 
@@ -4749,11 +5144,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 748908, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -1109605, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4773,11 +5170,13 @@
         "out_rally": 281885, 
         "out_return": 200000, 
         "out_total": 3919190, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -1000450, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 1600, 
         "in_civil": 20000, 
@@ -4797,11 +5196,13 @@
         "out_rally": 91360, 
         "out_return": 120000, 
         "out_total": 6417644, 
-        "out_travel": 128834
+        "out_travel": 128834, 
+        "title": "councilors"
     }, 
     {
         "balance": -212536, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4821,11 +5222,13 @@
         "out_rally": 78000, 
         "out_return": 310000, 
         "out_total": 2917008, 
-        "out_travel": 80264
+        "out_travel": 80264, 
+        "title": "councilors"
     }, 
     {
         "balance": -81642, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 28666, 
         "in_civil": 30000, 
@@ -4845,11 +5248,13 @@
         "out_rally": 361170, 
         "out_return": 0, 
         "out_total": 7629668, 
-        "out_travel": 115225
+        "out_travel": 115225, 
+        "title": "councilors"
     }, 
     {
         "balance": 2018668, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 30000, 
@@ -4869,11 +5274,13 @@
         "out_rally": 354055, 
         "out_return": 0, 
         "out_total": 3337079, 
-        "out_travel": 13495
+        "out_travel": 13495, 
+        "title": "councilors"
     }, 
     {
         "balance": -1650814, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 1200, 
         "in_civil": 0, 
@@ -4893,11 +5300,13 @@
         "out_rally": 153230, 
         "out_return": 0, 
         "out_total": 3206114, 
-        "out_travel": 103771
+        "out_travel": 103771, 
+        "title": "councilors"
     }, 
     {
         "balance": -2903645, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 12880, 
         "in_civil": 0, 
@@ -4917,11 +5326,13 @@
         "out_rally": 6207, 
         "out_return": 0, 
         "out_total": 3950623, 
-        "out_travel": 27248
+        "out_travel": 27248, 
+        "title": "councilors"
     }, 
     {
         "balance": -23772, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 300000, 
@@ -4941,11 +5352,13 @@
         "out_rally": 99920, 
         "out_return": 0, 
         "out_total": 11037341, 
-        "out_travel": 6355
+        "out_travel": 6355, 
+        "title": "councilors"
     }, 
     {
         "balance": -229758, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4965,11 +5378,13 @@
         "out_rally": 75570, 
         "out_return": 0, 
         "out_total": 3931758, 
-        "out_travel": 9409
+        "out_travel": 9409, 
+        "title": "councilors"
     }, 
     {
         "balance": -86000, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4989,11 +5404,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 1717600, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -21, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5013,11 +5430,13 @@
         "out_rally": 53200, 
         "out_return": 5000, 
         "out_total": 607021, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -29926, 
         "county": "臺中市", 
+        "election_name": "臺中市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5037,11 +5456,13 @@
         "out_rally": 18400, 
         "out_return": 0, 
         "out_total": 59926, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -19623, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 6000, 
         "in_civil": 0, 
@@ -5061,11 +5482,13 @@
         "out_rally": 0, 
         "out_return": 100000, 
         "out_total": 949700, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -469683, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5085,11 +5508,13 @@
         "out_rally": 469070, 
         "out_return": 0, 
         "out_total": 1733483, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -1924696, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 2800, 
         "in_civil": 0, 
@@ -5109,11 +5534,13 @@
         "out_rally": 123056, 
         "out_return": 0, 
         "out_total": 2768605, 
-        "out_travel": 13034
+        "out_travel": 13034, 
+        "title": "councilors"
     }, 
     {
         "balance": -2210144, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 18000, 
         "in_civil": 0, 
@@ -5133,11 +5560,13 @@
         "out_rally": 131605, 
         "out_return": 100000, 
         "out_total": 4665644, 
-        "out_travel": 9408
+        "out_travel": 9408, 
+        "title": "councilors"
     }, 
     {
         "balance": -135600, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5157,11 +5586,13 @@
         "out_rally": 52000, 
         "out_return": 0, 
         "out_total": 1083600, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 511490, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 2000, 
         "in_civil": 4000, 
@@ -5181,11 +5612,13 @@
         "out_rally": 111000, 
         "out_return": 61000, 
         "out_total": 6267701, 
-        "out_travel": 3910
+        "out_travel": 3910, 
+        "title": "councilors"
     }, 
     {
         "balance": -1193016, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5205,11 +5638,13 @@
         "out_rally": 115000, 
         "out_return": 0, 
         "out_total": 1223016, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -2971, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 6000, 
         "in_civil": 0, 
@@ -5229,11 +5664,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 45480, 
-        "out_travel": 2980
+        "out_travel": 2980, 
+        "title": "councilors"
     }, 
     {
         "balance": -36312, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5253,11 +5690,13 @@
         "out_rally": 122000, 
         "out_return": 0, 
         "out_total": 821312, 
-        "out_travel": 49825
+        "out_travel": 49825, 
+        "title": "councilors"
     }, 
     {
         "balance": -2307784, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5277,11 +5716,13 @@
         "out_rally": 20500, 
         "out_return": 0, 
         "out_total": 2860784, 
-        "out_travel": 40701
+        "out_travel": 40701, 
+        "title": "councilors"
     }, 
     {
         "balance": -271152, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 77600, 
         "in_civil": 0, 
@@ -5301,11 +5742,13 @@
         "out_rally": 277550, 
         "out_return": 0, 
         "out_total": 4807167, 
-        "out_travel": 130323
+        "out_travel": 130323, 
+        "title": "councilors"
     }, 
     {
         "balance": -100405, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 60000, 
@@ -5325,11 +5768,13 @@
         "out_rally": 154900, 
         "out_return": 120000, 
         "out_total": 5539905, 
-        "out_travel": 3850
+        "out_travel": 3850, 
+        "title": "councilors"
     }, 
     {
         "balance": -243129, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 2014, 
         "in_civil": 0, 
@@ -5349,11 +5794,13 @@
         "out_rally": 30000, 
         "out_return": 0, 
         "out_total": 508300, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -432957, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 16000, 
         "in_civil": 105000, 
@@ -5373,11 +5820,13 @@
         "out_rally": 271101, 
         "out_return": 0, 
         "out_total": 3646622, 
-        "out_travel": 98811
+        "out_travel": 98811, 
+        "title": "councilors"
     }, 
     {
         "balance": -15016, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5397,11 +5846,13 @@
         "out_rally": 129350, 
         "out_return": 300000, 
         "out_total": 1505180, 
-        "out_travel": 26211
+        "out_travel": 26211, 
+        "title": "councilors"
     }, 
     {
         "balance": -909033, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5421,11 +5872,13 @@
         "out_rally": 1208465, 
         "out_return": 0, 
         "out_total": 5876367, 
-        "out_travel": 60140
+        "out_travel": 60140, 
+        "title": "councilors"
     }, 
     {
         "balance": -82603, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 8600, 
         "in_civil": 200000, 
@@ -5445,11 +5898,13 @@
         "out_rally": 816005, 
         "out_return": 330000, 
         "out_total": 7822327, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -14031, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 5000, 
         "in_civil": 0, 
@@ -5469,11 +5924,13 @@
         "out_rally": 1638148, 
         "out_return": 420500, 
         "out_total": 5294831, 
-        "out_travel": 27912
+        "out_travel": 27912, 
+        "title": "councilors"
     }, 
     {
         "balance": -16815, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5493,11 +5950,13 @@
         "out_rally": 43300, 
         "out_return": 0, 
         "out_total": 816815, 
-        "out_travel": 3280
+        "out_travel": 3280, 
+        "title": "councilors"
     }, 
     {
         "balance": -548745, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 68600, 
         "in_civil": 250000, 
@@ -5517,11 +5976,13 @@
         "out_rally": 924312, 
         "out_return": 310000, 
         "out_total": 6229845, 
-        "out_travel": 72428
+        "out_travel": 72428, 
+        "title": "councilors"
     }, 
     {
         "balance": -12143, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 3000, 
         "in_civil": 0, 
@@ -5541,11 +6002,13 @@
         "out_rally": 11175, 
         "out_return": 100000, 
         "out_total": 501143, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -198222, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5565,11 +6028,13 @@
         "out_rally": 170000, 
         "out_return": 0, 
         "out_total": 3247360, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -820, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5589,11 +6054,13 @@
         "out_rally": 19140, 
         "out_return": 0, 
         "out_total": 84160, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -342418, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 404200, 
@@ -5613,11 +6080,13 @@
         "out_rally": 131970, 
         "out_return": 6000, 
         "out_total": 1535218, 
-        "out_travel": 52495
+        "out_travel": 52495, 
+        "title": "councilors"
     }, 
     {
         "balance": -2507771, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 8000, 
         "in_civil": 0, 
@@ -5637,11 +6106,13 @@
         "out_rally": 480595, 
         "out_return": 20000, 
         "out_total": 3774599, 
-        "out_travel": 122557
+        "out_travel": 122557, 
+        "title": "councilors"
     }, 
     {
         "balance": -4574811, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5661,11 +6132,13 @@
         "out_rally": 51350, 
         "out_return": 0, 
         "out_total": 5387811, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -40536, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5685,11 +6158,13 @@
         "out_rally": 57350, 
         "out_return": 100000, 
         "out_total": 836199, 
-        "out_travel": 38782
+        "out_travel": 38782, 
+        "title": "councilors"
     }, 
     {
         "balance": -608112, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 246000, 
@@ -5709,11 +6184,13 @@
         "out_rally": 147730, 
         "out_return": 360000, 
         "out_total": 6344853, 
-        "out_travel": 163830
+        "out_travel": 163830, 
+        "title": "councilors"
     }, 
     {
         "balance": -2855366, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 53500, 
         "in_civil": 0, 
@@ -5733,11 +6210,13 @@
         "out_rally": 258140, 
         "out_return": 115000, 
         "out_total": 5107897, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -529261, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 94235, 
         "in_civil": 20000, 
@@ -5757,11 +6236,13 @@
         "out_rally": 608260, 
         "out_return": 78000, 
         "out_total": 3424821, 
-        "out_travel": 54763
+        "out_travel": 54763, 
+        "title": "councilors"
     }, 
     {
         "balance": -628597, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 27000, 
         "in_civil": 0, 
@@ -5781,11 +6262,13 @@
         "out_rally": 381608, 
         "out_return": 5000, 
         "out_total": 5779765, 
-        "out_travel": 38239
+        "out_travel": 38239, 
+        "title": "councilors"
     }, 
     {
         "balance": -531052, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5805,11 +6288,13 @@
         "out_rally": 194030, 
         "out_return": 10000, 
         "out_total": 3449152, 
-        "out_travel": 5756
+        "out_travel": 5756, 
+        "title": "councilors"
     }, 
     {
         "balance": -113470, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 23800, 
         "in_civil": 0, 
@@ -5829,11 +6314,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 407270, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -89859, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 72000, 
@@ -5853,11 +6340,13 @@
         "out_rally": 143520, 
         "out_return": 171000, 
         "out_total": 5988014, 
-        "out_travel": 133584
+        "out_travel": 133584, 
+        "title": "councilors"
     }, 
     {
         "balance": -539625, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5877,11 +6366,13 @@
         "out_rally": 231305, 
         "out_return": 60000, 
         "out_total": 3080414, 
-        "out_travel": 247063
+        "out_travel": 247063, 
+        "title": "councilors"
     }, 
     {
         "balance": -1092619, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5901,11 +6392,13 @@
         "out_rally": 177595, 
         "out_return": 70000, 
         "out_total": 2220419, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -1059965, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 14000, 
         "in_civil": 0, 
@@ -5925,11 +6418,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 2866853, 
-        "out_travel": 40523
+        "out_travel": 40523, 
+        "title": "councilors"
     }, 
     {
         "balance": -270992, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 45500, 
         "in_civil": 240000, 
@@ -5949,11 +6444,13 @@
         "out_rally": 115020, 
         "out_return": 120000, 
         "out_total": 3101399, 
-        "out_travel": 28565
+        "out_travel": 28565, 
+        "title": "councilors"
     }, 
     {
         "balance": -93666, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 60000, 
         "in_civil": 100000, 
@@ -5973,11 +6470,13 @@
         "out_rally": 13470, 
         "out_return": 26000, 
         "out_total": 1990102, 
-        "out_travel": 111431
+        "out_travel": 111431, 
+        "title": "councilors"
     }, 
     {
         "balance": -150934, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 133500, 
         "in_civil": 0, 
@@ -5997,11 +6496,13 @@
         "out_rally": 523714, 
         "out_return": 0, 
         "out_total": 3328595, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -204040, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6021,11 +6522,13 @@
         "out_rally": 16000, 
         "out_return": 0, 
         "out_total": 720040, 
-        "out_travel": 25721
+        "out_travel": 25721, 
+        "title": "councilors"
     }, 
     {
         "balance": -91895, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6045,11 +6548,13 @@
         "out_rally": 328940, 
         "out_return": 0, 
         "out_total": 2635195, 
-        "out_travel": 4183
+        "out_travel": 4183, 
+        "title": "councilors"
     }, 
     {
         "balance": -1754258, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6069,11 +6574,13 @@
         "out_rally": 945300, 
         "out_return": 0, 
         "out_total": 3694258, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -55742, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 25388, 
         "in_civil": 256000, 
@@ -6093,11 +6600,13 @@
         "out_rally": 127352, 
         "out_return": 25000, 
         "out_total": 3556333, 
-        "out_travel": 85972
+        "out_travel": 85972, 
+        "title": "councilors"
     }, 
     {
         "balance": -1426673, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 1000, 
         "in_civil": 0, 
@@ -6117,11 +6626,13 @@
         "out_rally": 403708, 
         "out_return": 0, 
         "out_total": 2841273, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -3077, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6141,11 +6652,13 @@
         "out_rally": 108450, 
         "out_return": 360000, 
         "out_total": 3562077, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -1150081, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 6000, 
@@ -6165,11 +6678,13 @@
         "out_rally": 723280, 
         "out_return": 386000, 
         "out_total": 11053873, 
-        "out_travel": 149795
+        "out_travel": 149795, 
+        "title": "councilors"
     }, 
     {
         "balance": 5452572, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 11000, 
         "in_civil": 230000, 
@@ -6189,11 +6704,13 @@
         "out_rally": 0, 
         "out_return": 230000, 
         "out_total": 7903128, 
-        "out_travel": 450484
+        "out_travel": 450484, 
+        "title": "councilors"
     }, 
     {
         "balance": -1042648, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 111000, 
         "in_civil": 3200, 
@@ -6213,11 +6730,13 @@
         "out_rally": 643565, 
         "out_return": 110000, 
         "out_total": 4844783, 
-        "out_travel": 112933
+        "out_travel": 112933, 
+        "title": "councilors"
     }, 
     {
         "balance": -926001, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 4000, 
         "in_civil": 3000, 
@@ -6237,11 +6756,13 @@
         "out_rally": 84480, 
         "out_return": 252000, 
         "out_total": 3268342, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -464686, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 51200, 
         "in_civil": 0, 
@@ -6261,11 +6782,13 @@
         "out_rally": 246725, 
         "out_return": 630000, 
         "out_total": 3170906, 
-        "out_travel": 252900
+        "out_travel": 252900, 
+        "title": "councilors"
     }, 
     {
         "balance": -558306, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 15000, 
@@ -6285,11 +6808,13 @@
         "out_rally": 43150, 
         "out_return": 0, 
         "out_total": 1933306, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -249894, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 38560, 
         "in_civil": 106200, 
@@ -6309,11 +6834,13 @@
         "out_rally": 262840, 
         "out_return": 450000, 
         "out_total": 7178812, 
-        "out_travel": 352154
+        "out_travel": 352154, 
+        "title": "councilors"
     }, 
     {
         "balance": -598366, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 20000, 
         "in_civil": 0, 
@@ -6333,11 +6860,13 @@
         "out_rally": 1116588, 
         "out_return": 0, 
         "out_total": 2762466, 
-        "out_travel": 77886
+        "out_travel": 77886, 
+        "title": "councilors"
     }, 
     {
         "balance": -1337085, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 5000, 
         "in_civil": 20000, 
@@ -6357,11 +6886,13 @@
         "out_rally": 380535, 
         "out_return": 200000, 
         "out_total": 4934478, 
-        "out_travel": 10413
+        "out_travel": 10413, 
+        "title": "councilors"
     }, 
     {
         "balance": -52350, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 10000, 
         "in_civil": 0, 
@@ -6381,11 +6912,13 @@
         "out_rally": 81200, 
         "out_return": 0, 
         "out_total": 1949350, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -42000, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6405,11 +6938,13 @@
         "out_rally": 1543640, 
         "out_return": 40000, 
         "out_total": 5097950, 
-        "out_travel": 14782
+        "out_travel": 14782, 
+        "title": "councilors"
     }, 
     {
         "balance": -304542, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 2000, 
         "in_civil": 0, 
@@ -6429,11 +6964,13 @@
         "out_rally": 376800, 
         "out_return": 0, 
         "out_total": 3050442, 
-        "out_travel": 159637
+        "out_travel": 159637, 
+        "title": "councilors"
     }, 
     {
         "balance": -17543, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6453,11 +6990,13 @@
         "out_rally": 16200, 
         "out_return": 0, 
         "out_total": 1285559, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6477,11 +7016,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -873463, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6501,11 +7042,13 @@
         "out_rally": 94000, 
         "out_return": 10000, 
         "out_total": 2130465, 
-        "out_travel": 37667
+        "out_travel": 37667, 
+        "title": "councilors"
     }, 
     {
         "balance": -26711, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 2000, 
         "in_civil": 0, 
@@ -6525,11 +7068,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 88711, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -91241, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6549,11 +7094,13 @@
         "out_rally": 2325, 
         "out_return": 0, 
         "out_total": 354241, 
-        "out_travel": 280
+        "out_travel": 280, 
+        "title": "councilors"
     }, 
     {
         "balance": 839092, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 41500, 
         "in_civil": 26000, 
@@ -6573,11 +7120,13 @@
         "out_rally": 95100, 
         "out_return": 50000, 
         "out_total": 5264700, 
-        "out_travel": 35675
+        "out_travel": 35675, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6597,11 +7146,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -1039986, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6621,11 +7172,13 @@
         "out_rally": 221458, 
         "out_return": 100000, 
         "out_total": 2815042, 
-        "out_travel": 545
+        "out_travel": 545, 
+        "title": "councilors"
     }, 
     {
         "balance": -970149, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 17000, 
         "in_civil": 0, 
@@ -6645,11 +7198,13 @@
         "out_rally": 49450, 
         "out_return": 206000, 
         "out_total": 3774949, 
-        "out_travel": 39907
+        "out_travel": 39907, 
+        "title": "councilors"
     }, 
     {
         "balance": -2627278, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6669,11 +7224,13 @@
         "out_rally": 435490, 
         "out_return": 330000, 
         "out_total": 7867278, 
-        "out_travel": 6888
+        "out_travel": 6888, 
+        "title": "councilors"
     }, 
     {
         "balance": -176076, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 8990, 
         "in_civil": 0, 
@@ -6693,11 +7250,13 @@
         "out_rally": 216400, 
         "out_return": 0, 
         "out_total": 2248666, 
-        "out_travel": 45530
+        "out_travel": 45530, 
+        "title": "councilors"
     }, 
     {
         "balance": -1866643, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 72000, 
         "in_civil": 0, 
@@ -6717,11 +7276,13 @@
         "out_rally": 190100, 
         "out_return": 20000, 
         "out_total": 4415708, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -609642, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 4000, 
         "in_civil": 50000, 
@@ -6741,11 +7302,13 @@
         "out_rally": 357200, 
         "out_return": 250000, 
         "out_total": 2708642, 
-        "out_travel": 102291
+        "out_travel": 102291, 
+        "title": "councilors"
     }, 
     {
         "balance": -874387, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 1168, 
         "in_civil": 13600, 
@@ -6765,11 +7328,13 @@
         "out_rally": 226520, 
         "out_return": 0, 
         "out_total": 2198743, 
-        "out_travel": 31454
+        "out_travel": 31454, 
+        "title": "councilors"
     }, 
     {
         "balance": -1764556, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 20000, 
         "in_civil": 1990, 
@@ -6789,11 +7354,13 @@
         "out_rally": 313540, 
         "out_return": 0, 
         "out_total": 2815946, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -561628, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 200000, 
@@ -6813,11 +7380,13 @@
         "out_rally": 276855, 
         "out_return": 0, 
         "out_total": 1228228, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -55175, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6837,11 +7406,13 @@
         "out_rally": 100000, 
         "out_return": 0, 
         "out_total": 573175, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -9000, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6861,11 +7432,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 40000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -121110, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6885,11 +7458,13 @@
         "out_rally": 74450, 
         "out_return": 0, 
         "out_total": 1408020, 
-        "out_travel": 27047
+        "out_travel": 27047, 
+        "title": "councilors"
     }, 
     {
         "balance": -3619, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 60000, 
@@ -6909,11 +7484,13 @@
         "out_rally": 277160, 
         "out_return": 6000, 
         "out_total": 3381543, 
-        "out_travel": 38000
+        "out_travel": 38000, 
+        "title": "councilors"
     }, 
     {
         "balance": -56898, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 18000, 
         "in_civil": 58000, 
@@ -6933,11 +7510,13 @@
         "out_rally": 567422, 
         "out_return": 205000, 
         "out_total": 4738163, 
-        "out_travel": 146841
+        "out_travel": 146841, 
+        "title": "councilors"
     }, 
     {
         "balance": -845663, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -6957,11 +7536,13 @@
         "out_rally": 457663, 
         "out_return": 0, 
         "out_total": 1940463, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -363547, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 62500, 
         "in_civil": 80000, 
@@ -6981,11 +7562,13 @@
         "out_rally": 763935, 
         "out_return": 300000, 
         "out_total": 4867847, 
-        "out_travel": 196057
+        "out_travel": 196057, 
+        "title": "councilors"
     }, 
     {
         "balance": -63150, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7005,11 +7588,13 @@
         "out_rally": 101350, 
         "out_return": 226000, 
         "out_total": 3152518, 
-        "out_travel": 55000
+        "out_travel": 55000, 
+        "title": "councilors"
     }, 
     {
         "balance": -777437, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7029,11 +7614,13 @@
         "out_rally": 261220, 
         "out_return": 300000, 
         "out_total": 2608637, 
-        "out_travel": 24901
+        "out_travel": 24901, 
+        "title": "councilors"
     }, 
     {
         "balance": -1161849, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 5000, 
@@ -7053,11 +7640,13 @@
         "out_rally": 1500590, 
         "out_return": 220000, 
         "out_total": 7129798, 
-        "out_travel": 82115
+        "out_travel": 82115, 
+        "title": "councilors"
     }, 
     {
         "balance": -80296, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 23400, 
         "in_civil": 124000, 
@@ -7077,11 +7666,13 @@
         "out_rally": 732950, 
         "out_return": 397000, 
         "out_total": 8677984, 
-        "out_travel": 252452
+        "out_travel": 252452, 
+        "title": "councilors"
     }, 
     {
         "balance": -2092373, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 20200, 
         "in_civil": 40000, 
@@ -7101,11 +7692,13 @@
         "out_rally": 3451862, 
         "out_return": 770000, 
         "out_total": 12105087, 
-        "out_travel": 200869
+        "out_travel": 200869, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "臺南市", 
+        "election_name": "臺南市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 25500, 
         "in_civil": 10000, 
@@ -7125,11 +7718,13 @@
         "out_rally": 62160, 
         "out_return": 0, 
         "out_total": 120300, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -2761506, 
         "county": "高雄市", 
+        "election_name": "高雄市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 1200, 
         "in_civil": 200000, 
@@ -7149,11 +7744,13 @@
         "out_rally": 176850, 
         "out_return": 0, 
         "out_total": 4761110, 
-        "out_travel": 318360
+        "out_travel": 318360, 
+        "title": "councilors"
     }, 
     {
         "balance": -241847, 
         "county": "高雄市", 
+        "election_name": "高雄市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 6000, 
@@ -7173,11 +7770,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 366447, 
-        "out_travel": 21305
+        "out_travel": 21305, 
+        "title": "councilors"
     }, 
     {
         "balance": -184646, 
         "county": "高雄市", 
+        "election_name": "高雄市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7197,11 +7796,13 @@
         "out_rally": 12000, 
         "out_return": 0, 
         "out_total": 334646, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -650829, 
         "county": "高雄市", 
+        "election_name": "高雄市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 37000, 
         "in_civil": 16888, 
@@ -7221,11 +7822,13 @@
         "out_rally": 50443, 
         "out_return": 0, 
         "out_total": 959117, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -2299099, 
         "county": "高雄市", 
+        "election_name": "高雄市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7245,11 +7848,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 3412787, 
-        "out_travel": 2187
+        "out_travel": 2187, 
+        "title": "councilors"
     }, 
     {
         "balance": -948453, 
         "county": "高雄市", 
+        "election_name": "高雄市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 16200, 
         "in_civil": 0, 
@@ -7269,11 +7874,13 @@
         "out_rally": 852200, 
         "out_return": 0, 
         "out_total": 3512853, 
-        "out_travel": 3729
+        "out_travel": 3729, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "高雄市", 
+        "election_name": "高雄市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7293,11 +7900,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -37283, 
         "county": "高雄市", 
+        "election_name": "高雄市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 2200, 
         "in_civil": 0, 
@@ -7317,11 +7926,13 @@
         "out_rally": 26400, 
         "out_return": 0, 
         "out_total": 538183, 
-        "out_travel": 11285
+        "out_travel": 11285, 
+        "title": "councilors"
     }, 
     {
         "balance": 59394, 
         "county": "高雄市", 
+        "election_name": "高雄市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 32000, 
         "in_civil": 83000, 
@@ -7341,11 +7952,13 @@
         "out_rally": 95918, 
         "out_return": 0, 
         "out_total": 6125254, 
-        "out_travel": 102251
+        "out_travel": 102251, 
+        "title": "councilors"
     }, 
     {
         "balance": -2055121, 
         "county": "高雄市", 
+        "election_name": "高雄市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 200000, 
@@ -7365,11 +7978,13 @@
         "out_rally": 233700, 
         "out_return": 0, 
         "out_total": 2987161, 
-        "out_travel": 59328
+        "out_travel": 59328, 
+        "title": "councilors"
     }, 
     {
         "balance": -663571, 
         "county": "高雄市", 
+        "election_name": "高雄市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 9001, 
         "in_civil": 188888, 
@@ -7389,11 +8004,13 @@
         "out_rally": 1178904, 
         "out_return": 0, 
         "out_total": 13206755, 
-        "out_travel": 75951
+        "out_travel": 75951, 
+        "title": "councilors"
     }, 
     {
         "balance": -342137, 
         "county": "高雄市", 
+        "election_name": "高雄市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 9000, 
         "in_civil": 10000, 
@@ -7413,11 +8030,13 @@
         "out_rally": 559088, 
         "out_return": 0, 
         "out_total": 6251268, 
-        "out_travel": 10285
+        "out_travel": 10285, 
+        "title": "councilors"
     }, 
     {
         "balance": -2701087, 
         "county": "高雄市", 
+        "election_name": "高雄市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 200000, 
@@ -7437,11 +8056,13 @@
         "out_rally": 449394, 
         "out_return": 0, 
         "out_total": 4640178, 
-        "out_travel": 99760
+        "out_travel": 99760, 
+        "title": "councilors"
     }, 
     {
         "balance": -242401, 
         "county": "高雄市", 
+        "election_name": "高雄市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7461,11 +8082,13 @@
         "out_rally": 91000, 
         "out_return": 0, 
         "out_total": 1719001, 
-        "out_travel": 43000
+        "out_travel": 43000, 
+        "title": "councilors"
     }, 
     {
         "balance": -697, 
         "county": "高雄市", 
+        "election_name": "高雄市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7485,11 +8108,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 18697, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 760625, 
         "county": "高雄市", 
+        "election_name": "高雄市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 2999, 
         "in_civil": 30000, 
@@ -7509,11 +8134,13 @@
         "out_rally": 990, 
         "out_return": 290000, 
         "out_total": 9259298, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -220470, 
         "county": "高雄市", 
+        "election_name": "高雄市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 31166, 
         "in_civil": 36888, 
@@ -7533,11 +8160,13 @@
         "out_rally": 1549990, 
         "out_return": 150000, 
         "out_total": 10540524, 
-        "out_travel": 1096
+        "out_travel": 1096, 
+        "title": "councilors"
     }, 
     {
         "balance": -666741, 
         "county": "高雄市", 
+        "election_name": "高雄市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 76888, 
@@ -7557,11 +8186,13 @@
         "out_rally": 17000, 
         "out_return": 10000, 
         "out_total": 4501529, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -68348, 
         "county": "高雄市", 
+        "election_name": "高雄市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 4000, 
         "in_civil": 23000, 
@@ -7581,11 +8212,13 @@
         "out_rally": 56835, 
         "out_return": 0, 
         "out_total": 1698698, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -186706, 
         "county": "高雄市", 
+        "election_name": "高雄市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 5000, 
         "in_civil": 16888, 
@@ -7605,11 +8238,13 @@
         "out_rally": 141700, 
         "out_return": 0, 
         "out_total": 5010369, 
-        "out_travel": 5100
+        "out_travel": 5100, 
+        "title": "councilors"
     }, 
     {
         "balance": -274538, 
         "county": "高雄市", 
+        "election_name": "高雄市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 20000, 
@@ -7629,11 +8264,13 @@
         "out_rally": 1399151, 
         "out_return": 470000, 
         "out_total": 13740058, 
-        "out_travel": 220857
+        "out_travel": 220857, 
+        "title": "councilors"
     }, 
     {
         "balance": 1710733, 
         "county": "高雄市", 
+        "election_name": "高雄市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 10000, 
         "in_civil": 89488, 
@@ -7653,11 +8290,13 @@
         "out_rally": 205453, 
         "out_return": 830000, 
         "out_total": 8487755, 
-        "out_travel": 35384
+        "out_travel": 35384, 
+        "title": "councilors"
     }, 
     {
         "balance": -907835, 
         "county": "高雄市", 
+        "election_name": "高雄市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 13500, 
         "in_civil": 88888, 
@@ -7677,11 +8316,13 @@
         "out_rally": 137320, 
         "out_return": 100000, 
         "out_total": 5804414, 
-        "out_travel": 118295
+        "out_travel": 118295, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "高雄市", 
+        "election_name": "高雄市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7701,11 +8342,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "高雄市", 
+        "election_name": "高雄市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7725,11 +8368,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -10015, 
         "county": "高雄市", 
+        "election_name": "高雄市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 126888, 
@@ -7749,11 +8394,13 @@
         "out_rally": 273750, 
         "out_return": 250000, 
         "out_total": 6309997, 
-        "out_travel": 145172
+        "out_travel": 145172, 
+        "title": "councilors"
     }, 
     {
         "balance": -85479, 
         "county": "高雄市", 
+        "election_name": "高雄市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 3000, 
         "in_civil": 80000, 
@@ -7773,11 +8420,13 @@
         "out_rally": 733940, 
         "out_return": 0, 
         "out_total": 6753559, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -1274968, 
         "county": "高雄市", 
+        "election_name": "高雄市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7797,11 +8446,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 2819968, 
-        "out_travel": 2385
+        "out_travel": 2385, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "高雄市", 
+        "election_name": "高雄市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -7821,11 +8472,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -642726, 
         "county": "高雄市", 
+        "election_name": "高雄市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 3600, 
         "in_civil": 0, 
@@ -7845,11 +8498,13 @@
         "out_rally": 234810, 
         "out_return": 0, 
         "out_total": 2099126, 
-        "out_travel": 11250
+        "out_travel": 11250, 
+        "title": "councilors"
     }, 
     {
         "balance": -1661709, 
         "county": "高雄市", 
+        "election_name": "高雄市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 2600, 
         "in_civil": 16888, 
@@ -7869,11 +8524,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 2364797, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -2340399, 
         "county": "高雄市", 
+        "election_name": "高雄市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 10500, 
         "in_civil": 114488, 
@@ -7893,11 +8550,13 @@
         "out_rally": 75141, 
         "out_return": 206000, 
         "out_total": 8867472, 
-        "out_travel": 146615
+        "out_travel": 146615, 
+        "title": "councilors"
     }, 
     {
         "balance": -25026, 
         "county": "高雄市", 
+        "election_name": "高雄市議員選舉", 
         "election_year": "2014", 
         "in_anonymous": 172872, 
         "in_civil": 20000, 
@@ -7917,6 +8576,7 @@
         "out_rally": 175755, 
         "out_return": 0, 
         "out_total": 3071500, 
-        "out_travel": 27387
+        "out_travel": 27387, 
+        "title": "councilors"
     }
 ]

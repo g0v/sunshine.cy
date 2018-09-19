@@ -1,7 +1,554 @@
 [
     {
+        "balance": -2620665, 
+        "county": "臺北市", 
+        "election_name": "臺北市長選舉", 
+        "election_year": "2010", 
+        "in_anonymous": 0, 
+        "in_civil": 0, 
+        "in_individual": 46200, 
+        "in_others": 0, 
+        "in_party": 0, 
+        "in_profit": 0, 
+        "in_total": 46200, 
+        "name": "吳武明", 
+        "out_campaign_office": 0, 
+        "out_campaign_vehicle": 0, 
+        "out_exchequer": 0, 
+        "out_miscellaneous": 2000165, 
+        "out_personnel": 0, 
+        "out_propagate": 648400, 
+        "out_public_relation": 0, 
+        "out_rally": 18300, 
+        "out_return": 0, 
+        "out_total": 2666865, 
+        "out_travel": 0, 
+        "title": "mayors"
+    }, 
+    {
+        "balance": 0, 
+        "county": "臺北市", 
+        "election_name": "臺北市長選舉", 
+        "election_year": "2010", 
+        "in_anonymous": 0, 
+        "in_civil": 0, 
+        "in_individual": 0, 
+        "in_others": 0, 
+        "in_party": 0, 
+        "in_profit": 0, 
+        "in_total": 0, 
+        "name": "吳炎成", 
+        "out_campaign_office": 0, 
+        "out_campaign_vehicle": 0, 
+        "out_exchequer": 0, 
+        "out_miscellaneous": 0, 
+        "out_personnel": 0, 
+        "out_propagate": 0, 
+        "out_public_relation": 0, 
+        "out_rally": 0, 
+        "out_return": 0, 
+        "out_total": 0, 
+        "out_travel": 0, 
+        "title": "mayors"
+    }, 
+    {
+        "balance": -15686138, 
+        "county": "臺北市", 
+        "election_name": "臺北市長選舉", 
+        "election_year": "2010", 
+        "in_anonymous": 86969, 
+        "in_civil": 300000, 
+        "in_individual": 8881988, 
+        "in_others": 640, 
+        "in_party": 500000, 
+        "in_profit": 31110800, 
+        "in_total": 40880397, 
+        "name": "郝龍斌", 
+        "out_campaign_office": 6708743, 
+        "out_campaign_vehicle": 0, 
+        "out_exchequer": 0, 
+        "out_miscellaneous": 3833398, 
+        "out_personnel": 4672667, 
+        "out_propagate": 34069493, 
+        "out_public_relation": 0, 
+        "out_rally": 4523609, 
+        "out_return": 2500000, 
+        "out_total": 56566535, 
+        "out_travel": 258625, 
+        "title": "mayors"
+    }, 
+    {
+        "balance": -108122, 
+        "county": "臺北市", 
+        "election_name": "臺北市長選舉", 
+        "election_year": "2010", 
+        "in_anonymous": 0, 
+        "in_civil": 0, 
+        "in_individual": 500, 
+        "in_others": 0, 
+        "in_party": 0, 
+        "in_profit": 0, 
+        "in_total": 500, 
+        "name": "張蓬興", 
+        "out_campaign_office": 0, 
+        "out_campaign_vehicle": 0, 
+        "out_exchequer": 0, 
+        "out_miscellaneous": 17272, 
+        "out_personnel": 0, 
+        "out_propagate": 91350, 
+        "out_public_relation": 0, 
+        "out_rally": 0, 
+        "out_return": 0, 
+        "out_total": 108622, 
+        "out_travel": 0, 
+        "title": "mayors"
+    }, 
+    {
+        "balance": 0, 
+        "county": "臺北市", 
+        "election_name": "臺北市長選舉", 
+        "election_year": "2010", 
+        "in_anonymous": 0, 
+        "in_civil": 0, 
+        "in_individual": 0, 
+        "in_others": 0, 
+        "in_party": 0, 
+        "in_profit": 0, 
+        "in_total": 0, 
+        "name": "郭正一", 
+        "out_campaign_office": 0, 
+        "out_campaign_vehicle": 0, 
+        "out_exchequer": 0, 
+        "out_miscellaneous": 0, 
+        "out_personnel": 0, 
+        "out_propagate": 0, 
+        "out_public_relation": 0, 
+        "out_rally": 0, 
+        "out_return": 0, 
+        "out_total": 0, 
+        "out_travel": 0, 
+        "title": "mayors"
+    }, 
+    {
+        "balance": 0, 
+        "county": "臺北市", 
+        "election_name": "臺北市長選舉", 
+        "election_year": "2010", 
+        "in_anonymous": 0, 
+        "in_civil": 0, 
+        "in_individual": 0, 
+        "in_others": 0, 
+        "in_party": 0, 
+        "in_profit": 0, 
+        "in_total": 0, 
+        "name": "陳雅嫺", 
+        "out_campaign_office": 0, 
+        "out_campaign_vehicle": 0, 
+        "out_exchequer": 0, 
+        "out_miscellaneous": 0, 
+        "out_personnel": 0, 
+        "out_propagate": 0, 
+        "out_public_relation": 0, 
+        "out_rally": 0, 
+        "out_return": 0, 
+        "out_total": 0, 
+        "out_travel": 0, 
+        "title": "mayors"
+    }, 
+    {
+        "balance": -16800, 
+        "county": "臺北市", 
+        "election_name": "臺北市長選舉", 
+        "election_year": "2010", 
+        "in_anonymous": 0, 
+        "in_civil": 0, 
+        "in_individual": 0, 
+        "in_others": 0, 
+        "in_party": 0, 
+        "in_profit": 0, 
+        "in_total": 0, 
+        "name": "黃文發", 
+        "out_campaign_office": 0, 
+        "out_campaign_vehicle": 0, 
+        "out_exchequer": 0, 
+        "out_miscellaneous": 800, 
+        "out_personnel": 10000, 
+        "out_propagate": 3600, 
+        "out_public_relation": 1400, 
+        "out_rally": 0, 
+        "out_return": 0, 
+        "out_total": 16800, 
+        "out_travel": 1000, 
+        "title": "mayors"
+    }, 
+    {
+        "balance": 0, 
+        "county": "臺北市", 
+        "election_name": "臺北市長選舉", 
+        "election_year": "2010", 
+        "in_anonymous": 0, 
+        "in_civil": 0, 
+        "in_individual": 0, 
+        "in_others": 0, 
+        "in_party": 0, 
+        "in_profit": 0, 
+        "in_total": 0, 
+        "name": "劉明德", 
+        "out_campaign_office": 0, 
+        "out_campaign_vehicle": 0, 
+        "out_exchequer": 0, 
+        "out_miscellaneous": 0, 
+        "out_personnel": 0, 
+        "out_propagate": 0, 
+        "out_public_relation": 0, 
+        "out_rally": 0, 
+        "out_return": 0, 
+        "out_total": 0, 
+        "out_travel": 0, 
+        "title": "mayors"
+    }, 
+    {
+        "balance": -2006985, 
+        "county": "臺北市", 
+        "election_name": "臺北市長選舉", 
+        "election_year": "2010", 
+        "in_anonymous": 300, 
+        "in_civil": 0, 
+        "in_individual": 100, 
+        "in_others": 0, 
+        "in_party": 0, 
+        "in_profit": 0, 
+        "in_total": 400, 
+        "name": "蕭淑華", 
+        "out_campaign_office": 0, 
+        "out_campaign_vehicle": 0, 
+        "out_exchequer": 0, 
+        "out_miscellaneous": 2007385, 
+        "out_personnel": 0, 
+        "out_propagate": 0, 
+        "out_public_relation": 0, 
+        "out_rally": 0, 
+        "out_return": 0, 
+        "out_total": 2007385, 
+        "out_travel": 0, 
+        "title": "mayors"
+    }, 
+    {
+        "balance": -1195955, 
+        "county": "臺北市", 
+        "election_name": "臺北市長選舉", 
+        "election_year": "2010", 
+        "in_anonymous": 2619294, 
+        "in_civil": 170000, 
+        "in_individual": 82636797, 
+        "in_others": 1453, 
+        "in_party": 17992809, 
+        "in_profit": 38322666, 
+        "in_total": 141743019, 
+        "name": "蘇貞昌", 
+        "out_campaign_office": 5093155, 
+        "out_campaign_vehicle": 0, 
+        "out_exchequer": 110000, 
+        "out_miscellaneous": 634759, 
+        "out_personnel": 6358710, 
+        "out_propagate": 114349418, 
+        "out_public_relation": 93860, 
+        "out_rally": 12174072, 
+        "out_return": 4125000, 
+        "out_total": 142938974, 
+        "out_travel": 0, 
+        "title": "mayors"
+    }, 
+    {
+        "balance": 16350699, 
+        "county": "新北市", 
+        "election_name": "新北市長選舉", 
+        "election_year": "2010", 
+        "in_anonymous": 402378, 
+        "in_civil": 120000, 
+        "in_individual": 29281181, 
+        "in_others": 26365, 
+        "in_party": 9000000, 
+        "in_profit": 50842945, 
+        "in_total": 89672869, 
+        "name": "朱立倫", 
+        "out_campaign_office": 3511950, 
+        "out_campaign_vehicle": 670125, 
+        "out_exchequer": 1052000, 
+        "out_miscellaneous": 4483088, 
+        "out_personnel": 13192530, 
+        "out_propagate": 42002610, 
+        "out_public_relation": 2399253, 
+        "out_rally": 3537022, 
+        "out_return": 2125000, 
+        "out_total": 73322170, 
+        "out_travel": 348592, 
+        "title": "mayors"
+    }, 
+    {
+        "balance": 100, 
+        "county": "新北市", 
+        "election_name": "新北市長選舉", 
+        "election_year": "2010", 
+        "in_anonymous": 100, 
+        "in_civil": 0, 
+        "in_individual": 0, 
+        "in_others": 0, 
+        "in_party": 0, 
+        "in_profit": 0, 
+        "in_total": 100, 
+        "name": "黃茂全", 
+        "out_campaign_office": 0, 
+        "out_campaign_vehicle": 0, 
+        "out_exchequer": 0, 
+        "out_miscellaneous": 0, 
+        "out_personnel": 0, 
+        "out_propagate": 0, 
+        "out_public_relation": 0, 
+        "out_rally": 0, 
+        "out_return": 0, 
+        "out_total": 0, 
+        "out_travel": 0, 
+        "title": "mayors"
+    }, 
+    {
+        "balance": -2191430, 
+        "county": "新北市", 
+        "election_name": "新北市長選舉", 
+        "election_year": "2010", 
+        "in_anonymous": 23335901, 
+        "in_civil": 932000, 
+        "in_individual": 89043615, 
+        "in_others": 12671, 
+        "in_party": 2854275, 
+        "in_profit": 28121320, 
+        "in_total": 144299782, 
+        "name": "蔡英文", 
+        "out_campaign_office": 5618938, 
+        "out_campaign_vehicle": 901281, 
+        "out_exchequer": 0, 
+        "out_miscellaneous": 5742106, 
+        "out_personnel": 10504728, 
+        "out_propagate": 86050711, 
+        "out_public_relation": 918482, 
+        "out_rally": 33084542, 
+        "out_return": 1687500, 
+        "out_total": 146491212, 
+        "out_travel": 1982924, 
+        "title": "mayors"
+    }, 
+    {
+        "balance": -71237, 
+        "county": "臺中市", 
+        "election_name": "臺中市長選舉", 
+        "election_year": "2010", 
+        "in_anonymous": 72321, 
+        "in_civil": 1217134, 
+        "in_individual": 35808000, 
+        "in_others": 0, 
+        "in_party": 0, 
+        "in_profit": 33204223, 
+        "in_total": 70301678, 
+        "name": "胡志強", 
+        "out_campaign_office": 7898393, 
+        "out_campaign_vehicle": 4159225, 
+        "out_exchequer": 0, 
+        "out_miscellaneous": 3025093, 
+        "out_personnel": 8397578, 
+        "out_propagate": 32456194, 
+        "out_public_relation": 937085, 
+        "out_rally": 11603777, 
+        "out_return": 0, 
+        "out_total": 70372915, 
+        "out_travel": 1895570, 
+        "title": "mayors"
+    }, 
+    {
+        "balance": -842188, 
+        "county": "臺中市", 
+        "election_name": "臺中市長選舉", 
+        "election_year": "2010", 
+        "in_anonymous": 1767294, 
+        "in_civil": 2026666, 
+        "in_individual": 60032606, 
+        "in_others": 2811, 
+        "in_party": 2903492, 
+        "in_profit": 20466232, 
+        "in_total": 87199101, 
+        "name": "蘇嘉全", 
+        "out_campaign_office": 3154523, 
+        "out_campaign_vehicle": 1178338, 
+        "out_exchequer": 1000000, 
+        "out_miscellaneous": 2874593, 
+        "out_personnel": 10153055, 
+        "out_propagate": 58420037, 
+        "out_public_relation": 60, 
+        "out_rally": 8860682, 
+        "out_return": 20000, 
+        "out_total": 88041289, 
+        "out_travel": 2380001, 
+        "title": "mayors"
+    }, 
+    {
+        "balance": -1577552, 
+        "county": "臺南市", 
+        "election_name": "臺南市長選舉", 
+        "election_year": "2010", 
+        "in_anonymous": 252801, 
+        "in_civil": 360000, 
+        "in_individual": 20598945, 
+        "in_others": 37, 
+        "in_party": 2000000, 
+        "in_profit": 15234080, 
+        "in_total": 38445863, 
+        "name": "郭添財", 
+        "out_campaign_office": 2128905, 
+        "out_campaign_vehicle": 420290, 
+        "out_exchequer": 0, 
+        "out_miscellaneous": 3074890, 
+        "out_personnel": 5015745, 
+        "out_propagate": 20420697, 
+        "out_public_relation": 997470, 
+        "out_rally": 5837042, 
+        "out_return": 1927400, 
+        "out_total": 40023415, 
+        "out_travel": 200976, 
+        "title": "mayors"
+    }, 
+    {
+        "balance": 9569935, 
+        "county": "臺南市", 
+        "election_name": "臺南市長選舉", 
+        "election_year": "2010", 
+        "in_anonymous": 330266, 
+        "in_civil": 1528000, 
+        "in_individual": 58971420, 
+        "in_others": 3661, 
+        "in_party": 648353, 
+        "in_profit": 23522138, 
+        "in_total": 85003838, 
+        "name": "賴清德", 
+        "out_campaign_office": 1805868, 
+        "out_campaign_vehicle": 3965025, 
+        "out_exchequer": 0, 
+        "out_miscellaneous": 12263935, 
+        "out_personnel": 8976757, 
+        "out_propagate": 39781187, 
+        "out_public_relation": 0, 
+        "out_rally": 5360701, 
+        "out_return": 2248000, 
+        "out_total": 75433903, 
+        "out_travel": 1032430, 
+        "title": "mayors"
+    }, 
+    {
+        "balance": 0, 
+        "county": "高雄市", 
+        "election_name": "高雄市長選舉", 
+        "election_year": "2010", 
+        "in_anonymous": 0, 
+        "in_civil": 0, 
+        "in_individual": 0, 
+        "in_others": 0, 
+        "in_party": 0, 
+        "in_profit": 0, 
+        "in_total": 0, 
+        "name": "林景元", 
+        "out_campaign_office": 0, 
+        "out_campaign_vehicle": 0, 
+        "out_exchequer": 0, 
+        "out_miscellaneous": 0, 
+        "out_personnel": 0, 
+        "out_propagate": 0, 
+        "out_public_relation": 0, 
+        "out_rally": 0, 
+        "out_return": 0, 
+        "out_total": 0, 
+        "out_travel": 0, 
+        "title": "mayors"
+    }, 
+    {
+        "balance": -6406824, 
+        "county": "高雄市", 
+        "election_name": "高雄市長選舉", 
+        "election_year": "2010", 
+        "in_anonymous": 160433, 
+        "in_civil": 2060000, 
+        "in_individual": 60051624, 
+        "in_others": 8381, 
+        "in_party": 185999, 
+        "in_profit": 36652300, 
+        "in_total": 99118737, 
+        "name": "陳菊", 
+        "out_campaign_office": 20470522, 
+        "out_campaign_vehicle": 1005539, 
+        "out_exchequer": 0, 
+        "out_miscellaneous": 4679203, 
+        "out_personnel": 5002230, 
+        "out_propagate": 57025384, 
+        "out_public_relation": 257716, 
+        "out_rally": 13049552, 
+        "out_return": 3302000, 
+        "out_total": 105525561, 
+        "out_travel": 733415, 
+        "title": "mayors"
+    }, 
+    {
+        "balance": -16955894, 
+        "county": "高雄市", 
+        "election_name": "高雄市長選舉", 
+        "election_year": "2010", 
+        "in_anonymous": 347834, 
+        "in_civil": 2170000, 
+        "in_individual": 32657107, 
+        "in_others": 1278, 
+        "in_party": 2000000, 
+        "in_profit": 19456668, 
+        "in_total": 56632887, 
+        "name": "黃昭順", 
+        "out_campaign_office": 2963305, 
+        "out_campaign_vehicle": 5075792, 
+        "out_exchequer": 51000, 
+        "out_miscellaneous": 9468465, 
+        "out_personnel": 10578460, 
+        "out_propagate": 36852399, 
+        "out_public_relation": 0, 
+        "out_rally": 7127751, 
+        "out_return": 610000, 
+        "out_total": 73588781, 
+        "out_travel": 861609, 
+        "title": "mayors"
+    }, 
+    {
+        "balance": -6264786, 
+        "county": "高雄市", 
+        "election_name": "高雄市長選舉", 
+        "election_year": "2010", 
+        "in_anonymous": 23000, 
+        "in_civil": 522000, 
+        "in_individual": 37136976, 
+        "in_others": 4953, 
+        "in_party": 0, 
+        "in_profit": 53840000, 
+        "in_total": 91526929, 
+        "name": "楊秋興", 
+        "out_campaign_office": 1786111, 
+        "out_campaign_vehicle": 2097346, 
+        "out_exchequer": 0, 
+        "out_miscellaneous": 2182576, 
+        "out_personnel": 5252177, 
+        "out_propagate": 69725263, 
+        "out_public_relation": 0, 
+        "out_rally": 16104520, 
+        "out_return": 0, 
+        "out_total": 97791715, 
+        "out_travel": 643722, 
+        "title": "mayors"
+    }, 
+    {
         "balance": -723312, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 50000, 
@@ -21,11 +568,13 @@
         "out_rally": 37320, 
         "out_return": 25000, 
         "out_total": 3339212, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -944633, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 79100, 
         "in_civil": 235000, 
@@ -45,11 +594,13 @@
         "out_rally": 94220, 
         "out_return": 820000, 
         "out_total": 11688499, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -138856, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 110000, 
         "in_civil": 115000, 
@@ -69,11 +620,13 @@
         "out_rally": 87900, 
         "out_return": 0, 
         "out_total": 5603897, 
-        "out_travel": 17673
+        "out_travel": 17673, 
+        "title": "councilors"
     }, 
     {
         "balance": -3049, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 111, 
         "in_civil": 0, 
@@ -93,11 +646,13 @@
         "out_rally": 108000, 
         "out_return": 0, 
         "out_total": 1611000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -915040, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 7999, 
         "in_civil": 0, 
@@ -117,11 +672,13 @@
         "out_rally": 82807, 
         "out_return": 200000, 
         "out_total": 3019386, 
-        "out_travel": 105594
+        "out_travel": 105594, 
+        "title": "councilors"
     }, 
     {
         "balance": 9888075, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 110000, 
@@ -141,11 +698,13 @@
         "out_rally": 185450, 
         "out_return": 130000, 
         "out_total": 3190568, 
-        "out_travel": 263065
+        "out_travel": 263065, 
+        "title": "councilors"
     }, 
     {
         "balance": -367636, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 65200, 
         "in_civil": 0, 
@@ -165,11 +724,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 752874, 
-        "out_travel": 11062
+        "out_travel": 11062, 
+        "title": "councilors"
     }, 
     {
         "balance": -75213, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 4770, 
         "in_civil": 20000, 
@@ -189,11 +750,13 @@
         "out_rally": 78320, 
         "out_return": 210000, 
         "out_total": 6783091, 
-        "out_travel": 66062
+        "out_travel": 66062, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -213,11 +776,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -83407, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 209370, 
         "in_civil": 20000, 
@@ -237,11 +802,13 @@
         "out_rally": 484189, 
         "out_return": 10000, 
         "out_total": 5100972, 
-        "out_travel": 261381
+        "out_travel": 261381, 
+        "title": "councilors"
     }, 
     {
         "balance": -60007, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 10000, 
         "in_civil": 0, 
@@ -261,11 +828,13 @@
         "out_rally": 42000, 
         "out_return": 0, 
         "out_total": 1176514, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 727299, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 60166, 
         "in_civil": 505600, 
@@ -285,11 +854,13 @@
         "out_rally": 255721, 
         "out_return": 505600, 
         "out_total": 4342445, 
-        "out_travel": 125259
+        "out_travel": 125259, 
+        "title": "councilors"
     }, 
     {
         "balance": 5006861, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 35000, 
         "in_civil": 118000, 
@@ -309,11 +880,13 @@
         "out_rally": 296439, 
         "out_return": 1345000, 
         "out_total": 15198507, 
-        "out_travel": 40934
+        "out_travel": 40934, 
+        "title": "councilors"
     }, 
     {
         "balance": 1481513, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -333,11 +906,13 @@
         "out_rally": 400600, 
         "out_return": 100030, 
         "out_total": 6338240, 
-        "out_travel": 100000
+        "out_travel": 100000, 
+        "title": "councilors"
     }, 
     {
         "balance": 3515749, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -357,11 +932,13 @@
         "out_rally": 0, 
         "out_return": 200000, 
         "out_total": 12589106, 
-        "out_travel": 162324
+        "out_travel": 162324, 
+        "title": "councilors"
     }, 
     {
         "balance": -31061, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 55087, 
         "in_civil": 3000, 
@@ -381,11 +958,13 @@
         "out_rally": 7843, 
         "out_return": 0, 
         "out_total": 406933, 
-        "out_travel": 11474
+        "out_travel": 11474, 
+        "title": "councilors"
     }, 
     {
         "balance": -215020, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -405,11 +984,13 @@
         "out_rally": 74429, 
         "out_return": 0, 
         "out_total": 4891420, 
-        "out_travel": 178175
+        "out_travel": 178175, 
+        "title": "councilors"
     }, 
     {
         "balance": -155589, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 25000, 
         "in_civil": 180000, 
@@ -429,11 +1010,13 @@
         "out_rally": 645290, 
         "out_return": 35000, 
         "out_total": 8177463, 
-        "out_travel": 29335
+        "out_travel": 29335, 
+        "title": "councilors"
     }, 
     {
         "balance": -126358, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 10000, 
         "in_civil": 0, 
@@ -453,11 +1036,13 @@
         "out_rally": 135415, 
         "out_return": 0, 
         "out_total": 1466578, 
-        "out_travel": 6000
+        "out_travel": 6000, 
+        "title": "councilors"
     }, 
     {
         "balance": -687142, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 500, 
         "in_civil": 0, 
@@ -477,11 +1062,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 1165924, 
-        "out_travel": 59721
+        "out_travel": 59721, 
+        "title": "councilors"
     }, 
     {
         "balance": 1399240, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 232200, 
         "in_civil": 350000, 
@@ -501,11 +1088,13 @@
         "out_rally": 131200, 
         "out_return": 75000, 
         "out_total": 6157688, 
-        "out_travel": 149942
+        "out_travel": 149942, 
+        "title": "councilors"
     }, 
     {
         "balance": -566673, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 80000, 
@@ -525,11 +1114,13 @@
         "out_rally": 241817, 
         "out_return": 2000000, 
         "out_total": 11192699, 
-        "out_travel": 100282
+        "out_travel": 100282, 
+        "title": "councilors"
     }, 
     {
         "balance": 190049, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 5600, 
         "in_civil": 0, 
@@ -549,11 +1140,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 395118, 
-        "out_travel": 120
+        "out_travel": 120, 
+        "title": "councilors"
     }, 
     {
         "balance": -364186, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -573,11 +1166,13 @@
         "out_rally": 109249, 
         "out_return": 0, 
         "out_total": 3337106, 
-        "out_travel": 53731
+        "out_travel": 53731, 
+        "title": "councilors"
     }, 
     {
         "balance": -1168841, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 2000, 
@@ -597,11 +1192,13 @@
         "out_rally": 38606, 
         "out_return": 200000, 
         "out_total": 2286335, 
-        "out_travel": 60100
+        "out_travel": 60100, 
+        "title": "councilors"
     }, 
     {
         "balance": -97840, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 11100, 
         "in_civil": 130000, 
@@ -621,11 +1218,13 @@
         "out_rally": 508672, 
         "out_return": 190020, 
         "out_total": 10250936, 
-        "out_travel": 373681
+        "out_travel": 373681, 
+        "title": "councilors"
     }, 
     {
         "balance": -547259, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 8600, 
         "in_civil": 30000, 
@@ -645,11 +1244,13 @@
         "out_rally": 460728, 
         "out_return": 286000, 
         "out_total": 12255003, 
-        "out_travel": 162203
+        "out_travel": 162203, 
+        "title": "councilors"
     }, 
     {
         "balance": 511471, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 41220, 
         "in_civil": 58600, 
@@ -669,11 +1270,13 @@
         "out_rally": 77637, 
         "out_return": 50000, 
         "out_total": 3887244, 
-        "out_travel": 6900
+        "out_travel": 6900, 
+        "title": "councilors"
     }, 
     {
         "balance": -111118, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 10000, 
         "in_civil": 65000, 
@@ -693,11 +1296,13 @@
         "out_rally": 390095, 
         "out_return": 500000, 
         "out_total": 8014268, 
-        "out_travel": 133164
+        "out_travel": 133164, 
+        "title": "councilors"
     }, 
     {
         "balance": -839456, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 28000, 
         "in_civil": 20000, 
@@ -717,11 +1322,13 @@
         "out_rally": 260080, 
         "out_return": 0, 
         "out_total": 4168057, 
-        "out_travel": 152343
+        "out_travel": 152343, 
+        "title": "councilors"
     }, 
     {
         "balance": -5987, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -741,11 +1348,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 166000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 219740, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 20000, 
         "in_civil": 10000, 
@@ -765,11 +1374,13 @@
         "out_rally": 209625, 
         "out_return": 485000, 
         "out_total": 3802081, 
-        "out_travel": 48001
+        "out_travel": 48001, 
+        "title": "councilors"
     }, 
     {
         "balance": 95925, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 38159, 
         "in_civil": 10000, 
@@ -789,11 +1400,13 @@
         "out_rally": 535550, 
         "out_return": 710000, 
         "out_total": 7029741, 
-        "out_travel": 10690
+        "out_travel": 10690, 
+        "title": "councilors"
     }, 
     {
         "balance": -155071, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 8350, 
         "in_civil": 100000, 
@@ -813,11 +1426,13 @@
         "out_rally": 44000, 
         "out_return": 0, 
         "out_total": 1342087, 
-        "out_travel": 52701
+        "out_travel": 52701, 
+        "title": "councilors"
     }, 
     {
         "balance": -497, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -837,11 +1452,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 871544, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 5218587, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 82000, 
         "in_civil": 397000, 
@@ -861,11 +1478,13 @@
         "out_rally": 265381, 
         "out_return": 120000, 
         "out_total": 9854309, 
-        "out_travel": 43633
+        "out_travel": 43633, 
+        "title": "councilors"
     }, 
     {
         "balance": -41331, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 38000, 
         "in_civil": 457600, 
@@ -885,11 +1504,13 @@
         "out_rally": 446971, 
         "out_return": 2910000, 
         "out_total": 18266201, 
-        "out_travel": 92666
+        "out_travel": 92666, 
+        "title": "councilors"
     }, 
     {
         "balance": -889905, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 149000, 
         "in_civil": 143000, 
@@ -909,11 +1530,13 @@
         "out_rally": 664024, 
         "out_return": 807600, 
         "out_total": 10885906, 
-        "out_travel": 57696
+        "out_travel": 57696, 
+        "title": "councilors"
     }, 
     {
         "balance": -27, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 10000, 
@@ -933,11 +1556,13 @@
         "out_rally": 16950, 
         "out_return": 0, 
         "out_total": 258028, 
-        "out_travel": 11416
+        "out_travel": 11416, 
+        "title": "councilors"
     }, 
     {
         "balance": 2741185, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 23600, 
         "in_civil": 124000, 
@@ -957,11 +1582,13 @@
         "out_rally": 932467, 
         "out_return": 1443000, 
         "out_total": 12020236, 
-        "out_travel": 233105
+        "out_travel": 233105, 
+        "title": "councilors"
     }, 
     {
         "balance": -4765624, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 6400, 
         "in_civil": 214000, 
@@ -981,11 +1608,13 @@
         "out_rally": 278822, 
         "out_return": 130000, 
         "out_total": 11500485, 
-        "out_travel": 30957
+        "out_travel": 30957, 
+        "title": "councilors"
     }, 
     {
         "balance": -895044, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1005,11 +1634,13 @@
         "out_rally": 142200, 
         "out_return": 210000, 
         "out_total": 4377044, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -364388, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 126000, 
         "in_civil": 0, 
@@ -1029,11 +1660,13 @@
         "out_rally": 65732, 
         "out_return": 0, 
         "out_total": 2098510, 
-        "out_travel": 40329
+        "out_travel": 40329, 
+        "title": "councilors"
     }, 
     {
         "balance": -860570, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 30000, 
@@ -1053,11 +1686,13 @@
         "out_rally": 48409, 
         "out_return": 202000, 
         "out_total": 2781970, 
-        "out_travel": 83476
+        "out_travel": 83476, 
+        "title": "councilors"
     }, 
     {
         "balance": -2626139, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 16000, 
         "in_civil": 0, 
@@ -1077,11 +1712,13 @@
         "out_rally": 368508, 
         "out_return": 745000, 
         "out_total": 9983580, 
-        "out_travel": 69198
+        "out_travel": 69198, 
+        "title": "councilors"
     }, 
     {
         "balance": 2498379, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 246888, 
         "in_civil": 224000, 
@@ -1101,11 +1738,13 @@
         "out_rally": 311500, 
         "out_return": 140000, 
         "out_total": 9679067, 
-        "out_travel": 277612
+        "out_travel": 277612, 
+        "title": "councilors"
     }, 
     {
         "balance": -79900, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 8000, 
         "in_civil": 28000, 
@@ -1125,11 +1764,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 200000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -47612, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 1300, 
         "in_civil": 0, 
@@ -1149,11 +1790,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 76800, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 919993, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 500, 
         "in_civil": 150000, 
@@ -1173,11 +1816,13 @@
         "out_rally": 286402, 
         "out_return": 50000, 
         "out_total": 2795990, 
-        "out_travel": 126842
+        "out_travel": 126842, 
+        "title": "councilors"
     }, 
     {
         "balance": 4902025, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 35260, 
         "in_civil": 356000, 
@@ -1197,11 +1842,13 @@
         "out_rally": 609500, 
         "out_return": 1210000, 
         "out_total": 10139354, 
-        "out_travel": 68712
+        "out_travel": 68712, 
+        "title": "councilors"
     }, 
     {
         "balance": -175418, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 1000, 
         "in_civil": 230000, 
@@ -1221,11 +1868,13 @@
         "out_rally": 0, 
         "out_return": 560000, 
         "out_total": 7321518, 
-        "out_travel": 16195
+        "out_travel": 16195, 
+        "title": "councilors"
     }, 
     {
         "balance": -603, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1245,11 +1894,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 1103, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -1045959, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 800, 
         "in_civil": 0, 
@@ -1269,11 +1920,13 @@
         "out_rally": 77023, 
         "out_return": 20000, 
         "out_total": 3594366, 
-        "out_travel": 93905
+        "out_travel": 93905, 
+        "title": "councilors"
     }, 
     {
         "balance": -449188, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 48000, 
         "in_civil": 20000, 
@@ -1293,11 +1946,13 @@
         "out_rally": 163587, 
         "out_return": 0, 
         "out_total": 1073199, 
-        "out_travel": 1478
+        "out_travel": 1478, 
+        "title": "councilors"
     }, 
     {
         "balance": -750000, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1317,11 +1972,13 @@
         "out_rally": 200000, 
         "out_return": 0, 
         "out_total": 1130000, 
-        "out_travel": 50000
+        "out_travel": 50000, 
+        "title": "councilors"
     }, 
     {
         "balance": -160447, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 21900, 
         "in_civil": 0, 
@@ -1341,11 +1998,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 1954499, 
-        "out_travel": 9616
+        "out_travel": 9616, 
+        "title": "councilors"
     }, 
     {
         "balance": 24942, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 16792, 
         "in_civil": 0, 
@@ -1365,11 +2024,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 211450, 
-        "out_travel": 9683
+        "out_travel": 9683, 
+        "title": "councilors"
     }, 
     {
         "balance": -918771, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 25000, 
         "in_civil": 122000, 
@@ -1389,11 +2050,13 @@
         "out_rally": 1055547, 
         "out_return": 210000, 
         "out_total": 7833647, 
-        "out_travel": 171154
+        "out_travel": 171154, 
+        "title": "councilors"
     }, 
     {
         "balance": -29640, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 20000, 
         "in_civil": 0, 
@@ -1413,11 +2076,13 @@
         "out_rally": 193974, 
         "out_return": 0, 
         "out_total": 5340691, 
-        "out_travel": 6875
+        "out_travel": 6875, 
+        "title": "councilors"
     }, 
     {
         "balance": 3687378, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 150000, 
@@ -1437,11 +2102,13 @@
         "out_rally": 248298, 
         "out_return": 20000, 
         "out_total": 5842530, 
-        "out_travel": 115870
+        "out_travel": 115870, 
+        "title": "councilors"
     }, 
     {
         "balance": -1107111, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 31800, 
         "in_civil": 0, 
@@ -1461,11 +2128,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 2492314, 
-        "out_travel": 65096
+        "out_travel": 65096, 
+        "title": "councilors"
     }, 
     {
         "balance": -15835, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 250000, 
@@ -1485,11 +2154,13 @@
         "out_rally": 377190, 
         "out_return": 260000, 
         "out_total": 7044723, 
-        "out_travel": 97997
+        "out_travel": 97997, 
+        "title": "councilors"
     }, 
     {
         "balance": -651318, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 207600, 
         "in_civil": 146000, 
@@ -1509,11 +2180,13 @@
         "out_rally": 79976, 
         "out_return": 0, 
         "out_total": 5338518, 
-        "out_travel": 101960
+        "out_travel": 101960, 
+        "title": "councilors"
     }, 
     {
         "balance": -145010, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 3000, 
         "in_civil": 81500, 
@@ -1533,11 +2206,13 @@
         "out_rally": 112060, 
         "out_return": 0, 
         "out_total": 1534510, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 890343, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1557,11 +2232,13 @@
         "out_rally": 38910, 
         "out_return": 250000, 
         "out_total": 4909357, 
-        "out_travel": 95
+        "out_travel": 95, 
+        "title": "councilors"
     }, 
     {
         "balance": 21139490, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 403200, 
@@ -1581,11 +2258,13 @@
         "out_rally": 1230082, 
         "out_return": 990000, 
         "out_total": 12111049, 
-        "out_travel": 191669
+        "out_travel": 191669, 
+        "title": "councilors"
     }, 
     {
         "balance": -476688, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 10000, 
         "in_civil": 0, 
@@ -1605,11 +2284,13 @@
         "out_rally": 1237153, 
         "out_return": 730000, 
         "out_total": 12132400, 
-        "out_travel": 157378
+        "out_travel": 157378, 
+        "title": "councilors"
     }, 
     {
         "balance": -69016, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 22000, 
         "in_civil": 0, 
@@ -1629,11 +2310,13 @@
         "out_rally": 0, 
         "out_return": 32000, 
         "out_total": 3851292, 
-        "out_travel": 71299
+        "out_travel": 71299, 
+        "title": "councilors"
     }, 
     {
         "balance": -156793, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 5000, 
         "in_civil": 0, 
@@ -1653,11 +2336,13 @@
         "out_rally": 441385, 
         "out_return": 825000, 
         "out_total": 7427945, 
-        "out_travel": 70023
+        "out_travel": 70023, 
+        "title": "councilors"
     }, 
     {
         "balance": -1208026, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1677,11 +2362,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 1481226, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -2354425, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 39000, 
         "in_civil": 0, 
@@ -1701,11 +2388,13 @@
         "out_rally": 165694, 
         "out_return": 0, 
         "out_total": 2848425, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 2841552, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 6500, 
         "in_civil": 35000, 
@@ -1725,11 +2414,13 @@
         "out_rally": 84400, 
         "out_return": 220600, 
         "out_total": 5339379, 
-        "out_travel": 86587
+        "out_travel": 86587, 
+        "title": "councilors"
     }, 
     {
         "balance": -54433, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1749,11 +2440,13 @@
         "out_rally": 12013, 
         "out_return": 0, 
         "out_total": 791509, 
-        "out_travel": 57245
+        "out_travel": 57245, 
+        "title": "councilors"
     }, 
     {
         "balance": -27574, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 22990, 
         "in_civil": 30000, 
@@ -1773,11 +2466,13 @@
         "out_rally": 253150, 
         "out_return": 942000, 
         "out_total": 8858833, 
-        "out_travel": 329454
+        "out_travel": 329454, 
+        "title": "councilors"
     }, 
     {
         "balance": -36846, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 5000, 
         "in_civil": 0, 
@@ -1797,11 +2492,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 159451, 
-        "out_travel": 10003
+        "out_travel": 10003, 
+        "title": "councilors"
     }, 
     {
         "balance": 4492560, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 25000, 
         "in_civil": 0, 
@@ -1821,11 +2518,13 @@
         "out_rally": 651980, 
         "out_return": 0, 
         "out_total": 10110245, 
-        "out_travel": 68080
+        "out_travel": 68080, 
+        "title": "councilors"
     }, 
     {
         "balance": -185187, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 128000, 
@@ -1845,11 +2544,13 @@
         "out_rally": 4680, 
         "out_return": 0, 
         "out_total": 6224454, 
-        "out_travel": 122581
+        "out_travel": 122581, 
+        "title": "councilors"
     }, 
     {
         "balance": -11124, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1869,11 +2570,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 372136, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 9, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 4000, 
         "in_civil": 0, 
@@ -1893,11 +2596,13 @@
         "out_rally": 115574, 
         "out_return": 0, 
         "out_total": 1064800, 
-        "out_travel": 44608
+        "out_travel": 44608, 
+        "title": "councilors"
     }, 
     {
         "balance": -1684200, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 50200, 
         "in_civil": 8800, 
@@ -1917,11 +2622,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 3289811, 
-        "out_travel": 107939
+        "out_travel": 107939, 
+        "title": "councilors"
     }, 
     {
         "balance": -489260, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -1941,11 +2648,13 @@
         "out_rally": 8968, 
         "out_return": 0, 
         "out_total": 829276, 
-        "out_travel": 5043
+        "out_travel": 5043, 
+        "title": "councilors"
     }, 
     {
         "balance": -761723, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 17000, 
         "in_civil": 100000, 
@@ -1965,11 +2674,13 @@
         "out_rally": 71610, 
         "out_return": 184000, 
         "out_total": 8257381, 
-        "out_travel": 80912
+        "out_travel": 80912, 
+        "title": "councilors"
     }, 
     {
         "balance": 3058071, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 12000, 
         "in_civil": 110000, 
@@ -1989,11 +2700,13 @@
         "out_rally": 2008813, 
         "out_return": 930000, 
         "out_total": 13745818, 
-        "out_travel": 259612
+        "out_travel": 259612, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2013,11 +2726,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2037,11 +2752,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 4722519, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 4000, 
         "in_civil": 0, 
@@ -2061,11 +2778,13 @@
         "out_rally": 0, 
         "out_return": 1120020, 
         "out_total": 3802912, 
-        "out_travel": 140009
+        "out_travel": 140009, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2085,11 +2804,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2109,11 +2830,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -5999495, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 4900, 
         "in_civil": 0, 
@@ -2133,11 +2856,13 @@
         "out_rally": 205380, 
         "out_return": 0, 
         "out_total": 8267512, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2157,11 +2882,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -887516, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 14500, 
         "in_civil": 0, 
@@ -2181,11 +2908,13 @@
         "out_rally": 455750, 
         "out_return": 1230000, 
         "out_total": 8965916, 
-        "out_travel": 74116
+        "out_travel": 74116, 
+        "title": "councilors"
     }, 
     {
         "balance": -19892, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 345020, 
@@ -2205,11 +2934,13 @@
         "out_rally": 132080, 
         "out_return": 270000, 
         "out_total": 12443734, 
-        "out_travel": 106959
+        "out_travel": 106959, 
+        "title": "councilors"
     }, 
     {
         "balance": 6411359, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2229,11 +2960,13 @@
         "out_rally": 728510, 
         "out_return": 100000, 
         "out_total": 5636590, 
-        "out_travel": 5425
+        "out_travel": 5425, 
+        "title": "councilors"
     }, 
     {
         "balance": -32171, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 4000, 
         "in_civil": 0, 
@@ -2253,11 +2986,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 653630, 
-        "out_travel": 39438
+        "out_travel": 39438, 
+        "title": "councilors"
     }, 
     {
         "balance": -4121, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 129000, 
         "in_civil": 140000, 
@@ -2277,11 +3012,13 @@
         "out_rally": 198172, 
         "out_return": 40000, 
         "out_total": 5569139, 
-        "out_travel": 97318
+        "out_travel": 97318, 
+        "title": "councilors"
     }, 
     {
         "balance": 3165184, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 121200, 
         "in_civil": 582000, 
@@ -2301,11 +3038,13 @@
         "out_rally": 935459, 
         "out_return": 420000, 
         "out_total": 9867992, 
-        "out_travel": 41011
+        "out_travel": 41011, 
+        "title": "councilors"
     }, 
     {
         "balance": -160193, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 768, 
         "in_civil": 0, 
@@ -2325,11 +3064,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 1842507, 
-        "out_travel": 142934
+        "out_travel": 142934, 
+        "title": "councilors"
     }, 
     {
         "balance": 430430, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 5000, 
@@ -2349,11 +3090,13 @@
         "out_rally": 304501, 
         "out_return": 710000, 
         "out_total": 8802191, 
-        "out_travel": 79434
+        "out_travel": 79434, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2373,11 +3116,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 3766732, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 3000, 
         "in_civil": 0, 
@@ -2397,11 +3142,13 @@
         "out_rally": 15000, 
         "out_return": 0, 
         "out_total": 3146499, 
-        "out_travel": 71909
+        "out_travel": 71909, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2421,11 +3168,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 4655687, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 173716, 
         "in_civil": 100000, 
@@ -2445,11 +3194,13 @@
         "out_rally": 197551, 
         "out_return": 161000, 
         "out_total": 4858343, 
-        "out_travel": 144894
+        "out_travel": 144894, 
+        "title": "councilors"
     }, 
     {
         "balance": -1287289, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2469,11 +3220,13 @@
         "out_rally": 87538, 
         "out_return": 0, 
         "out_total": 4885939, 
-        "out_travel": 11255
+        "out_travel": 11255, 
+        "title": "councilors"
     }, 
     {
         "balance": 666582, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 20100, 
         "in_civil": 193000, 
@@ -2493,11 +3246,13 @@
         "out_rally": 374405, 
         "out_return": 1000000, 
         "out_total": 10696647, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2517,11 +3272,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -1495699, 
         "county": "臺北市", 
+        "election_name": "臺北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 60725, 
         "in_civil": 0, 
@@ -2541,11 +3298,13 @@
         "out_rally": 125315, 
         "out_return": 0, 
         "out_total": 2767568, 
-        "out_travel": 43499
+        "out_travel": 43499, 
+        "title": "councilors"
     }, 
     {
         "balance": -138377, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2565,11 +3324,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 1756977, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2589,11 +3350,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 2000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -1331152, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 28000, 
         "in_civil": 0, 
@@ -2613,11 +3376,13 @@
         "out_rally": 367414, 
         "out_return": 10000, 
         "out_total": 3614920, 
-        "out_travel": 65812
+        "out_travel": 65812, 
+        "title": "councilors"
     }, 
     {
         "balance": -5948739, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 6500, 
         "in_civil": 0, 
@@ -2637,11 +3402,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 6297239, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2661,11 +3428,13 @@
         "out_rally": 15000, 
         "out_return": 0, 
         "out_total": 754500, 
-        "out_travel": 10538
+        "out_travel": 10538, 
+        "title": "councilors"
     }, 
     {
         "balance": -657605, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2685,11 +3454,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 897605, 
-        "out_travel": 8138
+        "out_travel": 8138, 
+        "title": "councilors"
     }, 
     {
         "balance": -100521, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 12200, 
         "in_civil": 100000, 
@@ -2709,11 +3480,13 @@
         "out_rally": 0, 
         "out_return": 36000, 
         "out_total": 2142466, 
-        "out_travel": 70218
+        "out_travel": 70218, 
+        "title": "councilors"
     }, 
     {
         "balance": -929183, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 21036, 
         "in_civil": 112000, 
@@ -2733,11 +3506,13 @@
         "out_rally": 115900, 
         "out_return": 0, 
         "out_total": 3784391, 
-        "out_travel": 114969
+        "out_travel": 114969, 
+        "title": "councilors"
     }, 
     {
         "balance": -121393, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 57700, 
         "in_civil": 0, 
@@ -2757,11 +3532,13 @@
         "out_rally": 13245, 
         "out_return": 0, 
         "out_total": 1141640, 
-        "out_travel": 18033
+        "out_travel": 18033, 
+        "title": "councilors"
     }, 
     {
         "balance": -721838, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2781,11 +3558,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 1321838, 
-        "out_travel": 24840
+        "out_travel": 24840, 
+        "title": "councilors"
     }, 
     {
         "balance": -1641527, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 23000, 
         "in_civil": 112000, 
@@ -2805,11 +3584,13 @@
         "out_rally": 0, 
         "out_return": 6000, 
         "out_total": 5444291, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -36132, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2829,11 +3610,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 486132, 
-        "out_travel": 5472
+        "out_travel": 5472, 
+        "title": "councilors"
     }, 
     {
         "balance": -101615, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 255400, 
         "in_civil": 0, 
@@ -2853,11 +3636,13 @@
         "out_rally": 453369, 
         "out_return": 0, 
         "out_total": 1399515, 
-        "out_travel": 31209
+        "out_travel": 31209, 
+        "title": "councilors"
     }, 
     {
         "balance": -2516091, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 2000, 
         "in_civil": 30000, 
@@ -2877,11 +3662,13 @@
         "out_rally": 488640, 
         "out_return": 100000, 
         "out_total": 5846746, 
-        "out_travel": 67104
+        "out_travel": 67104, 
+        "title": "councilors"
     }, 
     {
         "balance": -23393, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2901,11 +3688,13 @@
         "out_rally": 0, 
         "out_return": 36980, 
         "out_total": 60373, 
-        "out_travel": 846
+        "out_travel": 846, 
+        "title": "councilors"
     }, 
     {
         "balance": -883883, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2925,11 +3714,13 @@
         "out_rally": 167287, 
         "out_return": 0, 
         "out_total": 2152969, 
-        "out_travel": 92019
+        "out_travel": 92019, 
+        "title": "councilors"
     }, 
     {
         "balance": -2564229, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 7000, 
         "in_civil": 103600, 
@@ -2949,11 +3740,13 @@
         "out_rally": 38225, 
         "out_return": 0, 
         "out_total": 3989870, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -163970, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2973,11 +3766,13 @@
         "out_rally": 100000, 
         "out_return": 0, 
         "out_total": 3291692, 
-        "out_travel": 72921
+        "out_travel": 72921, 
+        "title": "councilors"
     }, 
     {
         "balance": -583643, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -2997,11 +3792,13 @@
         "out_rally": 186000, 
         "out_return": 0, 
         "out_total": 6117666, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -3359004, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3021,11 +3818,13 @@
         "out_rally": 605743, 
         "out_return": 200000, 
         "out_total": 6979004, 
-        "out_travel": 18250
+        "out_travel": 18250, 
+        "title": "councilors"
     }, 
     {
         "balance": -339462, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 2000, 
@@ -3045,11 +3844,13 @@
         "out_rally": 803051, 
         "out_return": 35000, 
         "out_total": 6981555, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -754560, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 4500, 
         "in_civil": 0, 
@@ -3069,11 +3870,13 @@
         "out_rally": 375200, 
         "out_return": 0, 
         "out_total": 2767660, 
-        "out_travel": 44678
+        "out_travel": 44678, 
+        "title": "councilors"
     }, 
     {
         "balance": -6431594, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 1000, 
         "in_civil": 0, 
@@ -3093,11 +3896,13 @@
         "out_rally": 8000, 
         "out_return": 300000, 
         "out_total": 7763494, 
-        "out_travel": 84707
+        "out_travel": 84707, 
+        "title": "councilors"
     }, 
     {
         "balance": -26952, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3117,11 +3922,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 691952, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 458083, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 27000, 
         "in_civil": 0, 
@@ -3141,11 +3948,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 3050917, 
-        "out_travel": 23100
+        "out_travel": 23100, 
+        "title": "councilors"
     }, 
     {
         "balance": -695373, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 5000, 
         "in_civil": 0, 
@@ -3165,11 +3974,13 @@
         "out_rally": 166950, 
         "out_return": 2000, 
         "out_total": 944753, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -1240798, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3189,11 +4000,13 @@
         "out_rally": 313525, 
         "out_return": 130000, 
         "out_total": 5018798, 
-        "out_travel": 270
+        "out_travel": 270, 
+        "title": "councilors"
     }, 
     {
         "balance": -66759, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3213,11 +4026,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 2463690, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -1107967, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 10000, 
         "in_civil": 30000, 
@@ -3237,11 +4052,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 3251609, 
-        "out_travel": 67557
+        "out_travel": 67557, 
+        "title": "councilors"
     }, 
     {
         "balance": -2052514, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 11500, 
@@ -3261,11 +4078,13 @@
         "out_rally": 14430, 
         "out_return": 0, 
         "out_total": 2972252, 
-        "out_travel": 74111
+        "out_travel": 74111, 
+        "title": "councilors"
     }, 
     {
         "balance": -128786, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3285,11 +4104,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 340786, 
-        "out_travel": 54900
+        "out_travel": 54900, 
+        "title": "councilors"
     }, 
     {
         "balance": -26080, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3309,11 +4130,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 200000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -597572, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 65000, 
@@ -3333,11 +4156,13 @@
         "out_rally": 150020, 
         "out_return": 360000, 
         "out_total": 3587472, 
-        "out_travel": 64818
+        "out_travel": 64818, 
+        "title": "councilors"
     }, 
     {
         "balance": -3072114, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 33000, 
         "in_civil": 2000, 
@@ -3357,11 +4182,13 @@
         "out_rally": 222310, 
         "out_return": 60000, 
         "out_total": 5376589, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 1181074, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 2000, 
         "in_civil": 0, 
@@ -3381,11 +4208,13 @@
         "out_rally": 7500, 
         "out_return": 600000, 
         "out_total": 4883994, 
-        "out_travel": 39113
+        "out_travel": 39113, 
+        "title": "councilors"
     }, 
     {
         "balance": -1380768, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 8173, 
         "in_civil": 0, 
@@ -3405,11 +4234,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 3120741, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -80753, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3429,11 +4260,13 @@
         "out_rally": 63000, 
         "out_return": 35000, 
         "out_total": 2848655, 
-        "out_travel": 141162
+        "out_travel": 141162, 
+        "title": "councilors"
     }, 
     {
         "balance": -200000, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3453,11 +4286,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 289300, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -1762555, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 137200, 
@@ -3477,11 +4312,13 @@
         "out_rally": 823460, 
         "out_return": 390000, 
         "out_total": 11620755, 
-        "out_travel": 73582
+        "out_travel": 73582, 
+        "title": "councilors"
     }, 
     {
         "balance": -85609, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 9168, 
         "in_civil": 10000, 
@@ -3501,11 +4338,13 @@
         "out_rally": 94810, 
         "out_return": 300000, 
         "out_total": 4195500, 
-        "out_travel": 258486
+        "out_travel": 258486, 
+        "title": "councilors"
     }, 
     {
         "balance": -35418, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 13000, 
         "in_civil": 0, 
@@ -3525,11 +4364,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 286218, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -201974, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3549,11 +4390,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 201974, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -326178, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3573,11 +4416,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 2433178, 
-        "out_travel": 7617
+        "out_travel": 7617, 
+        "title": "councilors"
     }, 
     {
         "balance": -2754286, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 200000, 
@@ -3597,11 +4442,13 @@
         "out_rally": 62000, 
         "out_return": 200000, 
         "out_total": 6747198, 
-        "out_travel": 103285
+        "out_travel": 103285, 
+        "title": "councilors"
     }, 
     {
         "balance": -60, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3621,11 +4468,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 12060, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3645,11 +4494,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -1308901, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 10025, 
         "in_civil": 50000, 
@@ -3669,11 +4520,13 @@
         "out_rally": 61961, 
         "out_return": 1715000, 
         "out_total": 11878131, 
-        "out_travel": 19160
+        "out_travel": 19160, 
+        "title": "councilors"
     }, 
     {
         "balance": -1515877, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 210000, 
@@ -3693,11 +4546,13 @@
         "out_rally": 556810, 
         "out_return": 600000, 
         "out_total": 4625877, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -6064779, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 10000, 
@@ -3717,11 +4572,13 @@
         "out_rally": 52000, 
         "out_return": 0, 
         "out_total": 8728879, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -476272, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 1000, 
         "in_civil": 0, 
@@ -3741,11 +4598,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 835300, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -54035, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3765,11 +4624,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 1067635, 
-        "out_travel": 1215
+        "out_travel": 1215, 
+        "title": "councilors"
     }, 
     {
         "balance": -917345, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 13940, 
         "in_civil": 0, 
@@ -3789,11 +4650,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 1487085, 
-        "out_travel": 42257
+        "out_travel": 42257, 
+        "title": "councilors"
     }, 
     {
         "balance": -1456798, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 4100, 
         "in_civil": 3800, 
@@ -3813,11 +4676,13 @@
         "out_rally": 130000, 
         "out_return": 0, 
         "out_total": 2991172, 
-        "out_travel": 58396
+        "out_travel": 58396, 
+        "title": "councilors"
     }, 
     {
         "balance": -4640688, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 5200, 
         "in_civil": 0, 
@@ -3837,11 +4702,13 @@
         "out_rally": 421541, 
         "out_return": 0, 
         "out_total": 6322572, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 858679, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 4100, 
         "in_civil": 160000, 
@@ -3861,11 +4728,13 @@
         "out_rally": 632865, 
         "out_return": 0, 
         "out_total": 7455647, 
-        "out_travel": 194412
+        "out_travel": 194412, 
+        "title": "councilors"
     }, 
     {
         "balance": -2202490, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 18000, 
@@ -3885,11 +4754,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 2581490, 
-        "out_travel": 320
+        "out_travel": 320, 
+        "title": "councilors"
     }, 
     {
         "balance": -86971, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 36100, 
         "in_civil": 16000, 
@@ -3909,11 +4780,13 @@
         "out_rally": 0, 
         "out_return": 568000, 
         "out_total": 1364101, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -822734, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 3000, 
         "in_civil": 0, 
@@ -3933,11 +4806,13 @@
         "out_rally": 19800, 
         "out_return": 0, 
         "out_total": 1092757, 
-        "out_travel": 8563
+        "out_travel": 8563, 
+        "title": "councilors"
     }, 
     {
         "balance": -110142, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3957,11 +4832,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 2294242, 
-        "out_travel": 113499
+        "out_travel": 113499, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -3981,11 +4858,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 1834860, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 500, 
         "in_civil": 13000, 
@@ -4005,11 +4884,13 @@
         "out_rally": 59030, 
         "out_return": 350000, 
         "out_total": 5711440, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -43624, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 30000, 
@@ -4029,11 +4910,13 @@
         "out_rally": 72500, 
         "out_return": 0, 
         "out_total": 1013624, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4053,11 +4936,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 102000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -279531, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 6889, 
         "in_civil": 186000, 
@@ -4077,11 +4962,13 @@
         "out_rally": 68500, 
         "out_return": 0, 
         "out_total": 4376986, 
-        "out_travel": 62979
+        "out_travel": 62979, 
+        "title": "councilors"
     }, 
     {
         "balance": -624909, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4101,11 +4988,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 746509, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -771795, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 500, 
@@ -4125,11 +5014,13 @@
         "out_rally": 33299, 
         "out_return": 0, 
         "out_total": 2222695, 
-        "out_travel": 119937
+        "out_travel": 119937, 
+        "title": "councilors"
     }, 
     {
         "balance": -3367033, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4149,11 +5040,13 @@
         "out_rally": 36503, 
         "out_return": 100000, 
         "out_total": 7807921, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -2572879, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4173,11 +5066,13 @@
         "out_rally": 733480, 
         "out_return": 606000, 
         "out_total": 7171179, 
-        "out_travel": 119168
+        "out_travel": 119168, 
+        "title": "councilors"
     }, 
     {
         "balance": -575932, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 87780, 
         "in_civil": 0, 
@@ -4197,11 +5092,13 @@
         "out_rally": 89970, 
         "out_return": 0, 
         "out_total": 2970787, 
-        "out_travel": 62441
+        "out_travel": 62441, 
+        "title": "councilors"
     }, 
     {
         "balance": -4984044, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4221,11 +5118,13 @@
         "out_rally": 214900, 
         "out_return": 0, 
         "out_total": 6177494, 
-        "out_travel": 20004
+        "out_travel": 20004, 
+        "title": "councilors"
     }, 
     {
         "balance": -367565, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 28000, 
         "in_civil": 0, 
@@ -4245,11 +5144,13 @@
         "out_rally": 188656, 
         "out_return": 0, 
         "out_total": 6518646, 
-        "out_travel": 10048
+        "out_travel": 10048, 
+        "title": "councilors"
     }, 
     {
         "balance": -1820678, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 332000, 
@@ -4269,11 +5170,13 @@
         "out_rally": 11775, 
         "out_return": 0, 
         "out_total": 6263578, 
-        "out_travel": 118574
+        "out_travel": 118574, 
+        "title": "councilors"
     }, 
     {
         "balance": -195, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4293,11 +5196,13 @@
         "out_rally": 231900, 
         "out_return": 0, 
         "out_total": 2542459, 
-        "out_travel": 17776
+        "out_travel": 17776, 
+        "title": "councilors"
     }, 
     {
         "balance": 3275603, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 35720, 
         "in_civil": 0, 
@@ -4317,11 +5222,13 @@
         "out_rally": 75720, 
         "out_return": 0, 
         "out_total": 6611885, 
-        "out_travel": 276548
+        "out_travel": 276548, 
+        "title": "councilors"
     }, 
     {
         "balance": -645639, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4341,11 +5248,13 @@
         "out_rally": 31125, 
         "out_return": 1161600, 
         "out_total": 8696091, 
-        "out_travel": 169873
+        "out_travel": 169873, 
+        "title": "councilors"
     }, 
     {
         "balance": -841578, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4365,11 +5274,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 936578, 
-        "out_travel": 83428
+        "out_travel": 83428, 
+        "title": "councilors"
     }, 
     {
         "balance": 4089975, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 100000, 
@@ -4389,11 +5300,13 @@
         "out_rally": 41600, 
         "out_return": 2510000, 
         "out_total": 13871000, 
-        "out_travel": 17268
+        "out_travel": 17268, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4413,11 +5326,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -888659, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 7500, 
         "in_civil": 0, 
@@ -4437,11 +5352,13 @@
         "out_rally": 9550, 
         "out_return": 491000, 
         "out_total": 8904759, 
-        "out_travel": 19000
+        "out_travel": 19000, 
+        "title": "councilors"
     }, 
     {
         "balance": -159168, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4461,11 +5378,13 @@
         "out_rally": 41810, 
         "out_return": 0, 
         "out_total": 4077963, 
-        "out_travel": 96826
+        "out_travel": 96826, 
+        "title": "councilors"
     }, 
     {
         "balance": -394283, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 16600, 
         "in_civil": 0, 
@@ -4485,11 +5404,13 @@
         "out_rally": 225288, 
         "out_return": 0, 
         "out_total": 764883, 
-        "out_travel": 33314
+        "out_travel": 33314, 
+        "title": "councilors"
     }, 
     {
         "balance": -1324037, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 12000, 
         "in_civil": 0, 
@@ -4509,11 +5430,13 @@
         "out_rally": 77175, 
         "out_return": 160000, 
         "out_total": 4186637, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -3, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 1000, 
         "in_civil": 0, 
@@ -4533,11 +5456,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 17603, 
-        "out_travel": 4299
+        "out_travel": 4299, 
+        "title": "councilors"
     }, 
     {
         "balance": -200000, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4557,11 +5482,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 200000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -2399364, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 1000, 
         "in_civil": 5000, 
@@ -4581,11 +5508,13 @@
         "out_rally": 54720, 
         "out_return": 0, 
         "out_total": 4871159, 
-        "out_travel": 690
+        "out_travel": 690, 
+        "title": "councilors"
     }, 
     {
         "balance": -4267804, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 500, 
         "in_civil": 0, 
@@ -4605,11 +5534,13 @@
         "out_rally": 862395, 
         "out_return": 0, 
         "out_total": 8973904, 
-        "out_travel": 15250
+        "out_travel": 15250, 
+        "title": "councilors"
     }, 
     {
         "balance": -3481483, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4629,11 +5560,13 @@
         "out_rally": 786965, 
         "out_return": 20000, 
         "out_total": 9508557, 
-        "out_travel": 11072
+        "out_travel": 11072, 
+        "title": "councilors"
     }, 
     {
         "balance": -94082, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4653,11 +5586,13 @@
         "out_rally": 0, 
         "out_return": 324000, 
         "out_total": 880082, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -878616, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 5000, 
         "in_civil": 15000, 
@@ -4677,11 +5612,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 2912116, 
-        "out_travel": 127080
+        "out_travel": 127080, 
+        "title": "councilors"
     }, 
     {
         "balance": -327359, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 49025, 
         "in_civil": 48000, 
@@ -4701,11 +5638,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 7126128, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -1700246, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4725,11 +5664,13 @@
         "out_rally": 28200, 
         "out_return": 60000, 
         "out_total": 3700246, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -686062, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 18000, 
         "in_civil": 0, 
@@ -4749,11 +5690,13 @@
         "out_rally": 232000, 
         "out_return": 0, 
         "out_total": 914062, 
-        "out_travel": 9026
+        "out_travel": 9026, 
+        "title": "councilors"
     }, 
     {
         "balance": -121624, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4773,11 +5716,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 415624, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -247360, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4797,11 +5742,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 259360, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -132098, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 15300, 
         "in_civil": 10000, 
@@ -4821,11 +5768,13 @@
         "out_rally": 162500, 
         "out_return": 50000, 
         "out_total": 5513759, 
-        "out_travel": 83686
+        "out_travel": 83686, 
+        "title": "councilors"
     }, 
     {
         "balance": -4298482, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 20000, 
@@ -4845,11 +5794,13 @@
         "out_rally": 0, 
         "out_return": 200000, 
         "out_total": 6422620, 
-        "out_travel": 775184
+        "out_travel": 775184, 
+        "title": "councilors"
     }, 
     {
         "balance": -1507517, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4869,11 +5820,13 @@
         "out_rally": 14000, 
         "out_return": 0, 
         "out_total": 1510517, 
-        "out_travel": 4268
+        "out_travel": 4268, 
+        "title": "councilors"
     }, 
     {
         "balance": -3639, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 30000, 
@@ -4893,11 +5846,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 2530654, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4917,11 +5872,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -865386, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -4941,11 +5898,13 @@
         "out_rally": 1800, 
         "out_return": 80000, 
         "out_total": 3236386, 
-        "out_travel": 30663
+        "out_travel": 30663, 
+        "title": "councilors"
     }, 
     {
         "balance": -212090, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 29774, 
         "in_civil": 0, 
@@ -4965,11 +5924,13 @@
         "out_rally": 9310, 
         "out_return": 400000, 
         "out_total": 1423864, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -116453, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 10825, 
         "in_civil": 0, 
@@ -4989,11 +5950,13 @@
         "out_rally": 5000, 
         "out_return": 0, 
         "out_total": 228321, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -1345908, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 3200, 
         "in_civil": 2000, 
@@ -5013,11 +5976,13 @@
         "out_rally": 340160, 
         "out_return": 0, 
         "out_total": 1476358, 
-        "out_travel": 112500
+        "out_travel": 112500, 
+        "title": "councilors"
     }, 
     {
         "balance": -1306, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5037,11 +6002,13 @@
         "out_rally": 287150, 
         "out_return": 0, 
         "out_total": 4079706, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -661696, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 8600, 
         "in_civil": 0, 
@@ -5061,11 +6028,13 @@
         "out_rally": 127043, 
         "out_return": 0, 
         "out_total": 3505796, 
-        "out_travel": 6000
+        "out_travel": 6000, 
+        "title": "councilors"
     }, 
     {
         "balance": 19551, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 87900, 
         "in_civil": 17000, 
@@ -5085,11 +6054,13 @@
         "out_rally": 35350, 
         "out_return": 3000, 
         "out_total": 2558955, 
-        "out_travel": 45671
+        "out_travel": 45671, 
+        "title": "councilors"
     }, 
     {
         "balance": -147376, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 40000, 
         "in_civil": 0, 
@@ -5109,11 +6080,13 @@
         "out_rally": 370090, 
         "out_return": 300000, 
         "out_total": 2886676, 
-        "out_travel": 48590
+        "out_travel": 48590, 
+        "title": "councilors"
     }, 
     {
         "balance": -574395, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 32000, 
@@ -5133,11 +6106,13 @@
         "out_rally": 105059, 
         "out_return": 0, 
         "out_total": 1430395, 
-        "out_travel": 10319
+        "out_travel": 10319, 
+        "title": "councilors"
     }, 
     {
         "balance": -6577174, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5157,11 +6132,13 @@
         "out_rally": 966877, 
         "out_return": 0, 
         "out_total": 6927179, 
-        "out_travel": 55521
+        "out_travel": 55521, 
+        "title": "councilors"
     }, 
     {
         "balance": -186, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5181,11 +6158,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 422686, 
-        "out_travel": 10675
+        "out_travel": 10675, 
+        "title": "councilors"
     }, 
     {
         "balance": -2575978, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 12000, 
@@ -5205,11 +6184,13 @@
         "out_rally": 236092, 
         "out_return": 420000, 
         "out_total": 6925478, 
-        "out_travel": 72393
+        "out_travel": 72393, 
+        "title": "councilors"
     }, 
     {
         "balance": -2370032, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 69300, 
         "in_civil": 93800, 
@@ -5229,11 +6210,13 @@
         "out_rally": 47030, 
         "out_return": 0, 
         "out_total": 4390732, 
-        "out_travel": 45178
+        "out_travel": 45178, 
+        "title": "councilors"
     }, 
     {
         "balance": 66164, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 36164, 
         "in_civil": 0, 
@@ -5253,11 +6236,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 1728000, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -69932, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 8000, 
         "in_civil": 120000, 
@@ -5277,11 +6262,13 @@
         "out_rally": 0, 
         "out_return": 1032000, 
         "out_total": 8832432, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -700, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5301,11 +6288,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 26700, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -320431, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 13000, 
@@ -5325,11 +6314,13 @@
         "out_rally": 18000, 
         "out_return": 0, 
         "out_total": 1763886, 
-        "out_travel": 7942
+        "out_travel": 7942, 
+        "title": "councilors"
     }, 
     {
         "balance": -804795, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5349,11 +6340,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 2114795, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -1999, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5373,11 +6366,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 12000, 
-        "out_travel": 12000
+        "out_travel": 12000, 
+        "title": "councilors"
     }, 
     {
         "balance": -5759668, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5397,11 +6392,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 6916143, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -260324, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 200, 
         "in_civil": 0, 
@@ -5421,11 +6418,13 @@
         "out_rally": 10600, 
         "out_return": 0, 
         "out_total": 465524, 
-        "out_travel": 50021
+        "out_travel": 50021, 
+        "title": "councilors"
     }, 
     {
         "balance": -1143940, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 270, 
         "in_civil": 0, 
@@ -5445,11 +6444,13 @@
         "out_rally": 13600, 
         "out_return": 0, 
         "out_total": 1157210, 
-        "out_travel": 42931
+        "out_travel": 42931, 
+        "title": "councilors"
     }, 
     {
         "balance": -150374, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 6168, 
         "in_civil": 1000, 
@@ -5469,11 +6470,13 @@
         "out_rally": 58600, 
         "out_return": 0, 
         "out_total": 5774430, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -837782, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 24000, 
         "in_civil": 0, 
@@ -5493,11 +6496,13 @@
         "out_rally": 138750, 
         "out_return": 0, 
         "out_total": 2519841, 
-        "out_travel": 5557
+        "out_travel": 5557, 
+        "title": "councilors"
     }, 
     {
         "balance": -1467899, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5517,11 +6522,13 @@
         "out_rally": 784420, 
         "out_return": 120000, 
         "out_total": 9794699, 
-        "out_travel": 97193
+        "out_travel": 97193, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5541,11 +6548,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -810880, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 100000, 
@@ -5565,11 +6574,13 @@
         "out_rally": 89713, 
         "out_return": 102000, 
         "out_total": 4343371, 
-        "out_travel": 222402
+        "out_travel": 222402, 
+        "title": "councilors"
     }, 
     {
         "balance": -2225651, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 29000, 
         "in_civil": 0, 
@@ -5589,11 +6600,13 @@
         "out_rally": 239876, 
         "out_return": 1000000, 
         "out_total": 8117051, 
-        "out_travel": 214467
+        "out_travel": 214467, 
+        "title": "councilors"
     }, 
     {
         "balance": -223738, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5613,11 +6626,13 @@
         "out_rally": 1360188, 
         "out_return": 0, 
         "out_total": 4897559, 
-        "out_travel": 15289
+        "out_travel": 15289, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5637,11 +6652,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -69609, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 5000, 
@@ -5661,11 +6678,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 1528609, 
-        "out_travel": 5724
+        "out_travel": 5724, 
+        "title": "councilors"
     }, 
     {
         "balance": -322090, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5685,11 +6704,13 @@
         "out_rally": 151175, 
         "out_return": 0, 
         "out_total": 791090, 
-        "out_travel": 5690
+        "out_travel": 5690, 
+        "title": "councilors"
     }, 
     {
         "balance": -2344246, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 550, 
         "in_civil": 0, 
@@ -5709,11 +6730,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 2844817, 
-        "out_travel": 51245
+        "out_travel": 51245, 
+        "title": "councilors"
     }, 
     {
         "balance": -74323, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 2000, 
         "in_civil": 20000, 
@@ -5733,11 +6756,13 @@
         "out_rally": 100000, 
         "out_return": 100000, 
         "out_total": 5299880, 
-        "out_travel": 21100
+        "out_travel": 21100, 
+        "title": "councilors"
     }, 
     {
         "balance": -74826, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 77100, 
         "in_civil": 10000, 
@@ -5757,11 +6782,13 @@
         "out_rally": 119395, 
         "out_return": 0, 
         "out_total": 2487413, 
-        "out_travel": 2000
+        "out_travel": 2000, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5781,11 +6808,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -4339, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 1000, 
         "in_civil": 0, 
@@ -5805,11 +6834,13 @@
         "out_rally": 4000, 
         "out_return": 0, 
         "out_total": 504339, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -185880, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5829,11 +6860,13 @@
         "out_rally": 297000, 
         "out_return": 0, 
         "out_total": 985881, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": 0, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5853,11 +6886,13 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 0, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -167535, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 0, 
         "in_civil": 0, 
@@ -5877,11 +6912,13 @@
         "out_rally": 25000, 
         "out_return": 0, 
         "out_total": 1510609, 
-        "out_travel": 18775
+        "out_travel": 18775, 
+        "title": "councilors"
     }, 
     {
         "balance": -778016, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 10500, 
         "in_civil": 0, 
@@ -5901,11 +6938,13 @@
         "out_rally": 206200, 
         "out_return": 0, 
         "out_total": 5798516, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }, 
     {
         "balance": -287190, 
         "county": "新北市", 
+        "election_name": "新北市議員選舉", 
         "election_year": "2010", 
         "in_anonymous": 18000, 
         "in_civil": 0, 
@@ -5925,6 +6964,7 @@
         "out_rally": 0, 
         "out_return": 0, 
         "out_total": 365190, 
-        "out_travel": 0
+        "out_travel": 0, 
+        "title": "councilors"
     }
 ]
